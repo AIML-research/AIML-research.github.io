@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Artificial Intelligence and Machine Learning Group at Freie Universität Berlin."
 sitemap: false
 permalink: /allnews.html
 ---
