@@ -75,6 +75,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+## Secretary
+
+**Susanne Schöttker-Söhl** <br>
+![image](/images/teampic/Susanne.jpg)
+Projektassistenz und Sekretariat <br>
+s.schoettker-soehl@fu-berlin.de <br>
 
 
 
@@ -191,10 +197,3 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 </div>
 
-
-## Secretary
-
-**Susanne Schöttker-Söhl** <br>
-Projektassistenz und Sekretariat <br>
-s.schoettker-soehl@fu-berlin.de <br>
-![image](Susanne.jpg)
