@@ -1,7 +1,7 @@
-#- name: Nabil Alsabah
-#  photo: Nabil.jpg
-#  duration: 
-#  info: Lecturer
-#  email: nalsabah@zedat.fu-berlin.de
-#  number_educ: 1
-#  education1: Lecturer
+- name: Nabil Alsabah
+  photo: Nabil.jpg
+  duration: 
+  info: Lecturer
+  email: nalsabah@zedat.fu-berlin.de
+  number_educ: 1
+  education1: Lecturer
