@@ -72,7 +72,8 @@
   image: 
   description: We propose "FairNN" a neural network that performs joint feature representation and classification for fairness-aware learning. Our approach optimizes a multi-objective loss function which (a) learns a fair representation by suppressing protected attributes (b) maintains the information content by minimizing the reconstruction loss and (c) allows for solving a classification task in a fair manner by minimizing the classification error and respecting the equalized odds-based fairness regularizer.
   authors: Tongxin Hu, Vasileios Iosifidis, Wentong Liao, Hang Zhang, Michael Ying Yang, Eirini Ntoutsi, Bodo Rosenhahn
-    url: link.springer.com/chapter/10.1007/978-3-030-61527-7_38
+  link:
+    url: http://link.springer.com/chapter/10.1007/978-3-030-61527-7_38
     display: International Conference on Discovery Science (DS 2020)
   highlight: 0
   news2:  
@@ -81,6 +82,7 @@
   image: Vasilis2020.png
   description: We propose FABBOO, an online fairness-aware approach that maintains a valid and fair classifier over a stream. FABBOO is an online boosting approach that changes the training distribution in an online Fashion based on both stream imbalance and discriminatory behavior of the model evaluated over the historical stream. Our experiments show that such long-termin consideration of class-imbalance and fairness are beneficial for maintaining models that exhibit good predictive- and fairness-related performance.
   authors: Vasileios Iosifidis, Eirini Ntoutsi
+  link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-61527-7_11
     display: International Conference on Discovery Science (DS 2020)
   highlight: 1
@@ -90,6 +92,7 @@
   image: Amir2020.png
   description: We propose the Drift-Aware Multi-Memory Model (DAM3), which addresses the class imbalance problem in online learning for memory-based models, namely KNNs. DAM3 mitigates class imbalance by incorporating an imbalance-sensitive drift detector, preserving a balanced representation of classes in the model, and resolving retroactive interference using a working memory that prevents the forgetting of old information. We show through experiments on real-world and synthetic datasets that the proposed method mitigates class imbalance and outperforms the state-of-the-art methods.
   authors: Amir Abolfazli, Eirini Ntoutsi
+  link:
     url: https://ieeexplore.ieee.org/document/9378101
     display:  IEEE International Conference on Big Data (Big Data 2020)
   highlight: 1
