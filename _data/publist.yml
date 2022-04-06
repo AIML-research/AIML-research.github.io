@@ -25,6 +25,15 @@
   link:
     url: https://www.springerprofessional.de/en/interpretable-visual-understanding-with-cognitive-attention-netw/19654306
     display:  Proceedings of the 30th International Conference on Artificial Neural Networks (2021)
-  highlight: 1
+  highlight: 0
   news2: 
 
+- title: "XPROAX-Local explanations for text classification with progressive neighborhood approximation"
+  image: 
+  description: The importance of the neighborhood for training a local surrogate model to approximate the local decision boundary of a black box classifier has been already highlighted in the literature. Several attempts have been made to construct a better neighborhood for high dimensional data, like texts, by using generative autoencoders. However, existing approaches mainly generate neighbors by selecting purely at random from the latent space and struggle under the curse of dimensionality to learn a good local decision boundary.
+  authors: Yi Cai, Arthur Zimek, Eirini Ntoutsi
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9564153
+    display:  Proceedings of the 8th IEEE International Conference on Data Science and Advanced Analytics (DSAA) (2021)
+  highlight: 1
+  news2: 
