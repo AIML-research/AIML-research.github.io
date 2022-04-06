@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Artificial Intelligence and Machine Learning Group - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "AIML group: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -193,4 +193,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+
