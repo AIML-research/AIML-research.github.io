@@ -25,7 +25,7 @@
   link:
     url: https://www.springerprofessional.de/en/interpretable-visual-understanding-with-cognitive-attention-netw/19654306
     display:  Proceedings of the 30th International Conference on Artificial Neural Networks (2021)
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "XPROAX-Local explanations for text classification with progressive neighborhood approximation"
@@ -57,3 +57,40 @@
     display:  Proceedings of the "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD)", 2021, pp 682-698.
   highlight: 1
   news2: 
+  
+- title: "Web Futures: Inclusive, Intelligent, Sustainable - The 2020 Manifesto for Web Science"
+  image: 
+  description: We revisited the origins of Web Science, explored that challenges and opportunities of the Web, and looked ahead to potential futures for both the Web and Web Science. We explain issues that society faces in the Web by the ambivalences that are inherent in the Web. All the enormous benefits that the Web offers - for Information sharing, collective organization and distributed activity, social inclusion and economic growth - will always carry along negative consequences, too, and 30 years after ist creation negative consequnces of the Web are only too apparent.
+  authors: Bettina Berendt, Fabien Gandon, Susan Halford, Wendy Hall, Jim Hendler, Katharina E. Kinder-Kurlanda, Eirini Ntoutsi, Steffen Staab
+  link:
+    url: https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Ressourcen/dagman-v009-i001-p001-18262.pdf
+    display:  Manifesto from Dagstuhl Perspectives Workshop 18262 
+  highlight: 0
+  news2:   
+  
+- title: "Drift-Aware Multi-Memory Model for Imbalanced Data Streams"
+  image: Amir2020.png
+  description: We propose the Drift-Aware Multi-Memory Model (DAM3), which addresses the class imbalance problem in online learning for memory-based models, namely KNNs. DAM3 mitigates class imbalance by incorporating an imbalance-sensitive drift detector, preserving a balanced representation of classes in the model, and resolving retroactive interference using a working memory that prevents the forgetting of old information. We show through experiments on real-world and synthetic datasets that the proposed method mitigates class imbalance and outperforms the state-of-the-art methods.
+  authors: Amir Abolfazli, Eirini Ntoutsi
+    url: https://ieeexplore.ieee.org/document/9378101
+    display:  IEEE International Conference on Big Data (Big Data 2020)
+  highlight: 1
+  news2:   
+
+- title: "FairNN - Conjoint Learning of Fair Representations for Fair Decisions"
+  image: 
+  description: We propose "FairNN" a neural network that performs joint feature representation and classification for fairness-aware learning. Our approach optimizes a multi-objective loss function which (a) learns a fair representation by suppressing protected attributes (b) maintains the information content by minimizing the reconstruction loss and (c) allows for solving a classification task in a fair manner by minimizing the classification error and respecting the equalized odds-based fairness regularizer.
+  authors: Tongxin Hu, Vasileios Iosifidis, Wentong Liao, Hang Zhang, Michael Ying Yang, Eirini Ntoutsi, Bodo Rosenhahn
+    url: https://link.springer.com/chapter/10.1007%2F978-3-030-61527-7_38
+    display: International Conference on Discovery Science , DS 2020
+  highlight: 0
+  news2:  
+  
+- title: "FABBOO - Online Fairness-aware Learning under Class Imbalance"
+  image: Vasilis2020.png
+  description: We propose FABBOO, an online fairness-aware approach that maintains a valid and fair classifier over a stream. FABBOO is an online boosting approach that changes the training distribution in an online Fashion based on both stream imbalance and discriminatory behavior of the model evaluated over the historical stream. Our experiments show that such long-termin consideration of class-imbalance and fairness are beneficial for maintaining models that exhibit good predictive- and fairness-related performance.
+  authors: Vasileios Iosifidis, Eirini Ntoutsi
+    url: https://link.springer.com/chapter/10.1007%2F978-3-030-61527-7_11
+    display: International Conference on Discovery Science , DS 2020
+  highlight: 1
+  news2:   
