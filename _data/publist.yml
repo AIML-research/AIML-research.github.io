@@ -67,11 +67,12 @@
     display:  Manifesto from Dagstuhl Perspectives Workshop 18262 
   highlight: 0
   news2:     
+  
 - title: "FairNN - Conjoint Learning of Fair Representations for Fair Decisions"
   image: 
   description: We propose "FairNN" a neural network that performs joint feature representation and classification for fairness-aware learning. Our approach optimizes a multi-objective loss function which (a) learns a fair representation by suppressing protected attributes (b) maintains the information content by minimizing the reconstruction loss and (c) allows for solving a classification task in a fair manner by minimizing the classification error and respecting the equalized odds-based fairness regularizer.
   authors: Tongxin Hu, Vasileios Iosifidis, Wentong Liao, Hang Zhang, Michael Ying Yang, Eirini Ntoutsi, Bodo Rosenhahn
-    url: https://link.springer.com/chapter/10.1007/978-3-030-61527-7_38
+    url: link.springer.com/chapter/10.1007/978-3-030-61527-7_38
     display: International Conference on Discovery Science (DS 2020)
   highlight: 0
   news2:  
