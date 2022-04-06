@@ -20,5 +20,5 @@ Open positions will be posted in the [FU-Stellenanzeiger](https://www.fu-berlin.
 - Open student positions will be posted [here](https://www.fu-berlin.de/universitaet/beruf-karriere/jobs/stud/index.html)
 
 ## Inhaltsverzeichnis
-[1 Research Assistant (PraeDoc), 100%, ENKIS-WH-wiMi2](https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Open-Positions/ENKIS-WH2.html)
-[1 Research Assitant (PraeDoc), 100%, ENKIS-WH-wiMi1](https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Open-Positions/ENKIS-WH1.html)
+- [1 Research Assistant (PraeDoc), 100%, ENKIS-WH-wiMi2](https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Open-Positions/ENKIS-WH2.html)
+- [1 Research Assitant (PraeDoc), 100%, ENKIS-WH-wiMi1](https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Open-Positions/ENKIS-WH1.html)
