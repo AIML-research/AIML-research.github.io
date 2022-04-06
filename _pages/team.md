@@ -192,7 +192,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 
-## Administrative Support
+## Secretary
 
 **Susanne Schöttker-Söhl**
 Projektassistenz und Sekretariat
