@@ -9,12 +9,12 @@
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
 - title: "A survey on datasets for fairness-aware machine learning"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+  image: fairdata-survey.png
+  description: in this paper, we overview real-world datasets used for fairness-aware machine learning. We focus on tabular data as the most common data representation for fairness-aware machine learning. We start our analysis by identifying relationships between the different attributes, particularly w.r.t. protected attributes and class attribute, using a Bayesian network. For a deeper understanding of bias in the datasets, we investigate the interesting relationships using exploratory analysis.
+  authors: Tai Le Quy, Arjun Roy, Vasileios Iosifidis, Wenbin Zhang, Eirini Ntoutsi
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
+    url: https://doi.org/10.1002/widm.1452
+    display:  Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2022
   highlight: 0
   news2:
 
