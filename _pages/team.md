@@ -194,3 +194,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Administrative Support
 
+**Susanne Schöttker-Söhl**
+Projektassistenz und Sekretariat
+s.schoettker-soehl@fu-berlin.de
