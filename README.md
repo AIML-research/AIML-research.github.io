@@ -1,3 +1,1 @@
-Prof. Ntoutsi AIML-research group
-
-This is the website of our research group at Freie Universität Berlin
+Welcome to the AIML-research group @ Freie Universität Berlin
