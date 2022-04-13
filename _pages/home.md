@@ -7,7 +7,7 @@ permalink: /
 ---
 
 Welcome to the Artificial Intelligence and Machine Learning (AIML) group at the [Institute of Computer Science](https://www.mi.fu-berlin.de/en/inf/index.html), [Department of Mathematics and Informatics](https://www.mi.fu-berlin.de/en/index.html) of [Freie Universität Berlin](https://www.fu-berlin.de/en/). 
-Our aim is to design intelligent algorithms that learn from data continuously following the cumulative nature of human learning, while ensuring that what has been learned is not only correct but also delivers positive social impact.
+Our aim is to design intelligent algorithms that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned also delivers positive social impact.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -57,9 +57,6 @@ We currently focus on the following directions:
 - Continuous learning over non-stationary data and data streams, that is adapting machine learning models to changing environments.
 - Responsible AI, in particular fairness-aware machine learning and explainable AI.
 - Creative AI, that is using machines to generate new data and solutions.
-
- **We are always looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fu-logo.png" style="width: 210px">
