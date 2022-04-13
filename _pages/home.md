@@ -57,6 +57,7 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
 
 
 
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fu-logo.png" style="width: 210px">
 </figure>
