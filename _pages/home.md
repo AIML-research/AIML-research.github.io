@@ -9,6 +9,11 @@ permalink: /
 Welcome to the AIML group at the [Institute of Computer Science](https://www.mi.fu-berlin.de/en/inf/index.html), [Department of Mathematics and Informatics](https://www.mi.fu-berlin.de/en/index.html) of [Freie Universität Berlin](https://www.fu-berlin.de/en/). 
 Our aim is to design intelligent algorithms that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*.
 
+We currently focus on the following directions:
+- Continuous learning over non-stationary data and data streams, that is adapting machine learning models to changing environments.
+- Responsible AI, in particular fairness-aware machine learning and explainable AI.
+- Creative AI, that is using machines to generate new data and solutions.
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -53,10 +58,6 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
 </div>
 
 
-We currently focus on the following directions:
-- Continuous learning over non-stationary data and data streams, that is adapting machine learning models to changing environments.
-- Responsible AI, in particular fairness-aware machine learning and explainable AI.
-- Creative AI, that is using machines to generate new data and solutions.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fu-logo.png" style="width: 210px">
