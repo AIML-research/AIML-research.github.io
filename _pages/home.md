@@ -60,5 +60,4 @@ We currently focus on the following directions:
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fu-logo.png" style="width: 210px">
-  
 </figure>
