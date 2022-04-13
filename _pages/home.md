@@ -27,7 +27,7 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.JPG" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.JPG" alt="KDML@LWDA 2019 in Berlin 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
