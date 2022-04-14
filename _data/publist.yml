@@ -7,10 +7,20 @@
 #    display: Science 374, 608 (2021)
 #  highlight: 1  or 0
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/),[SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered)
+- title: "A survey on datasets for fairness-aware machine learning"
+  image: fairdata-survey.png
+  description: We overview real-world datasets used for fairness-aware machine learning. We focus on tabular data as the most common data representation for fairness-aware machine learning. We start our analysis by identifying relationships between the different attributes, particularly w.r.t. protected attributes and class attribute, using a Bayesian network. For a deeper understanding of bias in the datasets, we investigate the interesting relationships using exploratory analysis.
+  authors: Tai Le Quy, Arjun Roy, Vasileios Iosifidis, Wenbin Zhang, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1002/widm.1452
+    display:  Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery, 2022
+  highlight: 1
+  news2: 
+  year: 2022
 
 - title: "Interpretable Visual Understanding with Cognitive Attention Network"
   image: Xuejiao2021.png
-  description: we propose a novel Cognitive Attention Network (CAN) for visual commonsense reasoning to achieve interpretable visual understanding. Specifically, we first introduce an image-text fusion module to fuse Information from images and text collectively. Second, a novel inference module is designed to encode commonsense among image, query and response. Extensive experiment on large-scale Visual Commonsense Reasoning (VCR) benchmark dataset demonstrate the effectiveness of our approach.
+  description: We propose a novel Cognitive Attention Network (CAN) for visual commonsense reasoning to achieve interpretable visual understanding. Specifically, we first introduce an image-text fusion module to fuse Information from images and text collectively. Second, a novel inference module is designed to encode commonsense among image, query and response. Extensive experiment on large-scale Visual Commonsense Reasoning (VCR) benchmark dataset demonstrate the effectiveness of our approach.
   authors: Xuejiao Tang, Wenbin Zhang, Yi Yu, Kea Turner, Tyler Derr, Mengyu Wang, Eirini Ntoutsi
   link:
     url: https://www.springerprofessional.de/en/interpretable-visual-understanding-with-cognitive-attention-netw/19654306
