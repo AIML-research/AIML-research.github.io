@@ -97,3 +97,23 @@
     display:  IEEE International Conference on Big Data (Big Data 2020)
   highlight: 1
   news2: 
+  
+- title: "Resource management for model learning at entity level"
+  image: 
+  description: Many current and future applications plan to provide entity-specific predictions. These range from individualized healthcare applications to user-specific purchase recommendations. In our previous stream-based work on Amazon review data, we could show that error-weighted ensembles that combine entity-centric classifiers, which are only trained on reviews of one particular product (entity), and entity-ignorant classifiers, which are trained on all reviews irrespective of the product, can improve prediction quality. This came to the cost of storing multiple entity-centric models in primary memory, many of which would never be used again as their entities would not receive future instances in the stream. To overcome this drawback and make entity-centric learning viable in these scenarios, we investigated two different methods of reducing the primary memory requirement of our entity-centric approach.
+  authors: Christian Beyer, Vishnu Unnikrishnan, Robert Brüggemann, Vincent Toulouse, Hafez Kader Omar, Eirini Ntoutsi, Myra Spiliopoulou
+  link:
+    url: https://link.springer.com/article/10.1007/s12243-020-00800-4
+    display:  Annals of Telecommunications, 75, 549–561 (2020)
+  highlight: 0
+  news2: 
+- title: "Active feature acquisition on data streams under feature drift"
+  image: 
+  description: Traditional active learning tries to identify instances for which the acquisition of the label increases model performance under budget constraints. Less research has been devoted to the task of actively acquiring feature values, whereupon both the instance and the feature must be selected intelligently and even less to a scenario where the instances arrive in a stream with feature drift. We propose an active feature acquisition strategy for data streams with feature drift, as well as an active feature acquisition evaluation framework. We also implement a baseline that chooses features randomly and compare the random approach against eight different methods in a scenario where we can acquire at most one feature at the time per instance and where all features are considered to cost the same.
+  authors: Christian Beyer, Maik Büttner, Vishnu Unnikrishnan, Miro Schleicher, Eirini Ntoutsi, Myra Spiliopoulou
+  link:
+    url: https://link.springer.com/article/10.1007/s12243-020-00775-2
+    display:  Annals of Telecommunications, 75, 597–611 (2020)
+  highlight: 0
+  news2: 
+  
