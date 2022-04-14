@@ -395,3 +395,79 @@
   news2:
   year: 2018
   
+- title: "Large Scale Sentiment Learning with Limited Labels"
+  image: 
+  description:  Our main contribution is the provision of the TSentiment15 dataset together with insights from the analysis, which includes a batch and a stream-processing of the data. In the former, all labeled and unlabeled data are available to the algorithms from the beginning, whereas in the later, they are revealed gradually based on their arrival time in the stream.
+  authors:   Vasileios Iosifidis, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1145/3097983.3098159
+    display:   Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2017)
+  highlight: 0
+  news2:
+  year: 2017
+
+- title: "Sentiment Classification over Opinionated Data Streams through Informed Model Adaptation"
+  image: 
+  description:  We propose an informative-adaptation-to-change approach where we first detect changes in the underlying data stream and then we tune the ageing factor of the ageing-based Multinomial Naive Bayes (MNB) classifier based on the detected change. Except for the up-to-date classifier our method also outputs the points of change in the stream, therefore offering more insights to the final users.
+  authors:   Vasileios Iosifidis, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1007/978-3-319-67008-9_29
+    display:   TPDL, Thessaloniki, Greece, 2017
+  highlight: 0
+  news2:
+  year: 2017
+ 
+- title: "Multi-aspect Entity-Centric Analysis of Big Social Media Archives"
+  image: 
+  description:  We propose an entity-centric approach to analyze social media archives and we define measures that allow studying how entities are reflected in social media in different time periods and under different aspects (like popularity, attitude, controversiality, and connectedness with other entities). A case study using a large Twitter archive of 4 years illustrates the insights that can be gained by such an entity-centric multi-aspect analysis.
+  authors:   Pavlos Fafalios, Vasileios Iosifidis, Kostas Stefanidis, Eirini Ntoutsi 
+  link:
+    url: https://doi.org/10.1007/978-3-319-67008-9_21
+    display:   TPDL, Thessaloniki, Greece, 2017
+  highlight: 0
+  news2:
+  year: 2017
+ 
+- title: "Social-based Collaborative Filtering"
+  image: 
+  description:  
+  authors:   Kostas Stefanidis, Eirini Ntoutsi, Haridimos Kondylakis and Yannis Velegrakis
+  link:
+    url: https://homepages.tuni.fi/konstantinos.stefanidis/docs/StefanidisNKV17.pdf
+    display:   Encyclopedia of Social Network Analysis and Mining, 2017
+  highlight: 0
+  news2:
+  year: 2017 
+ 
+- title: "Redundancies in Data and their Effect on the Evaluation of Recommendation Systems: A Case Study on the Amazon Reviews Datasets"
+  image: 
+  description:  We analyze the nature and amount of these redundancies and their impact on the evaluation of recommendation methods. While the general and obvious conclusion is that redundancies should be avoided and datasets should be carefully preprocessed, we observe more specifically that their impact depends on the complexity of the methods. With this work, we also want to raise the awareness of the importance of data quality, model understanding, and appropriate evaluation.
+  authors:   Daniel Basaran, Eirini Ntoutsi, Arthur Zimek
+  link:
+    url: https://doi.org/10.1137/1.9781611974973.44
+    display:   Proceedings of the 2017 SIAM International Conference on Data Mining (SDM), Houston, Texas, 2017
+  highlight: 0
+  news2:
+  year: 2017  
+
+- title: "The Isotopic Fingerprint: New Methods of Data Mining and Similarity Search"
+  image: 
+  description:  We propose a new method for feature selection and apply it to a sample dataset of animal bones from the reference region. This application confirms that a multivariate fingerprint is clearly superior over univariate analysis and that the impact of oxygen on the reliability of the fingerprints is not very prominent. These findings confirm that it is possible to explore cremated human material for provenance analysis
+  authors:   Markus Mauder, Eirini Ntoutsi, Peer Kröger, Hans-Peter Kriegel 
+  link:
+    url: https://doi.org/10.1007/978-3-319-41550-5_5
+    display:  Grupe G., Grigat A., McGlynn G. (eds) Across the Alps in Prehistory. Springer, Cham. pp 105–125, 2017
+  highlight: 0
+  news2:
+  year: 2017  
+
+- title: "The Isotopic Fingerprint: New Methods of Data Mining and Similarity Search"
+  image: 
+  description:  We propose a new method for feature selection and apply it to a sample dataset of animal bones from the reference region. This application confirms that a multivariate fingerprint is clearly superior over univariate analysis and that the impact of oxygen on the reliability of the fingerprints is not very prominent. These findings confirm that it is possible to explore cremated human material for provenance analysis
+  authors:   Markus Mauder, Eirini Ntoutsi, Peer Kröger, Hans-Peter Kriegel 
+  link:
+    url: https://doi.org/10.1007/978-3-319-41550-5_5
+    display:  Grupe G., Grigat A., McGlynn G. (eds) Across the Alps in Prehistory. Springer, Cham. pp 105–125, 2017
+  highlight: 0
+  news2:
+  year: 2017  
