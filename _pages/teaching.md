@@ -6,6 +6,6 @@ sitemap: false
 permalink: /teaching/
 ---
 
-# Teaching
+## Teaching
 ### Summer term 2022
 Vorlesungszeit: 19.04.2022 - 23.07.2022.
