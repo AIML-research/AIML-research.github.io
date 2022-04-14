@@ -680,3 +680,102 @@
   highlight: 0
   news2:
   year: 2013 
+
+- title: "Strength Lies in Differences" - Diversifying Friends for Recommendations through Subspace Clustering"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi, Kostas Stefanidis, Katharina Rausch, Hans-Peter Kriegel    
+  link:
+    url: https://doi.org/10.1145/2661829.2662026
+    display:  23rd ACM International Conference on Information and Knowledge Management (CIKM), Shanghai, China, November 3- 7, 2014.
+  highlight: 0
+  news2:
+  year: 2014
+  
+- title: "A Semi-supervised Self-Adaptive Classifier over Opinionated Streams"
+  image: 
+  description:  
+  authors: Max Zimmermann, Eirini Ntoutsi, Myra Spiliopoulou   
+  link:
+    url: https://doi.org/10.1109/ICDMW.2014.106
+    display:  Sentiment Elicitation from Natural Text for Information Retrieval and Extraction (SENTIRE) workshop, in conjunction with ICDM 2014, Shenzhen, China, December 14-17, 2014.
+  highlight: 0
+  news2:
+  year: 2014
+
+- title: "Exploring subspace clustering for recommendations"
+  image: 
+  description:  
+  authors: Katharina Rausch, Eirini Ntoutsi, Kostas Stefanidis, Hans-Peter Kriegel  
+  link:
+    url: https://doi.org/10.1145/2618243.2618283
+    display:  26th International Conference on Scientific and Statistical Database Management (SSDBM), Aalborg, Denmark, June 30-July 2, 2014
+  highlight: 0
+  news2:
+  year: 2014
+  
+- title: "The effect of oxygen on the stability of patterns extracted from isotope data"
+  image: 
+  description:  
+  authors: Mauder Markus, Eirini Ntoutsi, Peer Kröger 
+  link:
+    url: https://ag-caa.de/cologne2014/
+    display:  CAA Germany - CAA Netherlands Flanders Third Joint Chapter Meeting (CAA), Cologne, Germany, October 3-4, 2014
+  highlight: 0
+  news2:
+  year: 2014  
+  
+- title: "Adaptive semi supervised opinion classifier with forgetting mechanism"
+  image: 
+  description:  
+  authors:  Max Zimmermann, Eirini Ntoutsi, Myra Spiliopoulou   
+  link:
+    url: https://doi.org/10.1145/2554850.2555039
+    display:  Data Streams track, in conjunction with SAC 2014, Gyeongju, Korea, March 24-28, 2014
+  highlight: 0
+  news2:
+  year: 2014  
+  
+ - title: "Empirically exploring the effect of oxygen on the isotopic mapping of cremated and uncremated bones of a Central European Alpine passage"
+  image: 
+  description:  
+  authors:  Markus Mauder, Eirini Ntoutsi, Gisela Grupe, Peer Kröger
+  link:
+    url: 
+    display:  6th International Symposium on Biomolecular Archaeology (ISBA), Basel, Switcherland, August 27-30, 2014
+  highlight: 0
+  news2:
+  year: 2014
+  
+- title: "Influence of Oxygen Isotope Ratio on Classification"
+  image: 
+  description:  
+  authors:  Markus Mauder, Eirini Ntoutsi, Peer Kröger
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/14.TR.BioArchaeo.pdf
+    display:  Technical Report, Transalpine mobility and cultural transfer project, ArchaeoBioCenter, LMU
+  highlight: 0
+  news2:
+  year: 2014  
+  
+- title: "The OPINSTREAM framework"
+  image: 
+  description:  
+  authors:  Max Zimmermann, Eirini Ntoutsi, Myra Spiliopoulou 
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/14.HDMS.OpinStream.pdf
+    display:  12th Hellenic Data Management Symposium (HDMS), Athens, Greece, July 24-25, 2014
+  highlight: 0
+  news2:
+  year: 2014  
+  
+- title: "Recommendations through subspace clustering"
+  image: 
+  description:  
+  authors:  Katharina Rausch, Eirini Ntoutsi, Kostas Stefanidis, Hans-Peter Kriegel  
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/14.HDMS.recs.pdf
+    display:  12th Hellenic Data Management Symposium (HDMS), Athens, Greece, July 24-25, 2014.
+  highlight: 0
+  news2:
+  year: 2014     
