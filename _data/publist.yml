@@ -636,3 +636,14 @@
   highlight: 0
   news2:
   year: 2015 
+
+- title: "MONIC and Followups on Modeling and Monitoring Cluster Transitions"
+  image: 
+  description:  
+  authors:  	Myra Spiliopoulou, Eirini Ntoutsi, Yannis Theodoridis, Rene Schult  
+  link:
+    url: https://doi.org/10.1007/978-3-642-40994-3_41
+    display:  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, Nectar track (ECML-PKDD), September 23-27, Prague, Czech Republic, 2013
+  highlight: 0
+  news2:
+  year: 2014 
