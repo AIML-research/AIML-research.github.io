@@ -117,3 +117,12 @@
   highlight: 0
   news2: 
   
+- title: "Taxi Demand Prediction using an LSTM-Based Deep Sequence Model and Points of Interest"
+  image: 
+  description: In this paper, an LSTM-based deep sequence learning model is applied to forecast taxi-demand in a particular urban area in a smart city. For this purpose, points of interest (POIs) in the city are extracted from Google Maps and integrated with the mobility data sources. Given a real-world dataset and two evaluation metrics, we observed that taxi-demand in each urban area can be influenced by external factors such as neighborhood locations and the POIs located in that area. 
+  authors: Bahman Askari, Tai Le Quy, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1109/COMPSAC48688.2020.000-7
+    display:  IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC 2020)
+  highlight: 0
+  news2: 
