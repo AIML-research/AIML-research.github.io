@@ -213,17 +213,6 @@
   authors:   Tai Le Quy, Wolfgang Nejdl, Myra Spiliopoulou, Eirini Ntoutsi 
   link:
     url: https://doi.org/10.1007/978-3-030-38081-6_8
-    display:  Workshop on Interactive Adaptive Learning (IAL2019), co-located with ECML PKDD 2019
-  highlight: 0
-  news2:  
-  year: 2019
-
-- title: "A Neighborhood-augmented LSTM Model forTaxi-Passenger Demand Prediction"
-  image: 
-  description: In this paper, we propose an approach for predicting the pick-demand of a given taxi-stand, that takes into account not only the demand-history of the particular stand but it also considers information from neighboring stands. Our model is an LSTM neural network augmented with information from the spatial neighborhood of the stands. Experiments with two versions of the taxi demand dataset from the city of Porto, Portugal show that our approach can provide better predictions comparing to approaches that do not exploit the neighborhood.
-  authors:   Tai Le Quy, Wolfgang Nejdl, Myra Spiliopoulou, Eirini Ntoutsi 
-  link:
-    url: https://doi.org/10.1007/978-3-030-38081-6_8
     display:  Workshop on Multiple-aspect Analysis of Semantic Trajectories (MASTER 2019), co-located with ECML PKDD 2019
   highlight: 0
   news2:  
@@ -250,17 +239,6 @@
   highlight: 0
   news2:
   year:  2019
-
-- title: "FAHT: an adaptive fairness-aware decision tree classifier"
-  image: Wenbin2019.png
-  description: In this paper, we introduce a learning mechanism to design a fair classifier for online stream based decision-making. Our learning model, FAHT (Fairness-Aware Hoeffding Tree), is an extension of the well-known Hoeffding Tree algorithm for decision tree induction over streams, that also accounts for fairness. Our experiments show that our algorithm is able to deal with discrimination in streaming environments, while maintaining a moderate predictive performance over the stream.
-  authors:   Wenbin Zhang, Eirini Ntoutsi 
-  link:
-    url: https://www.ijcai.org/proceedings/2019/0205.pdf
-    display:  Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)
-  highlight: 0
-  news2:
-  year: 2019
 
 - title: "10 Years of Web Science: Closing The Loop (Dagstuhl Perspectives Workshop 18262)"
   image: 
