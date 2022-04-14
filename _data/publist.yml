@@ -559,3 +559,80 @@
   highlight: 0
   news2:
   year: 2016  
+
+- title: "Ageing-Based Multinomial Naive Bayes Classifiers Over Opinionated Data Streams"
+  image: 
+  description:  We incorporate ageing into the learning process of MNB, by introducing the notion of fading for words, on the basis of the recency of the documents containing them. We propose two fading versions, gradual fading and aggressive fading, of which the latter discards old data at a faster pace
+  authors:  Sebastian Wagner, Max Zimmermann, Eirini Ntoutsi, Myra Spiliopoulou 
+  link:
+    url: https://doi.org/10.1007/978-3-319-23528-8_25
+    display: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Database (ECMLPKDD), Porto, Portugal, September 7-11, 2015
+  highlight: 0
+  news2:
+  year: 2015
+  
+- title: "Discovering and Monitoring Product Features and the Opinions on them with OPINSTREAM"
+  image: 
+  description: 
+  authors:  Max Zimmermann, Eirini Ntoutsi, Myra Spiliopoulou 
+  link:
+    url: https://doi.org/10.1016/j.neucom.2014.04.079
+    display: Neurocomputing 150: 318-330, 2015
+  highlight: 0
+  news2:
+  year: 2015 
+  
+- title: "Online template matching over a stream of digitized documents"
+  image: 
+  description:  We propose a template extraction method over a stream of incoming documents and a template allocation method for assigning new instances from the stream to the most suitable templates.
+  authors:  Michael Stocker, Christoph Ringlstetter, Matthias Schubert, Eirini Ntoutsi, Hans-Peter Kriegel
+  link:
+    url: https://doi.org/10.1145/2791347.2791354
+    display: Proceedings of the 27th International Conference on Scientific and Statistical Database Management (SSDBM), San Diego, California, USA, June 29-July 1, 2015.
+  highlight: 0
+  news2:
+  year: 2015  
+  
+- title: "Top-k Computations in MapReduce: A Case Study on Recommendations"
+  image: 
+  description:  We propose a parallel top-k MapReduce algorithm that, unlike existing MapReduce solutions, manages to handle cases in which the k results do not fit in memory.
+  authors:  Vasilis Efthymiou, Kostas Stefanidis, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1109/BigData.2015.7364088
+    display: IEEE International Conference on Big Data (Big Data), Santa Clara, CA, USA, 2015
+  highlight: 0
+  news2:
+  year: 2015
+  
+- title: "Data Mining for Isotopic Mapping of Bioarchaeological Finds in a Central European Alpine Passage"
+  image: 
+  description:  
+  authors:  Markus Mauder, Eirini Ntoutsi, Peer Kröger, Gisela Grupe 
+  link:
+    url: https://doi.org/10.1145/2791347.2791357
+    display: Proceedings of the 27th International Conference on Scientific and Statistical Database Management (SSDBM), San Diego, California, USA, June 29-July 1, 2015
+  highlight: 0
+  news2:
+  year: 2015
+  
+- title: "Incremental Active Opinion Learning Over a Stream of Opinionated Documents"
+  image: 
+  description:  
+  authors:  Max Zimmermann, Eirini Ntoutsi, Myra Spiliopoulou
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/15.WISDOM@ICDM.pdf
+    display: WISDOM (Workshop on Issues of Sentiment Discovery and Opinion Mining) workshop, in conjunction with KDD 2015, Sydney, Australia, 2015
+  highlight: 0
+  news2:
+  year: 2015  
+
+- title: "Information hunting: the many faces of recommendations for data exploration"
+  image: 
+  description:  
+  authors:  	Kostas Stefanidis, Eirini Ntoutsi, Haridimos Kondylakis 
+  link:
+    url: http://wp.sigmod.org/?p=1580
+    display:  Blog post, SIGMOD blog, online March 10, 2015
+  highlight: 0
+  news2:
+  year: 2015 
