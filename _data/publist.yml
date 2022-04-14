@@ -284,6 +284,18 @@
   news2:
   year: 2019
   
+
+- title: "Proceedings of the 1st Workshop on Evaluation and Experimental Design in Data Mining and Machine Learning (EDML)"
+  image: 
+  description:  
+  authors:   Eirini Ntoutsi, Erich Schubert, Arthur Zimek, Albrecht Zimmermann
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/19.EDML.summary.pdf
+    display:  Co-located with SIAM Data Mining (SDM 2019)
+  highlight: 0
+  news2:
+  year: 2019
+  
 - title: "Tracking the history and evolution of entities: entity-centric temporal analysis of large social media archives"
   image: 
   description:  We propose an entity-centric approach to analyze social media archives and we define measures that allow studying how entities were reflected in social media in different time periods and under different aspects, like popularity, attitude, controversiality, and connectedness with other entities. A case study using a large Twitter archive of 4 years illustrates the insights that can be gained by such an entity-centric and multi-aspect analysis.
@@ -294,4 +306,92 @@
   highlight: 0
   news2:
   year: 2018  
+  
+- title: "Reinforcement Learning Based Decision Tree Induction Over Data Streams with Concept Drifts"
+  image: 
+  description:  In this paper, a reinforcement learning approach is used to train a Markov Decision Process (MDP), which enables the creation of a short and highly accurate decision tree. Moreover, the use of reinforcement learning naturally enables additional functionality such as learning under concept drifts, feature importance weighting, inclusion of new features and forgetting of obsolete ones as well as classification with incomplete data.
+  authors:   Christopher Blake, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1109/ICBK.2018.00051
+    display:  2018 IEEE International Conference on Big Knowledge (ICBK)
+  highlight: 0
+  news2:
+  year: 2018  
+  
+- title: "Learning under Feature Drifts in Textual Streams"
+  image: 
+  description:  We propose an approach for handling feature drifts in textual streams. Our approach integrates i) an ensemble-based mechanism to accurately predict the feature/word values for the next time-point by taking into account the different features might be subject to different temporal trends and ii) a sketch-based feature space maintenance mechanism that allows for a memory-bounded maintenance of the feature space over the stream.
+  authors:   Damianos P. Melidis, Myra Spiliopoulou, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1145/3269206.3271717
+    display:  Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM 2018)
+  highlight: 0
+  news2:
+  year: 2018 
+ 
+- title: "Entity-Level Stream Classification: Exploiting Entity Similarity to Label the Next Observation Referring to an Entity"
+  image: 
+  description:  We propose a k-nearest-neighbour-inspired stream classification approach, in which the label of an arriving observation is predicted by exploiting knowledge on the observations belonging to this entity and to entities similar to it.
+  authors:   Vishnu Unnikrishnan, Christian Beyer, Pawel Matuszyk, Uli Niemann, Rüdiger Pryss, Winfried Schlee, Eirini Ntoutsi, Myra Spiliopoulou 
+  link:
+    url: https://dx.doi.org/10.1109/DSAA.2018.00035
+    display:  2018 IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA)
+  highlight: 0
+  news2:
+  year: 2018 
+  
+- title: "An evaluation of data stream clustering algorithms"
+  image: 
+  description:  we survey the state-of-the-art stream clustering algorithms and we evaluate their performance in different data sets and for different parameter settings.
+  authors:   Stratos Mansalis, Eirini Ntoutsi, Nikos Pelekis, Yannis Theodoridis
+  link:
+    url: https://doi.org/10.1002/sam.11380
+    display:  Statistical Analysis and Data Mining: The ASA Data Science JournalVolume 11, Issue 4 p. 167-187, 2018
+  highlight: 0
+  news2:
+  year: 2018 
+ 
+- title: "Dealing with Bias via Data Augmentation in Supervised Learning"
+  image: 
+  description:  
+  authors:   Vasileios Iosifidis, Eirini Ntoutsi
+  link:
+    url: http://ceur-ws.org/Vol-2103/paper_5.pdf
+    display:  BIAS workshop in conjunction with iConference 2018
+  highlight: 0
+  news2:
+  year: 2018
+
+- title: "Enriching Lexicons with Ephemeral Words for Sentiment Analysis in Social Streams"
+  image: 
+  description:  We propose an approach for extracting and monitoring what we call ephemeral words from social streams; these are words that convey sentiment without being sentimental and their sentiment might change with time
+  authors:   Damianos P. Melidis, Alvaro Veizaga Campero, Vasileios Iosifidis, Eirini Ntoutsi,Myra Spiliopoulou 
+  link:
+    url: https://doi.org/10.1145/3227609.3227664
+    display:  Proceedings of the 8th International Conference on Web Intelligence, Mining and Semantics (WIMS 2018)
+  highlight: 0
+  news2:
+  year: 2018
+
+- title: "TweetsKB: A Public and Large-Scale RDF Corpus of Annotated Tweets"
+  image: 
+  description:  Metadata information about the tweets as well as extracted entities, hashtags, user mentions and sentiment information are exposed using established RDF/S vocabularies. Next to a description of the extraction and annotation process, we present use cases to illustrate scenarios for entity-centric information exploration, data integration and knowledge discovery facilitated by TweetsKB.
+  authors:   Pavlos Fafalios, Vasileios Iosifidis, Eirini Ntoutsi, Stefan Dietze 
+  link:
+    url: https://doi.org/10.5281/zenodo.573852
+    display:  ESWC 2018
+  highlight: 0
+  news2:
+  year: 2018
+
+- title: "Predicting Document Polarities on a Stream without Reading their Contents"
+  image: 
+  description:  
+  authors:   C. Beyer, U. Niemann, V. Unnikrishnan, E. Ntoutsi, M. Spiliopoulou
+  link:
+    url: https://doi.org/10.5281/zenodo.573852
+    display:   SAC Data Streams track, Pau, France, 2018.
+  highlight: 0
+  news2:
+  year: 2018
   
