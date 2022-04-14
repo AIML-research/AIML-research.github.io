@@ -53,10 +53,11 @@ permalink: /publications/
 
 
 ### Full list of publications
-
+<b> 2022 </b>
+<br>
 {% for publi in site.data.publist %}
-
+{% if publi.title == 2022 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+{% endif %}
 {% endfor %}
