@@ -260,3 +260,59 @@
   highlight: 0
   news2:
   year: 2019
+
+- title: "10 Years of Web Science: Closing The Loop (Dagstuhl Perspectives Workshop 18262)"
+  image: 
+  description: 
+  authors:   Susan Halford,James A. Hendler,Eirini Ntoutsi, Steffen Staab
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/19.Dagstuhl.Report.WebScience.pdf
+    display:  Report from Dagstuhl Perspectives Workshop 18262
+  highlight: 0
+  news2:
+  year: 2018
+
+- title: "Entity-level stream classification: exploiting entity similarity to label the future observations referring to an entity"
+  image: 
+  description: We propose a k-nearest-neighbour-inspired stream classification approach, in which the label of an arriving observation is predicted by exploiting knowledge on the observations belonging to this entity and to entities similar to it. For the computation of entity similarity, we consider knowledge about the observations and knowledge about the entity, potentially from a domain/feature space different from that in which predictions are made
+  authors:   Vishnu Unnikrishnan, Christian Beyer, Pawel Matuszyk, Uli Niemann, Rüdiger Pryss, Winfried Schlee, Eirini Ntoutsi. Myra Spiliopoulou
+  link:
+    url: https://doi.org/10.1007/s41060-019-00177-1
+    display:  International Journal of Data Science and Analytics, 1-15, 2019
+  highlight: 0
+  news2:
+  year: 2019
+
+- title: "Exploiting entity information for stream classification over a stream of reviews"
+  image: 
+  description: Opinion stream classification algorithms adapt the model to the arriving review texts and, depending on the forgetting scheme, reduce the contribution old reviews have upon the model. Reviews are assumed independent, and information on the entity to which a review refers, i.e. to the opinion target, is thereby ignored. This implies that the prediction of a review's label is based more on reviews referring to other, more popular or simply more recently inspected entities, while reviews referring to the same entity might be ignored as too old. In this study, we enforce that the reviews to each entity are taken into account for learning, adaption and forgetting.
+  authors:   Christian Beyer, Vishnu Unnikrishnan, Uli Niemann, Pawel Matuszyk, Eirini Ntoutsi, Myra Spiliopoulou
+  link:
+    url: https://doi.org/10.1145/3297280.3297333
+    display:  Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing (SAC 2019) 
+  highlight: 0
+  news2:
+  year: 2019
+
+- title: "Significance and Limitations of Stable Oxygen Isotope Ratios in the Apatite Phosphate of Archaeological Vertebrate Finds for Provenance Analysis in an Alpine Reference Region"
+  image: 
+  description:  We adapted a supervised learning approach through expectation–maximization (EM) clustering for fingerprint extraction and evaluated the contribution of each isotopic ratio to the data structure
+  authors:   M. Mauder, E. Ntoutsi, P. Kröger, C. Mayr, A. Toncala, S. Hölzl, G. Grupe
+  link:
+    url: https://doi.org/10.1111/arcm.12399
+    display:  Archaeometry61, 1 (2019) 194–210
+  highlight: 0
+  news2:
+  year: 2019
+  
+- title: "Tracking the history and evolution of entities: entity-centric temporal analysis of large social media archives"
+  image: 
+  description:  We propose an entity-centric approach to analyze social media archives and we define measures that allow studying how entities were reflected in social media in different time periods and under different aspects, like popularity, attitude, controversiality, and connectedness with other entities. A case study using a large Twitter archive of 4 years illustrates the insights that can be gained by such an entity-centric and multi-aspect analysis.
+  authors:   Pavlos Fafalios, Vasileios Iosifidis, Kostas Stefanidis, Eirini Ntoutsi 
+  link:
+    url: https://doi.org/10.1007/s00799-018-0257-7
+    display:  International Journal on Digital Libraries volume 21, 5–17 (2020)
+  highlight: 0
+  news2:
+  year: 2018  
+  
