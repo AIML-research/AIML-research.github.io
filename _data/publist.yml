@@ -28,6 +28,7 @@
     display:  Proceedings of the 30th International Conference on Artificial Neural Networks (2021)
   highlight: 1
   news2: 
+  year: 2021
 
 - title: "XPROAX-Local explanations for text classification with progressive neighborhood approximation"
   image: 
@@ -37,7 +38,8 @@
     url: https://ieeexplore.ieee.org/abstract/document/9564153
     display:  Proceedings of the 8th IEEE International Conference on Data Science and Advanced Analytics (DSAA) (2021)
   highlight: 1
-  news2: 
+  news2:
+  year: 2021
   
 - title: "Fair-Capacitated Clustering"
   image: Taifair2021.png
@@ -48,6 +50,7 @@
     display:  Proceedings of The 14th International Conference on Educational Data Mining (EDM 2021)
   highlight: 1
   news2: 
+  year: 2021
   
 - title: "Consequence-aware Sequential Counterfactual Generation"
   image: Philip2021.png
@@ -58,6 +61,7 @@
     display:  Proceedings of the "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD)", 2021, pp 682-698.
   highlight: 1
   news2: 
+  year: 2021
   
 - title: "Web Futures - Inclusive, Intelligent, Sustainable - The 2020 Manifesto for Web Science"
   image: 
@@ -67,7 +71,8 @@
     url: https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Ressourcen/dagman-v009-i001-p001-18262.pdf
     display:  Manifesto from Dagstuhl Perspectives Workshop 18262 
   highlight: 0
-  news2:     
+  news2:   
+  year: 2020
   
 - title: "FairNN - Conjoint Learning of Fair Representations for Fair Decisions"
   image: 
@@ -78,6 +83,7 @@
     display: International Conference on Discovery Science (DS 2020)
   highlight: 0
   news2:  
+  year: 2020
   
 - title: "FABBOO - Online Fairness-aware Learning under Class Imbalance"
   image: Vasilis2020.png
@@ -88,6 +94,7 @@
     display: International Conference on Discovery Science (DS 2020)
   highlight: 1
   news2:    
+  year: 2020
   
 - title: "Drift-Aware Multi-Memory Model for Imbalanced Data Streams"
   image: Amir2020.png
@@ -98,6 +105,7 @@
     display:  IEEE International Conference on Big Data (Big Data 2020)
   highlight: 1
   news2: 
+  year: 2020
   
 - title: "Resource management for model learning at entity level"
   image: 
@@ -108,6 +116,8 @@
     display:  Annals of Telecommunications, 75, 549–561 (2020)
   highlight: 0
   news2: 
+  year: 2020
+  
 - title: "Active feature acquisition on data streams under feature drift"
   image: 
   description: Traditional active learning tries to identify instances for which the acquisition of the label increases model performance under budget constraints. Less research has been devoted to the task of actively acquiring feature values, whereupon both the instance and the feature must be selected intelligently and even less to a scenario where the instances arrive in a stream with feature drift. We propose an active feature acquisition strategy for data streams with feature drift, as well as an active feature acquisition evaluation framework. We also implement a baseline that chooses features randomly and compare the random approach against eight different methods in a scenario where we can acquire at most one feature at the time per instance and where all features are considered to cost the same.
@@ -117,6 +127,7 @@
     display:  Annals of Telecommunications, 75, 597–611 (2020)
   highlight: 0
   news2: 
+  year: 2020
   
 - title: "Taxi Demand Prediction using an LSTM-Based Deep Sequence Model and Points of Interest"
   image: 
@@ -127,6 +138,8 @@
     display:  IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC 2020)
   highlight: 0
   news2:
+  year: 2020
+  
 - title: "Web Futures: Inclusive, Intelligent, Sustainable - The 2020 Manifesto for Web Science"
   image: 
   description: At the Workshop, we revisited the origins of Web Science, explored that challenges and opportunities of the Web, and looked ahead to potential futures for both the Web and Web Science. We explain issues that society faces in the Web by the ambivalences that are inherent in the Web. All the enormous benefits that the Web offers - for Information sharing, collective organization and distributed activity, social inclusion and economic growth - will always carry along negative consequences, too, and 30 years after ist creation negative consequnces of the Web are only too apparent. The Web continues to evolve and ist next major step will involve Artificial Intelligence (AI) at large. AI has the potential to amplify positive and negative outcomes, and we explore these possibilities, situating them within the wider debate about the future of regulation and governance for the Web. Finally, we outline the need to extend Web Science as the science that is devoted to the Analysis and Engineering of the Web, to strengthen our role in shaping the future of the Web and present five key directions for capacity building that are necessary to achieve this (i), supporting interdisciplinarity, (ii), supporting collaboration, (iii), supporting the sustainable Web, (iv), supporting the Intelligent Web and (v), supporting the Inclusive Web. Our writing reflects our background in several disciplines of the social and technical sciences and that these disciplines emphasize topics to various extents. We are acutely aware that our observations occupy a particular point in time and are skewed towards our experience as Western scholars - a limitation that Web Science will need to overcome.
@@ -136,6 +149,7 @@
     display:  Manifesto from Dagstuhl Perspectives Workshop 18262 (2020)
   highlight: 0
   news2: 
+  year: 2020
 
 - title: "Bias in data-driven artificial intelligence systems—An introductory survey"
   image: NoBIAS.Survey@WIREs2020.png
@@ -146,6 +160,8 @@
     display:  WIREs Data Mining Knowl Discov. (2020);10,e1356.
   highlight: 1
   news2: 
+  year: 2020
+  
 - title: "FAE: A Fairness-Aware Ensemble Framework"
   image: Vasilis2019.png
   description: The proposed FAE (Fairness-Aware Ensemble) framework combines fairness-related interventions at both pre-and post-processing steps of the data analysis process. In the pre-processing step, we tackle the problems of under-representation of the protected group (group imbalance) and of class-imbalance by generating balanced training samples. In the post-processing step, we tackle the problem of class overlapping by shifting the decision boundary in the direction of fairness.
@@ -155,6 +171,7 @@
     display:   IEEE International Conference on Big Data (Big Data 2019)
   highlight: 1
   news2: 
+  year: 2019
 
 - title: "AdaFair: Cumulative Fairness Adaptive Boosting"
   image: Vasilis2019CIKM.png
@@ -165,6 +182,8 @@
     display:  The 28th ACM International Conference on Information and Knowledge Management (CIKM 2019)
   highlight: 1
   news2: 
+  year: 2019
+  
 - title: "Sentiment analysis on big sparse data streams with limited labels"
   image: 
   description: We present the insights from our annotation process regarding the effect of different semi-supervised learning approaches, namely Self-Learning, Co-Training and Expectation–Maximization. Moreover, we propose two annotation modes, the batch mode where all labeled and unlabeled data are available to the algorithms from the beginning and a lightweight streaming mode that processes the data in batches based on their arrival time in the stream.
@@ -174,6 +193,7 @@
     display:  Knowledge and Information Systems, volume 62, pp. 1393–1432 (2020)
   highlight: 0
   news2: 
+  year: 2020
  
 - title: "Active Feature Acquisition For Opinion Stream Classification Under Drift"
   image: 
@@ -184,6 +204,8 @@
     display:  Workshop on Interactive Adaptive Learning (IAL2019), co-located with ECML PKDD 2019
   highlight: 0
   news2:  
+  year: 2019
+  
 - title: "A Neighborhood-augmented LSTM Model forTaxi-Passenger Demand Prediction"
   image: 
   description: In this paper, we propose an approach for predicting the pick-demand of a given taxi-stand, that takes into account not only the demand-history of the particular stand but it also considers information from neighboring stands. Our model is an LSTM neural network augmented with information from the spatial neighborhood of the stands. Experiments with two versions of the taxi demand dataset from the city of Porto, Portugal show that our approach can provide better predictions comparing to approaches that do not exploit the neighborhood.
@@ -193,6 +215,7 @@
     display:  Workshop on Interactive Adaptive Learning (IAL2019), co-located with ECML PKDD 2019
   highlight: 0
   news2:  
+  year: 2019
 
 - title: "A Neighborhood-augmented LSTM Model forTaxi-Passenger Demand Prediction"
   image: 
@@ -203,6 +226,7 @@
     display:  Workshop on Multiple-aspect Analysis of Semantic Trajectories (MASTER 2019), co-located with ECML PKDD 2019
   highlight: 0
   news2:  
+  year:  2019
 
 - title: "Fairness-Enhancing Interventions in Stream Classification"
   image: Vasilis2019DEXA.png
@@ -213,6 +237,7 @@
     display:  Database and Expert Systems Applications, DEXA 2019
   highlight: 1
   news2:
+  year: 2019
 
 - title: "FAHT: an adaptive fairness-aware decision tree classifier"
   image: Wenbin2019.png
@@ -223,6 +248,7 @@
     display:  Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)
   highlight: 0
   news2:
+  year:  2019
 
 - title: "FAHT: an adaptive fairness-aware decision tree classifier"
   image: Wenbin2019.png
@@ -233,3 +259,4 @@
     display:  Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)
   highlight: 0
   news2:
+  year: 2019
