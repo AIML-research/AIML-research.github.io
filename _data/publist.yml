@@ -210,5 +210,25 @@
   link:
     url: https://doi.org/10.1007/978-3-030-27615-7_20
     display:  Database and Expert Systems Applications, DEXA 2019
+  highlight: 1
+  news2:
+
+- title: "FAHT: an adaptive fairness-aware decision tree classifier"
+  image: Wenbin2019.png
+  description: In this paper, we introduce a learning mechanism to design a fair classifier for online stream based decision-making. Our learning model, FAHT (Fairness-Aware Hoeffding Tree), is an extension of the well-known Hoeffding Tree algorithm for decision tree induction over streams, that also accounts for fairness. Our experiments show that our algorithm is able to deal with discrimination in streaming environments, while maintaining a moderate predictive performance over the stream.
+  authors:   Wenbin Zhang, Eirini Ntoutsi 
+  link:
+    url: https://www.ijcai.org/proceedings/2019/0205.pdf
+    display:  Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)
+  highlight: 0
+  news2:
+
+- title: "FAHT: an adaptive fairness-aware decision tree classifier"
+  image: Wenbin2019.png
+  description: In this paper, we introduce a learning mechanism to design a fair classifier for online stream based decision-making. Our learning model, FAHT (Fairness-Aware Hoeffding Tree), is an extension of the well-known Hoeffding Tree algorithm for decision tree induction over streams, that also accounts for fairness. Our experiments show that our algorithm is able to deal with discrimination in streaming environments, while maintaining a moderate predictive performance over the stream.
+  authors:   Wenbin Zhang, Eirini Ntoutsi 
+  link:
+    url: https://www.ijcai.org/proceedings/2019/0205.pdf
+    display:  Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)
   highlight: 0
   news2:
