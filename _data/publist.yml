@@ -577,7 +577,7 @@
   authors:  Max Zimmermann, Eirini Ntoutsi, Myra Spiliopoulou 
   link:
     url: https://doi.org/10.1016/j.neucom.2014.04.079
-    display: Neurocomputing 150: 318-330, 2015
+    display: Neurocomputing 150, 318-330, 2015
   highlight: 0
   news2:
   year: 2015 
@@ -646,4 +646,37 @@
     display:  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, Nectar track (ECML-PKDD), September 23-27, Prague, Czech Republic, 2013
   highlight: 0
   news2:
-  year: 2014 
+  year: 2013
+
+- title: "Extracting Opinionated (Sub)Features from a Stream of Product Reviews"
+  image: 
+  description:  
+  authors:  	Max Zimmermann, Eirini Ntoutsi,  Myra Spiliopoulou   
+  link:
+    url: https://doi.org/10.1007/978-3-642-40897-7_23
+    display:  Sixteenth International Conference on Discovery Science (DS 2013), October 6-9, 2013, Singapore
+  highlight: 0
+  news2:
+  year: 2013   
+ 
+- title: "A Framework for Modeling, Computing and Presenting Time-Aware Recommendations"
+  image: 
+  description:  
+  authors: Kostas Stefanidis, Eirini Ntoutsi, Mihalis Petropoulos, Kjetil Nørvåg, Hans-Peter Kriegel    
+  link:
+    url: https://doi.org/10.1007/978-3-642-41221-9_6
+    display:  Transactions on Large-Scale Data and Knowledge-Centered Systems (TLDKS Journal), Springer, 2013
+  highlight: 0
+  news2:
+  year: 2013 
+
+- title: "Clustering high dimensional data: Examining differences and commonalities between subspace clustering and text clustering - A position paper"
+  image: 
+  description:  
+  authors: Kostas Stefanidis, Eirini Ntoutsi, Mihalis Petropoulos, Kjetil Nørvåg, Hans-Peter Kriegel    
+  link:
+    url: https://doi.org/10.1145/2641190.2641192
+    display:  ACM SIGKKD Explorations Newsletter, Volume 15 Issue 2, December 2013
+  highlight: 0
+  news2:
+  year: 2013 
