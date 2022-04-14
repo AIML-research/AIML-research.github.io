@@ -53,11 +53,50 @@ permalink: /publications/
 
 
 ### Full list of publications
-<b> 2022 </b>
-<br>
+#### 2022
+
 {% for publi in site.data.publist %}
 {% if {{publi.year}} == 2022 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endif %}
 {% endfor %}
+
+#### 2021
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2021 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2020
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2020 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2019
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2019 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2018
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2018 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+
+
