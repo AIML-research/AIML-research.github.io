@@ -164,5 +164,51 @@
     display:  The 28th ACM International Conference on Information and Knowledge Management (CIKM 2019)
   highlight: 1
   news2: 
-
+- title: "Sentiment analysis on big sparse data streams with limited labels"
+  image: 
+  description: We present the insights from our annotation process regarding the effect of different semi-supervised learning approaches, namely Self-Learning, Co-Training and Expectation–Maximization. Moreover, we propose two annotation modes, the batch mode where all labeled and unlabeled data are available to the algorithms from the beginning and a lightweight streaming mode that processes the data in batches based on their arrival time in the stream.
+  authors:   Vasileios Iosifidis, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1007/s10115-019-01392-9
+    display:  Knowledge and Information Systems, volume 62, pp. 1393–1432 (2020)
+  highlight: 0
+  news2: 
  
+- title: "Active Feature Acquisition For Opinion Stream Classification Under Drift"
+  image: 
+  description: Active stream learning is frequently used to acquire labels for instances and less frequently to determine which features should be considered as the stream evolves. We introduce a framework for active feature selection, intended to adapt the feature space of a polarity learner over a stream of opinionated documents. We report on the first results of our framework on substreams of reviews on different product categories.
+  authors:   Ranjith Shivakumaraswamy,  Christian Beyer, Vishnu Unnikrishnan, Eirini Ntoutsi, Myra Spiliopoulou
+  link:
+    url: https://doi.org/10.15488/9818
+    display:  Workshop on Interactive Adaptive Learning (IAL2019), co-located with ECML PKDD 2019
+  highlight: 0
+  news2:  
+- title: "A Neighborhood-augmented LSTM Model forTaxi-Passenger Demand Prediction"
+  image: 
+  description: In this paper, we propose an approach for predicting the pick-demand of a given taxi-stand, that takes into account not only the demand-history of the particular stand but it also considers information from neighboring stands. Our model is an LSTM neural network augmented with information from the spatial neighborhood of the stands. Experiments with two versions of the taxi demand dataset from the city of Porto, Portugal show that our approach can provide better predictions comparing to approaches that do not exploit the neighborhood.
+  authors:   Tai Le Quy, Wolfgang Nejdl, Myra Spiliopoulou, Eirini Ntoutsi 
+  link:
+    url: https://doi.org/10.1007/978-3-030-38081-6_8
+    display:  Workshop on Interactive Adaptive Learning (IAL2019), co-located with ECML PKDD 2019
+  highlight: 0
+  news2:  
+
+- title: "A Neighborhood-augmented LSTM Model forTaxi-Passenger Demand Prediction"
+  image: 
+  description: In this paper, we propose an approach for predicting the pick-demand of a given taxi-stand, that takes into account not only the demand-history of the particular stand but it also considers information from neighboring stands. Our model is an LSTM neural network augmented with information from the spatial neighborhood of the stands. Experiments with two versions of the taxi demand dataset from the city of Porto, Portugal show that our approach can provide better predictions comparing to approaches that do not exploit the neighborhood.
+  authors:   Tai Le Quy, Wolfgang Nejdl, Myra Spiliopoulou, Eirini Ntoutsi 
+  link:
+    url: https://doi.org/10.1007/978-3-030-38081-6_8
+    display:  Workshop on Multiple-aspect Analysis of Semantic Trajectories (MASTER 2019), co-located with ECML PKDD 2019
+  highlight: 0
+  news2:  
+
+- title: "Fairness-Enhancing Interventions in Stream Classification"
+  image: Vasilis2019DEXA.png
+  description: Existing fairness-aware approaches tackle fairness as a batch learning problem and aim at learning a fair model which can then be applied to future instances of the problem. In many applications, however, the data comes sequentially and its characteristics might evolve with time. In such a setting, it is counter-intuitive to “fix” a (fair) model over the data stream as changes in the data might incur changes in the underlying model therefore, affecting its fairness. In this work, we propose fairness-enhancing interventions that modify the input data so that the outcome of any stream classifier applied to that data will be fair. Experiments on real and synthetic data show that our approach achieves good predictive performance and low discrimination scores over the course of the stream.
+  authors:   Vasileios Iosifidis, Thi Ngoc Han Tran, Eirini Ntoutsi 
+  link:
+    url: https://doi.org/10.1007/978-3-030-27615-7_20
+    display:  Database and Expert Systems Applications, DEXA 2019
+  highlight: 0
+  news2:
