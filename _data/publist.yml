@@ -145,7 +145,7 @@
     display:  WIREs Data Mining Knowl Discov. (2020);10,e1356.
   highlight: 1
   news2: 
-- title: "FAE - A Fairness-Aware Ensemble Framework"
+- title: "FAE: A Fairness-Aware Ensemble Framework"
   image: Vasilis2019.png
   description: The proposed FAE (Fairness-Aware Ensemble) framework combines fairness-related interventions at both pre-and post-processing steps of the data analysis process. In the pre-processing step, we tackle the problems of under-representation of the protected group (group imbalance) and of class-imbalance by generating balanced training samples. In the post-processing step, we tackle the problem of class overlapping by shifting the decision boundary in the direction of fairness.
   authors:   Vasileios Iosifidis, Besnik Fetahu, Eirini Ntoutsi
@@ -155,5 +155,14 @@
   highlight: 1
   news2: 
 
+- title: "AdaFair: Cumulative Fairness Adaptive Boosting"
+  image: Vasilis2019CIKM.png
+  description: We propose AdaFair, a fairness-aware classifier based on AdaBoost that further updates the weights of the instances in each boosting round taking into account a cumulative notion of fairness based upon all current ensemble members, while explicitly tackling class-imbalance by optimizing the number of ensemble members for balanced classification error. Our experiments show that our approach can achieve parity in true positive and true negative rates for both protected and non-protected groups, while it significantly outperforms existing fairness-aware methods up to 25% in terms of balanced error.
+  authors:   Vasileios Iosifidis, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1145/3357384.3357974
+    display:  The 28th ACM International Conference on Information and Knowledge Management (CIKM 2019)
+  highlight: 1
+  news2: 
 
  
