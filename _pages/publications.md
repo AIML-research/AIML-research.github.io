@@ -98,5 +98,137 @@ permalink: /publications/
 {% endif %}
 {% endfor %}
 
+#### 2017
 
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2017 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
 
+#### 2016
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2016 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2015
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2015 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2014
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2014 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2013
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2013 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2012
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2012 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2011
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2011 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2010
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2010 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2009
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2009 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2008
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2008 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2007
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2007 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2006
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2006 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2005
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2005 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2004
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2004 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
+#### 2003 - 2000
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} <= 2003 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
