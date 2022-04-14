@@ -145,6 +145,15 @@
     display:  WIREs Data Mining Knowl Discov. (2020);10,e1356.
   highlight: 1
   news2: 
+- title: "FAE - A Fairness-Aware Ensemble Framework"
+  image: Vasilis2019.png
+  description: The proposed FAE (Fairness-Aware Ensemble) framework combines fairness-related interventions at both pre-and post-processing steps of the data analysis process. In the pre-processing step, we tackle the problems of under-representation of the protected group (group imbalance) and of class-imbalance by generating balanced training samples. In the post-processing step, we tackle the problem of class overlapping by shifting the decision boundary in the direction of fairness.
+  authors:   Vasileios Iosifidis, Besnik Fetahu, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1109/BigData47090.2019.9006487
+    display:   IEEE International Conference on Big Data (Big Data 2019)
+  highlight: 1
+  news2: 
 
 
  
