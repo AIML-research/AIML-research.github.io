@@ -777,3 +777,102 @@
   highlight: 0
   news2:
   year: 2014     
+  
+- title: "Density-based Projected Clustering over High Dimensional Data Streams"
+  image: 
+  description:  We propose a new density-based projected clustering algorithm, HDDSTREAM, for high dimensional data streams. Our algorithm summarizes both the data points and the dimensions where these points are grouped together and maintains these summaries online, as new points arrive over time and old points expire due to ageing. Our experimental results illustrate the effectiveness and the efficiency of HDDSTREAM and also demonstrate that it could serve as a trigger for detecting drastic changes in the underlying stream population, like bursts of network attacks
+  authors:  Eirini Ntoutsi, Arthur Zimek, Themis Palpanas, Peer Kröger, and Hans-Peter Kriegel 
+  link:
+    url: https://doi.org/10.1137/1.9781611972825.85
+    display:  SIAM International Conference on Data Mining (SDM12), Anaheim, California, USA, 2012
+  highlight: 0
+  news2:
+  year: 2012  
+
+- title: "gRecs: A Group Recommendation System Based on User Clustering"
+  image: 
+  description:  In this demonstration paper, we present gRecs, a system for group recommendations that follows a collaborative strategy. We enhance recommendations with the notion of support to model the confidence of the recommendations. Moreover, we propose partitioning users into clusters of similar ones. This way, recommendations for users are produced with respect to the preferences of their cluster members without extensively searching for similar users in the whole user base. Finally, we leverage the power of a top-k algorithm for locating the top-k group recommendations.
+  authors:  Eirini Ntoutsi, Kostas Stefanidis, Kjetil Norvag, Hans-Peter Kriegel   
+  link:
+    url: https://doi.org/10.1007/978-3-642-29035-0_25
+    display:  DASFAA 2012, Busan, South Korea, 2012
+  highlight: 0
+  news2:
+  year: 2012  
+
+- title: "Fast Group Recommendations by Applying User Clustering"
+  image: 
+  description:  In this paper, we propose an extensive model for group recommendations that exploits recommendations for items that similar users to the group members liked in the past. We do not exhaustively search for similar users in the whole user base, but we pre-partition users into clusters of similar ones and use the cluster members for recommendations. We efficiently aggregate the single user recommendations into group recommendations by leveraging the power of a top-k algorithm. We evaluate our approach in a real dataset of movie ratings.
+  authors:  Eirini Ntoutsi, Kostas Stefanidis, Kjetil Nørvåg, Hans-Peter Kriegel    
+  link:
+    url: https://doi.org/10.1007/978-3-642-34002-4_10
+    display:  International Conference on Conceptual Modelling (ER 2012), October 15-18, 2012, Florence, Italy.
+  highlight: 0
+  news2:
+  year: 2012
+  
+- title: "Discovering Global and Local Bursts in a Stream of News Data"
+  image: 
+  description:  
+  authors:  Max Zimmermann, Irene Ntoutsi, Zaigham Faraz Siddiqui, Myra Spiliopoulou, Hans-Peter Kriegel
+  link:
+    url: https://doi.org/10.1145/2245276.2245433
+    display:  Data Streams track, in conjunction with SAC 2012, Trento, Italy, 2012
+  highlight: 0
+  news2:
+  year: 2012
+ 
+- title: "FINGERPRINT: Summarizing Cluster Evolution in Dynamic Environments"
+  image: 
+  description:  
+  authors:  Eirini Ntoutsi , Myra Spiliopoulou, Yannis Theodoridis
+  link:
+    url: https://doi.org/10.4018/jdwm.2012070102
+    display:  International Journal of Data Warehousing and Mining (IJDWM), 8(3):27-45, July-September 2012. Idea Group
+  highlight: 0
+  news2:
+  year: 2012 
+
+- title: "A Framework for Time-aware Recommendations"
+  image: 
+  description:  
+  authors:  Kostas Stefanidis, Irene Ntoutsi, Kjetil Nørvåg,  Hans-Peter Kriegel 
+  link:
+    url: https://doi.org/10.1007/978-3-642-32597-7_29
+    display:  International Conference on Database and Expert Systems Applications (DEXA 2012), September 3-7, 2012, Vienna, Austria.
+  highlight: 0
+  news2:
+  year: 2012 
+
+- title: "Monitoring User Evolution in Twitter"
+  image: 
+  description:  
+  authors:  Claudia Lauschke, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1109/ASONAM.2012.171
+    display:  IEEE/ACM Workshop on Business Applications of Social Network Analysis (BASNA), in conjunction with ASONAM 2012, Istanbul, Turkey, 2012.
+  highlight: 0
+  news2:
+  year: 2012 
+ 
+- title: "Sentiment analysis in the Twitter stream"
+  image: 
+  description:  
+  authors:  Alina Sinelnikova, Eirini Ntoutsi, Hans-Peter Kriegel
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/12.GfKL_a(ppt).pdf
+    display:  The 36th Annual Conference of the German Classification Society on Data Analysis, Machine Learning and Knowledge Discovery (GfKl 2012), August 1-3, 2012, Hildesheim, Germany.
+  highlight: 0
+  news2:
+  year: 2012 
+ 
+- title: "gRecs: A collaborative Filtering framework for group recommendations."
+  image: 
+  description:  
+  authors:  Eirini Ntoutsi, Kostas Stefanidis, Kjetil Norvag, Hans-Peter Kriegel
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/12.GfKl_b.pdf
+    display:  The 36th Annual Conference of the German Classification Society on Data Analysis, Machine Learning and Knowledge Discovery (GfKl 2012), August 1-3, 2012, Hildesheim, Germany.
+  highlight: 0
+  news2:
+  year: 2012  
