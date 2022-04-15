@@ -1146,8 +1146,8 @@
   description:  
   authors: Eirini Ntoutsi, Nikos Mitsou, Gerasimos Marketos
   link:
-    url: 
-    display:  "Data Mining and Knowledge Discovery" Stream, in EURO XXII - 2007 European Conference on Operational Research, Prague, Czech Republic, 2007
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/08.IJBIDM.pdf
+    display:  Data Mining and Knowledge Discovery Stream, in EURO XXII - 2007 European Conference on Operational Research, Prague, Czech Republic, 2007
   highlight: 0
   news2:
   year: 2007
@@ -1212,7 +1212,7 @@
   description:  
   authors: Myra Spiliopoulou, Eirini Ntoutsi, Yannis Theodoridis
   link:
-    url: 
+    url: https://aiml-research.github.io/publications/
     display: Tutorial, ECML/PKDD, Porto, Portugal, 2005.
   highlight: 0
   news2:
