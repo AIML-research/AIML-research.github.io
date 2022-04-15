@@ -7,6 +7,17 @@
 #    display: Science 374, 608 (2021)
 #  highlight: 1  or 0
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/),[SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered)
+- title: "A survey on datasets for fairness-aware machine learning"
+  image: fairdata-survey.png
+  description: We overview real-world datasets used for fairness-aware machine learning. We focus on tabular data as the most common data representation for fairness-aware machine learning. We start our analysis by identifying relationships between the different attributes, particularly w.r.t. protected attributes and class attribute, using a Bayesian network. For a deeper understanding of bias in the datasets, we investigate the interesting relationships using exploratory analysis.
+  authors: Tai Le Quy, Arjun Roy, Vasileios Iosifidis, Wenbin Zhang, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1002/widm.1452
+    display:  Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery, 2022
+  highlight: 1
+  news2: 
+  year: 2022
+  
 - title: "Interpretable Visual Understanding with Cognitive Attention Network"
   image: Xuejiao2021.png
   description: We propose a novel Cognitive Attention Network (CAN) for visual commonsense reasoning to achieve interpretable visual understanding. Specifically, we first introduce an image-text fusion module to fuse Information from images and text collectively. Second, a novel inference module is designed to encode commonsense among image, query and response. Extensive experiment on large-scale Visual Commonsense Reasoning (VCR) benchmark dataset demonstrate the effectiveness of our approach.
@@ -18,17 +29,6 @@
   news2: 
   year: 2021
   
-- title: "A survey on datasets for fairness-aware machine learning"
-  image: fairdata-survey.png
-  description: We overview real-world datasets used for fairness-aware machine learning. We focus on tabular data as the most common data representation for fairness-aware machine learning. We start our analysis by identifying relationships between the different attributes, particularly w.r.t. protected attributes and class attribute, using a Bayesian network. For a deeper understanding of bias in the datasets, we investigate the interesting relationships using exploratory analysis.
-  authors: Tai Le Quy, Arjun Roy, Vasileios Iosifidis, Wenbin Zhang, Eirini Ntoutsi
-  link:
-    url: https://doi.org/10.1002/widm.1452
-    display:  Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery, 2022
-  highlight: 1
-  news2: 
-  year: 2022
-
 - title: "XPROAX-Local explanations for text classification with progressive neighborhood approximation"
   image: Yi2021.png
   description: The importance of the neighborhood for training a local surrogate model to approximate the local decision boundary of a black box classifier has been already highlighted in the literature. Several attempts have been made to construct a better neighborhood for high dimensional data, like texts, by using generative autoencoders. However, existing approaches mainly generate neighbors by selecting purely at random from the latent space and struggle under the curse of dimensionality to learn a good local decision boundary.
@@ -814,7 +814,7 @@
 - title: "Discovering Global and Local Bursts in a Stream of News Data"
   image: 
   description:  
-  authors:  Max Zimmermann, Irene Ntoutsi, Zaigham Faraz Siddiqui, Myra Spiliopoulou, Hans-Peter Kriegel
+  authors:  Max Zimmermann, Eirini Ntoutsi, Zaigham Faraz Siddiqui, Myra Spiliopoulou, Hans-Peter Kriegel
   link:
     url: https://doi.org/10.1145/2245276.2245433
     display:  Data Streams track, in conjunction with SAC 2012, Trento, Italy, 2012
@@ -836,7 +836,7 @@
 - title: "A Framework for Time-aware Recommendations"
   image: 
   description:  
-  authors:  Kostas Stefanidis, Irene Ntoutsi, Kjetil Nørvåg,  Hans-Peter Kriegel 
+  authors:  Kostas Stefanidis, Eirini Ntoutsi, Kjetil Nørvåg,  Hans-Peter Kriegel 
   link:
     url: https://doi.org/10.1007/978-3-642-32597-7_29
     display:  International Conference on Database and Expert Systems Applications (DEXA 2012), September 3-7, 2012, Vienna, Austria.
@@ -891,7 +891,7 @@
 - title: "Density Based Subspace Clustering Over Dynamic Data"
   image: 
   description:  
-  authors:  Hans-Peter Kriegel, Peer Kröger, Irene Ntoutsi, Arthur Zimek 
+  authors:  Hans-Peter Kriegel, Peer Kröger, Eirini Ntoutsi, Arthur Zimek 
   link:
     url: https://doi.org/10.1007/978-3-642-22351-8_24
     display:  SSDBM 2011, Portland, Oregon, USA.
@@ -902,7 +902,7 @@
 - title: "Revealing cluster formation over huge volatile robotic data"
   image: 
   description:  
-  authors:  Nikos Mitsou, Irene Ntoutsi, Dirk Wollherr, Costas Tzafestas, Hans-Peter Kriegel
+  authors:  Nikos Mitsou, Eirini Ntoutsi, Dirk Wollherr, Costas Tzafestas, Hans-Peter Kriegel
   link:
     url: https://doi.org/10.1109/ICDMW.2011.147
     display:  IEEE Wokshop on Domain Driven Data Mining (DDDM), in conjunction with ICDM 2011, Vancouver, Canada, 2011
@@ -913,7 +913,7 @@
 - title: "Density-based community detection in social networks"
   image: 
   description:  
-  authors:  Kumar Subramani, Alexander Velkov, Irene Ntoutsi, Peer Kroger, Hans-Peter Kriegel
+  authors:  Kumar Subramani, Alexander Velkov, Eirini Ntoutsi, Peer Kroger, Hans-Peter Kriegel
   link:
     url: https://doi.org/10.1109/IMSAA.2011.6156357
     display:  IEEE Workshop on Business Applications of Social Network Analysis (BASNA), in conjunction with IMSAA 2011, Bangalore, India, 2011
@@ -924,7 +924,7 @@
 - title: "Summarizing Cluster Evolution in Dynamic Environments"
   image: 
   description:  
-  authors:  Irene Ntoutsi, Myra Spiliopoulou, Yannis Theodoridis 
+  authors:  Eirini Ntoutsi, Myra Spiliopoulou, Yannis Theodoridis 
   link:
     url: https://doi.org/10.1007/978-3-642-21887-3_43
     display:  Proc. of 11th International Conference on Computational Science and Its Applications (ICCSA'11), Santander, Spain, 2011.Springer.
@@ -935,7 +935,7 @@
 - title: "Towards Subspace Clustering on Dynamic Data: An Incremental Version of PreDeCon"
   image: 
   description:  
-  authors:  Hans-Peter Kriegel, Peer Kröger, Irene Ntoutsi, Arthur Zimek 
+  authors:  Hans-Peter Kriegel, Peer Kröger, Eirini Ntoutsi, Arthur Zimek 
   link:
     url: https://doi.org/10.1145/1833280.1833285
     display:  StreamKDD Workshop, in conjunction with KDD 2010, Washington, DC, 2010
@@ -946,7 +946,7 @@
 - title: "The PANDA framework for comparing patterns"
   image: 
   description:  
-  authors:  Ilaria Bartolini, Paolo Ciaccia, Irene Ntoutsi, Marco Patella, Yannis Theodoridis
+  authors:  Ilaria Bartolini, Paolo Ciaccia, Eirini Ntoutsi, Marco Patella, Yannis Theodoridis
   link:
     url: https://doi.org/10.1016/j.datak.2008.10.004
     display:  Data & Knowledge Engineering, 68(2), 244-260, February 2009. Elsevier Science.
@@ -957,7 +957,7 @@
 - title: "Tracing cluster transitions for different cluster types"
   image: 
   description:  
-  authors:  Irene Ntoutsi, Myra Spiliopoulou, Yannis Theodoridis
+  authors:  Eirini Ntoutsi, Myra Spiliopoulou, Yannis Theodoridis
   link:
     url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.410.9068&rep=rep1&type=pdf
     display:  Control and Cybernetics Journal, 38(1) 239-260, 2009. Polish Academy of Sciences.
@@ -968,7 +968,7 @@
 - title: "A general framework for estimating similarity of datasets and decision trees: exploring semantic similarity of decision trees"
   image: 
   description:  
-  authors:  Irene Ntoutsi, Alexandros Kalousis, Yannis Theodoridis
+  authors:  Eirini Ntoutsi, Alexandros Kalousis, Yannis Theodoridis
   link:
     url: https://doi.org/10.1137/1.9781611972788.73
     display:  SIAM International Conference on Data Mining (SDM08), Atlanta, Georgia, 2008.
@@ -979,7 +979,7 @@
 - title: "PATTERN-MINER: Integrated Management and Mining over Data Mining Models (Demo)"
   image: 
   description:  
-  authors: Evangelos E. Kotsifakos, Irene Ntoutsi, Yannis Vrahoritis, Yannis Theodoridis 
+  authors: Evangelos E. Kotsifakos, Eirini Ntoutsi, Yannis Vrahoritis, Yannis Theodoridis 
   link:
     url: https://doi.org/10.1145/1401890.1402024
     display:  Proc. of 14th ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'08), Las Vegas, USA, 2008.
@@ -990,7 +990,7 @@
 - title: "Monitoring Patterns through an Integrated Management and Mining Tool (Demo)"
   image: 
   description:  
-  authors: Evangelos E. Kotsifakos, Irene Ntoutsi, Yannis Vrahoritis, Yannis Theodoridis 
+  authors: Evangelos E. Kotsifakos, Eirini Ntoutsi, Yannis Vrahoritis, Yannis Theodoridis 
   link:
     url: https://doi.org/10.1007/978-3-540-87481-2_46
     display:  Proc. of Machine Learning and Knowledge Discovery in Databases, European Conference (ECML/PKDD'08), Antwerp, Belgium, 2008.
@@ -1018,4 +1018,312 @@
     display:  In F. Giannotti and D. Pedreschi (eds), Mobility, Data Mining and Privacy, Springer, 2008.
   highlight: 0
   news2:
+  year: 2008
+  
+- title: "Trajectory data models"
+  image: 
+  description:  
+  authors: J. Macedo, C. Vangenot, W. Othman, N. Pelekis, E. Frentzos, B. Kuijpers, I. Ntoutsi, S. Spaccapietra, Y. Theodoridis  
+  link:
+    url: https://doi.org/10.1007/978-3-540-75177-9_6
+    display:  In F. Giannotti and D. Pedreschi (eds), Mobility, Data Mining and Privacy, Springer, 2008.
+  highlight: 0
+  news2:
+  year: 2008
+  
+- title: "Building Real World Trajectory Warehouses"
+  image: 
+  description:  
+  authors: Gerasimos Marketos, Elias Frentzos, Eirini Ntoutsi, Nikos Pelekis, Alessandra Raffaetà, Yannis Theodoridis 
+  link:
+    url: https://doi.org/10.1145/1626536.1626539
+    display:  Proc. 7th International ACM SIGMOD Workshop on Data Engineering for Wireless and Mobile Access (MobiDE'08), Vancouver, Canada, June 2008.
+  highlight: 0
+  news2:
+  year: 2008
+  
+- title: "Traffic mining in a road-network: How does the traffic flow?"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi, Nikos Mitsou and Gerasimos Marketos
+  link:
+    url: https://doi.org/10.1504/IJBIDM.2008.017977
+    display:  International Journal of Business Intelligence and Data Mining (IJBIDM), Special Issue on "KDD for Decision Making and Optimization", 3(1), 82-98, 2008
+  highlight: 0
+  news2:
+  year: 2008
+  
+- title: "Similarity Issues in Data Mining - Methodologies and Techniques"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/phd.pdf
+    display:  PhD thesis, Department of Informatics, University of Piraeus, Greece, 2008.
+  highlight: 0
+  news2:
   year: 2008  
+  
+- title: "Comparing Datasets Using Frequent Itemsets: Dependency on the Mining Parameters"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi, Yannis Theodoridis
+  link:
+    url: https://doi.org/10.1007/978-3-540-87881-0_20
+    display:  Proc. of 5th Hellenic Conference on Artificial Intelligence (SETN'08), Syros, Greece, 2008.
+  highlight: 0
+  news2:
+  year: 2008
+  
+- title: "A Framework for Trajectory Data Warehousing"
+  image: 
+  description:  
+  authors: Gerasimos Marketos, Elias Frentzos, Nikos Giatrakos, Eirini Ntoutsi, Nikos Pelekis, Alessandra Raffaeta, Yannis Theodoridis
+  link:
+    url: http://isl.cs.unipi.gr/pubs/confs/HDMS08.pdf
+    display:  Proc. 7th Hellenic Data Management Symposium (HDMS'08), Heraclion, Greece, July 2008.
+  highlight: 0
+  news2:
+  year: 2008
+  
+- title: "A general framework for estimating similarity of datasets and decision trees: exploring semantic similarity of decision trees"
+  image: 
+  description:  Decision trees are among the most popular pattern types in data mining due to their intuitive representation. However, little attention has been given on the definition of measures of semantic similarity between decision trees. In this work, we present a general framework for similarity estimation that includes as special cases the estimation of semantic similarity between decision trees, as well as various forms of similarity estimation on classification datasets with respect to different probability distributions defined over the attribute-class space of the datasets. The similarity estimation is based on the partitions induced by the decision trees on the attribute space of the datasets.
+  authors: Eirini Ntoutsi, Alexandros Kalousis, and Yannis Theodoridis
+  link:
+    url: https://doi.org/10.1137/1.9781611972788.73
+    display:  Proceedings of the 2008 SIAM International Conference on Data Mining (SDM), 2008.
+  highlight: 0
+  news2:
+  year: 2008
+  
+- title: "Similarity Search in Trajectory Databases"
+  image: 
+  description:  
+  authors: Nikos Pelekis, Ioannis Kopanakis, Gerasimos Marketos, Eirini Ntoutsi, Gennady Andrienko, Yannis Theodoridis
+  link:
+    url: https://doi.org/10.1109/TIME.2007.59
+    display:  14th International Symposium on Temporal Representation and Reasoning (TIME'07), 2007.
+  highlight: 0
+  news2:
+  year: 2007
+  
+- title: "Mining Trajectory Databases via a Suite of Distance Operators"
+  image: 
+  description:  
+  authors: Nikos Pelekis, Ioannis Kopanakis, Eirini Ntoutsi, Gerasimos Marketos, Yannis Theodoridis
+  link:
+    url: https://doi.org/10.1109/ICDEW.2007.4401043
+    display:  Workshop on Spatio-Temporal Data Mining (STDM07), in conjunction with ICDE 2007 Conference, Istanbul, Turkey, 2007.
+  highlight: 0
+  news2:
+  year: 2007  
+  
+- title: "Pattern Comparison in Data Mining: A Survey"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi, Nikos Pelekis, Yannis Theodoridis
+  link:
+    url: https://doi.org/10.4018/978-1-59904-271-8.ch004
+    display:  Research and Trends in Data Mining Technologies and Applications: Advances in Data Warehousing and Mining, Idea Group Publishing, 2007.
+  highlight: 0
+  news2:
+  year: 2007    
+  
+- title: "Tracing Cluster Transitions for Different Cluster Types"
+  image: 
+  description:  
+  authors: Myra Spiliopoulou, Eirini Ntoutsi, Yannis Theodoridis
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/07.ADMKD.pdf
+    display:  3rd ADBIS Workshop on Data Mining and Knowledge Discovery (ADMKD'07), Varna, Bulgaria, 2007.
+  highlight: 0
+  news2:
+  year: 2007
+  
+- title: "Traffic mining in a road-network: How does the traffic flow?"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi, Nikos Mitsou, Gerasimos Marketos
+  link:
+    url: 
+    display:  "Data Mining and Knowledge Discovery" Stream, in EURO XXII - 2007 European Conference on Operational Research, Prague, Czech Republic, 2007
+  highlight: 0
+  news2:
+  year: 2007
+  
+- title: "Tracing Cluster Transitions for Different Cluster Types"
+  image: 
+  description:  
+  authors: Myra Spiliopoulou, Eirini Ntoutsi,  Yannis Theodoridis
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/07.UNIPI-ISL-TR-2007-03.pdf
+    display: UNIPI-ISL-TR-2007-03, Technical Report Series, Information Systems Lab., University of Piraeus, Piraeus, Greece, July 2007. 
+  highlight: 0
+  news2:
+  year: 2007
+  
+- title: "The notion of patterns in Data Mining"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi,  Yannis Theodoridis
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/07.UNIPI-ISL-TR-2007-02.pdf
+    display: UNIPI-ISL-TR-2007-02, Technical Report Series, Information Systems Lab., University of Piraeus, Piraeus, Greece, March 2007.
+  highlight: 0
+  news2:
+  year: 2007
+  
+- title: "Pattern Management"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi,  Yannis Theodoridis
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/07.UNIPI-ISL-TR-2007-01.pdf
+    display: UNIPI-ISL-TR-2007-02, Technical Report Series, Information Systems Lab., University of Piraeus, Piraeus, Greece, March 2007.
+  highlight: 0
+  news2:
+  year: 2007
+  
+- title: "MONIC - Modeling and Monitoring Cluster Transitions"
+  image: 
+  description:  
+  authors: Myra Spiliopoulou, Eirini Ntoutsi, Yannis Theodoridis, Rene Schult
+  link:
+    url: https://doi.org/10.1145/1150402.1150491
+    display: Proc. of 12th ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'06), Philadelphia, USA, 2006.
+  highlight: 0
+  news2:
+  year: 2006
+  
+- title: "The MONIC framework for Cluster Transition Detection"
+  image: 
+  description:  
+  authors: Myra Spiliopoulou, Eirini Ntoutsi, Yannis Theodoridis, Rene Schult
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/06.HDMS.pdf
+    display: 5th Hellenic Data Management Symposium (HDMS'06), Thessaloniki, Greece, 2006.
+  highlight: 0
+  news2:
+  year: 2006
+  
+- title: "Mining the Volatile Web"
+  image: 
+  description:  
+  authors: Myra Spiliopoulou, Eirini Ntoutsi, Yannis Theodoridis
+  link:
+    url: 
+    display: Tutorial, ECML/PKDD, Porto, Portugal, 2005.
+  highlight: 0
+  news2:
+  year: 2005
+  
+- title: "Measuring and Evaluating Dissimilarity in Data and Pattern Spaces"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi, Yannis Theodoridis
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/05.VLDB_Phd_Workshop.pdf
+    display:  VLDB Phd Workshop, in conjunction with VLDB 2005 Conference, Trondheim, Norway, 2005.
+  highlight: 0
+  news2:
+  year: 2005
+  
+- title: "Database Support for Data Mining Patterns"
+  image: 
+  description:  
+  authors: Evangelos Kotsifakos, Eirini Ntoutsi, Yannis Theodoridis
+  link:
+    url: https://doi.org/10.1007/11573036_2
+    display:  10th Panhellenic Conference on Informatics (PCI'2005), Volos, Greece, 2005.
+  highlight: 0
+  news2:
+  year: 2005
+  
+- title: "A Unified and Flexible Framework for Comparing Simple and Complex Patterns"
+  image: 
+  description:  
+  authors: Ilaria Bartolini, Paolo Ciaccia, Eirini Ntoutsi, Marco Patella, Yannis Theodoridis 
+  link:
+    url: https://doi.org/10.1007/978-3-540-30116-5_45
+    display:  PKDD, Pisa, Italy, 2004
+  highlight: 0
+  news2:
+  year: 2004
+  
+- title: "The notion of similarity in data and pattern space"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/04.PARMA.pdf
+    display:  Proceedings of PARMA workshop on Pattern Representation and Management (ParMa' 04), in conjunction with EDBT 2004 Conference, Heraclion, Crete, Greece, 2004.
+  highlight: 0
+  news2:
+  year: 2004
+  
+- title: "Current Issues in Modeling Data Mining Processes and Results"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi
+  link:
+    url: http://isl.cs.unipi.gr/people/ntoutsi/papers/03.TR02.pdf#page=13
+    display:  Proceedings of PANDA Workshop on Pattern-Base Management Systems, Como, Italy, 2003.
+  highlight: 0
+  news2:
+  year: 2003
+  
+- title: "Data mining from news data and association with real data"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/master.pdf
+    display:  MSc thesis, Computer Engineering and Informatics Department (CEID), University of Patras, Greece, 2003
+  highlight: 0
+  news2:
+  year: 2003
+  
+- title: "Interactive Verification of Game Design and Playing Strategies"
+  image: 
+  description:  
+  authors: Dimitris Kalles, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.1109/TAI.2002.1180834
+    display:  14th IEEE International Conference on Tools with Artificial Intelligence, 2002. (ICTAI 2002)
+  highlight: 0
+  news2:
+  year: 2002
+  
+- title: "Modeling and improvement of human ability in strategy games"
+  image: 
+  description:  
+  authors: Eirini Ntoutsi
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/diplomatiki.pdf
+    display:  BSc thesis, Computer Engineering and Informatics Department (CEID), University of Patras, Greece, 2001.
+  highlight: 0
+  news2:
+  year: 2001
+  
+- title: "Scalable and interoperable e-commerce infrastructures: The Instant Commerce Server paradigm"
+  image: 
+  description:  
+  authors: Dimitris Dadiotis, Dimitris Kalles, Eirini Ntoutsi, Athanassios Papagelis
+  link:
+    url: https://kbs.uni-hannover.de/~ntoutsi/papers/01.ICS.pdf
+    display:  PHCI Workshop-Transforming Web Surfers to E-Shoppers, Patras, Greece, 2001
+  highlight: 0
+  news2:
+  year: 2001
+  
+- title: "Induction of decision trees in numeric domains using set-valued attributes"
+  image: 
+  description:  
+  authors: Dimitris Kalles, Athanassios Papagelis, Eirini Ntoutsi
+  link:
+    url: https://doi.org/10.3233/IDA-2000-43-411
+    display:  Intelligent Data Analysis (IDA), 3(4), 323-347, 2000.
+  highlight: 0
+  news2:
+  year: 2000
