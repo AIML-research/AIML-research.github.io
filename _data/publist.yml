@@ -7,8 +7,6 @@
 #    display: Science 374, 608 (2021)
 #  highlight: 1  or 0
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/),[SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered)
-
-
 - title: "Interpretable Visual Understanding with Cognitive Attention Network"
   image: Xuejiao2021.png
   description: We propose a novel Cognitive Attention Network (CAN) for visual commonsense reasoning to achieve interpretable visual understanding. Specifically, we first introduce an image-text fusion module to fuse Information from images and text collectively. Second, a novel inference module is designed to encode commonsense among image, query and response. Extensive experiment on large-scale Visual Commonsense Reasoning (VCR) benchmark dataset demonstrate the effectiveness of our approach.
@@ -912,7 +910,7 @@
   news2:
   year: 2011
   
- - title: "Density-based community detection in social networks"
+- title: "Density-based community detection in social networks"
   image: 
   description:  
   authors:  Kumar Subramani, Alexander Velkov, Irene Ntoutsi, Peer Kroger, Hans-Peter Kriegel
@@ -923,7 +921,7 @@
   news2:
   year: 2011 
   
- - title: "Summarizing Cluster Evolution in Dynamic Environments"
+- title: "Summarizing Cluster Evolution in Dynamic Environments"
   image: 
   description:  
   authors:  Irene Ntoutsi, Myra Spiliopoulou, Yannis Theodoridis 
@@ -934,7 +932,7 @@
   news2:
   year: 2011  
   
- - title: "Towards Subspace Clustering on Dynamic Data: An Incremental Version of PreDeCon"
+- title: "Towards Subspace Clustering on Dynamic Data: An Incremental Version of PreDeCon"
   image: 
   description:  
   authors:  Hans-Peter Kriegel, Peer Kröger, Irene Ntoutsi, Arthur Zimek 
@@ -945,7 +943,7 @@
   news2:
   year: 2010
   
- - title: "The PANDA framework for comparing patterns"
+- title: "The PANDA framework for comparing patterns"
   image: 
   description:  
   authors:  Ilaria Bartolini, Paolo Ciaccia, Irene Ntoutsi, Marco Patella, Yannis Theodoridis
@@ -956,7 +954,7 @@
   news2:
   year: 2009    
   
- - title: "Tracing cluster transitions for different cluster types"
+- title: "Tracing cluster transitions for different cluster types"
   image: 
   description:  
   authors:  Irene Ntoutsi, Myra Spiliopoulou, Yannis Theodoridis
