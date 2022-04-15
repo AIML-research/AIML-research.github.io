@@ -876,3 +876,92 @@
   highlight: 0
   news2:
   year: 2012  
+
+- title: "Mining Complex Dynamic Data"
+  image: 
+  description:  
+  authors:  Hans-Peter Kriegel, Eirini Ntoutsi,  Arthur Zimek, Myra Spiliopoulou, G. Tsoumakas
+  link:
+    url: http://omen.cs.uni-magdeburg.de/itikmd/home/Mining-Complex-Dynamic-Data.html
+    display:  Tutorial, ECML/PKDD 2011, Athens, Greece
+  highlight: 0
+  news2:
+  year: 2011
+  
+- title: "Density Based Subspace Clustering Over Dynamic Data"
+  image: 
+  description:  
+  authors:  Hans-Peter Kriegel, Peer Kröger, Irene Ntoutsi, Arthur Zimek 
+  link:
+    url: https://doi.org/10.1007/978-3-642-22351-8_24
+    display:  SSDBM 2011, Portland, Oregon, USA.
+  highlight: 0
+  news2:
+  year: 2011  
+  
+- title: "Revealing cluster formation over huge volatile robotic data"
+  image: 
+  description:  
+  authors:  Nikos Mitsou, Irene Ntoutsi, Dirk Wollherr, Costas Tzafestas, Hans-Peter Kriegel
+  link:
+    url: https://doi.org/10.1109/ICDMW.2011.147
+    display:  IEEE Wokshop on Domain Driven Data Mining (DDDM), in conjunction with ICDM 2011, Vancouver, Canada, 2011
+  highlight: 0
+  news2:
+  year: 2011
+  
+ - title: "Density-based community detection in social networks"
+  image: 
+  description:  
+  authors:  Kumar Subramani, Alexander Velkov, Irene Ntoutsi, Peer Kroger, Hans-Peter Kriegel
+  link:
+    url: https://doi.org/10.1109/IMSAA.2011.6156357
+    display:  IEEE Workshop on Business Applications of Social Network Analysis (BASNA), in conjunction with IMSAA 2011, Bangalore, India, 2011
+  highlight: 0
+  news2:
+  year: 2011 
+  
+ - title: "Summarizing Cluster Evolution in Dynamic Environments"
+  image: 
+  description:  
+  authors:  Irene Ntoutsi, Myra Spiliopoulou, Yannis Theodoridis 
+  link:
+    url: https://doi.org/10.1007/978-3-642-21887-3_43
+    display:  Proc. of 11th International Conference on Computational Science and Its Applications (ICCSA'11), Santander, Spain, 2011.Springer.
+  highlight: 0
+  news2:
+  year: 2011  
+  
+ - title: "Towards Subspace Clustering on Dynamic Data: An Incremental Version of PreDeCon"
+  image: 
+  description:  
+  authors:  Hans-Peter Kriegel, Peer Kröger, Irene Ntoutsi, Arthur Zimek 
+  link:
+    url: https://doi.org/10.1145/1833280.1833285
+    display:  StreamKDD Workshop, in conjunction with KDD 2010, Washington, DC, 2010
+  highlight: 0
+  news2:
+  year: 2010
+  
+ - title: "The PANDA framework for comparing patterns"
+  image: 
+  description:  
+  authors:  Ilaria Bartolini, Paolo Ciaccia, Irene Ntoutsi, Marco Patella, Yannis Theodoridis
+  link:
+    url: https://doi.org/10.1016/j.datak.2008.10.004
+    display:  Data & Knowledge Engineering, 68(2), 244-260, February 2009. Elsevier Science.
+  highlight: 0
+  news2:
+  year: 2009    
+  
+ - title: "Tracing cluster transitions for different cluster types"
+  image: 
+  description:  
+  authors:  Irene Ntoutsi, Myra Spiliopoulou, Yannis Theodoridis
+  link:
+    url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.410.9068&rep=rep1&type=pdf
+    display:  Control and Cybernetics Journal, 38(1) 239-260, 2009. Polish Academy of Sciences.
+  highlight: 0
+  news2:
+  year: 2009     
+  
