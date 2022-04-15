@@ -1081,7 +1081,7 @@
   authors: Gerasimos Marketos, Elias Frentzos, Nikos Giatrakos, Eirini Ntoutsi, Nikos Pelekis, Alessandra Raffaeta, Yannis Theodoridis
   link:
     url: http://isl.cs.unipi.gr/pubs/confs/HDMS08.pdf
-    display:  Proc. 7th Hellenic Data Management Symposium (HDMS'08), Heraclion, Greece, July 2008.
+    display:  Proc. 7th Hellenic Data Management Symposium (HDMS 2008), Heraclion, Greece, July 2008.
   highlight: 0
   news2:
   year: 2008
@@ -1103,7 +1103,7 @@
   authors: Nikos Pelekis, Ioannis Kopanakis, Gerasimos Marketos, Eirini Ntoutsi, Gennady Andrienko, Yannis Theodoridis
   link:
     url: https://doi.org/10.1109/TIME.2007.59
-    display:  14th International Symposium on Temporal Representation and Reasoning (TIME'07), 2007.
+    display:  14th International Symposium on Temporal Representation and Reasoning (TIME 2007), 2007.
   highlight: 0
   news2:
   year: 2007
@@ -1125,7 +1125,7 @@
   authors: Eirini Ntoutsi, Nikos Pelekis, Yannis Theodoridis
   link:
     url: https://doi.org/10.4018/978-1-59904-271-8.ch004
-    display:  Research and Trends in Data Mining Technologies and Applications: Advances in Data Warehousing and Mining, Idea Group Publishing, 2007.
+    display:  Research and Trends in Data Mining Technologies and Applications - Advances in Data Warehousing and Mining, Idea Group Publishing, 2007.
   highlight: 0
   news2:
   year: 2007    
@@ -1136,7 +1136,7 @@
   authors: Myra Spiliopoulou, Eirini Ntoutsi, Yannis Theodoridis
   link:
     url: https://kbs.uni-hannover.de/~ntoutsi/papers/07.ADMKD.pdf
-    display:  3rd ADBIS Workshop on Data Mining and Knowledge Discovery (ADMKD'07), Varna, Bulgaria, 2007.
+    display:  3rd ADBIS Workshop on Data Mining and Knowledge Discovery (ADMKD 2007), Varna, Bulgaria, 2007.
   highlight: 0
   news2:
   year: 2007
@@ -1191,7 +1191,7 @@
   authors: Myra Spiliopoulou, Eirini Ntoutsi, Yannis Theodoridis, Rene Schult
   link:
     url: https://doi.org/10.1145/1150402.1150491
-    display: Proc. of 12th ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'06), Philadelphia, USA, 2006.
+    display: Proc. of 12th ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD 2006), Philadelphia, USA, 2006.
   highlight: 0
   news2:
   year: 2006
@@ -1202,7 +1202,7 @@
   authors: Myra Spiliopoulou, Eirini Ntoutsi, Yannis Theodoridis, Rene Schult
   link:
     url: https://kbs.uni-hannover.de/~ntoutsi/papers/06.HDMS.pdf
-    display: 5th Hellenic Data Management Symposium (HDMS'06), Thessaloniki, Greece, 2006.
+    display: 5th Hellenic Data Management Symposium (HDMS 2006), Thessaloniki, Greece, 2006.
   highlight: 0
   news2:
   year: 2006
