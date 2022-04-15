@@ -965,3 +965,57 @@
   news2:
   year: 2009    
   
+- title: "A general framework for estimating similarity of datasets and decision trees: exploring semantic similarity of decision trees"
+  image: 
+  description:  
+  authors:  Irene Ntoutsi, Alexandros Kalousis, Yannis Theodoridis
+  link:
+    url: https://doi.org/10.1137/1.9781611972788.73
+    display:  SIAM International Conference on Data Mining (SDM08), Atlanta, Georgia, 2008.
+  highlight: 0
+  news2:
+  year: 2008
+  
+- title: "PATTERN-MINER: Integrated Management and Mining over Data Mining Models (Demo)"
+  image: 
+  description:  
+  authors: Evangelos E. Kotsifakos, Irene Ntoutsi, Yannis Vrahoritis, Yannis Theodoridis 
+  link:
+    url: https://doi.org/10.1145/1401890.1402024
+    display:  Proc. of 14th ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'08), Las Vegas, USA, 2008.
+  highlight: 0
+  news2:
+  year: 2008 
+  
+- title: "Monitoring Patterns through an Integrated Management and Mining Tool (Demo)"
+  image: 
+  description:  
+  authors: Evangelos E. Kotsifakos, Irene Ntoutsi, Yannis Vrahoritis, Yannis Theodoridis 
+  link:
+    url: https://doi.org/10.1007/978-3-540-87481-2_46
+    display:  Proc. of Machine Learning and Knowledge Discovery in Databases, European Conference (ECML/PKDD'08), Antwerp, Belgium, 2008.
+  highlight: 0
+  news2:
+  year: 2008
+  
+- title: "Towards Trajectory Data Warehouses"
+  image: 
+  description:  
+  authors: N. Pelekis, A. Raffaetà, M. -L. Damiani, C. Vangenot, G. Marketos, E. Frentzos, I. Ntoutsi, Y. Theodoridis 
+  link:
+    url: https://doi.org/10.1007/978-3-540-75177-9_8
+    display:  In F. Giannotti and D. Pedreschi (eds), Mobility, Data Mining and Privacy, Springer, 2008
+  highlight: 0
+  news2:
+  year: 2008
+  
+- title: "Trajectory Database Systems"
+  image: 
+  description:  
+  authors: E. Frentzos, N. Pelekis, I. Ntoutsi, Y. Theodoridis 
+  link:
+    url: https://doi.org/10.1007/978-3-540-75177-9_7
+    display:  In F. Giannotti and D. Pedreschi (eds), Mobility, Data Mining and Privacy, Springer, 2008.
+  highlight: 0
+  news2:
+  year: 2008  
