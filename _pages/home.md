@@ -30,6 +30,7 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
             <a href="https://doi.org/10.1002/widm.1356">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoBIAS.Survey@WIREs2020.png" alt="NoBias ITN survey paper overview @WIREs DMKD 2020" />
             </a>
+            <div>NoBias ITN survey paper overview @WIREs DMKD 2020</div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.JPG" alt="KDML@LWDA 2019 in Berlin 2" />
