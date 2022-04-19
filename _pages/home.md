@@ -20,8 +20,7 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+        
     </ol>
 
     <!-- Items -->
@@ -32,22 +31,21 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
             </a>            
         </div>
         <div class="item">
+            <a href="https://pages.cms.hu-berlin.de/ipa/lwda2019/">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.JPG" alt="KDML@LWDA 2019 in Berlin 2" />
+            </a>
         </div>
         <div class="item">
+            <a href = "https://www.lorentzcenter.nl/fairness-in-algorithmic-decision-makinga-domain-specific-approach.html">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairnessIAlgo@LorentzCenter.Poster.2022.png" alt="Fairness in Algorithmic Decision Making:A Domain-Specific Approach @ Lorentz Center, NL, 2022" />
+            </a>
         </div>
         <div class="item">
             <a href="https://doi.org/10.1002/widm.1452">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tai-widm1452.png" alt="LernMINT survey paper overview @WIREs DMKD 2022" />
             </a>
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
-        </div>
+        
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
