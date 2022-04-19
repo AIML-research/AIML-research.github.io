@@ -28,7 +28,7 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <a href="https://doi.org/10.1002/widm.1356">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoBIAS.Survey@WIREs2020.png" /><div>NoBias ITN survey paper overview @WIREs 2020</div>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoBIAS.Survey@WIREs2020.png" alt="NoBias ITN survey paper overview @WIREs DMKD 2020" />
             </a>
         </div>
         <div class="item">
@@ -38,7 +38,9 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairnessIAlgo@LorentzCenter.Poster.2022.png" alt="Fairness in Algorithmic Decision Making:A Domain-Specific Approach @ Lorentz Center, NL, 2022" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tai-widm1452.png" alt="Slide 4" />
+            <a href="https://doi.org/10.1002/widm.1452">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tai-widm1452.png" alt="LernMINT survey paper overview @WIREs DMKD 2022" />
+            </a>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
