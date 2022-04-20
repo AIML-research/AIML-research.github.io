@@ -45,6 +45,11 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tai-widm1452.png" alt="LernMINT survey paper overview @WIREs DMKD 2022" />
             </a>
         </div>
+        <div class="item">
+            <a href="https://gec-ws.athenarc.gr/">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACM-W.FairnessInAI.2022.png" alt="ACM-W Greece Winter School on Fairness in AI @online 2022" />
+            </a>
+        </div>
         
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
