@@ -32,22 +32,22 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
         </div>
         <div class="item">
             <a href="https://pages.cms.hu-berlin.de/ipa/lwda2019/" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.JPG" alt="KDML@LWDA 2019 in Berlin 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.JPG" alt="KDML@LWDA 2019 in Berlin 2" width="1253" height="533"/>
             </a>
         </div>
         <div class="item">
             <a href = "https://www.lorentzcenter.nl/fairness-in-algorithmic-decision-makinga-domain-specific-approach.html" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairnessIAlgo@LorentzCenter.Poster.2022.png" alt="Fairness in Algorithmic Decision Making:A Domain-Specific Approach @ Lorentz Center, NL, 2022" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairnessIAlgo@LorentzCenter.Poster.2022.png" alt="Fairness in Algorithmic Decision Making:A Domain-Specific Approach @ Lorentz Center, NL, 2022"  width="1253" height="533"/>
             </a>
         </div>
         <div class="item">
             <a href="https://doi.org/10.1002/widm.1452" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tai-widm1452.png" alt="LernMINT survey paper overview @WIREs DMKD 2022" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tai-widm1452.png" alt="LernMINT survey paper overview @WIREs DMKD 2022"  width="1253" height="533"/>
             </a>
         </div>
         <div class="item">
             <a href="https://gec-ws.athenarc.gr/" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACM-W.FairnessInAI.2022.png" alt="ACM-W Greece Winter School on Fairness in AI @online 2022" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACM-W.FairnessInAI.2022.png" alt="ACM-W Greece Winter School on Fairness in AI @online 2022"  width="1253" height="533"/>
             </a>
         </div>
         
