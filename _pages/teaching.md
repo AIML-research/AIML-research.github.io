@@ -7,5 +7,11 @@ permalink: /teaching/
 ---
 
 ## Teaching
-### Summer term 2022
-Vorlesungszeit: 19.04.2022 - 23.07.2022.
+### Summer term 2022 @FUB
+See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS22/index.html" target="new">SoSe22 lectures</a>
+
+### Winter term 2021/22 @FUB
+See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/WS-21_22/index.html" target="new">WiSe 21/22 lectures</a>
+
+### Summer term 2021 @FUB
+See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/index.html" target="new">SoSe21 lectures</a>
