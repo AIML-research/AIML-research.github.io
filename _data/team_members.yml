@@ -10,14 +10,14 @@
   info: External doctoral student
   email: yi.cai@fu-berlin.de
   number_educ: 1
-  education1: Research Assistant in the project "Responsible Artificial Intelligence"
+  education1: Project: Responsible AI
   
 - name: Alaa Elobaid
   photo: Alaa.jpg
   info: External doctoral student
   email: elobaida@zedat.fu-berlin.de
   number_educ: 1
-  education1: Researcher in the EU-project "NoBIAS, AI-without Bias"
+  education1: Project: NoBIAS
   
 
 - name: Simone Fabbrizzi
@@ -25,46 +25,46 @@
   info: External doctoral student
   email: simone.fabbrizzi@iti.gr
   number_educ: 1
-  education1: Researcher in the EU-project "NoBIAS, AI-without Bias"
+  education1: Project: NoBIAS
   
 - name: Seyed Siamak Ghodsi
   photo: Siamak.jpg
   info: External doctoral student
   email: siamak.ghodsi@fu-berlin.de
   number_educ: 1
-  education1: Researcher in the EU-project "NoBIAS, AI-without Bias"
+  education1: Project: NoBIAS
   
   
 - name: Manuel Heurich
   photo: Manuel.jpg
   info: Research Assistant / Doctoral Student
   email: manuel.heurich@fu-berlin.de
-  number_educ: 0
+  number_educ: 1
   
 - name: Tai Le Quy
   photo: Tai.jpg
   info: External doctoral student
   email: tai.lequy@.fu-berlin.de
   number_educ: 1
-  education1: Research Assistant in the project "LernMINT - Datengestützter Unterricht in den MINT-Fächern"
-  
+  education1: Project: LernMINT
+   
 - name: Philip Naumann
   photo: Philip.jpg
   info: Research Assistant / Doctoral Student
   email: philip.naumann@fu-berlin.de
   number_educ: 1
-  education1: Research in the GRF-project "Hephaestus"
+  education1: Project: Hephaestus
   
 - name: Emmanouil Panagiotou
   photo: Emmanouil.jpg
   info: Research Assistant / Doctoral Student
   email: emmanouil.panagiotou@fu-berlin.de
   number_educ: 1
-  education1: Researcher in the GRF-SFB-project "Offshore-Megastrukturen"
+  education1: Project: SFB1463
   
 - name: Arjun Roy
   photo: Arjun.jpg
   info: Research Assistant / Doctoral Student
   email: arjun.roy@fu-berlin.de
   number_educ: 1
-  education1: Research in the VW-project "BIAS" 
+  education1: Project: BIAS 
