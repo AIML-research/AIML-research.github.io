@@ -4,7 +4,8 @@
   email: arjun.roy@fu-berlin.de
   number_educ: 1
   education1: "Project: BIAS"
-  website: 
+  website:
+  interest:
 
 - name: Alaa Elobaid
   photo: Alaa.jpg
@@ -13,6 +14,7 @@
   number_educ: 1
   education1: "Project: NoBIAS"
   website: 
+  interest:
   
 - name: Emmanouil Panagiotou
   photo: Emmanouil.jpg
@@ -20,6 +22,8 @@
   email: emmanouil.panagiotou@fu-berlin.de
   number_educ: 1
   education1: "Project: SFB1463"
+  website:
+  interest:
   
 - name: Manuel Heurich
   photo: Manuel.jpg
@@ -27,6 +31,7 @@
   email: manuel.heurich@fu-berlin.de
   number_educ: 0
   website:
+  interest:
   
 - name: Philip Naumann
   photo: Philip.jpg
@@ -35,6 +40,7 @@
   number_educ: 1
   education1: "Project: Hephaestus"
   website: "https://www.philipnaumann.com/"
+  interest:
   
 - name: Seyed Siamak Ghodsi
   photo: Siamak.jpg
@@ -42,6 +48,8 @@
   email: siamak.ghodsi@fu-berlin.de
   number_educ: 1
   education1: "Project: NoBIAS"
+  website:
+  interest:
   
 - name: Simone Fabbrizzi
   photo: Simone.jpg
@@ -50,6 +58,7 @@
   number_educ: 1
   education1: "Project: NoBIAS"
   website:
+  interest:
   
 - name: Tai Le Quy
   photo: Tai.jpg
@@ -58,6 +67,7 @@
   number_educ: 1
   education1: "Project: LernMINT"
   website: "https://tailequy.github.io/"
+  interest:
   
 - name: Yi Cai
   photo: Yi.jpg
@@ -66,3 +76,4 @@
   number_educ: 1
   education1: "Project: Responsible AI"
   website:
+  interest:
