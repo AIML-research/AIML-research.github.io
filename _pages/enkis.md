@@ -9,7 +9,7 @@ permalink: /projects/enkis/
 ### ENKIS: Etablierung nachhaltiger KI-bezogener Studienangebote für eine Verantwortungsvolle Künstliche Intelligenz an der Freien Universität Berlin
 <div>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-enkis.png" style="width: 250px">  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-enkis.jpg" style="width: 250px">  
 </figure>
 </div>
 
