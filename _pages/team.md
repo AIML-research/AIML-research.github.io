@@ -23,6 +23,7 @@ permalink: /team/
   <i>{{ member.info }} </i> <br>
   - E-mail: {{ member.email }}
   - Research interests: {{ member.interest }}
+  
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -151,6 +152,8 @@ permalink: /team/
   <i>{{ member.info }} </i> <br>
   - E-mail: {{ member.email }}
   - Research interests: {{ member.interest }} 
+  - Project: {{ member.project }}
+  - <a href = {{ member.website }}>Website </a>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -184,7 +187,7 @@ permalink: /team/
   {% endif %}
 
   </ul>
-  - <a href = {{ member.interest }}>Website </a>
+  
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
