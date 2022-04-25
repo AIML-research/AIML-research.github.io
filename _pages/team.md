@@ -149,10 +149,10 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} </i> <br>
+  <i>{{ member.info }} </i>
   - E-mail: {{ member.email }}  
   - Project: {{ member.project }}
-  - <a href=" {{ member.project }} ">Website</a>
+  - <a href=" {{ member.website }} ">Website</a>
   - Research interests: {{ member.interest }} 
   <ul style="overflow: hidden">
 
