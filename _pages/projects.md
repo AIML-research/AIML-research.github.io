@@ -7,3 +7,4 @@ permalink: /projects/
 ---
 
 ## Research projects
+<a href = "https://aiml-research.github.io/projects/lernmint/">LernMINT </a>
