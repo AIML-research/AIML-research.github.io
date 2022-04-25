@@ -15,8 +15,13 @@ permalink: /projects/offshore/
 
 - <b>Funding: </b> German Research Foundation (Deutsche Forschungsgemeinschaft - DFG)
 - <b>Project duration: </b> 23.08.2021 — 31.12.2024
-- <b>Members: </b> Emmanouil Panagiotou, Philip Naumann, Anton Kriese
 - <b>Homepage: </b> <a href="https://www.sfb1463.uni-hannover.de/">Offshore Megastrukturen</a>
+
+#### Team
+- Prof. Dr. Eirini Ntoutsi
+- MSc.Emmanouil Panagiotou
+- MSc. Philip Naumann
+- Anton Kriese
 
 #### Challenges & Highlights
 
