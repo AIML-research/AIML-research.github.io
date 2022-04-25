@@ -36,6 +36,6 @@ In approaching this question, the main goal of our computer science research tea
 - Ntoutsi, E., Fafalios, P., Gadiraju, U., Iosifidis, V., Nejdl, W., Vidal, M. E., ... & Staab, S. (2020). <a href = "https://onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1356"> Bias in data‐driven artificial intelligence systems—An introductory survey. </a> Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 10(3), e1356.
 - Zhang, W., & Ntoutsi, E. (2019, August). <a href = "https://dl.acm.org/doi/abs/10.5555/3367032.3367242"> FAHT: an adaptive fairness-aware decision tree classifier </a>. In Proceedings of the 28th International Joint Conference on Artificial Intelligence (pp. 1480-1486).
 - Iosifidis, V., & Ntoutsi, E. (2019, November). <a href = "https://dl.acm.org/doi/abs/10.1145/3357384.3357974"> Adafair: Cumulative fairness adaptive boosting. </a> In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (pp. 781-790).
-- 
-
-
+- Iosifidis, V., Fetahu, B., & Ntoutsi, E. (2019, December). <a href = "https://ieeexplore.ieee.org/abstract/document/9006487/"> FAE: A fairness-aware ensemble framework. </a> In 2019 IEEE International Conference on Big Data (Big Data) (pp. 1375-1380). IEEE.
+- Iosifidis, V., Tran, T. N. H., & Ntoutsi, E. (2019, August). <a href ="https://link.springer.com/chapter/10.1007/978-3-030-27615-7_20"> Fairness-enhancing interventions in stream classification.</a> In International Conference on Database and Expert Systems Applications (pp. 261-276). Springer, Cham.
+- Iosifidis, V., & Ntoutsi, E. (2018). <a href ="http://l3s.de/~iosifidis/Publications/bias_augmentation.pdf">Dealing with bias via data augmentation in supervised learning scenarios. </a> BIAS workshop in conjunction with iConference.
