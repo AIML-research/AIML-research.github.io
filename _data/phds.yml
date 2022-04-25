@@ -2,8 +2,8 @@
   photo: Arjun.jpg
   info: Research Assistant / Doctoral Student
   email: arjun.roy@fu-berlin.de
-  number_educ: 1
-  education1: "Project: BIAS"
+  number_educ: 0
+  project: BIAS
   website:
   interest:
 
@@ -11,8 +11,8 @@
   photo: Alaa.jpg
   info: External doctoral student
   email: elobaida@zedat.fu-berlin.de
-  number_educ: 1
-  education1: "Project: NoBIAS"
+  number_educ: 0
+  project: NoBIAS
   website: 
   interest:
   
@@ -20,8 +20,8 @@
   photo: Emmanouil.jpg
   info: Research Assistant / Doctoral Student
   email: emmanouil.panagiotou@fu-berlin.de
-  number_educ: 1
-  education1: "Project: SFB1463"
+  number_educ: 0
+  project: SFB1463
   website:
   interest:
   
@@ -37,8 +37,8 @@
   photo: Philip.jpg
   info: Research Assistant / Doctoral Student
   email: philip.naumann@fu-berlin.de
-  number_educ: 1
-  education1: "Project: Hephaestus"
+  number_educ: 0
+  project: Hephaestus
   website: "https://www.philipnaumann.com/"
   interest:
   
@@ -46,8 +46,8 @@
   photo: Siamak.jpg
   info: External doctoral student
   email: siamak.ghodsi@fu-berlin.de
-  number_educ: 1
-  education1: "Project: NoBIAS"
+  number_educ: 0
+  project: NoBIAS
   website:
   interest:
   
@@ -55,8 +55,8 @@
   photo: Simone.jpg
   info: External doctoral student
   email: simone.fabbrizzi@iti.gr
-  number_educ: 1
-  education1: "Project: NoBIAS"
+  number_educ: 0
+  project: NoBIAS
   website:
   interest:
   
@@ -64,8 +64,8 @@
   photo: Tai.jpg
   info: External doctoral student
   email: tai.lequy@.fu-berlin.de
-  number_educ: 1
-  education1: "Project: LernMINT"
+  number_educ: 0
+  project: LernMINT
   website: "https://tailequy.github.io/"
   interest:
   
@@ -73,7 +73,7 @@
   photo: Yi.jpg
   info: External doctoral student
   email: yi.cai@fu-berlin.de
-  number_educ: 1
-  education1: "Project: Responsible AI"
+  number_educ: 0
+  project: Responsible AI
   website:
   interest:
