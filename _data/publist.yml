@@ -680,13 +680,13 @@
   year: 2013 
 
 - title: "Strength Lies in Differences - Diversifying Friends for Recommendations through Subspace Clustering"
-  image: Eirini2014CIKM
+  image: Eirini2014CIKM.png
   description:  we explore the fault-tolerant subspace clustering approach. We extend the concept of fault tolerance to density-based subspace clustering, and to speed up our algorithms, we introduce the significance threshold for considering only promising dimensions for subspace extension. Moreover, as we potentially receive a multitude of users from subspace clustering, we propose a weighted ranking approach to refine the set of like-minded users. Our experiments on real movie datasets show that the diversification of the similar users that the subspace clustering approaches offer results in better recommendations compared to traditional collaborative filtering and full-dimensional clustering approaches.
   authors: Eirini Ntoutsi, Kostas Stefanidis, Katharina Rausch, Hans-Peter Kriegel    
   link:
     url: https://doi.org/10.1145/2661829.2662026
     display:  23rd ACM International Conference on Information and Knowledge Management (CIKM), Shanghai, China, November 3- 7, 2014.
-  highlight: 0
+  highlight: 1
   news2:
   year: 2014
   
