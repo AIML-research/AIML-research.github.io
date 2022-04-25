@@ -26,4 +26,5 @@ Data-driven decision making entails the risk of discrimination towards specific 
 In this project, we will investigate the sources of bias as well as methods for bias detection and mitigation in methods for the learning analytics domain, from traditional classroom data to MOOC data. We will focus in particular on data from the STEM domain, especially Physics.
 
 #### Related publications
+- Le Quy, T., Roy, A., Iosifidis, V., Zhang, W., & Ntoutsi, E. (2022). A survey on datasetsfor fairness-aware machine learning.Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,e1452.<a href = "https://doi.org/10.1002/widm.1452">https://doi.org/10.1002/widm.1452 </a>
 
