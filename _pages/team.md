@@ -71,7 +71,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Secretary
+### Secretariat
 {% assign number_printed = 0 %}
 {% for member in site.data.secretary %}
 
