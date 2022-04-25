@@ -97,7 +97,7 @@
   
 - title: "Drift-Aware Multi-Memory Model for Imbalanced Data Streams"
   image: Amir2020.png
-  description: We propose the Drift-Aware Multi-Memory Model (DAM3), which addresses the class imbalance problem in online learning for memory-based models, namely KNNs. DAM3 mitigates class imbalance by incorporating an imbalance-sensitive drift detector, preserving a balanced representation of classes in the model, and resolving retroactive interference using a working memory that prevents the forgetting of old information. We show through experiments on real-world and synthetic datasets that the proposed method mitigates class imbalance and outperforms the state-of-the-art methods.
+  description: We propose the Drift-Aware Multi-Memory Model (DAM3), which addresses the class imbalance problem in online learning for memory-based models, namely KNNs. DAM3 mitigates class imbalance by incorporating an imbalance-sensitive drift detector, preserving a balanced representation of classes in the model, and resolving retroactive interference using a working memory that prevents the forgetting of old information.
   authors: Amir Abolfazli, Eirini Ntoutsi
   link:
     url: https://ieeexplore.ieee.org/document/9378101
