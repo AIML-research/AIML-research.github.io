@@ -6,4 +6,15 @@ sitemap: false
 permalink: /projects/lernmint/
 ---
 
-## LernMINT projects
+## LernMINT: Dealing with bias and discrimination in learning analytics models
+
+- <b>Funding: </b> LernMINT is funded by the Ministry of Science and Culture, Lower Saxony, within the funding line of the Lower Saxony PhD Program (“Nds. Promotionsprogramm, funding phase 2019-2024).
+- <b>Project duration: </b> 01.08.2020 — 31.07.2023
+- <b>Member: </b> Tai Le Quy
+- <b>Homepage: </b> <a href="https://lernmint.org/">LernMINT </a>
+<i>The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods. </i>
+
+Data-driven decision making entails the risk of discrimination towards specific individuals or population segments defined upon protected attributes like gender, race etc. The domain of fairness-aware machine learning has recently emerged to address the issues of fairness and discrimination in Machine Learning. In particular, methods have been proposed that focus on understanding bias at the data and/or model results, mitigate bias at different phases of the data analysis pipeline from training data to learning algorithms and model outputs as well as accounting for bias via bias-aware data collection, explaining model results etc.
+
+In this project, we will investigate the sources of bias as well as methods for bias detection and mitigation in methods for the learning analytics domain, from traditional classroom data to MOOC data. We will focus in particular on data from the STEM domain, especially Physics.
+
