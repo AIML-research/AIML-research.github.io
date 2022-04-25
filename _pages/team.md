@@ -22,7 +22,6 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i>
   - E-mail: {{ member.email }}
-  - Research interests: {{ member.interest }}
   
   <ul style="overflow: hidden">
 
