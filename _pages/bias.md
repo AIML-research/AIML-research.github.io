@@ -9,7 +9,7 @@ permalink: /projects/bias/
 ### BIAS: Bias and Discrimination in Big Data and Algorithmic Processing. Philosophical Assessments, Legal Dimensions, and Technical Solutions
 <div>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bias.png" style="width: 250px">  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bias.jpg" style="width: 250px">  
 </figure>
 </div>
 
