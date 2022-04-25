@@ -7,9 +7,9 @@ permalink: /publications/
 ---
 
 
-## Publications
+### Publications
 
-### Group highlights
+#### Group highlights
 
 (For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=RdA9uxYAAAAJ))
 
@@ -52,7 +52,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-### Full list of publications
+#### Full list of publications
 #### 2022
 
 {% for publi in site.data.publist %}
