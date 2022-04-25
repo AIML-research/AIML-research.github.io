@@ -8,14 +8,20 @@ permalink: /projects/
 
 ## Research projects
 
+### <a href = "https://aiml-research.github.io/projects/Offshore">Offshore Megastrukturen</a>
+Funding: DFG
+The main innovation is therefore the development of a prognosis model for predicting the design quality of offshore support structures.
+### <a href = "https://aiml-research.github.io/projects/enkis">ENKIS</a>
+Project as part of the guidelines for the Bund-Länger to promote Artificial Intelligence in higher education.
 
-###<a href = "https://aiml-research.github.io/projects/hephaestus">Hephaestus</a>
+### <a href = "https://aiml-research.github.io/projects/hephaestus">Hephaestus</a>
+Funding: 
 Rising customer demands and a trend towards smaller batch sizes have led to an increased complexity in product design and subsequent process planning, e.g. of 5-axes milling operations. Thus, process simulations are commonly used in industry to support process planning. Especially, the dimensional accuracy is crucial for most machined parts, since it affects directly the functionality. Consequently, finishing operations have especially high requirements with respect to the surface tolerances. Despite the aforementioned simulation tools, manual adjustments, which rely on the expert knowledge of workers and process planners, are still necessary in order to cope with process- or machine-specific deviations such as tool stiffness or machine dynamics.
 
 ### <a href = "https://aiml-research.github.io/projects/kiswind">KISWIND </a>
 The demand for automated damage detection in the field of civil infrastructures is high, for economic and safety reasons. This collaborative research project aims to contribute to a further development of automated damage detection in wind energy turbines based on acoustic emission testing (AET) and machine learning.
 
-###<a href = "https://aiml-research.github.io/projects/lernmint/">LernMINT </a>
+### <a href = "https://aiml-research.github.io/projects/lernmint/">LernMINT </a>
 Funding: The Ministry of Science and Culture (MWK)
 The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods.
 
