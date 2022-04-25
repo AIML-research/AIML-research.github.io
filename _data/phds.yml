@@ -5,8 +5,7 @@
   number_educ: 0
   project: BIAS
   website:
-  interest: Fairness-aware Learning, BIAS in AI, Deep Learning
-
+  
 - name: Alaa Elobaid
   photo: Alaa.jpg
   info: External doctoral student
@@ -14,7 +13,6 @@
   number_educ: 0
   project: NoBIAS
   website: 
-  interest: Machine Learning
   
 - name: Emmanouil Panagiotou
   photo: Emmanouil.jpg
@@ -23,7 +21,6 @@
   number_educ: 0
   project: SFB1463
   website:
-  interest: Machine Learning
   
 - name: Manuel Heurich
   photo: Manuel.jpg
@@ -31,7 +28,6 @@
   email: manuel.heurich@fu-berlin.de
   number_educ: 0
   website:
-  interest: Machine Learning
   
 - name: Philip Naumann
   photo: Philip.jpg
@@ -40,7 +36,6 @@
   number_educ: 0
   project: Hephaestus
   website: "https://www.philipnaumann.com/"
-  interest: Artificial Intelligence, Machine Learning, Bio-inspired computing, Visualization & Design
   
 - name: Seyed Siamak Ghodsi
   photo: Siamak.jpg
@@ -49,7 +44,6 @@
   number_educ: 0
   project: NoBIAS
   website:
-  interest: Machine Learning, Optimization, Fairness-aware Learning, Data Stream Mining
   
 - name: Simone Fabbrizzi
   photo: Simone.jpg
@@ -58,8 +52,7 @@
   number_educ: 0
   project: NoBIAS
   website:
-  interest: Bias in AI, Computer Vision
-  
+   
 - name: Tai Le Quy
   photo: Tai.jpg
   info: External doctoral student
@@ -67,7 +60,6 @@
   number_educ: 0
   project: LernMINT
   website: "https://tailequy.github.io/"
-  interest: Fairness-aware Learning, Clustering, Educational Data Mining
   
 - name: Yi Cai
   photo: Yi.jpg
@@ -76,4 +68,3 @@
   number_educ: 0
   project: Responsible AI
   website:
-  interest: Machine Learning, Explainable AI
