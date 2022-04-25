@@ -15,8 +15,11 @@ permalink: /projects/lernmint/
 
 - <b>Funding: </b> LernMINT is funded by the Ministry of Science and Culture, Lower Saxony, within the funding line of the Lower Saxony PhD Program (“Nds. Promotionsprogramm, funding phase 2019-2024).
 - <b>Project duration: </b> 01.08.2020 — 31.07.2023
-- <b>Members: </b> Prof. Dr. Eirini Ntoutsi, MSc. Tai Le Quy
 - <b>Homepage: </b> <a href="https://lernmint.org/">LernMINT </a>
+
+#### Team
+- Prof. Dr. Eirini Ntoutsi
+- MSc. Tai Le Quy
 
 #### Challenges & Highlights
 <i>The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods. </i>
