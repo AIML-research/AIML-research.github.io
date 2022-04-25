@@ -151,7 +151,7 @@ permalink: /team/
   <i>{{ member.info }} </i>
   - E-mail: {{ member.email }}  
   - Project: {{ member.project }}  
-  - Research interests: {{ member.interest }} 
+<!---  - Research interests: {{ member.interest }} -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
