@@ -1,0 +1,12 @@
+- name: Viktoria Andres
+  photo: Viktoria.jpg
+  info: BSc student
+  email: viktoria.andres@fu-berlin.de
+  number_educ: 1
+  education1: "Student assistant, project: Hephaestus"
+- name: Anton Kriese
+  photo:
+  info: BSc student
+  email: anton.kriese@fu-berlin.de
+  number_educ: 1
+  education1: "Student assistant"
