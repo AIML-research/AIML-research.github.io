@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/lernmint/
 ---
 
-## LernMINT: Dealing with bias and discrimination in learning analytics models
+### LernMINT: Dealing with bias and discrimination in learning analytics models
 <div>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-lernmint.png" style="width: 250px">  
