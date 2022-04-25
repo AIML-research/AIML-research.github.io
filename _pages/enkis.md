@@ -15,7 +15,7 @@ permalink: /projects/enkis/
 
 - <b>Funding: </b> 
 - <b>Project duration: </b> 01.12.2021 — 30.09.2025
-- <b>Homepage: 
+- <b>Homepage: </b>
 
 #### Team
 - Prof. Dr. Eirini Ntoutsi
