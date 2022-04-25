@@ -12,6 +12,7 @@ permalink: /projects/lernmint/
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-lernmint.png" style="width: 250px">  
 </figure>
 </div>
+
 - <b>Funding: </b> LernMINT is funded by the Ministry of Science and Culture, Lower Saxony, within the funding line of the Lower Saxony PhD Program (“Nds. Promotionsprogramm, funding phase 2019-2024).
 - <b>Project duration: </b> 01.08.2020 — 31.07.2023
 - <b>Members: </b> Tai Le Quy
