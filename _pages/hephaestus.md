@@ -13,24 +13,19 @@ permalink: /projects/hephaestus/
 </figure>
 </div>
 
-- <b>Funding: German Research Foundation (Deutsche Forschungsgemeinschaft - DFG)
-- <b>Project duration: </b> 01.08.2020 — 31.07.2023
-- <b>Homepage: </b> <a href="https://lernmint.org/">LernMINT </a>
+- <b>Funding: </b> German Research Foundation (Deutsche Forschungsgemeinschaft - DFG)
+- <b>Project duration: </b> 15.04.2021 — 31.12.2023
+- <b>Homepage: </b> <a href="http://www.mi.fu-berlin.de/inf/groups/ag-KIML/index.html/">Hephaestus </a>
 
 #### Team
 - Prof. Dr. Eirini Ntoutsi
-- MSc. Tai Le Quy
+- MSc. Philip Naumann
 
 #### Challenges & Highlights
-<i>The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods. </i>
+<i>Rising customer demands and a trend towards smaller batch sizes have led to an increased complexity in product design and subsequent process planning, e.g. of 5-axes milling operations. Thus, process simulations are commonly used in industry to support process planning. Especially, the dimensional accuracy is crucial for most machined parts, since it affects directly the functionality. Consequently, finishing operations have especially high requirements with respect to the surface tolerances. Despite the aforementioned simulation tools, manual adjustments, which rely on the expert knowledge of workers and process planners, are still necessary in order to cope with process- or machine-specific deviations such as tool stiffness or machine dynamics. </i>
 
-Data-driven decision making entails the risk of discrimination towards specific individuals or population segments defined upon protected attributes like gender, race etc. The domain of fairness-aware machine learning has recently emerged to address the issues of fairness and discrimination in Machine Learning. In particular, methods have been proposed that focus on understanding bias at the data and/or model results, mitigate bias at different phases of the data analysis pipeline from training data to learning algorithms and model outputs as well as accounting for bias via bias-aware data collection, explaining model results etc.
-
-In this project, we will investigate the sources of bias as well as methods for bias detection and mitigation in methods for the learning analytics domain, from traditional classroom data to MOOC data. We will focus in particular on data from the STEM domain, especially Physics.
+The  project aims to research a framework for a learning 5-axes compensation of shape errors in milling processes based on a process-parallel material removal simulation and sophisticated machine learning (ML) strategies. Moreover, we aim to investigate the ability of knowledge transfer between different workpiece geometries, milling tools and machine tools for an enhanced process planning.
 
 #### Related publications
-- Le Quy, T., Roy, A., Iosifidis, V., Zhang, W., & Ntoutsi, E. (2022). A survey on datasetsfor fairness-aware machine learning.Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,e1452.<a href = "https://doi.org/10.1002/widm.1452">https://doi.org/10.1002/widm.1452 </a>
-- Le Quy, T., Roy, A., Friege, G., & Ntoutsi, E. (2021). <a href ="https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_184.pdf">Fair-capacitated clustering. </a> In Proceedings of The 14th International Conference on Educational Data Mining (EDM21) (pp. 407-414).
+- Naumann, P., & Ntoutsi, E. (2021, September). Consequence-aware Sequential Counterfactual Generation. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 682-698). Springer, Cham.
 
-
-Funding: German Research Foundation (Deutsche Forschungsgemeinschaft - DFG)
