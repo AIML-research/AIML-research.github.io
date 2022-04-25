@@ -21,8 +21,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i> <br>
-  <li> email: {{ member.email }} </li>
-  <li> Research interests: {{ member.interest }} </li>
+  - E-mail: {{ member.email }}
+  - Research interests: {{ member.interest }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -85,7 +85,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i> <br>
-  <li> email: {{ member.email }} </li>  
+  - E-mail: {{ member.email }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -149,8 +149,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i> <br>
-  <li> email: {{ member.email }} </li> 
-  <li> Research interests: {{ member.interest }} </li>
+  - E-mail: {{ member.email }}
+  - Research interests: {{ member.interest }} 
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -184,7 +184,7 @@ permalink: /team/
   {% endif %}
 
   </ul>
-  <li> <a href = {{ member.interest }}>Website </a> </li>
+  - <a href = {{ member.interest }}>Website </a>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
