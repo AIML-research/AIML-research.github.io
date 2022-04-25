@@ -8,33 +8,33 @@ permalink: /projects/
 
 ### Research projects
 
-#### <a href = "https://aiml-research.github.io/projects/Offshore">Offshore Megastrukturen</a>
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">Offshore Megastrukturen</a>
 Funding: DFG
 The main innovation is therefore the development of a prognosis model for predicting the design quality of offshore support structures.
 #### <a href = "https://aiml-research.github.io/projects/enkis">ENKIS</a>
 Project as part of the guidelines for the Bund-Länger to promote Artificial Intelligence in higher education.
 
-#### <a href = "https://aiml-research.github.io/projects/hephaestus">Hephaestus</a>
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">Hephaestus</a>
 Funding: 
 Rising customer demands and a trend towards smaller batch sizes have led to an increased complexity in product design and subsequent process planning, e.g. of 5-axes milling operations. Thus, process simulations are commonly used in industry to support process planning. Especially, the dimensional accuracy is crucial for most machined parts, since it affects directly the functionality. Consequently, finishing operations have especially high requirements with respect to the surface tolerances. Despite the aforementioned simulation tools, manual adjustments, which rely on the expert knowledge of workers and process planners, are still necessary in order to cope with process- or machine-specific deviations such as tool stiffness or machine dynamics.
 
-#### <a href = "https://aiml-research.github.io/projects/kiswind">KISWIND </a>
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/kiswind">KISWIND </a>
 The demand for automated damage detection in the field of civil infrastructures is high, for economic and safety reasons. This collaborative research project aims to contribute to a further development of automated damage detection in wind energy turbines based on acoustic emission testing (AET) and machine learning.
 
-#### <a href = "https://aiml-research.github.io/projects/lernmint/">LernMINT </a>
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/lernmint/">LernMINT </a>
 Funding: The Ministry of Science and Culture (MWK)
 The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods.
 
-#### <a href = "https://aiml-research.github.io/projects/nobias">NoBIAS </a>
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/nobias">NoBIAS </a>
 Funding: EU 
 The core objective of NoBIAS is to research and develop novel methods for AI-based decision making without bias. NoBIAS will deliver a cohort of 15 researchers trained to identify biased and discriminating AI-decision making and able to provide solutions that reconcile and fully exploit AI while ensuring compliance with legal and social norms.
 
-#### <a href = "https://aiml-research.github.io/projects/bias">BIAS </a> 
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/bias">BIAS </a> 
 Funding: Volkswagen Stiftung
 AI techniques based on big data and algorithmic processing are increasingly used to guide decisions in important societal spheres, including hiring decisions, university admissions, loan granting, and crime prediction. However, there are growing concerns with regard to the epistemic and normative quality of AI evaluations and predictions. Our shared research question is: How can standards of unbiased attitudes and non-discriminatory practices be met in big data analysis and algorithm-based decision-making?
 In approaching this question, we will provide philosophical analyses of the relevant concepts and principles in the context of AI (bias, discrimination, fairness), investigate their adequate reception in pertinent legal frameworks (data protection, consumer, competition, anti-discrimination law), and develop concrete technical solutions (debiasing strategies, discrimination detection procedures etc.).
 
-#### <a href = "https://aiml-research.github.io/projects/oscar">OSCAR </a>
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/oscar">OSCAR </a>
 Funding: DFG 
 Many data accumulating in the Web reflect opinions on diverse subjects - products, institutions, events (e.g., elections) or topics (e.g., earth warming). Opinionated documents constitute a continuous stream; polarity learning on them delivers insights on the attitude of people towards each subject. Polarity learning algorithms must cope with classic Big Data characteristics: high volume and velocity of the arriving data, and volatility of the learned concepts, since subjects and attitudes of people toward certain subjects change over time. In OSCAR, we will develop classifiers that operate on an evolving feature space, adapt to changes in both vocabulary and data and operate with limited class labels.
 
