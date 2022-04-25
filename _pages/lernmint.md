@@ -27,4 +27,4 @@ In this project, we will investigate the sources of bias as well as methods for 
 
 #### Related publications
 - Le Quy, T., Roy, A., Iosifidis, V., Zhang, W., & Ntoutsi, E. (2022). A survey on datasetsfor fairness-aware machine learning.Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,e1452.<a href = "https://doi.org/10.1002/widm.1452">https://doi.org/10.1002/widm.1452 </a>
-
+- Le Quy, T., Roy, A., Friege, G., & Ntoutsi, E. (2021). <a href ="https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_184.pdf">Fair-capacitated clustering. </a> In Proceedings of The 14th International Conference on Educational Data Mining (EDM21) (pp. 407-414).
