@@ -10,6 +10,7 @@ permalink: /projects/lernmint/
 <div>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-lernmint.png" style="width: 250px">
+  <figcaption class="figure-caption">LernMINT</figcaption>
 </figure>
 </div>
 - <b>Funding: </b> LernMINT is funded by the Ministry of Science and Culture, Lower Saxony, within the funding line of the Lower Saxony PhD Program (“Nds. Promotionsprogramm, funding phase 2019-2024).
