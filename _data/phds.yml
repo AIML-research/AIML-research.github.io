@@ -1,52 +1,18 @@
-- name: Yi Cai
-  photo: Yi.jpg
-  info: External doctoral student
-  email: yi.cai@fu-berlin.de
+- name: Arjun Roy
+  photo: Arjun.jpg
+  info: Research Assistant / Doctoral Student
+  email: arjun.roy@fu-berlin.de
   number_educ: 1
-  education1: "Project: Responsible AI"
-  
+  education1: "Project: BIAS"
+  website: 
+
 - name: Alaa Elobaid
   photo: Alaa.jpg
   info: External doctoral student
   email: elobaida@zedat.fu-berlin.de
   number_educ: 1
   education1: "Project: NoBIAS"
-  
-
-- name: Simone Fabbrizzi
-  photo: Simone.jpg
-  info: External doctoral student
-  email: simone.fabbrizzi@iti.gr
-  number_educ: 1
-  education1: "Project: NoBIAS"
-  
-- name: Seyed Siamak Ghodsi
-  photo: Siamak.jpg
-  info: External doctoral student
-  email: siamak.ghodsi@fu-berlin.de
-  number_educ: 1
-  education1: "Project: NoBIAS"
-  
-  
-- name: Manuel Heurich
-  photo: Manuel.jpg
-  info: Research Assistant / Doctoral Student
-  email: manuel.heurich@fu-berlin.de
-  number_educ: 1
-  
-- name: Tai Le Quy
-  photo: Tai.jpg
-  info: External doctoral student
-  email: tai.lequy@.fu-berlin.de
-  number_educ: 1
-  education1: "Project: LernMINT"
-   
-- name: Philip Naumann
-  photo: Philip.jpg
-  info: Research Assistant / Doctoral Student
-  email: philip.naumann@fu-berlin.de
-  number_educ: 1
-  education1: "Project: Hephaestus"
+  website: 
   
 - name: Emmanouil Panagiotou
   photo: Emmanouil.jpg
@@ -55,9 +21,48 @@
   number_educ: 1
   education1: "Project: SFB1463"
   
-- name: Arjun Roy
-  photo: Arjun.jpg
+- name: Manuel Heurich
+  photo: Manuel.jpg
   info: Research Assistant / Doctoral Student
-  email: arjun.roy@fu-berlin.de
+  email: manuel.heurich@fu-berlin.de
+  number_educ: 0
+  website:
+  
+- name: Philip Naumann
+  photo: Philip.jpg
+  info: Research Assistant / Doctoral Student
+  email: philip.naumann@fu-berlin.de
   number_educ: 1
-  education1: "Project: BIAS "
+  education1: "Project: Hephaestus"
+  website: "https://www.philipnaumann.com/"
+  
+- name: Seyed Siamak Ghodsi
+  photo: Siamak.jpg
+  info: External doctoral student
+  email: siamak.ghodsi@fu-berlin.de
+  number_educ: 1
+  education1: "Project: NoBIAS"
+  
+- name: Simone Fabbrizzi
+  photo: Simone.jpg
+  info: External doctoral student
+  email: simone.fabbrizzi@iti.gr
+  number_educ: 1
+  education1: "Project: NoBIAS"
+  website:
+  
+- name: Tai Le Quy
+  photo: Tai.jpg
+  info: External doctoral student
+  email: tai.lequy@.fu-berlin.de
+  number_educ: 1
+  education1: "Project: LernMINT"
+  website: "https://tailequy.github.io/"
+  
+- name: Yi Cai
+  photo: Yi.jpg
+  info: External doctoral student
+  email: yi.cai@fu-berlin.de
+  number_educ: 1
+  education1: "Project: Responsible AI"
+  website:
