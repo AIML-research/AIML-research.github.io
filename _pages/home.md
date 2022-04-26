@@ -5,11 +5,7 @@ excerpt: "AIML Group at Freie Universität Berlin"
 sitemap: false
 permalink: /
 ---
-<div>
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fu-logo.png" style="width: 250px">
-</figure>
-</div>
+
 
 Welcome to the AIML group at the [Institute of Computer Science](https://www.mi.fu-berlin.de/en/inf/index.html), [Department of Mathematics and Informatics](https://www.mi.fu-berlin.de/en/index.html) of [Freie Universität Berlin](https://www.fu-berlin.de/en/). 
 Our aim is to design intelligent algorithms that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*. Ongoing directions include:
