@@ -100,11 +100,20 @@
   description: We propose the Drift-Aware Multi-Memory Model (DAM3), which addresses the class imbalance problem in online learning for memory-based models, namely KNNs. DAM3 mitigates class imbalance by incorporating an imbalance-sensitive drift detector, preserving a balanced representation of classes in the model, and resolving retroactive interference using a working memory that prevents the forgetting of old information.
   authors: Amir Abolfazli, Eirini Ntoutsi
   link:
-    url: https://ieeexplore.ieee.org/document/9378101
+    url: https://ieeexplore.ieee.org/document/9378101    
     display:  IEEE International Conference on Big Data (Big Data), 2020
   highlight: 1
   news2: 
   year: 2020
+  local: 20.IEEEBigData.DAM3.pdf
+  hascode: 1
+  code: https://github.com/amir-abolfazli/DAM3
+  hasposter: 0
+  poster:
+  hasppt: 0
+  hasvideo: 0
+  video: 
+  
   
 - title: "Resource management for model learning at entity level"
   image: 
