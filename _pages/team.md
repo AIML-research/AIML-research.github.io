@@ -213,7 +213,8 @@ permalink: /team/
 {% endif %}
 
 <div class="row">
-  - <b>{{ member.name }}</b>,<i>{{member.degree}} </i>, {{ member.info }}, {{ member.semester}}
+  - <b>{{ member.name }}</b>, <i>{{member.degree}} </i>, {% if {{ member.info }} != "" %}{{ member.info }}, {% endif %} {{ member.thesis }},
+ {{ member.semester}}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
