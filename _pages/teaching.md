@@ -7,18 +7,19 @@ permalink: /teaching/
 ---
 
 ### Teaching
-#### Summer term 2022 @FUB
+#### Freie Universität Berlin (FUB), Germany
+<b> Summer semester SoSe 2022 </b>
 See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS22/index.html" target="new">SoSe22 lectures</a>
 
-#### Winter term 2021/22 @FUB
+<b> Winter semester WiSe 2021/2022 </b>
 See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/WS-21_22/index.html" target="new">WiSe 21/22 lectures</a>
 
-#### Summer term 2021 @FUB
+<b> Summer semester SoSe 2021 </b>
 See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/index.html" target="new">SoSe21 lectures</a>
 
 #### Leibniz University Hannover (LUH), Germany
 
-<b> Sommer semester SoSe 2020 </b> 
+<b> Summer semester SoSe 2020 </b> 
 - Lecture: Artificial Intelligence I, SoSe2020.
 - Data Mining Lab, SoSe2020.
 
@@ -42,7 +43,7 @@ See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/ind
 - <a href ="https://www2.kbs.uni-hannover.de/dm2.html"> Lecture: Data Mining II </a>, WiSe2017/2018.
 - <a href ="https://www2.kbs.uni-hannover.de/advanceddmseminar.html"> Seminar: Advanced Topics in Data Mining </a>, WiSe2017/2018 (Topic: Discrimination Discovery and Fairness-aware Data Mining).
 
-<b> Sommer semester SoSe 2017 </b> 
+<b> Summer semester SoSe 2017 </b> 
 - <a href ="https://www2.kbs.uni-hannover.de/datamining1_lecture.html"> Lecture: Data Mining I </a>, SoSe2017.
 - <a href = "https://www2.kbs.uni-hannover.de/ai.html"> Lecture: Artificial Intelligence </a>, SoSe2017.
 
@@ -50,7 +51,7 @@ See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/ind
 - <a href ="https://www2.kbs.uni-hannover.de/dm2.html"> Lecture: Data Mining II </a>, WiSe2016/17.
 - <a href ="https://www2.kbs.uni-hannover.de/advanceddmseminar.html"> Seminar: Advanced Topics in Data Mining: Top 10 algorithms in Data Mining </a>, WiSe2016/17.
 
-<b> Sommer semester SoSe 2016 </b> 
+<b> Summer semester SoSe 2016 </b> 
 - <a href ="https://www2.kbs.uni-hannover.de/datamining1_lecture.html"> Lecture: Data Mining I </a>, SoSe2016.
 - <a href = "https://www2.kbs.uni-hannover.de/topics_in_data_mining.html"> Seminar: Topics in Data Mining </a>, SoSe2016.
 - <a href ="https://www2.kbs.uni-hannover.de/data_mining_lab.html"> Data Mining Lab </a>, SoSe2016.
