@@ -1,15 +1,13 @@
 - name: Viktoria Andres
   photo: Viktoria.jpg
   degree: BSc
-  email: viktoria.andres@fu-berlin.de
-  info: "Student assistant, project: Hephaestus"
+  email: viktoria.andres@fu-berlin.de  
   semester: WiSe21/22
   thesis: Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide
   
 - name:  Florian Mies
   photo:
   degree: MSc
-  email:
-  info: 
+  email:  
   semester: SoSe22
   thesis: Generative replay
