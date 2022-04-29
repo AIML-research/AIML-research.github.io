@@ -297,7 +297,8 @@ permalink: /team/
   
   - <b> Bahman Askari </b> (Erasmus MSc student), WiSe18/19-SS19, University of Camerino, Italy. Research topic: demand prediction. Related publication <a href = "https://doi.org/10.1109/COMPSAC48688.2020.000-7"> SSMLS@COMPSAC 2020 </a>.
   
-  -<b> Wenbin Zhang </b> (Visiting PhD student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href ="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 <a>.
+  - <b> Wenbin Zhang </b> (Visiting PhD student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 <a>.
+  
   
 </div>
 
