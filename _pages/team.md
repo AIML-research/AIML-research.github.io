@@ -225,10 +225,10 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left" />
+<div class="col-sm-6 clearfix">  
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> {{ member.info }}</i>
+  <i>{{ member.duration }} <br> {{ member.info }}</i> <br>
+  Topic: {{ member.topic }}
   <ul style="overflow: hidden">
 
   </ul>
