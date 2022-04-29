@@ -212,13 +212,11 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+<div class="col-sm-12 clearfix">
+  - <h4>{{ member.name }}</h4> (<i>{{ member.info }}): 
   <ul style="overflow: hidden">
-
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  {{ member.education1 }}
   {% endif %}
 
   {% if member.number_educ == 2 %}
@@ -322,7 +320,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.duration }} <br> {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>
