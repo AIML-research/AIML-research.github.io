@@ -228,7 +228,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">  
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> {{ member.info }}</i> <br>
-  Topic: {{ member.topic }}
+  {{ member.topic }}
   <ul style="overflow: hidden">
 
   </ul>
