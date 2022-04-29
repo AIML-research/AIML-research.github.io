@@ -242,6 +242,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
 ### Former visitors
 
   - <b> Srijanani Saiegiridar </b> (Visiting BSc student), 01/01/2020-31/7/2020, Sastra Deemed University, India. Research topic: Fair clustering.  
