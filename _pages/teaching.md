@@ -9,13 +9,13 @@ permalink: /teaching/
 ### Teaching
 #### Freie Universität Berlin (FUB), Germany
 <b> Summer semester SoSe 2022 </b>
-See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS22/index.html" target="new">SoSe22 lectures</a>
+- See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS22/index.html" target="new">SoSe22 lectures</a>
 
 <b> Winter semester WiSe 2021/2022 </b>
-See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/WS-21_22/index.html" target="new">WiSe 21/22 lectures</a>
+- See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/WS-21_22/index.html" target="new">WiSe 21/22 lectures</a>
 
 <b> Summer semester SoSe 2021 </b>
-See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/index.html" target="new">SoSe21 lectures</a>
+- See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/index.html" target="new">SoSe21 lectures</a>
 
 #### Leibniz University Hannover (LUH), Germany
 
