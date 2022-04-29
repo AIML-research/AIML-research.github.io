@@ -17,7 +17,16 @@
   highlight: 1
   news2: 
   year: 2022
-  code:
+  haslocal: 1
+  local: 22.Wiley.pdf
+  hascode: 1
+  code: https://tailequy.github.io/fairdata-survey/
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "Interpretable Visual Understanding with Cognitive Attention Network"
   image: Xuejiao2021.png
@@ -29,7 +38,17 @@
   highlight: 1
   news2: 
   year: 2021
+  haslocal: 1
+  local: 21.ICANN.pdf
+  hascode: 1
   code: https://github.com/tanjatang/CAN
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
   
 - title: "XPROAX-Local explanations for text classification with progressive neighborhood approximation"
   image: Yi2021.png
