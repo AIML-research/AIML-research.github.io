@@ -3,5 +3,22 @@
   duration: 
   info: Lecturer
   email: nalsabah@zedat.fu-berlin.de
-  number_educ: 1
-  education1: Lecturer
+  topic: 
+- name: Vasileios Iosifidis
+  photo: Vasilis.png
+  duration: June 2016 - July 2020
+  info: PhD students
+  email: 
+  topic: Fairness-aware machine learning & learning under limited labels
+- name: Amir Abolfazli
+  photo: Amir.png
+  duration: April 2019 - July 2020
+  info: PhD students
+  email: 
+  topic: Adaptive machine learning
+- name: Damianos Melidis
+  photo: Damianos.png
+  duration: 2017 - 2018
+  info: PhD students
+  email: 
+  topic: Ensemble learning over heterogeneous streams 
