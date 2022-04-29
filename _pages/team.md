@@ -204,6 +204,9 @@ permalink: /team/
 
 ### Master and Bachelor students
 
+- <b> Viktoria Andres </b>, BSc , Student assistant, project: Hephaestus, WiSe21/22 
+
+
 ### HiWi students
 
 - <b> Viktoria Andres </b>, BSc , Student assistant, project: Hephaestus, WiSe21/22 
@@ -252,20 +255,20 @@ permalink: /team/
 ### Former Master and Bachelor students
 
 #### Leibniz University Hannover (LUH), Germany
-- <b> Philipp Naumann </b>, MSc, ``Evolutionary Instance Tweaking'', WiSe20/21.
-- <b> Leonard Zucht </b>, MSc, ``Application of Amortized Fairness in Sequential Group Recommendations Using Collaborative Filtering'', WiSe19/20.
-- <b> Philip Ossenkopp </b>, BSc, ``Dealing with Concept Drifts via Weightless Neural Networks'', WiSe19/20.
-- <b> Niels Nuthmann </b>, BSc, ``Detecting tendon failure from acoustic emission data with machine learning methods'' - in cooperation with Prof. Marx (Institut für Massivbau), SoSe19.
-- <b> Wazed Ali </b>, MSc, ``Sentiment Analysis using Deep Learning'', WoSe18/19.
-- <b> Christopher Blake </b>, MSc, ``Knowledge Production and Control of a Black Box Using Machine Learning'', WS18/19. Related publication: ICBK 2018.
-- <b> Theresa Tholsti </b>, BSc, ``Stability of high dimensional stream clustering'', SoSe18.
-- <b> Kersten Nicksch </b>, BSc, ``Multicriteria recommendations with implicit criteria'', SoSe18.
-- <b> Simon Wingert </b>, MSc, ``Augmentation on image data for deep learning'', SoSe18.
-- <b> Alvaro Alvaro Veizaga Campero </b>, MSc, ``Sentiment Analysis with Deep Learning'', SoSe18.
-- <b> Ruben Hohndorf </b>, MSc, ``Data stream clustering", SoSe18.
-- <b> Bin Li </b>, MSc, ``Anomaly detection in sensor streams'', SoSe18.
+- <b> Philipp Naumann </b>, MSc, ''Evolutionary Instance Tweaking'', WiSe20/21.
+- <b> Leonard Zucht </b>, MSc, ''Application of Amortized Fairness in Sequential Group Recommendations Using Collaborative Filtering'', WiSe19/20.
+- <b> Philip Ossenkopp </b>, BSc, ''Dealing with Concept Drifts via Weightless Neural Networks'', WiSe19/20.
+- <b> Niels Nuthmann </b>, BSc, ''Detecting tendon failure from acoustic emission data with machine learning methods'' - in cooperation with Prof. Marx (Institut für Massivbau), SoSe19.
+- <b> Wazed Ali </b>, MSc, ''Sentiment Analysis using Deep Learning'', WoSe18/19.
+- <b> Christopher Blake </b>, MSc, ''Knowledge Production and Control of a Black Box Using Machine Learning'', WS18/19. Related publication: ICBK 2018.
+- <b> Theresa Tholsti </b>, BSc, ''Stability of high dimensional stream clustering'', SoSe18.
+- <b> Kersten Nicksch </b>, BSc, ''Multicriteria recommendations with implicit criteria'', SoSe18.
+- <b> Simon Wingert </b>, MSc, ''Augmentation on image data for deep learning'', SoSe18.
+- <b> Alvaro Alvaro Veizaga Campero </b>, MSc, ''Sentiment Analysis with Deep Learning'', SoSe18.
+- <b> Ruben Hohndorf </b>, MSc, ''Data stream clustering", SoSe18.
+- <b> Bin Li </b>, MSc, ''Anomaly detection in sensor streams'', SoSe18.
 - <b> Monseh Haghaieghshenasfard </b>, Research project, Taxi Fare Prediction, SoSe18.
-- <b> Al Kafi Khan </b>, Research project, ``Predictive Maintenance'', SoSe 17.
+- <b> Al Kafi Khan </b>, Research project, ''Predictive Maintenance'', SoSe 17.
 - <b> Amit Tyagi </b>, MSc project, “Outlier detection in data streams", SoSe 17.
 - Rajib Das, MSc, “Mining opinionated product features from Amazon reviews", SoSe 17.
 - <b> Alvaro Alvaro Veizaga Campero </b>, Research project, “Lexicon-based approaches for sentiment analysis in Twitter", SoSe 17. Related publication: WIMS 2018.
