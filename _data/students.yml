@@ -1,6 +1,6 @@
 - name: Viktoria Andres
   photo: Viktoria.jpg
-  info: BSc student
+  degree: BSc
   email: viktoria.andres@fu-berlin.de
-  number_educ: 1
-  education1: "Student assistant, project: Hephaestus"
+  info: "Student assistant, project: Hephaestus"
+  semester: WiSe21/22
