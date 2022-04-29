@@ -23,35 +23,37 @@ See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/ind
 - Data Mining Lab, SoSe2020.
 
 <b> Winter semester WiSe 2019/2020 </b> 
-- Lecture: Data Mining II, WS2019/2020.
-- Oberseminar: Data Mining, WS2019/2020.
-- Data Mining Lab, WS2019/2020.
+- <a href = "https://kbs.uni-hannover.de/~ntoutsi/DM2WiSe19_20.html"> Lecture: Data Mining II </a>, WS2019/2020.
+- <a href ="https://kbs.uni-hannover.de/~ntoutsi/oberseminar.html"> Oberseminar: Data Mining </a>, WS2019/2020.
+- <a href ="https://kbs.uni-hannover.de/~ntoutsi/DMlab.html"> Data Mining Lab </a>, WS2019/2020.
 
 <b> Summer semester SoSe 2019 </b> 
-- Lecture: Data Mining I, SoSe2019.
-- Seminar: Data Mining, SoSe2019.
-- Proseminar: Data Mining, SS2019.
-- Oberseminar: Data Mining, SoSe2019.
+- <a href ="https://kbs.uni-hannover.de/~ntoutsi/DM1SoSe19.html"> Lecture: Data Mining I </a>, SoSe2019.
+- <a href ="https://kbs.uni-hannover.de/~ntoutsi/seminarSoSe19.html"> Seminar: Data Mining </a>, SoSe2019.
+- <a href ="https://kbs.uni-hannover.de/~ntoutsi/proseminar/proseminarSoSe19.html"> Proseminar: Data Mining </a>, SS2019.
+- <a href ="https://kbs.uni-hannover.de/~ntoutsi/oberseminar.html"> Oberseminar: Data Mining </a>, SoSe2019.
 
 <b> Summer semester SoSe 2018 </b> 
-- Lecture: Data Mining I, SoSe2018.
-- Lecture: Artificial Intelligence, SoSe2018.
-- ProSeminar in AI, SoSe2018 (with Claudia Niederee).
-- Winter semester WiSe2017/2018
-- Lecture: Data Mining II, WiSe2017/2018.
-- Seminar: Advanced Topics in Data Mining, WiSe2017/2018 (Topic: Discrimination Discovery and Fairness-aware Data Mining).
+- <a href = "https://www2.kbs.uni-hannover.de/datamining1_lecture.html"> Lecture: Data Mining I </a>, SoSe2018.
+- <a href = "https://www2.kbs.uni-hannover.de/ai.html"> Lecture: Artificial Intelligence </a>, SoSe2018.
+- ProSeminar in AI, SoSe2018 (with <a href ="https://www.l3s.de/user/niederee"> Claudia Niederee </a>).
+
+<b> Winter semester WiSe2017/2018 </b>
+- <a href ="https://www2.kbs.uni-hannover.de/dm2.html"> Lecture: Data Mining II </a>, WiSe2017/2018.
+- <a href ="https://www2.kbs.uni-hannover.de/advanceddmseminar.html"> Seminar: Advanced Topics in Data Mining </a>, WiSe2017/2018 (Topic: Discrimination Discovery and Fairness-aware Data Mining).
 
 <b> Sommer semester SoSe 2017 </b> 
-- Lecture: Data Mining I, SoSe2017.
-- Lecture: Artificial Intelligence, SoSe2017.
-- Winter semester WiSe 2016/2017
-- Lecture: Data Mining II, WiSe2016/17.
-- Seminar: Advanced Topics in Data Mining: Top 10 algorithms in Data Mining, WiSe2016/17.
+- <a href ="https://www2.kbs.uni-hannover.de/datamining1_lecture.html"> Lecture: Data Mining I </a>, SoSe2017.
+- <a href = "https://www2.kbs.uni-hannover.de/ai.html"> Lecture: Artificial Intelligence </a>, SoSe2017.
+
+<b> Winter semester WiSe 2016/2017 </b>
+- <a href ="https://www2.kbs.uni-hannover.de/dm2.html"> Lecture: Data Mining II </a>, WiSe2016/17.
+- <a href ="https://www2.kbs.uni-hannover.de/advanceddmseminar.html"> Seminar: Advanced Topics in Data Mining: Top 10 algorithms in Data Mining </a>, WiSe2016/17.
 
 <b> Sommer semester SoSe 2016 </b> 
-- Lecture: Data Mining I, SoSe2016.
-- Seminar: Topics in Data Mining, SoSe2016.
-- Data Mining Lab, SoSe2016.
+- <a href ="https://www2.kbs.uni-hannover.de/datamining1_lecture.html"> Lecture: Data Mining I </a>, SoSe2016.
+- <a href = "https://www2.kbs.uni-hannover.de/topics_in_data_mining.html"> Seminar: Topics in Data Mining </a>, SoSe2016.
+- <a href ="https://www2.kbs.uni-hannover.de/data_mining_lab.html"> Data Mining Lab </a>, SoSe2016.
 
 #### Ludwig Maximilians University (LMU) Munich, Germany
 - Lecture: <a href = "https://www2.dbs.ifi.lmu.de/cms/Knowledge_Discovery_in_Databases_I_(KDD_I)_12.html">Knowledge Discovery in Databases I (KDD I) </a>, SoSe2012.
