@@ -203,59 +203,13 @@ permalink: /team/
 
 
 ### Master and Bachelor students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="row">
-  - <b>{{ member.name }}</b>, <i>{{member.degree}} </i>, {{ member.info }}, {{ member.semester}}
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 ### HiWi students
-{% assign number_printed = 0 %}
-{% for member in site.data.hiwis %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+- <b> Viktoria Andres </b>, BSc , Student assistant, project: Hephaestus, WiSe21/22 
+- <b> Anton Kriese </b>, MSc, Student assistant, WiSe21/22
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="row">
-  - <b>{{ member.name }}</b>, <i>{{member.degree}} </i>, {{ member.info }}, {{ member.semester}}
-  
-  </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 ### Former members
 
