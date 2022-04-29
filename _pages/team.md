@@ -213,8 +213,7 @@ permalink: /team/
 {% endif %}
 
 <div class="row">
-  - <b>{{ member.name }}</b>, <i>{{member.degree}} </i>, {% if {{ member.info }} != "" %}{{ member.info }}, {% endif %} {{ member.thesis }},
- {{ member.semester}}
+  - <b>{{ member.name }}</b>, <i>{{member.degree}} </i>, {{ member.info }}, {{ member.semester}}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -240,35 +239,10 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
+<div class="row">
+  - <b>{{ member.name }}</b>, <i>{{member.degree}} </i>, {{ member.info }}, {{ member.semester}}
+  
+  </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -316,29 +290,13 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Former visitors, BSc/ MSc students
+### Former visitors
 <div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
+  - <b> Srijanani Saiegiridar </b> (Visiting BSc student), 01/01/2020-31/7/2020, Sastra Deemed University, India. Research topic: Fair clustering.
+  - <b> Bahman Askari </b> (Erasmus MSc student), WiSe18/19-SS19, University of Camerino, Italy. Research topic: demand prediction. Related publication <a href = "https://doi.org/10.1109/COMPSAC48688.2020.000-7"> SSMLS@COMPSAC 2020 </a>.
+  -<b> Wenbin Zhang </b> (Visiting PhD student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href ="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 <a>.
 </div>
 
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
 
 </div>
 
