@@ -76,7 +76,21 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if {{publi.year}} == 2020 %}
   - {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
+  [<a href ="{{publi.local}}">local copy</a>]
+  {% if {{publi.hascode}} == 1 %}
+  [<a href="{{publi.code}}">code</a>]
+  {% endif %}  
+  {% if {{publi.hasppt}} == 1 %}
+  [<a href="{{publi.ppt}}">ppt</a>]
+  {% endif %}  
+  {% if {{publi.poster}} == 1 %}
+  [<a href="{{publi.poster}}">poster</a>]
+  {% endif %} 
+  {% if {{publi.hasvideo}} == 1 %}
+  [<a href="{{publi.video}}">video</a>]
+  {% endif %} 
+  
 {% endif %}
 {% endfor %}
 
