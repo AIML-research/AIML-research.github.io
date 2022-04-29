@@ -204,7 +204,6 @@ permalink: /team/
 
 ### Master and Bachelor students
 
-
 ### HiWi students
 
 - <b> Viktoria Andres </b>, BSc , Student assistant, project: Hephaestus, WiSe21/22 
@@ -243,19 +242,57 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 ### Former visitors
-<div class="row">
+  - <b> Srijanani Saiegiridar </b> (Visiting BSc student), 01/01/2020-31/7/2020, Sastra Deemed University, India. Research topic: Fair clustering.  
+  - <b> Bahman Askari </b> (Erasmus MSc student), WiSe18/19-SS19, University of Camerino, Italy. Research topic: demand prediction. Related publication <a href = "https://doi.org/10.1109/COMPSAC48688.2020.000-7"> SSMLS@COMPSAC 2020 </a>.  
+  - <b> Wenbin Zhang </b> (Visiting PhD student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 </a>.
   
-  - <b> Srijanani Saiegiridar </b> (Visiting BSc student), 01/01/2020-31/7/2020, Sastra Deemed University, India. Research topic: Fair clustering.
-  
-  - <b> Bahman Askari </b> (Erasmus MSc student), WiSe18/19-SS19, University of Camerino, Italy. Research topic: demand prediction. Related publication <a href = "https://doi.org/10.1109/COMPSAC48688.2020.000-7"> SSMLS@COMPSAC 2020 </a>.
-  
-  - <b> Wenbin Zhang </b> (Visiting PhD student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 <a>.
-  
-  
-</div>
+### Former Master and Bachelor students
 
+#### Leibniz University Hannover (LUH), Germany
+- <b> Philipp Naumann </b>, MSc, ``Evolutionary Instance Tweaking'', WiSe20/21.
+- <b> Leonard Zucht </b>, MSc, ``Application of Amortized Fairness in Sequential Group Recommendations Using Collaborative Filtering'', WiSe19/20.
+- <b> Philip Ossenkopp </b>, BSc, ``Dealing with Concept Drifts via Weightless Neural Networks'', WiSe19/20.
+- <b> Niels Nuthmann </b>, BSc, ``Detecting tendon failure from acoustic emission data with machine learning methods'' - in cooperation with Prof. Marx (Institut für Massivbau), SoSe19.
+- <b> Wazed Ali </b>, MSc, ``Sentiment Analysis using Deep Learning'', WoSe18/19.
+- <b> Christopher Blake </b>, MSc, ``Knowledge Production and Control of a Black Box Using Machine Learning'', WS18/19. Related publication: ICBK 2018.
+- <b> Theresa Tholsti </b>, BSc, ``Stability of high dimensional stream clustering'', SoSe18.
+- <b> Kersten Nicksch </b>, BSc, ``Multicriteria recommendations with implicit criteria'', SoSe18.
+- <b> Simon Wingert </b>, MSc, ``Augmentation on image data for deep learning'', SoSe18.
+- <b> Alvaro Alvaro Veizaga Campero </b>, MSc, ``Sentiment Analysis with Deep Learning'', SoSe18.
+- <b> Ruben Hohndorf </b>, MSc, ``Data stream clustering", SoSe18.
+- <b> Bin Li </b>, MSc, ``Anomaly detection in sensor streams'', SoSe18.
+- <b> Monseh Haghaieghshenasfard </b>, Research project, Taxi Fare Prediction, SoSe18.
+- <b> Al Kafi Khan </b>, Research project, ``Predictive Maintenance'', SoSe 17.
+- <b> Amit Tyagi </b>, MSc project, “Outlier detection in data streams", SoSe 17.
+- Rajib Das, MSc, “Mining opinionated product features from Amazon reviews", SoSe 17.
+- <b> Alvaro Alvaro Veizaga Campero </b>, Research project, “Lexicon-based approaches for sentiment analysis in Twitter", SoSe 17. Related publication: WIMS 2018.
+- <b> Lijun Lyu </b>, Research project, “Wikipedia Entity Enrichment from News Streams", SoSe 17.
+- <b> Nrithya Muniswamy & Nidhi Chachra </b>, Research project, “Implicit network mining from archive collections", SoSe 17.
+- <b> Sudhir Kumar Sah </b>, MSc, “Topic extraction from archive collections", WiSe 16/17.
 
-</div>
+#### Ludwig Maximilians University (LMU) Munich, Germany
+- <b> Omar Backhoff </b>, MSc, “Scalable Online-Offline Stream Clustering in Apache Spark”, TUM Munich, 2017. Related publication
+- <b> Daniel Basaran </b>, MSc, “On the effect of duplicated reviews on performance statistics of recommender systems”, LMU Munich, 2016. Related publication
+- <b> Benedikt Böhm </b>, Project work, “Building blocks for multicriteria recommendation systems”, LMU Munich, 2016.
+- <b> Yulia Bobkova </b>, BSc, Interaktive Bestimmung charakterstischer Punktmengen durch Kombination von Clusterings”, LMU Munich, 2016. Related publication
+- <b> Hossain Mahmud </b>, MSc, “Ensemble Learning in Data Streams”, TUM Munich, 2016.
+- <b> Sebastian Wagner </b>,BSc, “Ageing-based Multinomial Naive Bayes Classifiers over Data Streams”, LMU Munich, 2015. Related publication
+- <b> Annina Oelschläger </b>, BSc, “Adaptive Ageing of Multinomial Naive Bayes Classifiers over Opinionated Data Streams”, LMU Munich, 2015.
+- <b> Tabea Schmidt </b>, “High Dimensional Stream Clustering”, LMU Munich, 2015.
+- <b> Michael Stockerl </b>, MSc, "Find Templates for Scans and Pictures of Paper Documents", LMU Munich, 2014. Related publication
+- <b> Michael Stockerl </b>, Project work, "Distributed Computation of User Similarities", LMU Munich, 2014.
+- <b> Claudia Lauschke </b>, MSc, "Topic extraction and evolution monitoring in social streams", LMU Munich, 2014. Related publication
+- <b> Katharina Rausch </b>, MSc, "Exploring Subspace Clustering for Recommendations", LMU Munich, 2013. Related publication
+- <b> Michalis Petropoulos </b>, BSc, “gRecs: A Group Recommendation System”, LMU Munich, 2013. Related publication
+- <b> Charlotte Prieß </b>, BSc, “Domain-specific sentiment analysis in Twitter using Bayesian classifiers”, LMU Munich, 2012.
+- <b> Alina Sinelnikova </b>, BSc, “Sentiment analysis in the Twitter stream”, LMU Munich, 2012. Related publication
+- <b> Alexander Velkov </b>, Diploma thesis, "Incremental Data Bubbles for Non-Vector Data in Arbitrary Metric Space", LMU Munich, 2011.
+- <b> Kumar Subramanim </b>, Diploma thesis, "Community Detection in Social Networks using Density Based Clustering Algorithms", LMU Munich, 2011. Related publication
+- <b> Claudia Lauschke </b>, BSc, "User Profile Monitoring in Twitter", LMU Munich, 2011.
+- <b> Veselin Georgiev </b>, Project work, "Web Profile Monitoring", Projektarbeit, LMU Munich, 2011.
 
+#### University of Piraeus, Greece
+- <b> Georgios Tzoumis </b>, MSc, “Data warehousing for news portals”, University of Piraeus, 2006.
+- <b> Marios Mpartzokas </b>, BSc, "Comparing complex patterns: a study on collections of documents", University of Piraeus, 2006.
+- <b> Anastasia Tzeveleka </b>, BSc, "Duck-miner: A Tool for Discovering and Handling Knowledge from Large DBs", University of Piraeus, 2005.
