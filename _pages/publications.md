@@ -58,7 +58,10 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if {{publi.year}} == 2022 %}
   - {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% endif %} 
+  
 {% endif %}
 {% endfor %}
 
@@ -68,7 +71,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2021 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -80,7 +83,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2020 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -92,7 +95,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2019 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -104,7 +107,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2018 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -116,7 +119,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2017 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -128,7 +131,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2016 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -140,7 +143,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2015 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -152,7 +155,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2014 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -164,7 +167,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2013 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -176,7 +179,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2012 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -188,7 +191,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2011 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -200,7 +203,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2010 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -212,7 +215,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2009 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -224,7 +227,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2008 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -236,7 +239,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2007 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -248,7 +251,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2006 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -260,7 +263,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2005 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -272,7 +275,7 @@ permalink: /publications/
 {% if {{publi.year}} == 2004 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
@@ -284,7 +287,7 @@ permalink: /publications/
 {% if {{publi.year}} <= 2003 %}
   - {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
-  [<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %}{% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %}{% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %}{% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %}{% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
   {% endif %} 
   
 {% endif %}
