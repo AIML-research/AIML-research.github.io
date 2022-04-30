@@ -216,37 +216,10 @@ permalink: /team/
 
 ### Former members
 
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">  
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> {{ member.info }}</i> <br>
-  {{ member.topic }}
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+- <b> Nabil Alsabah </b>, <i> Lecturer </i>
+- <b> Vasileios Iosifidis </b>, <i> PhD student </i>, June 2016 - July 2020, Topic: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" </a>
+- <b> Amir Abolfazli </b>, <i> PhD student </i>, April 2019 - July 2020, Topic: Adaptive machine learning
+- <b> Damianos Melidis </b>, <i> PhD student </i>, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams
 
 ### Former visitors
 
