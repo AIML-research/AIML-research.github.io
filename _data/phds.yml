@@ -23,10 +23,10 @@
   info: Research Assistant / Doctoral Student
   email: emmanouil.panagiotou@fu-berlin.de
   number_educ: 0
-  project: SFB1463
+  project: SFB Offshore Megastrukturen
   website:
-  has_project_web: 0
-  project_web:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/offshore/
   
 - name: Manuel Heurich
   photo: Manuel.jpg
