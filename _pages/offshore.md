@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/offshore/
 ---
 
-### DFG SFB Projekt: "Offshore Megastrukturen"
+### DFG SFB 1463 Projekt: "Offshore Megastrukturen"
 <div>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-dfg.jpg" style="width: 250px">  
