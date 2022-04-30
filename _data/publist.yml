@@ -52,7 +52,7 @@
   
 - title: "XPROAX-Local explanations for text classification with progressive neighborhood approximation"
   image: Yi2021.png
-  description: We propose a progressive approximation of the neighborhood for training a local surrogate model using counterfactual instances as initial landmarks and a careful 2-stage sampling approach to refine counterfactuals and generate factuals in the neighborhood of the input instance to be explained. 
+  description: The importance of the neighborhood for training a local surrogate model to approximate the local decision boundary of a black box classifier has been already highlighted in the literature. Several attempts have been made to construct a better neighborhood for high dimensional data, like texts, by using generative autoencoders. However, existing approaches mainly generate neighbors by selecting purely at random from the latent space and struggle under the curse of dimensionality to learn a good local decision boundary.
   authors: Yi Cai, Arthur Zimek, Eirini Ntoutsi
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9564153
@@ -73,7 +73,7 @@
   
 - title: "Fair-Capacitated Clustering"
   image: Taifair2021.png
-  description: We introduce the fair-capacitated clustering problem that partitions the data into clusters of similar instances while ensuring cluster fairness and balancing cluster cardinalities. Our solution relies on fairlets to generate minimal sets satisfying the fairness constraint and a knapsack formulation to meet the capacity requirement.
+  description: We introduce the fair-capacitated clustering problem that partitions the data into clusters of similar instances while ensuring cluster fairness and balancing cluster cardinalities. We propose a two-step solution to the problem, i) we rely on fairlets to generate minimal sets that satisfy the fair constraint and ii) we propose two approaches, namely hierarchical clustering and partitioning-based clustering, to obtain the fair-capacitated clustering. The hierarchical approach embeds the additional cardinality requirements during the merging step while the partitioning-based one alters the assignment step using a knapsack problem formulation to satisfy the additional requirements.
   authors: Tai Le Quy, Arjun Roy, Gunnar Friege, Eirini Ntoutsi
   link:
     url: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_184.pdf
@@ -208,6 +208,16 @@
   highlight: 0
   news2: 
   year: 2020
+  hasclocal: 1
+  local: 20.AnnalsOfTelco.ResourceManagementStreams.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "Active feature acquisition on data streams under feature drift"
   image: 
@@ -219,6 +229,16 @@
   highlight: 0
   news2: 
   year: 2020
+  haslocal: 1
+  local: 20.AnnalsOfTelco.ActiveFeatureAsquisitionStreams.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "Taxi Demand Prediction using an LSTM-Based Deep Sequence Model and Points of Interest"
   image: 
@@ -230,17 +250,16 @@
   highlight: 0
   news2:
   year: 2020
-  
-- title: "Web Futures: Inclusive, Intelligent, Sustainable - The 2020 Manifesto for Web Science"
-  image: 
-  description: At the Workshop, we revisited the origins of Web Science, explored that challenges and opportunities of the Web, and looked ahead to potential futures for both the Web and Web Science. We explain issues that society faces in the Web by the ambivalences that are inherent in the Web. All the enormous benefits that the Web offers - for Information sharing, collective organization and distributed activity, social inclusion and economic growth - will always carry along negative consequences, too, and 30 years after ist creation negative consequnces of the Web are only too apparent. The Web continues to evolve and ist next major step will involve Artificial Intelligence (AI) at large. AI has the potential to amplify positive and negative outcomes, and we explore these possibilities, situating them within the wider debate about the future of regulation and governance for the Web. Finally, we outline the need to extend Web Science as the science that is devoted to the Analysis and Engineering of the Web, to strengthen our role in shaping the future of the Web and present five key directions for capacity building that are necessary to achieve this (i), supporting interdisciplinarity, (ii), supporting collaboration, (iii), supporting the sustainable Web, (iv), supporting the Intelligent Web and (v), supporting the Inclusive Web. Our writing reflects our background in several disciplines of the social and technical sciences and that these disciplines emphasize topics to various extents. We are acutely aware that our observations occupy a particular point in time and are skewed towards our experience as Western scholars - a limitation that Web Science will need to overcome.
-  authors:   Bettina Berendt, Fabien Gandon, Susan Halford, Wendy Hall, Jim Hendler, Katharina E. Kinder-Kurlanda, Eirini Ntoutsi, Steffen Staab
-  link:
-    url: http://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Ressourcen/dagman-v009-i001-p001-18262.pdf
-    display:  Manifesto from Dagstuhl Perspectives Workshop 18262, 2020
-  highlight: 0
-  news2: 
-  year: 2020
+  haslocal: 1
+  local: 20.SSMLS.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
 
 - title: "Bias in data-driven artificial intelligence systems—An introductory survey"
   image: NoBIAS.Survey@WIREs2020.png
@@ -252,6 +271,16 @@
   highlight: 1
   news2: 
   year: 2020
+  haslocal: 1
+  local: 20.WIDM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "FAE: A Fairness-Aware Ensemble Framework"
   image: Vasilis2019.png
@@ -263,6 +292,16 @@
   highlight: 1
   news2: 
   year: 2019
+  haslocal: 1
+  local: 19.IEEEBigData.FAE.pdf
+  hascode: 1
+  code: https://github.com/iosifidisvasileios/Fairness-Aware-Ensemble-Framework
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
 
 - title: "AdaFair: Cumulative Fairness Adaptive Boosting"
   image: Vasilis2019CIKM.png
@@ -274,6 +313,17 @@
   highlight: 1
   news2: 
   year: 2019
+  haslocal: 1
+  local: 19.CIKM.pdf
+  hascode: 1
+  code: https://github.com/iosifidisvasileios/AdaFair
+  hasposter: 1
+  poster: https://kbs.uni-hannover.de/~ntoutsi/papers/19.CIKM.poster.pdf
+  hasppt: 1
+  ppt: https://kbs.uni-hannover.de/~ntoutsi/papers/19.CIKM.presentation.pdf
+  hasvideo: 0
+  video: 
+  
   
 - title: "Sentiment analysis on big sparse data streams with limited labels"
   image: 
@@ -285,6 +335,17 @@
   highlight: 0
   news2: 
   year: 2020
+  haslocal: 1
+  local: 19.KAIS.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
  
 - title: "Active Feature Acquisition For Opinion Stream Classification Under Drift"
   image: 
@@ -296,6 +357,17 @@
   highlight: 0
   news2:  
   year: 2019
+  haslocal: 1
+  local: 19.IAL.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
   
 - title: "A Neighborhood-augmented LSTM Model forTaxi-Passenger Demand Prediction"
   image: 
@@ -307,6 +379,16 @@
   highlight: 0
   news2:  
   year:  2019
+  haslocal: 1
+  local: 19.MASTER.ECMLPKDD.pdf
+  hascode: 1
+  code: https://github.com/neighborlstm/neighborlstm-code
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: https://neighborlstm.github.io/MASTER2019_final.pdf
+  hasvideo: 0
+  video: 
 
 - title: "Fairness-Enhancing Interventions in Stream Classification"
   image: Vasilis2019DEXA.png
@@ -318,6 +400,17 @@
   highlight: 1
   news2:
   year: 2019
+  haslocal: 1
+  local: 19.DEXA.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: 19.DEXA(ppt).pdf
+  hasvideo: 0
+  video: 
+  
 
 - title: "FAHT: an adaptive fairness-aware decision tree classifier"
   image: Wenbin2019.png
@@ -329,17 +422,38 @@
   highlight: 0
   news2:
   year:  2019
+  haslocal: 1
+  local: 19.IJCAI.pdf
+  hascode: 1
+  code: https://github.com/vanbanTruong/FAHT
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: 19.IJCAI(ppt).pdf
+  hasvideo: 0
+  video: 
 
 - title: "10 Years of Web Science: Closing The Loop (Dagstuhl Perspectives Workshop 18262)"
   image: 
   description: 
   authors:   Susan Halford,James A. Hendler,Eirini Ntoutsi, Steffen Staab
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/19.Dagstuhl.Report.WebScience.pdf
+    url: 19.Dagstuhl.Report.WebScience.pdf
     display:  Report from Dagstuhl Perspectives Workshop 18262
   highlight: 0
   news2:
   year: 2018
+  haslocal: 1
+  local: 19.Dagstuhl.Report.WebScience.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
 
 - title: "Entity-level stream classification: exploiting entity similarity to label the future observations referring to an entity"
   image: 
