@@ -261,7 +261,7 @@ permalink: /team/
 - <b> Philip Ossenkopp </b>, BSc, ''Dealing with Concept Drifts via Weightless Neural Networks'', WiSe19/20.
 - <b> Niels Nuthmann </b>, BSc, ''Detecting tendon failure from acoustic emission data with machine learning methods'' - in cooperation with Prof. Marx (Institut für Massivbau), SoSe19.
 - <b> Wazed Ali </b>, MSc, ''Sentiment Analysis using Deep Learning'', WoSe18/19.
-- <b> Christopher Blake </b>, MSc, ''Knowledge Production and Control of a Black Box Using Machine Learning'', WS18/19. Related publication: ICBK 2018.
+- <b> Christopher Blake </b>, MSc, ''Knowledge Production and Control of a Black Box Using Machine Learning'', WS18/19. Related publication: <a href ="https://aiml-research.github.io/files/18.ICBK.pdf">ICBK 2018 </a>.
 - <b> Theresa Tholsti </b>, BSc, ''Stability of high dimensional stream clustering'', SoSe18.
 - <b> Kersten Nicksch </b>, BSc, ''Multicriteria recommendations with implicit criteria'', SoSe18.
 - <b> Simon Wingert </b>, MSc, ''Augmentation on image data for deep learning'', SoSe18.
@@ -272,27 +272,27 @@ permalink: /team/
 - <b> Al Kafi Khan </b>, Research project, ''Predictive Maintenance'', SoSe 17.
 - <b> Amit Tyagi </b>, MSc project, “Outlier detection in data streams", SoSe 17.
 - Rajib Das, MSc, “Mining opinionated product features from Amazon reviews", SoSe 17.
-- <b> Alvaro Alvaro Veizaga Campero </b>, Research project, “Lexicon-based approaches for sentiment analysis in Twitter", SoSe 17. Related publication: WIMS 2018.
+- <b> Alvaro Alvaro Veizaga Campero </b>, Research project, “Lexicon-based approaches for sentiment analysis in Twitter", SoSe 17. Related publication: <a href ="https://aiml-research.github.io/files/18.WIMS.pdf"> WIMS 2018 </a>.
 - <b> Lijun Lyu </b>, Research project, “Wikipedia Entity Enrichment from News Streams", SoSe 17.
 - <b> Nrithya Muniswamy & Nidhi Chachra </b>, Research project, “Implicit network mining from archive collections", SoSe 17.
 - <b> Sudhir Kumar Sah </b>, MSc, “Topic extraction from archive collections", WiSe 16/17.
 
 #### Ludwig Maximilians University (LMU) Munich, Germany
-- <b> Omar Backhoff </b>, MSc, “Scalable Online-Offline Stream Clustering in Apache Spark”, TUM Munich, 2017. Related publication
-- <b> Daniel Basaran </b>, MSc, “On the effect of duplicated reviews on performance statistics of recommender systems”, LMU Munich, 2016. Related publication
+- <b> Omar Backhoff </b>, MSc, “Scalable Online-Offline Stream Clustering in Apache Spark”, TUM Munich, 2017. <a href ="https://aiml-research.github.io/files/16.ICDM.IoT.pdf">Related publication </a>
+- <b> Daniel Basaran </b>, MSc, “On the effect of duplicated reviews on performance statistics of recommender systems”, LMU Munich, 2016. <a href ="https://aiml-research.github.io/files/17.SDM.pdf">Related publication </a>
 - <b> Benedikt Böhm </b>, Project work, “Building blocks for multicriteria recommendation systems”, LMU Munich, 2016.
-- <b> Yulia Bobkova </b>, BSc, Interaktive Bestimmung charakterstischer Punktmengen durch Kombination von Clusterings”, LMU Munich, 2016. Related publication
+- <b> Yulia Bobkova </b>, BSc, Interaktive Bestimmung charakterstischer Punktmengen durch Kombination von Clusterings”, LMU Munich, 2016. <a href ="https://aiml-research.github.io/files/16.PKDD.pdf">Related publication </a>
 - <b> Hossain Mahmud </b>, MSc, “Ensemble Learning in Data Streams”, TUM Munich, 2016.
-- <b> Sebastian Wagner </b>,BSc, “Ageing-based Multinomial Naive Bayes Classifiers over Data Streams”, LMU Munich, 2015. Related publication
+- <b> Sebastian Wagner </b>,BSc, “Ageing-based Multinomial Naive Bayes Classifiers over Data Streams”, LMU Munich, 2015. <a href ="https://aiml-research.github.io/files/15.ECMLPKDD.pdf">Related publication </a>
 - <b> Annina Oelschläger </b>, BSc, “Adaptive Ageing of Multinomial Naive Bayes Classifiers over Opinionated Data Streams”, LMU Munich, 2015.
 - <b> Tabea Schmidt </b>, “High Dimensional Stream Clustering”, LMU Munich, 2015.
-- <b> Michael Stockerl </b>, MSc, "Find Templates for Scans and Pictures of Paper Documents", LMU Munich, 2014. Related publication
+- <b> Michael Stockerl </b>, MSc, "Find Templates for Scans and Pictures of Paper Documents", LMU Munich, 2014. <a href ="https://aiml-research.github.io/files/15.SSDBM(a).pdf">Related publication </a>
 - <b> Michael Stockerl </b>, Project work, "Distributed Computation of User Similarities", LMU Munich, 2014.
-- <b> Claudia Lauschke </b>, MSc, "Topic extraction and evolution monitoring in social streams", LMU Munich, 2014. Related publication
-- <b> Katharina Rausch </b>, MSc, "Exploring Subspace Clustering for Recommendations", LMU Munich, 2013. Related publication
-- <b> Michalis Petropoulos </b>, BSc, “gRecs: A Group Recommendation System”, LMU Munich, 2013. Related publication
+- <b> Claudia Lauschke </b>, MSc, "Topic extraction and evolution monitoring in social streams", LMU Munich, 2014. <a href ="https://aiml-research.github.io/files/12.BASNA.pdf">Related publication </a>
+- <b> Katharina Rausch </b>, MSc, "Exploring Subspace Clustering for Recommendations", LMU Munich, 2013. <a href ="https://aiml-research.github.io/files/14.SSDBM.pdf">Related publication </a>
+- <b> Michalis Petropoulos </b>, BSc, “gRecs: A Group Recommendation System”, LMU Munich, 2013. <a href ="https://aiml-research.github.io/files/13.TLDKS.pdf">Related publication </a>
 - <b> Charlotte Prieß </b>, BSc, “Domain-specific sentiment analysis in Twitter using Bayesian classifiers”, LMU Munich, 2012.
-- <b> Alina Sinelnikova </b>, BSc, “Sentiment analysis in the Twitter stream”, LMU Munich, 2012. Related publication
+- <b> Alina Sinelnikova </b>, BSc, “Sentiment analysis in the Twitter stream”, LMU Munich, 2012. <a href ="https://aiml-research.github.io/files/12.GfKl_a.pdf"> Related publication </a>
 - <b> Alexander Velkov </b>, Diploma thesis, "Incremental Data Bubbles for Non-Vector Data in Arbitrary Metric Space", LMU Munich, 2011.
 - <b> Kumar Subramanim </b>, Diploma thesis, "Community Detection in Social Networks using Density Based Clustering Algorithms", LMU Munich, 2011. Related publication
 - <b> Claudia Lauschke </b>, BSc, "User Profile Monitoring in Twitter", LMU Munich, 2011.
