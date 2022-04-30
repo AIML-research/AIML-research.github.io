@@ -7,7 +7,7 @@ permalink: /teaching/
 ---
 
 ### Teaching
-#### Freie Universität Berlin (FUB), Germany
+#### <a hef ="https://www.fu-berlin.de/">Freie Universität Berlin (FUB) </a>, Germany
 <b> Summer semester SoSe 2022 </b>
 - See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS22/index.html" target="new">SoSe22 lectures</a>
 
@@ -17,7 +17,7 @@ permalink: /teaching/
 <b> Summer semester SoSe 2021 </b>
 - See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/index.html" target="new">SoSe21 lectures</a>
 
-#### Leibniz University Hannover (LUH), Germany
+#### <a href ="https://www.uni-hannover.de/"> Leibniz University Hannover (LUH) </a>, Germany
 
 <b> Summer semester SoSe 2020 </b> 
 - Lecture: Artificial Intelligence I, SoSe2020.
@@ -56,12 +56,12 @@ permalink: /teaching/
 - <a href = "https://www2.kbs.uni-hannover.de/topics_in_data_mining.html"> Seminar: Topics in Data Mining </a>, SoSe2016.
 - <a href ="https://www2.kbs.uni-hannover.de/data_mining_lab.html"> Data Mining Lab </a>, SoSe2016.
 
-#### Ludwig Maximilians University (LMU) Munich, Germany
+#### <a href = "https://www.lmu.de/en/index.html"> Ludwig Maximilians University Munich (LMU) </a>, Germany
 - Lecture: <a href = "https://www2.dbs.ifi.lmu.de/cms/Knowledge_Discovery_in_Databases_I_(KDD_I)_12.html">Knowledge Discovery in Databases I (KDD I) </a>, SoSe2012.
 - Lecture: <a href ="https://www2.dbs.ifi.lmu.de/cms/Knowledge_Discovery_in_Databases_II_(KDD_II)_WS1516.html">Knowledge Discovery in Databases II (KDD II) </a>, WiSe2015/2016.
 - Seminar: Mining Volatile Data, WiSe2012/2013. 
 
-#### University of Piraeus, Greece, Department of Informatics
+#### <a href = "https://www.unipi.gr/unipi/en/"> University of Piraeus </a>, Greece, Department of Informatics
 - Data Warehousing and Data Mining, 2002-2003 || 2004-2005 || 2005-2006.
 - Data Mining (post graduate), 2004-2005 || 2005-2006.
 - Advanced Database Issues (post graduate), 2004-2005.
