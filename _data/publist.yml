@@ -969,7 +969,7 @@
   description:  
   authors:  Nikos Mitsou, Sheraz Khan, Eirini Ntoutsi, Dirk Wollherr, Costas Tzafestas, Hans-Peter Kriegel
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/16.AIM.pdf
+    url: https://aiml-research.github.io/files/16.AIM.pdf
     display: IEEE International Conference on Advanced Intelligent Mechatronics AIM, Banff, Alberta, Canada, 2016
   highlight: 0
   news2:
@@ -991,7 +991,7 @@
   description:  
   authors:  Kostas Stefanidis, Eirini Ntoutsi
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/16.EDBT.pdf
+    url: https://aiml-research.github.io/files/16.EDBT.pdf
     display: International Conference on Extending Database Technology EDBT, Bordeaux, France, 2016
   highlight: 0
   news2:
@@ -1145,11 +1145,22 @@
   description:  
   authors:  Max Zimmermann, Eirini Ntoutsi, Myra Spiliopoulou
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/15.WISDOM@ICDM.pdf
+    url: https://aiml-research.github.io/files/15.WISDOM@ICDM.pdf
     display: WISDOM (Workshop on Issues of Sentiment Discovery and Opinion Mining) workshop, in conjunction with KDD 2015, Sydney, Australia, 2015
   highlight: 0
   news2:
-  year: 2015  
+  year: 2015 
+  haslocal: 1
+  local: 15.WISDOM@ICDM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "Information hunting: the many faces of recommendations for data exploration"
   image: 
@@ -1161,6 +1172,17 @@
   highlight: 0
   news2:
   year: 2015 
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "MONIC and Followups on Modeling and Monitoring Cluster Transitions"
   image: 
@@ -1172,6 +1194,17 @@
   highlight: 0
   news2:
   year: 2013
+  haslocal: 1
+  local: 13.ECMLPKDD.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "Extracting Opinionated (Sub)Features from a Stream of Product Reviews"
   image: 
@@ -1182,7 +1215,18 @@
     display:  Sixteenth International Conference on Discovery Science (DS 2013), October 6-9, 2013, Singapore
   highlight: 0
   news2:
-  year: 2013   
+  year: 2013 
+  haslocal: 1
+  local: 13.DS.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
  
 - title: "A Framework for Modeling, Computing and Presenting Time-Aware Recommendations"
   image: 
@@ -1194,6 +1238,17 @@
   highlight: 0
   news2:
   year: 2013 
+  haslocal: 1
+  local: 13.TLDKS.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "Clustering high dimensional data: Examining differences and commonalities between subspace clustering and text clustering - A position paper"
   image: 
@@ -1205,6 +1260,17 @@
   highlight: 0
   news2:
   year: 2013 
+  haslocal: 1
+  local: 14.SIGKDDExplorations.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "Strength Lies in Differences - Diversifying Friends for Recommendations through Subspace Clustering"
   image: Eirini2014CIKM.png
@@ -1216,6 +1282,17 @@
   highlight: 1
   news2:
   year: 2014
+  haslocal: 1
+  local: 14.CIKM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "A Semi-supervised Self-Adaptive Classifier over Opinionated Streams"
   image: 
@@ -1227,6 +1304,17 @@
   highlight: 0
   news2:
   year: 2014
+  haslocal: 1
+  local: 14.SENTIRE@ICDM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "Exploring subspace clustering for recommendations"
   image: 
@@ -1238,6 +1326,17 @@
   highlight: 0
   news2:
   year: 2014
+  haslocal: 1
+  local: 14.SSDBM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "The effect of oxygen on the stability of patterns extracted from isotope data"
   image: 
@@ -1249,6 +1348,17 @@
   highlight: 0
   news2:
   year: 2014  
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Adaptive semi supervised opinion classifier with forgetting mechanism"
   image: 
@@ -1260,6 +1370,17 @@
   highlight: 0
   news2:
   year: 2014  
+  haslocal: 1
+  local: 14.SAC.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Empirically exploring the effect of oxygen on the isotopic mapping of cremated and uncremated bones of a Central European Alpine passage"
   image: 
@@ -1271,39 +1392,83 @@
   highlight: 0
   news2:
   year: 2014
+  haslocal: 1
+  local: 14.ISBA(abstract).pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: 14.ISBA(ppt).pdf
+  hasvideo: 0
+  video: 
+
   
 - title: "Influence of Oxygen Isotope Ratio on Classification"
   image: 
   description:  
   authors:  Markus Mauder, Eirini Ntoutsi, Peer Kröger
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/14.TR.BioArchaeo.pdf
+    url: http://www.en.for1670-transalpine.uni-muenchen.de/index.html
     display:  Technical Report, Transalpine mobility and cultural transfer project, ArchaeoBioCenter, LMU
   highlight: 0
   news2:
   year: 2014  
+  haslocal: 1
+  local: 14.TR.BioArchaeo.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "The OPINSTREAM framework"
   image: 
   description:  
   authors:  Max Zimmermann, Eirini Ntoutsi, Myra Spiliopoulou 
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/14.HDMS.OpinStream.pdf
+    url: https://aiml-research.github.io/files/14.HDMS.OpinStream.pdf
     display:  12th Hellenic Data Management Symposium (HDMS), Athens, Greece, July 24-25, 2014
   highlight: 0
   news2:
-  year: 2014  
+  year: 2014 
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: https://aiml-research.github.io/files/14.HDMS.OpinStream.pdf
+  hasvideo: 0
+  video: 
+
   
 - title: "Recommendations through subspace clustering"
   image: 
   description:  
   authors:  Katharina Rausch, Eirini Ntoutsi, Kostas Stefanidis, Hans-Peter Kriegel  
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/14.HDMS.recs.pdf
+    url: https://aiml-research.github.io/files/14.HDMS.recs.pdf
     display:  12th Hellenic Data Management Symposium (HDMS), Athens, Greece, July 24-25, 2014.
   highlight: 0
   news2:
-  year: 2014     
+  year: 2014 
+  haslocal: 1
+  local: 14.HDMS.recs.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Density-based Projected Clustering over High Dimensional Data Streams"
   image: 
@@ -1314,7 +1479,18 @@
     display:  SIAM International Conference on Data Mining (SDM12), Anaheim, California, USA, 2012
   highlight: 0
   news2:
-  year: 2012  
+  year: 2012
+  haslocal: 1
+  local: 12.SDM.pdf
+  hascode: 0
+  code: 
+  hasposter: 1
+  poster: https://aiml-research.github.io/files/12.SDM(poster).pdf
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "gRecs: A Group Recommendation System Based on User Clustering"
   image: 
@@ -1326,6 +1502,17 @@
   highlight: 0
   news2:
   year: 2012  
+  haslocal: 1
+  local: 12.DASFAA.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "Fast Group Recommendations by Applying User Clustering"
   image: 
@@ -1337,6 +1524,17 @@
   highlight: 0
   news2:
   year: 2012
+  haslocal: 1
+  local: 12.ER.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Discovering Global and Local Bursts in a Stream of News Data"
   image: 
@@ -1348,6 +1546,17 @@
   highlight: 0
   news2:
   year: 2012
+  haslocal: 1
+  local: 12.SAC.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
  
 - title: "FINGERPRINT: Summarizing Cluster Evolution in Dynamic Environments"
   image: 
@@ -1359,6 +1568,17 @@
   highlight: 0
   news2:
   year: 2012 
+  haslocal: 1
+  local: 12.IJDWM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "A Framework for Time-aware Recommendations"
   image: 
@@ -1370,6 +1590,17 @@
   highlight: 0
   news2:
   year: 2012 
+  haslocal: 1
+  local: 12.DEXA.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "Monitoring User Evolution in Twitter"
   image: 
@@ -1381,28 +1612,61 @@
   highlight: 0
   news2:
   year: 2012 
+  haslocal: 1
+  local: 12.BASNA.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
  
 - title: "Sentiment analysis in the Twitter stream"
   image: 
   description:  
   authors:  Alina Sinelnikova, Eirini Ntoutsi, Hans-Peter Kriegel
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/12.GfKL_a(ppt).pdf
+    url: https://aiml-research.github.io/files/12.GfKL_a(ppt).pdf
     display:  The 36th Annual Conference of the German Classification Society on Data Analysis, Machine Learning and Knowledge Discovery (GfKl 2012), August 1-3, 2012, Hildesheim, Germany.
   highlight: 0
   news2:
   year: 2012 
+  haslocal: 1
+  local: 12.GfKl_a.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: https://aiml-research.github.io/files/12.GfKL_a(ppt).pdf
+  hasvideo: 0
+  video: 
+
  
 - title: "gRecs: A collaborative Filtering framework for group recommendations."
   image: 
   description:  
   authors:  Eirini Ntoutsi, Kostas Stefanidis, Kjetil Norvag, Hans-Peter Kriegel
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/12.GfKl_b.pdf
+    url: https://aiml-research.github.io/files/12.GfKl_b.pdf
     display:  The 36th Annual Conference of the German Classification Society on Data Analysis, Machine Learning and Knowledge Discovery (GfKl 2012), August 1-3, 2012, Hildesheim, Germany.
   highlight: 0
   news2:
   year: 2012
+  haslocal: 1
+  local: 12.GfKl_b.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: https://aiml-research.github.io/files/12.GfKL_b(ppt).pdf
+  hasvideo: 0
+  video: 
+
   
 - title: "Mining Complex Dynamic Data"
   image: 
@@ -1414,6 +1678,17 @@
   highlight: 0
   news2:
   year: 2011
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Density Based Subspace Clustering Over Dynamic Data"
   image: 
@@ -1425,6 +1700,17 @@
   highlight: 0
   news2:
   year: 2011
+  haslocal: 1
+  local: 11.SSDBM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: https://aiml-research.github.io/files/11.SSDBM(ppt).pdf
+  hasvideo: 0
+  video: 
+
   
 - title: "Revealing cluster formation over huge volatile robotic data"
   image: 
@@ -1436,6 +1722,17 @@
   highlight: 0
   news2:
   year: 2011
+  haslocal: 1
+  local: 11.DDDM@ICDM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: https://aiml-research.github.io/files/11.DDDM@ICDM(ppt).pdf
+  hasvideo: 0
+  video: 
+
   
 - title: "Density-based community detection in social networks"
   image: 
@@ -1447,6 +1744,17 @@
   highlight: 0
   news2:
   year: 2011
+  haslocal: 1
+  local: 10.BASNA.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Summarizing Cluster Evolution in Dynamic Environments"
   image: 
@@ -1458,6 +1766,17 @@
   highlight: 0
   news2:
   year: 2011
+  haslocal: 1
+  local: 11.ICCSA.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: https://aiml-research.github.io/files/11.ICCSA(ppt).pdf
+  hasvideo: 0
+  video: 
+
   
 - title: "Towards Subspace Clustering on Dynamic Data: An Incremental Version of PreDeCon"
   image: 
@@ -1469,6 +1788,17 @@
   highlight: 0
   news2:
   year: 2010
+  haslocal: 1
+  local: 10.StreamKDD.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: https://aiml-research.github.io/files/10.StreamKDD(ppt).pdf
+  hasvideo: 0
+  video: 
+
   
 - title: "The PANDA framework for comparing patterns"
   image: 
@@ -1585,7 +1915,7 @@
   description:  
   authors: Eirini Ntoutsi
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/phd.pdf
+    url: https://aiml-research.github.io/files/phd.pdf
     display:  PhD thesis, Department of Informatics, University of Piraeus, Greece, 2008.
   highlight: 0
   news2:
@@ -1662,7 +1992,7 @@
   description:  
   authors: Myra Spiliopoulou, Eirini Ntoutsi, Yannis Theodoridis
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/07.ADMKD.pdf
+    url: https://aiml-research.github.io/files/07.ADMKD.pdf
     display:  3rd ADBIS Workshop on Data Mining and Knowledge Discovery (ADMKD 2007), Varna, Bulgaria, 2007.
   highlight: 0
   news2:
@@ -1673,7 +2003,7 @@
   description:  
   authors: Eirini Ntoutsi, Nikos Mitsou, Gerasimos Marketos
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/08.IJBIDM.pdf
+    url: https://aiml-research.github.io/files/08.IJBIDM.pdf
     display:  Data Mining and Knowledge Discovery Stream, in EURO XXII - 2007 European Conference on Operational Research, Prague, Czech Republic, 2007
   highlight: 0
   news2:
@@ -1684,7 +2014,7 @@
   description:  
   authors: Myra Spiliopoulou, Eirini Ntoutsi,  Yannis Theodoridis
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/07.UNIPI-ISL-TR-2007-03.pdf
+    url: https://aiml-research.github.io/files/07.UNIPI-ISL-TR-2007-03.pdf
     display: UNIPI-ISL-TR-2007-03, Technical Report Series, Information Systems Lab., University of Piraeus, Piraeus, Greece, July 2007. 
   highlight: 0
   news2:
@@ -1695,7 +2025,7 @@
   description:  
   authors: Eirini Ntoutsi,  Yannis Theodoridis
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/07.UNIPI-ISL-TR-2007-02.pdf
+    url: https://aiml-research.github.io/files/07.UNIPI-ISL-TR-2007-02.pdf
     display: UNIPI-ISL-TR-2007-02, Technical Report Series, Information Systems Lab., University of Piraeus, Piraeus, Greece, March 2007.
   highlight: 0
   news2:
@@ -1706,7 +2036,7 @@
   description:  
   authors: Eirini Ntoutsi,  Yannis Theodoridis
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/07.UNIPI-ISL-TR-2007-01.pdf
+    url: https://aiml-research.github.io/files/07.UNIPI-ISL-TR-2007-01.pdf
     display: UNIPI-ISL-TR-2007-02, Technical Report Series, Information Systems Lab., University of Piraeus, Piraeus, Greece, March 2007.
   highlight: 0
   news2:
@@ -1728,7 +2058,7 @@
   description:  
   authors: Myra Spiliopoulou, Eirini Ntoutsi, Yannis Theodoridis, Rene Schult
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/06.HDMS.pdf
+    url: https://aiml-research.github.io/files/06.HDMS.pdf
     display: 5th Hellenic Data Management Symposium (HDMS 2006), Thessaloniki, Greece, 2006.
   highlight: 0
   news2:
@@ -1750,7 +2080,7 @@
   description:  
   authors: Eirini Ntoutsi, Yannis Theodoridis
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/05.VLDB_Phd_Workshop.pdf
+    url: https://aiml-research.github.io/files/05.VLDB_Phd_Workshop.pdf
     display:  VLDB Phd Workshop, in conjunction with VLDB 2005 Conference, Trondheim, Norway, 2005.
   highlight: 0
   news2:
@@ -1783,7 +2113,7 @@
   description:  
   authors: Eirini Ntoutsi
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/04.PARMA.pdf
+    url: https://aiml-research.github.io/files/04.PARMA.pdf
     display:  Proceedings of PARMA workshop on Pattern Representation and Management (ParMa' 04), in conjunction with EDBT 2004 Conference, Heraclion, Crete, Greece, 2004.
   highlight: 0
   news2:
@@ -1805,7 +2135,7 @@
   description:  
   authors: Eirini Ntoutsi
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/master.pdf
+    url: https://aiml-research.github.io/files/master.pdf
     display:  MSc thesis, Computer Engineering and Informatics Department (CEID), University of Patras, Greece, 2003
   highlight: 0
   news2:
@@ -1827,7 +2157,7 @@
   description:  
   authors: Eirini Ntoutsi
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/diplomatiki.pdf
+    url: https://aiml-research.github.io/files/diplomatiki.pdf
     display:  BSc thesis, Computer Engineering and Informatics Department (CEID), University of Patras, Greece, 2001.
   highlight: 0
   news2:
@@ -1838,7 +2168,7 @@
   description:  
   authors: Dimitris Dadiotis, Dimitris Kalles, Eirini Ntoutsi, Athanassios Papagelis
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/01.ICS.pdf
+    url: https://aiml-research.github.io/files/01.ICS.pdf
     display:  PHCI Workshop-Transforming Web Surfers to E-Shoppers, Patras, Greece, 2001
   highlight: 0
   news2:
