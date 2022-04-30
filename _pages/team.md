@@ -149,8 +149,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
   <h4> <a href=" {{ member.website }} ">{{ member.name }}</a> </h4>
   <i>{{ member.info }} </i>
-  - E-mail: {{ member.email }}  
-  - Project: {{ member.project }}  
+  - E-mail: <a href=" {{ member.email }} ">{{ member.email }}  </a>
+  - Project:<a href=" {{ member.project_web }} "> {{ member.project }} </a>  
 <!---  - Research interests: {{ member.interest }} -->
   <ul style="overflow: hidden">
 
