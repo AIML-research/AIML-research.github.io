@@ -30,7 +30,7 @@
   
 - title: "Interpretable Visual Understanding with Cognitive Attention Network"
   image: Xuejiao2021.png
-  description: We propose a Cognitive Attention Network (CAN) for Visual Commonsense Reasoning (VCR) to achieve interpretable visual understanding. It consists of an image-text fusion module and an inference module that encodes commonsense among image, query, and response.
+  description: We propose a Cognitive Attention Network (CAN) for Visual Commonsense Reasoning (VCR) to achieve interpretable visual understanding. It consists of an image-text fusion module and an inference module that encodes commonsense among image, query, and response. Extensive experiments on large-scale VCR benchmark datasets demonstrate the effectiveness of our approach.
   authors: Xuejiao Tang, Wenbin Zhang, Yi Yu, Kea Turner, Tyler Derr, Mengyu Wang, Eirini Ntoutsi
   link:
     url: https://doi.org/10.1007/978-3-030-86362-3_45
@@ -52,7 +52,7 @@
   
 - title: "XPROAX-Local explanations for text classification with progressive neighborhood approximation"
   image: Yi2021.png
-  description: We propose a progressive approximation of the neighborhood for training a local surrogate model using counterfactual instances as initial landmarks and a careful 2-stage sampling approach to refine counterfactuals and generate factuals in the neighborhood of the input instance to be explained.
+  description: The importance of the neighborhood for training a local surrogate model to approximate the local decision boundary of a black box classifier has been already highlighted in the literature. Several attempts have been made to construct a better neighborhood for high dimensional data, like texts, by using generative autoencoders. However, existing approaches mainly generate neighbors by selecting purely at random from the latent space and struggle under the curse of dimensionality to learn a good local decision boundary.
   authors: Yi Cai, Arthur Zimek, Eirini Ntoutsi
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9564153
@@ -60,10 +60,20 @@
   highlight: 1
   news2:
   year: 2021
+  haslocal: 1
+  local: 21.DSAA.pdf
+  hascode: 1
+  code: https://github.com/caiy0220/XPROAX
+  hasposter: 1
+  poster: https://caiy0220.github.io/XPROAX-intro/XPROAX-Poster.pdf
+  hasppt: 1
+  ppt: https://caiy0220.github.io/XPROAX-intro/XPROAX-slides.pdf
+  hasvideo: 1
+  video: https://youtu.be/I2gcUnY5e8g
   
 - title: "Fair-Capacitated Clustering"
   image: Taifair2021.png
-  description: We introduce the fair-capacitated clustering problem that partitions the data into clusters of similar instances while ensuring cluster fairness and balancing cluster cardinalities. Our solution relies on fairlets to generate minimal sets satisfying the fairness constraint and on a knapsack formulation to meet the capacity requirement.
+  description: We introduce the fair-capacitated clustering problem that partitions the data into clusters of similar instances while ensuring cluster fairness and balancing cluster cardinalities. We propose a two-step solution to the problem, i) we rely on fairlets to generate minimal sets that satisfy the fair constraint and ii) we propose two approaches, namely hierarchical clustering and partitioning-based clustering, to obtain the fair-capacitated clustering. The hierarchical approach embeds the additional cardinality requirements during the merging step while the partitioning-based one alters the assignment step using a knapsack problem formulation to satisfy the additional requirements.
   authors: Tai Le Quy, Arjun Roy, Gunnar Friege, Eirini Ntoutsi
   link:
     url: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_184.pdf
@@ -71,6 +81,16 @@
   highlight: 1
   news2: 
   year: 2021
+  haslocal: 1
+  local: 21.EDM.pdf
+  hascode: 1
+  code: https://github.com/tailequy/tailequy.github.io/tree/main/fair-capacitated/code
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 1
+  video: https://www.youtube.com/watch?v=m9vXn_nbuGA
   
 - title: "Consequence-aware Sequential Counterfactual Generation"
   image: Philip2021.png
@@ -82,6 +102,16 @@
   highlight: 1
   news2: 
   year: 2021
+  haslocal: 1
+  local: 21.ECML.pdf
+  hascode: 1
+  code: https://github.com/ppnaumann/CSCF
+  hasposter: 1
+  poster: https://www.philipnaumann.com/Consequence-aware_Sequential_Counterfactual_Generation_Poster.pdf
+  hasppt: 1
+  ppt: https://www.philipnaumann.com/Consequence-aware_Sequential_Counterfactual_Generation_Philip_Naumann_09_2021_slides.pdf
+  hasvideo: 0
+  video: 
   
 - title: "Web Futures - Inclusive, Intelligent, Sustainable - The 2020 Manifesto for Web Science"
   image: 
@@ -93,6 +123,16 @@
   highlight: 0
   news2:   
   year: 2020
+  haslocal: 1
+  local: 20.DahstuhlManifesto.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "FairNN - Conjoint Learning of Fair Representations for Fair Decisions"
   image: 
@@ -104,6 +144,16 @@
   highlight: 0
   news2:  
   year: 2020
+  haslocal: 1
+  local: 20.DS.FairNN.pdf
+  hascode: 1
+  code: https://github.com/wtliao/FairNN
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "FABBOO - Online Fairness-aware Learning under Class Imbalance"
   image: Vasilis2020.png
@@ -115,6 +165,16 @@
   highlight: 1
   news2:    
   year: 2020
+  haslocal: 1
+  local: 20.DS.FABOO.pdf
+  hascode: 1
+  code: https://github.com/iosifidisvasileios/FABBOO
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "Drift-Aware Multi-Memory Model for Imbalanced Data Streams"
   image: Amir2020.png
