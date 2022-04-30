@@ -150,7 +150,7 @@ permalink: /team/
   <h4> <a href=" {{ member.website }} ">{{ member.name }}</a> </h4>
   <i>{{ member.info }} </i>
   - E-mail: <a href="mailto: {{ member.email }} ">{{ member.email }}  </a>
-  - Project:{% if member.has_project_web == 1 %} <a href=" {{ member.project_web }} "> {% endif %} {{ member.project }} </a>  
+  - Project:{% if member.has_project_web == 1 %} <a href=" {{ member.project_web }} "> {{ member.project }} </a> {% else % } {{ member.project }} {% endif %} 
 <!---  - Research interests: {{ member.interest }} -->
   <ul style="overflow: hidden">
 
