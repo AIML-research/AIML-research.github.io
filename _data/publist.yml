@@ -52,7 +52,7 @@
   
 - title: "XPROAX-Local explanations for text classification with progressive neighborhood approximation"
   image: Yi2021.png
-  description: The importance of the neighborhood for training a local surrogate model to approximate the local decision boundary of a black box classifier has been already highlighted in the literature. Several attempts have been made to construct a better neighborhood for high dimensional data, like texts, by using generative autoencoders. However, existing approaches mainly generate neighbors by selecting purely at random from the latent space and struggle under the curse of dimensionality to learn a good local decision boundary.
+  description: We propose a progressive approximation of the neighborhood for training a local surrogate model using counterfactual instances as initial landmarks and a careful 2-stage sampling approach to refine counterfactuals and generate factuals in the neighborhood of the input instance to be explained. 
   authors: Yi Cai, Arthur Zimek, Eirini Ntoutsi
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9564153
@@ -73,7 +73,7 @@
   
 - title: "Fair-Capacitated Clustering"
   image: Taifair2021.png
-  description: We introduce the fair-capacitated clustering problem that partitions the data into clusters of similar instances while ensuring cluster fairness and balancing cluster cardinalities. We propose a two-step solution to the problem, i) we rely on fairlets to generate minimal sets that satisfy the fair constraint and ii) we propose two approaches, namely hierarchical clustering and partitioning-based clustering, to obtain the fair-capacitated clustering. The hierarchical approach embeds the additional cardinality requirements during the merging step while the partitioning-based one alters the assignment step using a knapsack problem formulation to satisfy the additional requirements.
+  description: We introduce the fair-capacitated clustering problem that partitions the data into clusters of similar instances while ensuring cluster fairness and balancing cluster cardinalities. Our solution relies on fairlets to generate minimal sets satisfying the fairness constraint and a knapsack formulation to meet the capacity requirement.
   authors: Tai Le Quy, Arjun Roy, Gunnar Friege, Eirini Ntoutsi
   link:
     url: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_184.pdf
