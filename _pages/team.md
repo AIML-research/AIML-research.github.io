@@ -229,7 +229,7 @@ permalink: /team/
   
 ### Former Master and Bachelor students
 
-#### Leibniz University Hannover (LUH), Germany
+#### <a href ="https://www.uni-hannover.de/"> Leibniz University Hannover (LUH) </a>, Germany
 - <b> Philipp Naumann </b>, MSc, ''Evolutionary Instance Tweaking'', WiSe20/21.
 - <b> Leonard Zucht </b>, MSc, ''Application of Amortized Fairness in Sequential Group Recommendations Using Collaborative Filtering'', WiSe19/20.
 - <b> Philip Ossenkopp </b>, BSc, ''Dealing with Concept Drifts via Weightless Neural Networks'', WiSe19/20.
@@ -251,7 +251,7 @@ permalink: /team/
 - <b> Nrithya Muniswamy & Nidhi Chachra </b>, Research project, “Implicit network mining from archive collections", SoSe 17.
 - <b> Sudhir Kumar Sah </b>, MSc, “Topic extraction from archive collections", WiSe 16/17.
 
-#### Ludwig Maximilians University (LMU) Munich, Germany
+#### <a href ="https://www.lmu.de/en/index.html"> Ludwig Maximilians University Munich (LMU) </a>, Germany
 - <b> Omar Backhoff </b>, MSc, “Scalable Online-Offline Stream Clustering in Apache Spark”, TUM Munich, 2017. <a href ="https://aiml-research.github.io/files/16.ICDM.IoT.pdf">Related publication </a>
 - <b> Daniel Basaran </b>, MSc, “On the effect of duplicated reviews on performance statistics of recommender systems”, LMU Munich, 2016. <a href ="https://aiml-research.github.io/files/17.SDM.pdf">Related publication </a>
 - <b> Benedikt Böhm </b>, Project work, “Building blocks for multicriteria recommendation systems”, LMU Munich, 2016.
@@ -272,7 +272,7 @@ permalink: /team/
 - <b> Claudia Lauschke </b>, BSc, "User Profile Monitoring in Twitter", LMU Munich, 2011.
 - <b> Veselin Georgiev </b>, Project work, "Web Profile Monitoring", Projektarbeit, LMU Munich, 2011.
 
-#### University of Piraeus, Greece
+#### <a href ="https://www.unipi.gr/unipi/en/"> University of Piraeus </a>, Greece
 - <b> Georgios Tzoumis </b>, MSc, “Data warehousing for news portals”, University of Piraeus, 2006.
 - <b> Marios Mpartzokas </b>, BSc, "Comparing complex patterns: a study on collections of documents", University of Piraeus, 2006.
 - <b> Anastasia Tzeveleka </b>, BSc, "Duck-miner: A Tool for Discovering and Handling Knowledge from Large DBs", University of Piraeus, 2005.
