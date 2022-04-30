@@ -204,7 +204,7 @@ permalink: /team/
 
 ### Master and Bachelor students
 
-- <b> Viktoria Andres </b>, BSc , "Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide", WiSe21/22 
+- <b> Viktoria Andres </b>, BSc , <a href ="https://git.imp.fu-berlin.de/viktoa98/bachelor-thesis-about-counterfactuals-in-time-series-classification/-/tree/master"> "Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide" </a>, WiSe21/22 
 - <b> Florian Mies </b>, MSc, "Generative replay", SoSe22
 
 
