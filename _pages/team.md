@@ -211,7 +211,7 @@ permalink: /team/
 ### HiWi students
 
 - <b> Viktoria Andres </b>, BSc , Student assistant, project: <a href ="https://aiml-research.github.io/projects/hephaestus/">Hephaestus </a>, WiSe21/22 
-- <b> Anton Kriese </b>, MSc, Student assistant, project: <a href =""> DFG SFB 1463: “Offshore Megastrukturen” </a>, WiSe21/22
+- <b> Anton Kriese </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/offshore/"> DFG SFB 1463: “Offshore Megastrukturen” </a>, WiSe21/22
 
 
 ### Former members
