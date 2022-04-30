@@ -808,7 +808,18 @@
     display:   Encyclopedia of Social Network Analysis and Mining, 2017
   highlight: 0
   news2:
-  year: 2017 
+  year: 2017
+  haslocal: 1
+  local: 17.StefanidisNKV17.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
  
 - title: "Redundancies in Data and their Effect on the Evaluation of Recommendation Systems: A Case Study on the Amazon Reviews Datasets"
   image: 
