@@ -1128,6 +1128,17 @@
   highlight: 0
   news2:
   year: 2015
+  haslocal: 1
+  local: 15.SSDBM(b).pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Incremental Active Opinion Learning Over a Stream of Opinionated Documents"
   image: 
