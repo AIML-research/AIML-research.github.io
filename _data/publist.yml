@@ -1809,7 +1809,18 @@
     display:  Data & Knowledge Engineering, 68(2), 244-260, February 2009. Elsevier Science.
   highlight: 0
   news2:
-  year: 2009  
+  year: 2009
+  haslocal: 1
+  local: 09.DKE.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Tracing cluster transitions for different cluster types"
   image: 
@@ -1820,7 +1831,18 @@
     display:  Control and Cybernetics Journal, 38(1) 239-260, 2009. Polish Academy of Sciences.
   highlight: 0
   news2:
-  year: 2009    
+  year: 2009
+  haslocal: 1
+  local: 09.CCjournal.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "A general framework for estimating similarity of datasets and decision trees: exploring semantic similarity of decision trees"
   image: 
@@ -1832,6 +1854,17 @@
   highlight: 0
   news2:
   year: 2008
+  haslocal: 1
+  local: 08.SDM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "PATTERN-MINER: Integrated Management and Mining over Data Mining Models (Demo)"
   image: 
@@ -1843,6 +1876,17 @@
   highlight: 0
   news2:
   year: 2008 
+  haslocal: 1
+  local: 08.KDD.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Monitoring Patterns through an Integrated Management and Mining Tool (Demo)"
   image: 
@@ -1854,6 +1898,17 @@
   highlight: 0
   news2:
   year: 2008
+  haslocal: 1
+  local: 08.ECMLPKDD.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Towards Trajectory Data Warehouses"
   image: 
@@ -1865,6 +1920,17 @@
   highlight: 0
   news2:
   year: 2008
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Trajectory Database Systems"
   image: 
@@ -1876,6 +1942,17 @@
   highlight: 0
   news2:
   year: 2008
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Trajectory data models"
   image: 
@@ -1887,6 +1964,17 @@
   highlight: 0
   news2:
   year: 2008
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Building Real World Trajectory Warehouses"
   image: 
@@ -1898,6 +1986,17 @@
   highlight: 0
   news2:
   year: 2008
+  haslocal: 1
+  local: 08.MOBIDE.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Traffic mining in a road-network: How does the traffic flow?"
   image: 
@@ -1909,6 +2008,17 @@
   highlight: 0
   news2:
   year: 2008
+  haslocal: 1
+  local: 08.IJBIDM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Similarity Issues in Data Mining - Methodologies and Techniques"
   image: 
@@ -1919,7 +2029,18 @@
     display:  PhD thesis, Department of Informatics, University of Piraeus, Greece, 2008.
   highlight: 0
   news2:
-  year: 2008  
+  year: 2008
+  haslocal: 1
+  local: phd(GR).pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Comparing Datasets Using Frequent Itemsets: Dependency on the Mining Parameters"
   image: 
@@ -1931,6 +2052,17 @@
   highlight: 0
   news2:
   year: 2008
+  haslocal: 1
+  local: 08.SETN.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "A Framework for Trajectory Data Warehousing"
   image: 
@@ -1942,6 +2074,17 @@
   highlight: 0
   news2:
   year: 2008
+  haslocal: 1
+  local: 08.HDMS08.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "A general framework for estimating similarity of datasets and decision trees: exploring semantic similarity of decision trees"
   image: 
