@@ -2118,6 +2118,17 @@
   highlight: 0
   news2:
   year: 2007
+  haslocal: 1
+  local: 07.TIME.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Mining Trajectory Databases via a Suite of Distance Operators"
   image: 
@@ -2129,6 +2140,17 @@
   highlight: 0
   news2:
   year: 2007  
+  haslocal: 1
+  local: 07.STDM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: https://aiml-research.github.io/files/07.STDM(ppt).pdf
+  hasvideo: 0
+  video: 
+
   
 - title: "Pattern Comparison in Data Mining: A Survey"
   image: 
@@ -2140,6 +2162,17 @@
   highlight: 0
   news2:
   year: 2007    
+  haslocal: 1
+  local: 07.AdvancesinDWandMiningChapter.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Tracing Cluster Transitions for Different Cluster Types"
   image: 
@@ -2151,6 +2184,17 @@
   highlight: 0
   news2:
   year: 2007
+  haslocal: 1
+  local: 07.ADMKD.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Traffic mining in a road-network: How does the traffic flow?"
   image: 
@@ -2162,6 +2206,17 @@
   highlight: 0
   news2:
   year: 2007
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Tracing Cluster Transitions for Different Cluster Types"
   image: 
@@ -2173,6 +2228,17 @@
   highlight: 0
   news2:
   year: 2007
+  haslocal: 1
+  local: 07.UNIPI-ISL-TR-2007-03.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "The notion of patterns in Data Mining"
   image: 
@@ -2184,6 +2250,17 @@
   highlight: 0
   news2:
   year: 2007
+  haslocal: 1
+  local: 07.UNIPI-ISL-TR-2007-02.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Pattern Management"
   image: 
@@ -2195,6 +2272,17 @@
   highlight: 0
   news2:
   year: 2007
+  haslocal: 1
+  local: 07.UNIPI-ISL-TR-2007-01.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "MONIC - Modeling and Monitoring Cluster Transitions"
   image: 
@@ -2206,6 +2294,17 @@
   highlight: 0
   news2:
   year: 2006
+  haslocal: 1
+  local: 06.KDD.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "The MONIC framework for Cluster Transition Detection"
   image: 
@@ -2217,6 +2316,17 @@
   highlight: 0
   news2:
   year: 2006
+  haslocal: 1
+  local: 06.HDMS.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Mining the Volatile Web"
   image: 
@@ -2228,6 +2338,17 @@
   highlight: 0
   news2:
   year: 2005
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Measuring and Evaluating Dissimilarity in Data and Pattern Spaces"
   image: 
@@ -2239,6 +2360,17 @@
   highlight: 0
   news2:
   year: 2005
+  haslocal: 1
+  local: 05.VLDB_Phd_Workshop.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Database Support for Data Mining Patterns"
   image: 
@@ -2250,6 +2382,17 @@
   highlight: 0
   news2:
   year: 2005
+  haslocal: 1
+  local: 05.PCI.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "A Unified and Flexible Framework for Comparing Simple and Complex Patterns"
   image: 
@@ -2261,6 +2404,17 @@
   highlight: 0
   news2:
   year: 2004
+  haslocal: 1
+  local: 04.PKDD.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "The notion of similarity in data and pattern space"
   image: 
@@ -2272,6 +2426,17 @@
   highlight: 0
   news2:
   year: 2004
+  haslocal: 1
+  local: 04.PARMA.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Current Issues in Modeling Data Mining Processes and Results"
   image: 
@@ -2283,6 +2448,17 @@
   highlight: 0
   news2:
   year: 2003
+  haslocal: 1
+  local: 03.PARMA.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Data mining from news data and association with real data"
   image: 
@@ -2290,10 +2466,21 @@
   authors: Eirini Ntoutsi
   link:
     url: https://aiml-research.github.io/files/master.pdf
-    display:  MSc thesis, Computer Engineering and Informatics Department (CEID), University of Patras, Greece, 2003
+    display:  MSc thesis (in Greek), Computer Engineering and Informatics Department (CEID), University of Patras, Greece, 2003
   highlight: 0
   news2:
   year: 2003
+  haslocal: 0
+  local: master.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Interactive Verification of Game Design and Playing Strategies"
   image: 
@@ -2305,6 +2492,17 @@
   highlight: 0
   news2:
   year: 2002
+  haslocal: 1
+  local: 02.ICTAI.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Modeling and improvement of human ability in strategy games"
   image: 
@@ -2312,10 +2510,21 @@
   authors: Eirini Ntoutsi
   link:
     url: https://aiml-research.github.io/files/diplomatiki.pdf
-    display:  BSc thesis, Computer Engineering and Informatics Department (CEID), University of Patras, Greece, 2001.
+    display:  BSc thesis (in Greek), Computer Engineering and Informatics Department (CEID), University of Patras, Greece, 2001.
   highlight: 0
   news2:
   year: 2001
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Scalable and interoperable e-commerce infrastructures: The Instant Commerce Server paradigm"
   image: 
@@ -2327,6 +2536,17 @@
   highlight: 0
   news2:
   year: 2001
+  haslocal: 1
+  local: 01.ICS.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: https://aiml-research.github.io/files/01.ICS(ppt).pdf
+  hasvideo: 0
+  video: 
+
   
 - title: "Induction of decision trees in numeric domains using set-valued attributes"
   image: 
@@ -2338,3 +2558,14 @@
   highlight: 0
   news2:
   year: 2000
+  haslocal: 1
+  local: 00.IDA.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
