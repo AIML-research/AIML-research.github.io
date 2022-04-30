@@ -30,7 +30,7 @@
   
 - title: "Interpretable Visual Understanding with Cognitive Attention Network"
   image: Xuejiao2021.png
-  description: We propose a novel Cognitive Attention Network (CAN) for visual commonsense reasoning to achieve interpretable visual understanding. Specifically, we first introduce an image-text fusion module to fuse Information from images and text collectively. Second, a novel inference module is designed to encode commonsense among image, query and response. Extensive experiment on large-scale Visual Commonsense Reasoning (VCR) benchmark dataset demonstrate the effectiveness of our approach.
+  description: We propose a Cognitive Attention Network (CAN) for Visual Commonsense Reasoning (VCR) to achieve interpretable visual understanding. It consists of an image-text fusion module and an inference module that encodes commonsense among image, query, and response. Extensive experiments on large-scale VCR benchmark datasets demonstrate the effectiveness of our approach.
   authors: Xuejiao Tang, Wenbin Zhang, Yi Yu, Kea Turner, Tyler Derr, Mengyu Wang, Eirini Ntoutsi
   link:
     url: https://doi.org/10.1007/978-3-030-86362-3_45
