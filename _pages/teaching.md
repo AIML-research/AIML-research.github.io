@@ -7,7 +7,7 @@ permalink: /teaching/
 ---
 
 ### Teaching
-#### <a hef ="https://www.fu-berlin.de/">Freie Universität Berlin (FUB) </a>, Germany
+#### <a href ="https://www.fu-berlin.de/"> Freie Universität Berlin (FUB) </a>, Germany
 <b> Summer semester SoSe 2022 </b>
 - See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS22/index.html" target="new">SoSe22 lectures</a>
 
