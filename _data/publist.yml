@@ -2096,6 +2096,17 @@
   highlight: 0
   news2:
   year: 2008
+  haslocal: 1
+  local: 08.SIAM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Similarity Search in Trajectory Databases"
   image: 
