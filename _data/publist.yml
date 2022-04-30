@@ -830,18 +830,18 @@
     display:   Proceedings of the 2017 SIAM International Conference on Data Mining (SDM), Houston, Texas, 2017
   highlight: 0
   news2:
-  year: 2017  
+  year: 2017
+  haslocal: 1
+  local: 17.SDM.pdf
+  hascode: 0
+  code: 
+  hasposter: 1
+  poster: https://aiml-research.github.io/files/17.SDM(poster).pdf
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
 
-- title: "The Isotopic Fingerprint: New Methods of Data Mining and Similarity Search"
-  image: 
-  description:  We propose a new method for feature selection and apply it to a sample dataset of animal bones from the reference region. This application confirms that a multivariate fingerprint is clearly superior over univariate analysis and that the impact of oxygen on the reliability of the fingerprints is not very prominent. These findings confirm that it is possible to explore cremated human material for provenance analysis
-  authors:   Markus Mauder, Eirini Ntoutsi, Peer Kröger, Hans-Peter Kriegel 
-  link:
-    url: https://doi.org/10.1007/978-3-319-41550-5_5
-    display:  Grupe G., Grigat A., McGlynn G. (eds) Across the Alps in Prehistory. Springer, Cham. pp 105–125, 2017
-  highlight: 0
-  news2:
-  year: 2017  
 
 - title: "The Isotopic Fingerprint: New Methods of Data Mining and Similarity Search"
   image: 
@@ -863,7 +863,18 @@
     display:  IEEE 16th International Conference on Data Mining Workshops (ICDMW), Barcelona, Spain, 2016
   highlight: 0
   news2:
-  year: 2016 
+  year: 2016
+  haslocal: 1
+  local: 16.ICDM.IoT.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "Recommendations beyond the ratings matrix"
   image: 
@@ -875,6 +886,17 @@
   highlight: 0
   news2:
   year: 2016 
+  haslocal: 1
+  local: 16.DDI@WebScience.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Opinion Stream Mining"
   image: 
@@ -885,7 +907,18 @@
     display: Encyclopedia of Machine Learning and Data Mining, 2016
   highlight: 0
   news2:
-  year: 2016 
+  year: 2016
+  haslocal: 1
+  local: 16.Encyclopedia.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Applying Data Mining Methods for the Analysis of Stable Isotope Data in Bioarchaeology"
   image: 
@@ -896,9 +929,20 @@
     display: IEEE 12th International Conference on e-Science (e-Science), 2016
   highlight: 0
   news2:
-  year: 2016  
+  year: 2016
+  haslocal: 1
+  local: 16.eScience.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
-- title: "GMMbuilder – User-Driven Discovery of Clustering Structure for Bioarchaeology"
+- title: "GMMbuilder: User-Driven Discovery of Clustering Structure for Bioarchaeology"
   image: 
   description:  
   authors:  Markus Mauder, Yulia Bobkova, Eirini Ntoutsi
@@ -907,7 +951,18 @@
     display: ECML PKDD, Italy, 2016
   highlight: 0
   news2:
-  year: 2016   
+  year: 2016
+  haslocal: 1
+  local: 16.PKDD.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "An Uncertain 3D Grid Formulation for Indoor Environment Mapping"
   image: 
@@ -919,6 +974,17 @@
   highlight: 0
   news2:
   year: 2016
+  haslocal: 1
+  local: 16.AIM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
   
 - title: "Cluster-based Contextual Recommendations"
   image: 
@@ -930,6 +996,17 @@
   highlight: 0
   news2:
   year: 2016 
+  haslocal: 1
+  local: 16.EDBT.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
   
 - title: "Extracting opinionated (sub)features from a stream of product reviews using accumulated novelty and internal re-organization"
   image: 
@@ -941,6 +1018,17 @@
   highlight: 0
   news2:
   year: 2016  
+  haslocal: 1
+  local: 16.IS.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 
 - title: "Ageing-Based Multinomial Naive Bayes Classifiers Over Opinionated Data Streams"
   image: 
@@ -952,6 +1040,17 @@
   highlight: 0
   news2:
   year: 2015
+  haslocal: 1
+  local: 15.ECMLPKDD.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Discovering and Monitoring Product Features and the Opinions on them with OPINSTREAM"
   image: 
@@ -963,6 +1062,17 @@
   highlight: 0
   news2:
   year: 2015 
+  haslocal: 1
+  local: 15.NeuroComputing.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Online template matching over a stream of digitized documents"
   image: 
@@ -974,6 +1084,17 @@
   highlight: 0
   news2:
   year: 2015  
+  haslocal: 1
+  local: 15.SSDBM(a).pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Top-k Computations in MapReduce: A Case Study on Recommendations"
   image: 
@@ -985,6 +1106,17 @@
   highlight: 0
   news2:
   year: 2015
+  haslocal: 1
+  local: 15.BigData.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 - title: "Data Mining for Isotopic Mapping of Bioarchaeological Finds in a Central European Alpine Passage"
   image: 
