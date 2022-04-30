@@ -294,7 +294,7 @@ permalink: /team/
 - <b> Charlotte Prieß </b>, BSc, “Domain-specific sentiment analysis in Twitter using Bayesian classifiers”, LMU Munich, 2012.
 - <b> Alina Sinelnikova </b>, BSc, “Sentiment analysis in the Twitter stream”, LMU Munich, 2012. <a href ="https://aiml-research.github.io/files/12.GfKl_a.pdf"> Related publication </a>
 - <b> Alexander Velkov </b>, Diploma thesis, "Incremental Data Bubbles for Non-Vector Data in Arbitrary Metric Space", LMU Munich, 2011.
-- <b> Kumar Subramanim </b>, Diploma thesis, "Community Detection in Social Networks using Density Based Clustering Algorithms", LMU Munich, 2011. Related publication
+- <b> Kumar Subramanim </b>, Diploma thesis, "Community Detection in Social Networks using Density Based Clustering Algorithms", LMU Munich, 2011. <a href ="https://aiml-research.github.io/files/11.BASNA.pdf">Related publication </a>
 - <b> Claudia Lauschke </b>, BSc, "User Profile Monitoring in Twitter", LMU Munich, 2011.
 - <b> Veselin Georgiev </b>, Project work, "Web Profile Monitoring", Projektarbeit, LMU Munich, 2011.
 
