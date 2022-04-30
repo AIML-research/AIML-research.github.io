@@ -210,7 +210,7 @@ permalink: /team/
 
 ### HiWi students
 
-- <b> Viktoria Andres </b>, BSc , Student assistant, project: Hephaestus, WiSe21/22 
+- <b> Viktoria Andres </b>, BSc , Student assistant, project: <a href ="https://aiml-research.github.io/projects/hephaestus/">Hephaestus </a>, WiSe21/22 
 - <b> Anton Kriese </b>, MSc, Student assistant, WiSe21/22
 
 
