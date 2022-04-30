@@ -9,7 +9,7 @@
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/),[SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered)
 - title: "A survey on datasets for fairness-aware machine learning"
   image: fairdata-survey.png
-  description: We overview real-world datasets used for fairness-aware machine learning. We focus on tabular data as the most common data representation for fairness-aware machine learning. We start our analysis by identifying relationships between the different attributes, particularly w.r.t. protected attributes and class attribute, using a Bayesian network. For a deeper understanding of bias in the datasets, we investigate the interesting relationships using exploratory analysis.
+  description: We overview real-world tabular datasets used in the domain of fairness-aware ML. We identify attribute relationships, esp. w.r.t. protected attributes and class attributes, using a Bayesian network. We investigate the interesting relationships using exploratory analysis for a deeper understanding of bias.
   authors: Tai Le Quy, Arjun Roy, Vasileios Iosifidis, Wenbin Zhang, Eirini Ntoutsi
   link:
     url: https://doi.org/10.1002/widm.1452
