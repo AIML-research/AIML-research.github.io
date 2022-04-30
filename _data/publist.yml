@@ -318,9 +318,9 @@
   hascode: 1
   code: https://github.com/iosifidisvasileios/AdaFair
   hasposter: 1
-  poster: https://kbs.uni-hannover.de/~ntoutsi/papers/19.CIKM.poster.pdf
+  poster: https://aiml-research.github.io/files/19.CIKM.poster.pdf
   hasppt: 1
-  ppt: https://kbs.uni-hannover.de/~ntoutsi/papers/19.CIKM.presentation.pdf
+  ppt: https://aiml-research.github.io/files/19.CIKM.presentation.pdf
   hasvideo: 0
   video: 
   
@@ -429,7 +429,7 @@
   hasposter: 0
   poster:
   hasppt: 1
-  ppt: 19.IJCAI(ppt).pdf
+  ppt: https://aiml-research.github.io/files/19.IJCAI(ppt).pdf
   hasvideo: 0
   video: 
 
@@ -465,6 +465,16 @@
   highlight: 0
   news2:
   year: 2019
+  haslocal: 1
+  local: 19.JDSA.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
 
 - title: "Exploiting entity information for stream classification over a stream of reviews"
   image: 
@@ -476,6 +486,16 @@
   highlight: 0
   news2:
   year: 2019
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
 
 - title: "Significance and Limitations of Stable Oxygen Isotope Ratios in the Apatite Phosphate of Archaeological Vertebrate Finds for Provenance Analysis in an Alpine Reference Region"
   image: 
@@ -487,6 +507,17 @@
   highlight: 0
   news2:
   year: 2019
+  haslocal: 1
+  local: 19.Archaeometry.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
   
 
 - title: "Proceedings of the 1st Workshop on Evaluation and Experimental Design in Data Mining and Machine Learning (EDML)"
@@ -494,11 +525,21 @@
   description:  
   authors:   Eirini Ntoutsi, Erich Schubert, Arthur Zimek, Albrecht Zimmermann
   link:
-    url: https://kbs.uni-hannover.de/~ntoutsi/papers/19.EDML.summary.pdf
+    url: https://aiml-research.github.io/files/19.EDML.summary.pdf
     display:  Co-located with SIAM Data Mining (SDM), 2019
   highlight: 0
   news2:
   year: 2019
+  haslocal: 1
+  local: 19.EDML.summary.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "Tracking the history and evolution of entities: entity-centric temporal analysis of large social media archives"
   image: 
@@ -509,7 +550,17 @@
     display:  International Journal on Digital Libraries volume 21, 5–17, 2020
   highlight: 0
   news2:
-  year: 2018  
+  year: 2018
+  haslocal: 1
+  local: 18.IJDL.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "Reinforcement Learning Based Decision Tree Induction Over Data Streams with Concept Drifts"
   image: 
@@ -520,7 +571,17 @@
     display:  IEEE International Conference on Big Knowledge (ICBK), 2018
   highlight: 0
   news2:
-  year: 2018  
+  year: 2018
+  haslocal: 1
+  local: 18.ICBK.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "Learning under Feature Drifts in Textual Streams"
   image: 
@@ -531,7 +592,18 @@
     display:  Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM), 2018
   highlight: 0
   news2:
-  year: 2018 
+  year: 2018
+  haslocal: 1
+  local: 18.CIKM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
  
 - title: "Entity-Level Stream Classification: Exploiting Entity Similarity to Label the Next Observation Referring to an Entity"
   image: 
@@ -543,6 +615,16 @@
   highlight: 0
   news2:
   year: 2018 
+  haslocal: 1
+  local: 19.JDSA.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "An evaluation of data stream clustering algorithms"
   image: 
@@ -553,7 +635,17 @@
     display:  Statistical Analysis and Data Mining- The ASA Data Science Journal, Volume 11, Issue 4 p. 167-187, 2018
   highlight: 0
   news2:
-  year: 2018 
+  year: 2018
+  haslocal: 1
+  local: 18.ASA.Wiley.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
  
 - title: "Dealing with Bias via Data Augmentation in Supervised Learning"
   image: 
@@ -565,6 +657,17 @@
   highlight: 0
   news2:
   year: 2018
+  haslocal: 1
+  local: 18.BIAS.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
 
 - title: "Enriching Lexicons with Ephemeral Words for Sentiment Analysis in Social Streams"
   image: 
@@ -576,6 +679,16 @@
   highlight: 0
   news2:
   year: 2018
+  haslocal: 1
+  local: 18.WIMS.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
 
 - title: "TweetsKB: A Public and Large-Scale RDF Corpus of Annotated Tweets"
   image: 
@@ -587,6 +700,16 @@
   highlight: 0
   news2:
   year: 2018
+  haslocal: 1
+  local: 18.ESWC.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
 
 - title: "Predicting Document Polarities on a Stream without Reading their Contents"
   image: 
@@ -598,6 +721,16 @@
   highlight: 0
   news2:
   year: 2018
+  haslocal: 1
+  local: 18.SAC.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
   
 - title: "Large Scale Sentiment Learning with Limited Labels"
   image: 
@@ -609,6 +742,17 @@
   highlight: 0
   news2:
   year: 2017
+  haslocal: 1
+  local: 17.KDD.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
 
 - title: "Sentiment Classification over Opinionated Data Streams through Informed Model Adaptation"
   image: 
@@ -620,6 +764,18 @@
   highlight: 0
   news2:
   year: 2017
+  haslocal: 1
+  local: 17.TPDLadaptive.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
+  
  
 - title: "Multi-aspect Entity-Centric Analysis of Big Social Media Archives"
   image: 
@@ -631,6 +787,17 @@
   highlight: 0
   news2:
   year: 2017
+  haslocal: 1
+  local: 17.TPDLarchives.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
  
 - title: "Social-based Collaborative Filtering"
   image: 
