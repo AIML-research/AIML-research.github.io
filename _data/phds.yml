@@ -5,6 +5,7 @@
   number_educ: 0
   project: BIAS
   website:
+  has_project_web: 1
   project_web: https://aiml-research.github.io/projects/bias/
   
 - name: Alaa Elobaid
@@ -14,6 +15,7 @@
   number_educ: 0
   project: NoBIAS
   website: 
+  has_project_web: 1
   project_web: https://aiml-research.github.io/projects/nobias/
   
 - name: Emmanouil Panagiotou
@@ -23,6 +25,7 @@
   number_educ: 0
   project: SFB1463
   website:
+  has_project_web: 0
   project_web:
   
 - name: Manuel Heurich
@@ -31,6 +34,7 @@
   email: manuel.heurich@fu-berlin.de
   number_educ: 0
   website:
+  has_project_web: 0
   project_web: 
   
 - name: Philip Naumann
@@ -40,6 +44,7 @@
   number_educ: 0
   project: Hephaestus
   website: "https://www.philipnaumann.com/"
+  has_project_web: 1
   project_web: https://aiml-research.github.io/projects/hephaestus/
   
 - name: Seyed Siamak Ghodsi
@@ -49,6 +54,7 @@
   number_educ: 0
   project: NoBIAS
   website:
+  has_project_web: 1
   project_web: https://aiml-research.github.io/projects/nobias/
   
 - name: Simone Fabbrizzi
@@ -58,6 +64,7 @@
   number_educ: 0
   project: NoBIAS
   website:
+  has_project_web: 1
   project_web: https://aiml-research.github.io/projects/nobias/
    
 - name: Tai Le Quy
@@ -67,6 +74,7 @@
   number_educ: 0
   project: LernMINT
   website: "https://tailequy.github.io/"
+  has_project_web: 1
   project_web: https://aiml-research.github.io/projects/lernmint/
   
 - name: Yi Cai
@@ -76,4 +84,5 @@
   number_educ: 0
   project: Responsible AI
   website: "https://www.caiy.org/"
+  has_project_web: 0
   project_web: 
