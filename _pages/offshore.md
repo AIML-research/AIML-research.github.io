@@ -12,6 +12,12 @@ permalink: /projects/offshore/
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-dfg.jpg" style="width: 250px">  
 </figure>
 </div>
+<div>
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SFB1463_Logo.png" style="width: 250px">  
+</figure>
+</div>
+
 
 - <b>Funding: </b> German Research Foundation (Deutsche Forschungsgemeinschaft - DFG)
 - <b>Project duration: </b> 23.08.2021 — 31.12.2024
