@@ -52,7 +52,7 @@
   
 - title: "XPROAX-Local explanations for text classification with progressive neighborhood approximation"
   image: Yi2021.png
-  description: The importance of the neighborhood for training a local surrogate model to approximate the local decision boundary of a black box classifier has been already highlighted in the literature. Several attempts have been made to construct a better neighborhood for high dimensional data, like texts, by using generative autoencoders. However, existing approaches mainly generate neighbors by selecting purely at random from the latent space and struggle under the curse of dimensionality to learn a good local decision boundary.
+  description: We propose a progressive approximation of the neighborhood for training a local surrogate model using counterfactual instances as initial landmarks and a careful 2-stage sampling approach to refine counterfactuals and generate factuals in the neighborhood of the input instance to be explained.
   authors: Yi Cai, Arthur Zimek, Eirini Ntoutsi
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9564153
