@@ -19,8 +19,9 @@ permalink: /projects/nobias/
 
 #### Team
 - Prof. Dr. Eirini Ntoutsi
-- MSc. Alaa Elobaid
 - MSc. Siamak Ghodsi
+- MSc. Alaa Elobaid
+- MSc. Simone Fabbrizzi
 
 #### Challenges & Highlights
 <i>The core objective of NoBIAS is to research and develop novel methods for AI-based decision making without bias. NoBIAS will deliver a cohort of 15 researchers trained to identify biased and discriminating AI-decision making and able to provide solutions that reconcile and fully exploit AI while ensuring compliance with legal and social norms. </i>
