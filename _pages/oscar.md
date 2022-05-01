@@ -24,7 +24,7 @@ permalink: /projects/oscar/
 - M.Sc. Damianos Melidis
 - M.Sc. Amir Abolfazli
 - M.Sc. Vasileios Iosifidis
-
+- M.Sc. Philip Naumann
 <b> Otto von Guericke University Magdeburg </b>
 - Prof. Dr. Myra Spiliopoulou
 - M.Sc. Vishnu Unnikrishnan
