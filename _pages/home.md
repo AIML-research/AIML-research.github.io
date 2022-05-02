@@ -27,13 +27,14 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
                 <div class="item active">
-            <a href="https://doi.org/10.1002/widm.1356" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoBIAS.Survey@WIREs2020.png" alt="Introductory survey to fairness in AI @WIREs DMKD 2020" />
-            </a>            
-        </div>
-        <div class="item">
             <a href="https://pages.cms.hu-berlin.de/ipa/lwda2019/" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.jpg" alt="KDML (German Machine Learning and Data Mining community) workshop @LWDA 2019 in Berlin" width="1253" height="533"/>
+            </a>                    
+                            
+        </div>
+        <div class="item">
+            <a href="https://gec-ws.athenarc.gr/" target="_blank">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACM-W.FairnessInAI.2022.png" alt="ACM-W Greece Winter School on Fairness in AI @online 2022"  width="1253" height="533"/>
             </a>
         </div>
         <div class="item">
@@ -42,15 +43,16 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
             </a>
         </div>
         <div class="item">
+            <a href="https://doi.org/10.1002/widm.1356" target="_blank">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoBIAS.Survey@WIREs2020.png" alt="Introductory survey to fairness in AI @WIREs DMKD 2020"/>
+            </a>  
+        </div>        
+        <div class="item">
             <a href="https://doi.org/10.1002/widm.1452" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairdatasets-survey.WIDM22.png" alt="Datasets for fairness-aware learning-survey paper @WIREs DMKD 2022"  width="1253" height="533"/>
             </a>
         </div>
-        <div class="item">
-            <a href="https://gec-ws.athenarc.gr/" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACM-W.FairnessInAI.2022.png" alt="ACM-W Greece Winter School on Fairness in AI @online 2022"  width="1253" height="533"/>
-            </a>
-        </div>
+        
         
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
