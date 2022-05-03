@@ -73,7 +73,7 @@
   
 - title: "Fair-Capacitated Clustering"
   image: Taifair2021.png
-  description: We introduce the fair-capacitated clustering problem that partitions the data into fair and (cardinality) balanced clusters of similar instances.  Our approach relies on fairlets to generate minimal sets that satisfy the fairness constraints, which are then grouped into clusters using knapsack to meet the additional capacity requirement. 
+  description: We introduce the fair-capacitated clustering problem that partitions the data into fair and balanced in terms of cardinality clusters of similar instances.  Our approach relies on fairlets to generate minimal sets that satisfy the fairness constraints, which are then grouped into clusters using knapsack to meet the additional capacity requirement. 
   authors: Tai Le Quy, Arjun Roy, Gunnar Friege, Eirini Ntoutsi
   link:
     url: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_184.pdf
@@ -157,7 +157,7 @@
   
 - title: "FABBOO - Online Fairness-aware Learning under Class Imbalance"
   image: Vasilis2020.png
-  description: We propose FABBOO, an online fairness-aware approach that maintains a valid and fair classifier over a stream. We use boosting as our underlying model and change the data distribution online based on both stream imbalance and discriminatory behavior of the model evaluated cummulatively over the historical stream. Our experiments show that such long-term consideration of class-imbalance and fairness are beneficial for maintaining models that exhibit good predictive- and fairness-related performance.
+  description: We propose FABBOO, an online fairness-aware approach that maintains a valid and fair classifier over a stream. We use boosting as our underlying model and change the data distribution online based on class imbalance, and discriminatory behavior of the model evaluated cumulatively over the historical stream.
   authors: Vasileios Iosifidis, Eirini Ntoutsi
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-61527-7_11
