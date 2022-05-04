@@ -157,7 +157,7 @@
   
 - title: "FABBOO - Online Fairness-aware Learning under Class Imbalance"
   image: Vasilis2020.png
-  description: We propose FABBOO, an online fairness-aware approach that maintains a valid and fair classifier over a stream. We use boosting as our underlying model and change the data distribution online based on class imbalance, and discriminatory behavior of the model evaluated cumulatively over the historical stream.
+  description: We propose FABBOO, an online fairness-aware classifier. We use boosting as our underlying model and change the data distribution online based on class imbalance, and discriminatory behavior of the model evaluated cumulatively over the historical stream.
   authors: Vasileios Iosifidis, Eirini Ntoutsi
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-61527-7_11
