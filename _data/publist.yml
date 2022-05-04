@@ -94,7 +94,7 @@
   
 - title: "Consequence-aware Sequential Counterfactual Generation"
   image: Philip2021.png
-  description: We propose a model-agnostic method for sequential counterfactual generation. We formulate the task as a multi-objective optimization problem and propose a genetic algorithm to find optimal sequences of actions leading to the counterfactuals. Our cost model considers not only the direct effect of an action, but also its consequences. 
+  description: We propose to formulate model-agnostic sequential counterfactual generation as a multi-objective optimization problem. We propose a genetic algorithm to find optimal sequences of actions leading to the counterfactuals. Our cost model considers not only the direct effect of an action, but also its consequences. 
   authors: Philip Naumann , Eirini Ntoutsi
   link:
     url: https://link.springer.com/chapter/10.1007%2F978-3-030-86520-7_42
