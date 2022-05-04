@@ -73,7 +73,7 @@
   
 - title: "Fair-Capacitated Clustering"
   image: Taifair2021.png
-  description: We introduce the fair-capacitated clustering problem that partitions the data into fair and balanced in terms of cardinality clusters of similar instances.  Our approach relies on fairlets to generate minimal sets that satisfy the fairness constraints, which are then grouped into clusters using knapsack to meet the additional capacity requirement. 
+  description: We introduce the fair-capacitated clustering problem that partitions the data into fair and balanced in terms of cardinality clusters of similar instances.  We rely on fairlets to generate minimal fair sets, which are then grouped into clusters using knapsack to meet the capacity requirement. 
   authors: Tai Le Quy, Arjun Roy, Gunnar Friege, Eirini Ntoutsi
   link:
     url: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_184.pdf
