@@ -24,6 +24,8 @@ Rising customer demands and a trend towards smaller batch sizes have led to an i
 The demand for automated damage detection in the field of civil infrastructures is high, for economic and safety reasons. This collaborative research project aims to contribute to a further development of automated damage detection in wind energy turbines based on acoustic emission testing (AET) and machine learning.
 
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/responsibleai/">Responsible AI </a>
+Funding: The Ministry of Science and Culture (MWK)
+
 Artificial intelligence (AI) technologies are the driving force behind digitization. Due to their enormous social relevance, a responsible use of AI is of particular importance. The research and application of responsible AI is a very young discipline and requires the bundling of research activities from different disciplines in order to design and apply AI systems in a reliable, transparent, secure and legally acceptable way.
 
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/lernmint/">LernMINT </a>
