@@ -26,13 +26,13 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-    <!--             <div class="item active">
+             <div class="item active">
             <a href="https://pages.cms.hu-berlin.de/ipa/lwda2019/" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.jpg" alt="KDML (German Machine Learning and Data Mining community) workshop @LWDA 2019 in Berlin" width="1253" height="533"/>
             </a>                    
                            
-        </div class="item active">--> 
-        <div class="item active">
+        </div> 
+        <div class="item">
             <a href="https://gec-ws.athenarc.gr/" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACM-W.FairnessInAI.2022.png" alt="ACM-W Greece Winter School on Fairness in AI @online 2022"  width="1253" height="533"/>
             </a>
