@@ -47,9 +47,9 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/hephaestus/
   
-- name: Seyed Siamak Ghodsi (L3S, DE)
+- name: Seyed Siamak Ghodsi
   photo: Siamak.jpg
-  info: External doctoral student
+  info: External doctoral student (L3S, DE)
   email: siamak.ghodsi@fu-berlin.de
   number_educ: 0
   project: NoBIAS
@@ -57,9 +57,9 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/nobias/
   
-- name: Simone Fabbrizzi (CERTH, GR)
+- name: Simone Fabbrizzi
   photo: Simone.jpg
-  info: External doctoral student
+  info: External doctoral student (CERTH, GR)
   email: simone.fabbrizzi@iti.gr
   number_educ: 0
   project: NoBIAS
@@ -67,9 +67,9 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/nobias/
    
-- name: Tai Le Quy (L3S, DE)
+- name: Tai Le Quy
   photo: Tai.jpg
-  info: External doctoral student
+  info: External doctoral student (L3S, DE)
   email: tai.lequy@.fu-berlin.de
   number_educ: 0
   project: LernMINT
@@ -77,12 +77,12 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/lernmint/
   
-- name: Yi Cai (L3S, DE)
+- name: Yi Cai
   photo: Yi.jpg
   info: External doctoral student
   email: yi.cai@fu-berlin.de
   number_educ: 0
-  project: Responsible AI
+  project: Responsible AI (L3S, DE)
   website: "https://www.caiy.org/"
   has_project_web: 1
   project_web: https://verantwortungsvolleki.de/en/
