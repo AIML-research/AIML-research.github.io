@@ -10,7 +10,7 @@
   
 - name: Alaa Elobaid
   photo: Alaa.jpg
-  info: External doctoral student
+  info: External doctoral student (CERTH, GR)
   email: elobaida@zedat.fu-berlin.de
   number_educ: 0
   project: NoBIAS
@@ -47,7 +47,7 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/hephaestus/
   
-- name: Seyed Siamak Ghodsi
+- name: Seyed Siamak Ghodsi (L3S, DE)
   photo: Siamak.jpg
   info: External doctoral student
   email: siamak.ghodsi@fu-berlin.de
@@ -57,7 +57,7 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/nobias/
   
-- name: Simone Fabbrizzi
+- name: Simone Fabbrizzi (CERTH, GR)
   photo: Simone.jpg
   info: External doctoral student
   email: simone.fabbrizzi@iti.gr
@@ -67,7 +67,7 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/nobias/
    
-- name: Tai Le Quy
+- name: Tai Le Quy (L3S, DE)
   photo: Tai.jpg
   info: External doctoral student
   email: tai.lequy@.fu-berlin.de
@@ -77,7 +77,7 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/lernmint/
   
-- name: Yi Cai
+- name: Yi Cai (L3S, DE)
   photo: Yi.jpg
   info: External doctoral student
   email: yi.cai@fu-berlin.de
