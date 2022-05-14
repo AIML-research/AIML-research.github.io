@@ -12,7 +12,7 @@
   description: We overview real-world tabular datasets used in the domain of fairness-aware ML. We identify attribute relationships, esp. w.r.t. protected attributes and class attributes, using a Bayesian network. We investigate the interesting relationships using exploratory analysis for a deeper understanding of bias.
   authors: Tai Le Quy, Arjun Roy, Vasileios Iosifidis, Wenbin Zhang, Eirini Ntoutsi
   link:
-    url: https://doi.org/10.1002/widm.1452
+    url: https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1452
     display:  Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery, 2022
   highlight: 1
   news2: 
