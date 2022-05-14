@@ -1,3 +1,10 @@
+- name:  Florian Mies
+  photo:
+  degree: MSc
+  email:  
+  semester: SoSe22
+  thesis: Generative replay
+
 - name: Viktoria Andres
   photo: Viktoria.jpg
   degree: BSc
@@ -5,9 +12,3 @@
   semester: WiSe21/22
   thesis: Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide
   
-- name:  Florian Mies
-  photo:
-  degree: MSc
-  email:  
-  semester: SoSe22
-  thesis: Generative replay
