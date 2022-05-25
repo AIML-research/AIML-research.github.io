@@ -15,7 +15,9 @@ permalink: /teaching/
 - See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/WS-21_22/index.html" target="new">WiSe 21/22 lectures</a>
 
 <b> Summer semester SoSe 2021 </b>
-- See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/index.html" target="new">SoSe21 lectures</a>
+- <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/Kuenstliche-Intelligenz/index.html" target="new">Lecture: Artificial Intelligence</a>, SoSe21
+- <a href ="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/Data-Science/index.html"> Seminar lecture: Data Science in the Life Sciences (Seminar) </a>, SoSe21.
+- <a href = "https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/Forschungsseminar/index.html"> Research seminar: Artificial Intelligence and Machine Learning </a>, SoSe21.
 
 #### <a href ="https://www.uni-hannover.de/"> Leibniz University Hannover (LUH) </a>, Germany
 
