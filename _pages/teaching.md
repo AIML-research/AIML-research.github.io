@@ -12,7 +12,7 @@ permalink: /teaching/
 - See <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS22/index.html" target="new">SoSe22 lectures</a>
 
 <b> Winter semester WiSe 2021/2022 </b>
-- <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/Kuenstliche-Intelligenz/index.html" target="new">Lecture: Machine Learning for Data Science</a>, WiSe21/22. <a href="https://github.com/AIML-research/ML4DS" target="_new">ML4DS git page </a>
+- <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/Kuenstliche-Intelligenz/index.html" target="new">Lecture: Machine Learning for Data Science</a>, WiSe21/22. See also <a href="https://github.com/AIML-research/ML4DS" target="_new">ML4DS git page </a>
 - <a href ="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/Data-Science/index.html"> Seminar lecture: Data Science in the Life Sciences (Seminar) </a>, WiSe21/22.
 - <a href = "https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/WS-21_22/Forschungsseminar/index.html"> Research seminar: Artificial Intelligence and Machine Learning </a>, WiSe21/22.
 
