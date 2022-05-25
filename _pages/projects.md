@@ -18,15 +18,7 @@ Funding: <a href="https://gepris.dfg.de/gepris/projekt/424298653" target="_new">
 
 Rising customer demands and a trend towards smaller batch sizes have led to an increased complexity in product design and subsequent process planning, e.g. of 5-axes milling operations. Thus, process simulations are commonly used in industry to support process planning. Especially, the dimensional accuracy is crucial for most machined parts, since it affects directly the functionality. Consequently, finishing operations have especially high requirements with respect to the surface tolerances. Despite the aforementioned simulation tools, manual adjustments, which rely on the expert knowledge of workers and process planners, are still necessary in order to cope with process- or machine-specific deviations such as tool stiffness or machine dynamics.
 
-#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/kiswind">KISWIND </a>
-The demand for automated damage detection in the field of civil infrastructures is high, for economic and safety reasons. This collaborative research project aims to contribute to a further development of automated damage detection in wind energy turbines based on acoustic emission testing (AET) and machine learning.
-
-#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/lernmint/">LernMINT - Dealing with bias and discrimination in learning analytics models</a>
-Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new"> The Ministry of Science and Culture (MWK)</a>, Role: PI.
-
-The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods.
-
-#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/nobias">NoBIAS - Artificial Intelligence without Bias</a>
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/nobias">ITN NoBIAS - Artificial Intelligence without Bias</a>
 Funding: <a href="https://cordis.europa.eu/project/id/860630" target="_new">EU</a>, Role: PI
 
 The core objective of NoBIAS is to research and develop novel methods for AI-based decision making without bias. NoBIAS will deliver a cohort of 15 researchers trained to identify biased and discriminating AI-decision making and able to provide solutions that reconcile and fully exploit AI while ensuring compliance with legal and social norms.
@@ -36,6 +28,14 @@ Funding: <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?r
 
 AI techniques based on big data and algorithmic processing are increasingly used to guide decisions in important societal spheres, including hiring decisions, university admissions, loan granting, and crime prediction. However, there are growing concerns with regard to the epistemic and normative quality of AI evaluations and predictions. Our shared research question is: How can standards of unbiased attitudes and non-discriminatory practices be met in big data analysis and algorithm-based decision-making?
 In approaching this question, we will provide philosophical analyses of the relevant concepts and principles in the context of AI (bias, discrimination, fairness), investigate their adequate reception in pertinent legal frameworks (data protection, consumer, competition, anti-discrimination law), and develop concrete technical solutions (debiasing strategies, discrimination detection procedures etc.).
+
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/kiswind">KISWIND </a>
+The demand for automated damage detection in the field of civil infrastructures is high, for economic and safety reasons. This collaborative research project aims to contribute to a further development of automated damage detection in wind energy turbines based on acoustic emission testing (AET) and machine learning.
+
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/lernmint/">LernMINT - Dealing with bias and discrimination in learning analytics models</a>
+Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new"> The Ministry of Science and Culture (MWK)</a>, Role: PI.
+
+The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods.
 
 #### <a href = "https://aiml-research.github.io/projects/enkis">ENKIS - Etablierung nachhaltiger KI-bezogener Studienangebote für eine Verantwortungsvolle Künstliche Intelligenz an der FUB</a>.
 Funding: <a href="https://www.bmbf.de/bmbf/de/home/_documents/digitale-hochschulbildung.html#:~:text=Mit%20der%20Bund%2DL%C3%A4nder%2DVereinbarung,der%20Breite%20des%20Hochschulsystems%20entfalten.">BMBF</a>, Role: PI.
