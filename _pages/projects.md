@@ -59,6 +59,7 @@ Updated status: not further involved.
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/oscar">OSCAR - Opinion Stream Classification with Ensembles and Active leaRners</a>.
 
 Funding: <a href="https://gepris.dfg.de/gepris/projekt/317686254?language=en" target="_new">DFG</a>, Role: PI.
+
 Many data accumulating in the Web reflect opinions on diverse subjects - products, institutions, events (e.g., elections) or topics (e.g., earth warming). Opinionated documents constitute a continuous stream; polarity learning on them delivers insights on the attitude of people towards each subject. Polarity learning algorithms must cope with classic Big Data characteristics: high volume and velocity of the arriving data, and volatility of the learned concepts, since subjects and attitudes of people toward certain subjects change over time. In OSCAR, we will develop classifiers that operate on an evolving feature space, adapt to changes in both vocabulary and data and operate with limited class labels.
 
 #### <a href ="http://www.en.for1670-transalpine.uni-muenchen.de/index.html">Transalpine mobility and knowledge transfer </a>
