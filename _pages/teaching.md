@@ -63,7 +63,7 @@ permalink: /teaching/
 - <a href = "https://www2.kbs.uni-hannover.de/topics_in_data_mining.html"> Seminar: Topics in Data Mining </a>, SoSe2016.
 - <a href ="https://www2.kbs.uni-hannover.de/data_mining_lab.html"> Data Mining Lab </a>, SoSe2016.
 
-#### <a href = "https://www.lmu.de/en/index.html"> Ludwig Maximilians University Munich (LMU) </a>, Germany
+#### <a href = "https://www.lmu.de/en/index.html"> <b>Ludwig Maximilians University Munich (LMU)</b> </a>, Germany
 - Lecture: <a href = "https://www2.dbs.ifi.lmu.de/cms/Knowledge_Discovery_in_Databases_I_(KDD_I)_12.html">Knowledge Discovery in Databases I (KDD I) </a>, SoSe2012.
 - Lecture: <a href ="https://www2.dbs.ifi.lmu.de/cms/Knowledge_Discovery_in_Databases_II_(KDD_II)_WS1516.html">Knowledge Discovery in Databases II (KDD II) </a>, WiSe2015/2016.
 - Seminar: Mining Volatile Data, WiSe2012/2013. 
