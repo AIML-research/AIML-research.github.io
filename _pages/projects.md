@@ -30,7 +30,9 @@ AI techniques based on big data and algorithmic processing are increasingly used
 In approaching this question, we will provide philosophical analyses of the relevant concepts and principles in the context of AI (bias, discrimination, fairness), investigate their adequate reception in pertinent legal frameworks (data protection, consumer, competition, anti-discrimination law), and develop concrete technical solutions (debiasing strategies, discrimination detection procedures etc.).
 
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/kiswind">KISWIND </a>
-The demand for automated damage detection in the field of civil infrastructures is high, for economic and safety reasons. This collaborative research project aims to contribute to a further development of automated damage detection in wind energy turbines based on acoustic emission testing (AET) and machine learning.
+Funding: <a href="https://www.cleanenergywire.org/experts/bmwi-federal-ministry-economic-affairs-and-energy">Bundesministerium für Wirtschaft und Energie (BMWi)</a>, Role: PI.
+
+The overall objective of the research project is the development of methods for efficient and automated continuous monitoring of the support structure of wind turbines for the detection of damage events and anomalies using acoustic emission analysis and innovative evaluation methods from the field of artificial intelligence (AI).
 
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/lernmint/">LernMINT - Dealing with bias and discrimination in learning analytics models</a>
 Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new"> The Ministry of Science and Culture (MWK)</a>, Role: PI.
