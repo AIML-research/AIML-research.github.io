@@ -16,7 +16,9 @@ The main innovation is therefore the development of a prognosis model for predic
 Funding: <a href="https://www.bmbf.de/bmbf/de/home/_documents/digitale-hochschulbildung.html#:~:text=Mit%20der%20Bund%2DL%C3%A4nder%2DVereinbarung,der%20Breite%20des%20Hochschulsystems%20entfalten.">BMBF</a>, Role: PI.
 
 Promoting AI in higher education (FUB, particularly).
+
 Updated status: not involved further due to move to <a href="https://www.unibw.de/home" target="_new">UniBw-M<a/>.
+
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">Hephaestus - Machine learning methods for adaptive process planning of 5-axis milling</a>
 Funding: <a href="https://gepris.dfg.de/gepris/projekt/424298653" target="_new">DFG</a>, Role: PI.
 
