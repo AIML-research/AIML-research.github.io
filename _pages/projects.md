@@ -33,7 +33,7 @@ Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-m
 
 The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods.
 
-#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/nobias">NoBIAS </a>
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/nobias">NoBIAS - Artificial Intelligence without Bias</a>
 Funding: <a href="https://cordis.europa.eu/project/id/860630" target="_new">EU</a>, Role: PI
 
 The core objective of NoBIAS is to research and develop novel methods for AI-based decision making without bias. NoBIAS will deliver a cohort of 15 researchers trained to identify biased and discriminating AI-decision making and able to provide solutions that reconcile and fully exploit AI while ensuring compliance with legal and social norms.
