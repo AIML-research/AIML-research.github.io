@@ -12,9 +12,9 @@ permalink: /projects/
 Funding: <a href="[https://gepris.dfg.de/gepris/projekt/424298653](https://gepris.dfg.de/gepris/projekt/457016492)" target="_new">DFG</a>, Role: PI.
 
 The main innovation is therefore the development of a prognosis model for predicting the design quality of offshore support structures.
-#### <a href = "https://aiml-research.github.io/projects/enkis">ENKIS - Etablierung nachhaltiger KI-bezogener Studienangebote für eine Verantwortungsvolle Künstliche Intelligenz an der Freien Universität Berlin</a>, Role: PI.
-
-Project as part of the guidelines for the Bund-Länger to promote Artificial Intelligence in higher education.
+#### <a href = "https://aiml-research.github.io/projects/enkis">ENKIS - Etablierung nachhaltiger KI-bezogener Studienangebote für eine Verantwortungsvolle Künstliche Intelligenz an der Freien Universität Berlin</a>.
+Funding: <a href="https://www.bmbf.de/bmbf/de/home/_documents/digitale-hochschulbildung.html#:~:text=Mit%20der%20Bund%2DL%C3%A4nder%2DVereinbarung,der%20Breite%20des%20Hochschulsystems%20entfalten.">BMBF</a>, Role: PI.
+Promoting AI in higher education.
 
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">Hephaestus - Machine learning methods for adaptive process planning of 5-axis milling</a>
 Funding: <a href="https://gepris.dfg.de/gepris/projekt/424298653" target="_new">DFG</a>, Role: PI.
