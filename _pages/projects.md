@@ -35,7 +35,7 @@ Funding: <a href="https://www.cleanenergywire.org/experts/bmwi-federal-ministry-
 The overall objective of the research project is the development of methods for efficient and automated continuous monitoring of the support structure of wind turbines for the detection of damage events and anomalies using acoustic emission analysis and innovative evaluation methods from the field of artificial intelligence (AI).
 
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/lernmint/">LernMINT - Dealing with bias and discrimination in learning analytics models</a>
-Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new"> The Ministry of Science and Culture (MWK)</a>, Role: PI.
+Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>, Role: PI.
 
 The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods.
 
@@ -47,7 +47,7 @@ Promoting AI in higher education (FUB, particularly).
 Updated status: not further involved.
 
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/responsibleai/">Responsible AI </a>
-Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new"> The Ministry of Science and Culture (MWK)</a>, Role: PI.
+Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>, Role: PI.
 
 Artificial intelligence (AI) technologies are the driving force behind digitization. Due to their enormous social relevance, a responsible use of AI is of particular importance. The research and application of responsible AI is a very young discipline and requires the bundling of research activities from different disciplines in order to design and apply AI systems in a reliable, transparent, secure and legally acceptable way.
 
