@@ -21,7 +21,7 @@ permalink: /teaching/
 - <a href ="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/Data-Science/index.html"> Seminar lecture: Data Science in the Life Sciences (Seminar) </a>, SoSe21.
 - <a href = "https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/Forschungsseminar/index.html"> Research seminar: Artificial Intelligence and Machine Learning </a>, SoSe21.
 
-#### <a href ="https://www.uni-hannover.de/"> Leibniz University Hannover (LUH) </a>, Germany
+#### <a href ="https://www.uni-hannover.de/"> <b>Leibniz University Hannover (LUH)</b> </a>, Germany
 
 <b> Summer semester SoSe 2020 </b> 
 - Lecture: Artificial Intelligence I, SoSe2020.
@@ -65,7 +65,7 @@ permalink: /teaching/
 - Lecture: <a href ="https://www2.dbs.ifi.lmu.de/cms/Knowledge_Discovery_in_Databases_II_(KDD_II)_WS1516.html">Knowledge Discovery in Databases II (KDD II) </a>, WiSe2015/2016.
 - Seminar: Mining Volatile Data, WiSe2012/2013. 
 
-#### <a href = "https://www.unipi.gr/unipi/en/"> University of Piraeus </a>, Greece, Department of Informatics
+#### <a href = "https://www.unipi.gr/unipi/en/"> <b>University of Piraeus</b> </a>, Greece, Department of Informatics
 - Data Warehousing and Data Mining, 2002-2003 || 2004-2005 || 2005-2006.
 - Data Mining (post graduate), 2004-2005 || 2005-2006.
 - Advanced Database Issues (post graduate), 2004-2005.
