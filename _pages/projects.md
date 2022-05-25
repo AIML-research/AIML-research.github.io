@@ -42,7 +42,7 @@ Funding: <a href="https://www.bmbf.de/bmbf/de/home/_documents/digitale-hochschul
 
 Promoting AI in higher education (FUB, particularly).
 
-Updated status: not involved further due to move to <a href="https://www.unibw.de/home" target="_new">UniBw-M<a/>.
+Updated status: not further involved.
 
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/responsibleai/">Responsible AI </a>
 Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new"> The Ministry of Science and Culture (MWK)</a>, Role: PI.
