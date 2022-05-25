@@ -38,7 +38,7 @@ Funding: <a href="https://cordis.europa.eu/project/id/860630" target="_new">EU</
 
 The core objective of NoBIAS is to research and develop novel methods for AI-based decision making without bias. NoBIAS will deliver a cohort of 15 researchers trained to identify biased and discriminating AI-decision making and able to provide solutions that reconcile and fully exploit AI while ensuring compliance with legal and social norms.
 
-#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/bias">BIAS </a> 
+#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/bias">BIAS – Bias and Discrimination in Big Data and Algorithmic Processing. Philosophical Assessments, Legal Dimensions, and Technical Solutions.</a> 
 Funding: <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=95037" target="_new">Volkswagen Stiftung</a>, Role: PI.
 
 AI techniques based on big data and algorithmic processing are increasingly used to guide decisions in important societal spheres, including hiring decisions, university admissions, loan granting, and crime prediction. However, there are growing concerns with regard to the epistemic and normative quality of AI evaluations and predictions. Our shared research question is: How can standards of unbiased attitudes and non-discriminatory practices be met in big data analysis and algorithm-based decision-making?
