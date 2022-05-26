@@ -30,7 +30,7 @@ Our current offerings focus on the following topics:
 <li>Willingness to learn, creative and cooperative.</li>
 </ul>
   
-For further information, contact Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@fu-berlin.de), using ``PhD/Postdoc Application" as your subject.
+For further information, contact Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@fu-berlin.de), with subject ``PhD/Postdoc Application".
 
 
 ### Student assistant positions (HiWi)
