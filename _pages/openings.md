@@ -33,15 +33,7 @@ Our current offerings focus on the following topics:
 For further information, contact Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@fu-berlin.de), using ``PhD/Postdoc Application" as your subject.
 
 
-<!--Open positions will be posted in the [FU-Stellenanzeiger](https://www.fu-berlin.de/universitaet/beruf-karriere/jobs/english/index.html)-->
-
 ### Student assistant positions (HiWi)
 
 - If you want to join our group as a student assistant (HiWi) supporting us in various research projects e.g., in the field of adaptive learning, responsible AI or generative AI, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@fu-berlin.de) with subject ``HiWi Application". 
 
-<!--- Open student positions will be posted [here](https://www.fu-berlin.de/universitaet/beruf-karriere/jobs/stud/index.html)->
-<!--- 
-### Inhaltsverzeichnis
-- [1 Research Assistant (PraeDoc), 100%, ENKIS-WH-wiMi2](https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Open-Positions/ENKIS-WH2.html)
-- [1 Research Assitant (PraeDoc), 100%, ENKIS-WH-wiMi1](https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Open-Positions/ENKIS-WH1.html)
-->
