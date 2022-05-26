@@ -11,7 +11,9 @@ permalink: /projects/
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB 1463:  Integrated Design and Operation Methodology for Offshore Megastructures</a></b></li>
 Funding: <a href="[https://gepris.dfg.de/gepris/projekt/424298653](https://gepris.dfg.de/gepris/projekt/457016492)" target="_new">DFG</a>, Role: PI.
 
-The main innovation is therefore the development of a prognosis model for predicting the design quality of offshore support structures.
+With the help of the real-time capable simulation model of a digital twin, the CRC researches the design and operating conditions of offshore megastructures, whereby all life phases of a structure can be represented. This enables a reactive and automated adaptation of the structure and its operation to current and future conditions.
+  
+We participate in project B01 "Integrated design process for offshore structures".
 </ul>
 
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">Hephaestus - Machine learning methods for adaptive process planning of 5-axis milling</a>
