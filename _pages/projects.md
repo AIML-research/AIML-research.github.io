@@ -7,7 +7,8 @@ permalink: /projects/
 ---
 
 ### Ongoing research projects
-<ul><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB 1463:  Integrated Design and Operation Methodology for Offshore Megastructures</a></b></li>
+<ul>
+  <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB 1463:  Integrated Design and Operation Methodology for Offshore Megastructures</a></b></li>
 Funding: <a href="[https://gepris.dfg.de/gepris/projekt/424298653](https://gepris.dfg.de/gepris/projekt/457016492)" target="_new">DFG</a>, Role: PI.
 
 The main innovation is therefore the development of a prognosis model for predicting the design quality of offshore support structures.
