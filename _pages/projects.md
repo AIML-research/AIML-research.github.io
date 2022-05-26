@@ -11,8 +11,7 @@ permalink: /projects/
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB 1463:  Integrated Design and Operation Methodology for Offshore Megastructures</a></b></li>
 Funding: <a href="https://gepris.dfg.de/gepris/projekt/457016492" target="_new">DFG</a>, Role: PI.
 
-With the help of the real-time capable simulation model of a digital twin, the SFB researches the design and operating conditions of offshore megastructures, whereby all life phases of a structure can be represented. This enables a reactive and automated adaptation of the structure and its operation to current and future conditions.
-  
+With the help of the real-time capable simulation model of a digital twin, the SFB researches the design and operating conditions of offshore megastructures, whereby all life phases of a structure can be represented. This enables a reactive and automated adaptation of the structure and its operation to current and future conditions.  
 We participate in project B01 "Integrated design process for offshore structures" with the aim to develop a prognosis model to predict the design quality over the complete life cycle of offshore structures, combining the experience and intuition of the engineer and expert through appropriate ML methods. 
 </ul>
 
