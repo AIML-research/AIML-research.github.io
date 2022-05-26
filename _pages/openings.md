@@ -9,6 +9,7 @@ permalink: /vacancies
 
 ## Open Positions
 **We are always looking for motivated PhD students and PostDocs in the area of Artificial Intelligence and Machine Learning.**
+
 We are looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods. The goal of our group can be summarized as designing intelligent algorithms that learn from data continuously following the cumulative nature of human learning, while ensuring that what has been learned helps driving positive societal impact. 
 Our current offerings focus on the following topics:
 <ul>
@@ -17,9 +18,17 @@ Our current offerings focus on the following topics:
   <li>Generative AI (esp. for temporal data, image data, graphs)</li>
 </ul>
 
+**Candidate profile**
+•	Strong background in Machine Learning, Artificial Intelligence and Data Mining techniques.
+•	Strong programming skills (preferably Python)
+•	Very good knowledge of AI frameworks like TensorFlow, PyTorch, Keras
+•	Excellent written and verbal communication skills in English
+•	Knowledge of German is a plus, but is not obligatory. 
+•	Critical thinking, quality-oriented and independent work, professional commitment.
+•	Willingness to learn, creative and cooperative.
 
+For further information, contact Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@fu-berlin.de), using ``PhD/Postdoc Application" as your subject.
 
-### PhD or Postdoc positions:
 
 <!--Open positions will be posted in the [FU-Stellenanzeiger](https://www.fu-berlin.de/universitaet/beruf-karriere/jobs/english/index.html)-->
 
