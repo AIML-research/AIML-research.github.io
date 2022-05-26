@@ -20,14 +20,16 @@ Our current offerings focus on the following topics:
 </ul>
 
 **Candidate profile**
-•	Strong background in Machine Learning, Artificial Intelligence and Data Mining techniques.
-•	Strong programming skills (preferably Python)
-•	Very good knowledge of AI frameworks like TensorFlow, PyTorch, Keras
-•	Excellent written and verbal communication skills in English
-•	Knowledge of German is a plus, but is not obligatory. 
-•	Critical thinking, quality-oriented and independent work, professional commitment.
-•	Willingness to learn, creative and cooperative.
-
+<ul>
+<li>Strong background in Machine Learning, Artificial Intelligence and Data Mining techniques.</li>
+<li>Strong programming skills (preferably Python)</li>
+<li>Very good knowledge of AI frameworks like TensorFlow, PyTorch, Keras</li>
+<li>Excellent written and verbal communication skills in English</li>
+<li>Knowledge of German is a plus, but is not obligatory. </li>
+<li>Critical thinking, quality-oriented and independent work, professional commitment.</li>
+<li>Willingness to learn, creative and cooperative.</li>
+</ul>
+  
 For further information, contact Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@fu-berlin.de), using ``PhD/Postdoc Application" as your subject.
 
 
