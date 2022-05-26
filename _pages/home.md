@@ -11,7 +11,7 @@ Welcome to the AIML group at the [Institute of Computer Science](https://www.mi.
 Our aim is to design intelligent algorithms that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*. Ongoing directions include:
 - Continuous learning over non-stationary data and data streams, that is adapting machine learning models to changing environments.
 - Responsible AI, in particular fairness-aware machine learning and explainable AI.
-- Creative AI, that is using machines to generate new data and solutions.
+- Generative AI, that is using machines to generate new data and solutions.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
