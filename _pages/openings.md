@@ -16,7 +16,8 @@ permalink: /vacancies
 
 ### Student assistant positions (HiWi)
 
-- If you want to join our group as a student assistant (HiWi) supporting us in various research projects e.g., in the field of adaptive learning, responsible AI or generative AI, just send us an e-mail (+email here+) with a single pdf file containing a short CV, your course transcripts and a short motivation letter and with a subject title including "HiWi@AIML".
+- If you want to join our group as a student assistant (HiWi) supporting us in various research projects e.g., in the field of adaptive learning, responsible AI or generative AI, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@fu-berlin.de) with subject ``HiWi Application".
+
 <!--- Open student positions will be posted [here](https://www.fu-berlin.de/universitaet/beruf-karriere/jobs/stud/index.html)->
 <!--- 
 ### Inhaltsverzeichnis
