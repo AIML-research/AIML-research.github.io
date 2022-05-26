@@ -7,7 +7,7 @@ permalink: /vacancies
 ---
 
 
-## Want to work with us? We are always looking for bright people
+## Want to work with us?
 
 ### PhD/PostDoc positions
 
