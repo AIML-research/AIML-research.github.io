@@ -15,10 +15,12 @@ With the help of the real-time capable simulation model of a digital twin, the S
 We participate in project B01 "Integrated design process for offshore structures" with the aim to develop a prognosis model to predict the design quality over the complete life cycle of offshore structures, combining the experience and intuition of the engineer and expert through appropriate ML methods. 
 </ul>
 
-#### <a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">Hephaestus - Machine learning methods for adaptive process planning of 5-axis milling</a>
+<ul>
+  <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">Hephaestus - Machine learning methods for adaptive process planning of 5-axis milling</a></b></li>
 Funding: <a href="https://gepris.dfg.de/gepris/projekt/424298653" target="_new">DFG</a>, Role: PI.
 
 Rising customer demands and a trend towards smaller batch sizes have led to an increased complexity in product design and subsequent process planning, e.g. of 5-axes milling operations. Thus, process simulations are commonly used in industry to support process planning. Especially, the dimensional accuracy is crucial for most machined parts, since it affects directly the functionality. Consequently, finishing operations have especially high requirements with respect to the surface tolerances. Despite the aforementioned simulation tools, manual adjustments, which rely on the expert knowledge of workers and process planners, are still necessary in order to cope with process- or machine-specific deviations such as tool stiffness or machine dynamics.
+</ul>
 
 #### <a href = "{{ site.url }}{{ site.baseurl }}/projects/nobias">ITN NoBIAS - Artificial Intelligence without Bias</a>
 Funding: <a href="https://cordis.europa.eu/project/id/860630" target="_new">EU</a>, Role: PI
