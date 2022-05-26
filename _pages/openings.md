@@ -7,10 +7,9 @@ permalink: /vacancies
 ---
 
 
-## Open Positions
-**We are always looking for motivated PhD students and PostDocs in the area of Artificial Intelligence and Machine Learning.**
+## PhD/PostDoc positions
 
-We are looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods. The goal of our group can be summarized as designing intelligent algorithms that learn from data continuously following the cumulative nature of human learning, while ensuring that what has been learned helps driving positive societal impact. 
+We are always looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods. The goal of our group can be summarized as designing intelligent algorithms that learn from data continuously following the cumulative nature of human learning, while ensuring that what has been learned helps driving positive societal impact. 
 Our current offerings focus on the following topics:
 <ul>
   <li>Adaptive learning/ continual learning</li>
