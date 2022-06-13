@@ -13,6 +13,10 @@ Our aim is to design intelligent algorithms that learn from data *continuously* 
 - Responsible AI, in particular fairness-aware machine learning and explainable AI.
 - Generative AI, that is using machines to generate new data and solutions.
 
+<p style="background-color:tomato;">
+From August 2022, Prof. Ntoutsi will join the Bundeswehr University Munich (UniBw-M) as Full Professor in its Department of Computer Science and Forschungsinstitut Cyber Defence (RI CODE), where she will establish a new research group for AI and ML. We have several oppenings on adaptive learning, responsible AI and generative AI. See details under vacancies.
+</p>
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
