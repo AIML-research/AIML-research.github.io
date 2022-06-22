@@ -8,10 +8,8 @@ permalink: /vacancies
 
 
 ## Want to work with us?
-
-
-<p style="background-color:orange;">
-From August 2022, AIML will move to Munich as Prof. Ntoutsi will join the <a href="https://www.unibw.de/" target="_new">Bundeswehr University Munich (UniBw-M)</a> as Full Professor in its Department of Computer Science and <a href="https://www.unibw.de/code" target="_new">Forschungsinstitut Cyber Defence (RI CODE)</a>. Part of the group will be still at <a href="https://www.fu-berlin.de/" target="_new">FUB</a> and <a href="https://www.l3s.de/de" target="_new">L3S</a>.
+<p style="background-color:orange;padding:5px;border-radius: 10px;">
+From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" target="_new">Bundeswehr University Munich (UniBw-M)</a> as Full Professor in its Department of Computer Science and <a href="https://www.unibw.de/code" target="_new">Research Insitute CODE</a>. Part of the group will be still at <a href="https://www.fu-berlin.de/" target="_new">FUB</a> and <a href="https://www.l3s.de/de" target="_new">L3S</a>.
 </p>
 
 ### PhD/PostDoc positions
