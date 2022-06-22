@@ -413,7 +413,7 @@
 
 - title: "Fairness-Enhancing Interventions in Stream Classification"
   image: Vasilis2019DEXA.png
-  description: Existing fairness-aware approaches tackle fairness as a batch learning problem and aim at learning a fair model which can then be applied to future instances of the problem. In many applications, however, the data comes sequentially and its characteristics might evolve with time. In such a setting, it is counter-intuitive to “fix” a (fair) model over the data stream as changes in the data might incur changes in the underlying model therefore, affecting its fairness. In this work, we propose fairness-enhancing interventions that modify the input data so that the outcome of any stream classifier applied to that data will be fair. 
+  description: Existing fairness-aware approaches tackle fairness as a batch learning problem and aim at learning a fair model which can then be applied to future instances of the problem. In many applications, however, the data comes sequentially and its characteristics might evolve with time. In such a setting, it is counter-intuitive to “fix” a (fair) model over the data stream as changes in the data might incur changes in the underlying model therefore, affecting its fairness. We propose fairness-enhancing interventions that modify the input data so that the outcome of any stream classifier applied to that data will be fair. 
   authors:   Vasileios Iosifidis, Thi Ngoc Han Tran, Eirini Ntoutsi 
   link:
     url: https://doi.org/10.1007/978-3-030-27615-7_20
