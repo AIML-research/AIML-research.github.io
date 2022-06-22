@@ -7,6 +7,27 @@
 #    display: Science 374, 608 (2021)
 #  highlight: 1  or 0
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/),[SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered)
+- title: "Learning to Teach Fairness-aware Deep Multi-task Learning"
+  image: Arjun-ECML-2022.png
+  description: We introduce the L2T-FMT algorithm that is a teacher-student network trained collaboratively; the student learns to solve the fair MTL problem while the teacher instructs the student to learn from either accuracy or fairness, depending on what is harder to learn for each task. Moreover, this dynamic selection of which objective to use at each step for each task reduces the number of trade-off weights from 2T to T, where T is the number of tasks. Our experiments on three real datasets show that L2T-FMT improves on both fairness (12-19%) and accuracy (up to 2%) over state-of-the-art approaches.
+  authors: Arjun Roy, Eirini Ntoutsi
+  link:
+    url: https://arxiv.org/abs/2206.08403
+    display: Proceedings of the "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases", 2022
+  highlight: 1
+  news2: 
+  year: 2022
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
 - title: "A survey on datasets for fairness-aware machine learning"
   image: fairdata-survey.png
   description: We overview real-world tabular datasets used in the domain of fairness-aware ML. We identify attribute relationships, esp. w.r.t. protected attributes and class attributes, using a Bayesian network. We investigate the interesting relationships using exploratory analysis for a deeper understanding of bias.
