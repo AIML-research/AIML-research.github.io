@@ -9,7 +9,7 @@
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/),[SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered)
 - title: "Learning to Teach Fairness-aware Deep Multi-task Learning"
   image: Arjun-ECML-2022.png
-  description: We introduce the L2T-FMT algorithm that is a teacher-student network trained collaboratively; the student learns to solve the fair MTL problem while the teacher instructs the student to learn from either accuracy or fairness, depending on what is harder to learn for each task. Moreover, this dynamic selection of which objective to use at each step for each task reduces the number of trade-off weights from 2T to T, where T is the number of tasks. Our experiments on three real datasets show that L2T-FMT improves on both fairness (12-19%) and accuracy (up to 2%) over state-of-the-art approaches.
+  description: We introduce the L2T-FMT algorithm that is a teacher-student network trained collaboratively; the student learns to solve the fair MTL problem while the teacher instructs the student to learn from either accuracy or fairness, depending on what is harder to learn for each task. Moreover, this dynamic selection of which objective to use at each step for each task reduces the number of trade-off weights from 2T to T, where T is the number of tasks.
   authors: Arjun Roy, Eirini Ntoutsi
   link:
     url: https://arxiv.org/abs/2206.08403
@@ -176,26 +176,6 @@
   hasvideo: 0
   video: 
   
-- title: "FABBOO - Online Fairness-aware Learning under Class Imbalance"
-  image: Vasilis2020.png
-  description: We propose FABBOO, an online fairness-aware classifier. We use boosting as our underlying model and change the data distribution online based on class imbalance, and discriminatory behavior of the model evaluated cumulatively over the historical stream.
-  authors: Vasileios Iosifidis, Eirini Ntoutsi
-  link:
-    url: https://link.springer.com/chapter/10.1007/978-3-030-61527-7_11
-    display: International Conference on Discovery Science (DS), 2020
-  highlight: 1
-  news2:    
-  year: 2020
-  haslocal: 1
-  local: 20.DS.FABOO.pdf
-  hascode: 1
-  code: https://github.com/iosifidisvasileios/FABBOO
-  hasposter: 0
-  poster:
-  hasppt: 0
-  ppt: 
-  hasvideo: 0
-  video: 
   
 - title: "Drift-Aware Multi-Memory Model for Imbalanced Data Streams"
   image: Amir2020.png
@@ -303,6 +283,26 @@
   hasvideo: 0
   video: 
   
+- title: "FABBOO - Online Fairness-aware Learning under Class Imbalance"
+  image: Vasilis2020.png
+  description: We propose FABBOO, an online fairness-aware classifier. We use boosting as our underlying model and change the data distribution online based on class imbalance, and discriminatory behavior of the model evaluated cumulatively over the historical stream. Our experiments show that such long-term consideration of class-imbalance and fairness are beneficial for maintaining models that exhibit good predictive- and fairness-related performance. 
+  authors: Vasileios Iosifidis, Eirini Ntoutsi
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-61527-7_11
+    display: International Conference on Discovery Science (DS), 2020
+  highlight: 1
+  news2:    
+  year: 2020
+  haslocal: 1
+  local: 20.DS.FABOO.pdf
+  hascode: 1
+  code: https://github.com/iosifidisvasileios/FABBOO
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video:   
 - title: "FAE: A Fairness-Aware Ensemble Framework"
   image: Vasilis2019.png
   description: The proposed FAE (Fairness-Aware Ensemble) framework combines fairness-related interventions at both pre-and post-processing steps of the data analysis process. In the pre-processing step, we tackle the problems of under-representation of the protected group (group imbalance) and of class-imbalance by generating balanced training samples. In the post-processing step, we tackle the problem of class overlapping by shifting the decision boundary in the direction of fairness.
@@ -413,7 +413,7 @@
 
 - title: "Fairness-Enhancing Interventions in Stream Classification"
   image: Vasilis2019DEXA.png
-  description: Existing fairness-aware approaches tackle fairness as a batch learning problem and aim at learning a fair model which can then be applied to future instances of the problem. In many applications, however, the data comes sequentially and its characteristics might evolve with time. In such a setting, it is counter-intuitive to “fix” a (fair) model over the data stream as changes in the data might incur changes in the underlying model therefore, affecting its fairness. In this work, we propose fairness-enhancing interventions that modify the input data so that the outcome of any stream classifier applied to that data will be fair. Experiments on real and synthetic data show that our approach achieves good predictive performance and low discrimination scores over the course of the stream.
+  description: Existing fairness-aware approaches tackle fairness as a batch learning problem and aim at learning a fair model which can then be applied to future instances of the problem. In many applications, however, the data comes sequentially and its characteristics might evolve with time. In such a setting, it is counter-intuitive to “fix” a (fair) model over the data stream as changes in the data might incur changes in the underlying model therefore, affecting its fairness. In this work, we propose fairness-enhancing interventions that modify the input data so that the outcome of any stream classifier applied to that data will be fair. 
   authors:   Vasileios Iosifidis, Thi Ngoc Han Tran, Eirini Ntoutsi 
   link:
     url: https://doi.org/10.1007/978-3-030-27615-7_20
