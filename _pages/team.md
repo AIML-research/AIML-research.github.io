@@ -216,6 +216,8 @@ permalink: /team/
 
 ### Former members
 
+- <b> Yi Cai </b>, <i> PhD student </i>, November 2020 - May 2022, Topic: Explanations for text classification
+- <b> Philipp Naumann </b>, <i> PhD student </i>, March 2021 - May 2022, Topic: Counterfactual fairness 
 - <b> Nabil Alsabah </b>, <i> Lecturer </i>
 - <b> Vasileios Iosifidis </b>, <i> PhD student </i>, June 2016 - July 2020, Topic: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" </a>
 - <b> Amir Abolfazli </b>, <i> PhD student </i>, April 2019 - July 2020, Topic: Adaptive machine learning
