@@ -37,15 +37,6 @@
   has_project_web: 0
   project_web: 
   
-- name: Philip Naumann
-  photo: Philip.jpg
-  info: Research Assistant / Doctoral Student
-  email: philip.naumann@fu-berlin.de
-  number_educ: 0
-  project: Hephaestus
-  website: "https://www.philipnaumann.com/"
-  has_project_web: 1
-  project_web: https://aiml-research.github.io/projects/hephaestus/
   
 - name: Seyed Siamak Ghodsi
   photo: Siamak.jpg
