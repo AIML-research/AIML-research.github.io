@@ -205,7 +205,7 @@ permalink: /team/
 ### Master and Bachelor students
 
 - <b> Viktoria Andres </b>, BSc , <a href ="https://git.imp.fu-berlin.de/viktoa98/bachelor-thesis-about-counterfactuals-in-time-series-classification/-/tree/master"> "Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide" </a>, WiSe21/22 
-- <b> Florian Mies </b>, MSc, "Generative replay", SoSe22
+- <b> Florian Mies </b>, MSc, "Analysis of the Generative Replay Algorithm and Comparison with other Continual Learning Approaches on Newly Defined Non-stationary Data Stream Scenarios", SoSe22
 
 
 ### HiWi students
