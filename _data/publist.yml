@@ -9,7 +9,7 @@
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/),[SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered)
 - title: "Parity-based Cumulative Fairness-aware Boosting"
   image: Vasilis-KAIS-2022.png
-  description: This is an extension of our <a href = "https://aiml-research.github.io/files/19.CIKM.pdf"> AdaFair </a> algorithm (CIKM 2019) to other parity-based fairness notions. We propose an ensemble approach to fairness that alters the data distribution over the boosting rounds "forcing" the model to pay more attention to misclassified instances of the minority. This is done using the so-called fairness cost which assesses performance differences between the protected and non-protected groups. The performance is evaluated based on the partial ensemble rather than on the weak model of each boosting round. We show that this cumulative notion of fairness is beneficiary for different parity-based notions of fairness. Interestingly, the fairness costs also help with the performance on the minority class (if there is imbalance). Imbalance is also directly tackled at post-processing by selecting the partial ensemble with the lowest balanced error.
+  description: This is an extension of our <a href = "https://aiml-research.github.io/files/19.CIKM.pdf"> AdaFair </a> algorithm (CIKM 2019) to other parity-based fairness notions. We propose an ensemble approach to fairness that alters the data distribution over the boosting rounds "forcing" the model to pay more attention to misclassified instances of the minority. This is done using the so-called fairness cost which assesses performance differences between the protected and non-protected groups. The performance is evaluated based on the partial ensemble rather than on the weak model of each boosting round. 
   authors: Vasileios Iosifidis, Arjun Roy, Eirini Ntoutsi
   link:
     url: https://arxiv.org/pdf/2201.01148v1.pdf
@@ -198,6 +198,27 @@
   hasvideo: 0
   video: 
   
+- title: "FABBOO - Online Fairness-aware Learning under Class Imbalance"
+  image: Vasilis2020.png
+  description: We propose FABBOO, an online fairness-aware classifier. We use boosting as our underlying model and change the data distribution online based on class imbalance, and discriminatory behavior of the model evaluated cumulatively over the historical stream. Our experiments show that such long-term consideration of class-imbalance and fairness are beneficial for maintaining models that exhibit good predictive- and fairness-related performance. 
+  authors: Vasileios Iosifidis, Eirini Ntoutsi
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-61527-7_11
+    display: International Conference on Discovery Science (DS), 2020
+  highlight: 1
+  news2:    
+  year: 2020
+  haslocal: 1
+  local: 20.DS.FABOO.pdf
+  hascode: 1
+  code: https://github.com/iosifidisvasileios/FABBOO
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video:   
+  
   
 - title: "Drift-Aware Multi-Memory Model for Imbalanced Data Streams"
   image: Amir2020.png
@@ -305,26 +326,6 @@
   hasvideo: 0
   video: 
   
-- title: "FABBOO - Online Fairness-aware Learning under Class Imbalance"
-  image: Vasilis2020.png
-  description: We propose FABBOO, an online fairness-aware classifier. We use boosting as our underlying model and change the data distribution online based on class imbalance, and discriminatory behavior of the model evaluated cumulatively over the historical stream. Our experiments show that such long-term consideration of class-imbalance and fairness are beneficial for maintaining models that exhibit good predictive- and fairness-related performance. 
-  authors: Vasileios Iosifidis, Eirini Ntoutsi
-  link:
-    url: https://link.springer.com/chapter/10.1007/978-3-030-61527-7_11
-    display: International Conference on Discovery Science (DS), 2020
-  highlight: 1
-  news2:    
-  year: 2020
-  haslocal: 1
-  local: 20.DS.FABOO.pdf
-  hascode: 1
-  code: https://github.com/iosifidisvasileios/FABBOO
-  hasposter: 0
-  poster:
-  hasppt: 0
-  ppt: 
-  hasvideo: 0
-  video:   
 - title: "FAE: A Fairness-Aware Ensemble Framework"
   image: Vasilis2019.png
   description: The proposed FAE (Fairness-Aware Ensemble) framework combines fairness-related interventions at both pre-and post-processing steps of the data analysis process. In the pre-processing step, we tackle the problems of under-representation of the protected group (group imbalance) and of class-imbalance by generating balanced training samples. In the post-processing step, we tackle the problem of class overlapping by shifting the decision boundary in the direction of fairness.
