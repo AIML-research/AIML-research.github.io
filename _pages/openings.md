@@ -12,13 +12,12 @@ permalink: /vacancies
 From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" target="_new">Bundeswehr University Munich (UniBw-M)</a> as Full Professor in its Department of Computer Science and <a href="https://www.unibw.de/code" target="_new">Research Insitute CODE</a>. Part of the group will be still at <a href="https://www.fu-berlin.de/" target="_new">FUB</a> and <a href="https://www.l3s.de/de" target="_new">L3S</a>.
 </p>
 
-## Open positions
-<p style="background-color:green;padding:5px;border-radius: 10px;">
+## Concrete openings incl. Information on how to apply
 <ul>
   <li>PhD/PostDoc position in fairness-aware machine learning, <a href="https://www.unibw.de/stellenausschreibungen/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/fi-code-wm-e13-fairness-aware.pdf
     " target="_new">link</a> to the call incl. information on how to apply (in German)</li>
 </ul>
-</p>
+
 ### PhD/PostDoc positions
 
 We are looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods. The goal of our group can be summarized as designing intelligent algorithms that learn from data continuously following the cumulative nature of human learning, while ensuring that what has been learned helps driving positive societal impact. 
