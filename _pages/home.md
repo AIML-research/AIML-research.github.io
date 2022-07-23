@@ -28,35 +28,40 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
-    <!-- Items -->
-  
+    <!-- Items --> 
     
     
     <div class="carousel-inner" markdown="0">
              <div class="item active">
             <a href="https://www.sfb1463.uni-hannover.de/" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LangeNachtKallikrates@FUB.July22.jpeg" alt="Long Night of the Sciences @ FUB, July 2022 - Presentation of Kallikrates, the AI architect for wind-turbines design" width="1253" height="533"/>
-            </a>      
+            </a>
+        </div>
+        
    <div class="item">
             <a href="https://pages.cms.hu-berlin.de/ipa/lwda2019/" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.jpg" alt="KDML (German Machine Learning and Data Mining community) workshop @LWDA 2019 in Berlin" width="1253" height="533"/>
             </a>                                               
         </div> 
+        
         <div class="item">
             <a href="https://gec-ws.athenarc.gr/" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACM-W.FairnessInAI.2022.png" alt="ACM-W Greece Winter School on Fairness in AI @online 2022"  width="1253" height="533"/>
             </a>
         </div>
+        
         <div class="item">
             <a href = "https://www.lorentzcenter.nl/fairness-in-algorithmic-decision-makinga-domain-specific-approach.html" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairnessIAlgo@LorentzCenter.Poster.2022.jpg" alt="Fairness in Algorithmic Decision Making:A Domain-Specific Approach @ Lorentz Center, NL, 2022"  width="1253" height="533"/>
             </a>
         </div>
+        
         <div class="item">
             <a href="https://doi.org/10.1002/widm.1356" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoBIAS.Survey@WIREs2020.png" alt="Introductory survey to fairness in AI @WIREs DMKD 2020"/>
             </a>  
-        </div>        
+        </div> 
+        
         <div class="item">
             <a href="https://doi.org/10.1002/widm.1452" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairdatasets-survey.WIDM22.png" alt="Datasets for fairness-aware learning-survey paper @WIREs DMKD 2022"  width="1253" height="533"/>
