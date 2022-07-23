@@ -29,12 +29,19 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
     </ol>
 
     <!-- Items -->
+  
+    
+    
     <div class="carousel-inner" markdown="0">
              <div class="item active">
             <a href="https://pages.cms.hu-berlin.de/ipa/lwda2019/" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.jpg" alt="KDML (German Machine Learning and Data Mining community) workshop @LWDA 2019 in Berlin" width="1253" height="533"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LangeNachtKallikrates@FUB.July22.jfif" alt="Long Night of the Sciences @ FUB, July 2022 - Presentation of Kallikrates, the AI architect for wind-turbines design" width="1253" height="533"/>
             </a>                    
-                           
+    <div class="carousel-inner">
+             <div class="item active">
+            <a href="https://pages.cms.hu-berlin.de/ipa/lwda2019/" target="_blank">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.jpg" alt="KDML (German Machine Learning and Data Mining community) workshop @LWDA 2019 in Berlin" width="1253" height="533"/>
+            </a>                                               
         </div> 
         <div class="item">
             <a href="https://gec-ws.athenarc.gr/" target="_blank">
