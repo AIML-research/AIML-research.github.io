@@ -24,7 +24,7 @@ We are looking for talented and highly motivated students from Computer Science 
 Our current offerings focus on the following topics:
 <ul>
   <li>Adaptive learning/ continual learning</li>
-  <li>Responsible AI (esp. fairness, xAI)</li>
+  <li>Responsible AI (esp. fairness-aware learning, xAI, resilient-ML)</li>
   <li>Generative AI (esp. for temporal data, image data, graphs)</li>
 </ul>
 
