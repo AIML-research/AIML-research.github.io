@@ -7,6 +7,27 @@
 #    display: Science 374, 608 (2021)
 #  highlight: 1  or 0
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/),[SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered)
+- title: "Multi-fairness under class-imbalance"
+  image: 
+  description:  Recent studies showed that datasets used in fairness-aware machine learning for multiple protected attributes (referred to as multidiscrimination hereafter) are often imbalanced. The class-imbalance problem is more severe for the protected group in the critical minority class (e.g., female +, non-white +, etc.). Still, existing methods focus only on the overall error-discrimination trade-off, ignoring the imbalance problem, and thus they amplify the prevalent bias in the minority classes. To solve the combined problem of multi-discrimination and class-imbalance we introduce a new fairness measure, Multi-Max Mistreatment (MMM ),which considers both (multi-attribute) protected group and class membership of instances to measure discrimination. To solve the combined problem, we propose Multi-Fair Boosting Post Pareto (MFBPP) a boosting approach that incorporates MMM -costs in the distribution update and post-training, selects the optimal trade-off among accurate, classbalanced, and fair solutions. The experimental results show the superiority of our approach against state-of-the-art methods in producing the best balanced performance across groups and classes and the best accuracy for the protected groups in the minority class..
+  authors:   Arjun Roy, Vasileios Iosifidis Eirini Ntoutsi 
+  link:
+    url: https://arxiv.org/pdf/2104.13312.pdf
+    display: Discovery Science 2022
+  highlight: 0
+  news2:  
+  year:  2019
+  haslocal: 1
+  local: 
+  hascode: 1
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: 
+  hasvideo: 0
+  video: 
+  
 - title: "Parity-based Cumulative Fairness-aware Boosting"
   image: Vasilis-KAIS-2022.png
   description: This is an extension of our <a href = "https://aiml-research.github.io/files/19.CIKM.pdf"> AdaFair </a> algorithm (CIKM 2019) to other parity-based fairness notions (<a href = "https://arxiv.org/pdf/2201.01148v1.pdf">arXiv version</a>). We propose an ensemble approach to fairness that alters the data distribution over the boosting rounds "forcing" the model to pay more attention to misclassified instances of the minority. This is done using the so-called fairness cost which assesses performance differences between the protected and non-protected groups. It is evaluated based on the partial ensemble rather than on the weak model of each boosting round. 
