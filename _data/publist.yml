@@ -462,7 +462,7 @@
   link:
     url: https://doi.org/10.1007/978-3-030-27615-7_20
     display:  Database and Expert Systems Applications, DEXA, 2019
-  highlight: 1
+  highlight: 0
   news2:
   year: 2019
   haslocal: 1
@@ -1344,7 +1344,7 @@
   link:
     url: https://doi.org/10.1145/2661829.2662026
     display:  23rd ACM International Conference on Information and Knowledge Management (CIKM), 2014.
-  highlight: 1
+  highlight: 0
   news2:
   year: 2014
   haslocal: 1
