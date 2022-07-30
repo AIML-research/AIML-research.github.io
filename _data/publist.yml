@@ -99,7 +99,7 @@
   link:
     url: https://doi.org/10.1007/978-3-030-86362-3_45
     display:  30th ICANN conference 2021 
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2021
   haslocal: 1
@@ -226,7 +226,7 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-61527-7_11
     display: International Conference on Discovery Science (DS), 2020
-  highlight: 1
+  highlight: 0
   news2:    
   year: 2020
   haslocal: 1
