@@ -9,14 +9,19 @@ permalink: /vacancies
 
 ## Want to work with us?
 <p style="background-color:orange;padding:5px;border-radius: 10px;">
-From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" target="_new">Bundeswehr University Munich (UniBw-M)</a> as Full Professor in its Department of Computer Science and <a href="https://www.unibw.de/code" target="_new">Research Insitute CODE</a>. Part of the group will be still at <a href="https://www.fu-berlin.de/" target="_new">FUB</a> and <a href="https://www.l3s.de/de" target="_new">L3S</a>.
+From August 2022, Prof. Ntoutsi joined the <a href="https://www.unibw.de/" target="_new">Bundeswehr University Munich (UniBw-M)</a> as Full Professor in its Department of Computer Science and <a href="https://www.unibw.de/code" target="_new">Research Insitute CODE</a>. Part of the group will be still at <a href="https://www.fu-berlin.de/" target="_new">FUB Berlin</a> and <a href="https://www.l3s.de/de" target="_new">L3S Hannover</a>.
 </p>
 
 ## Concrete openings incl. Information on how to apply
 <ul>
-  <li>PhD/PostDoc position in fairness-aware machine learning, <a href="https://www.unibw.de/stellenausschreibungen/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/fi-code-wm-e13-fairness-aware.pdf
+  <li>PhD/PostDoc position in multi-fairness-aware machine learning, <a href="https://www.unibw.de/stellenausschreibungen/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/fi-code-wm-e13-fairness-aware.pdf
     " target="_new">link</a> to the call incl. information on how to apply (in German)</li>
+  <li>PhD position in online fairness-aware machine learning, <a href="https://www.unibw.de/code/karriere/220805-prof-ntoutsi-stellenausschreibung_fairness_en_final.pdf
+    " target="_new">link</a> to the call incl. information on how to apply</li>
+ <li>PhD position in XAI, <a href="https://www.unibw.de/code/karriere/220805-prof-ntoutsi-stellenausschreibung_xai_en_final.pdf" target="_new">link</a> to the call incl. information on how to apply</li>
+ <li>PhD position in adaptive learning, <a href="https://www.unibw.de/code/karriere/220805-prof-ntoutsi-stellenausschreibung_adaptivelearning_en_final.pdf" target="_new">link</a> to the call incl. information on how to apply</li>
 </ul>
+
 
 ### PhD/PostDoc positions
 
