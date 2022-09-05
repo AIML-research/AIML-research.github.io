@@ -6,10 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
-<meta http-equiv='pragma' content='no-cache'>
-
 Welcome to the AIML group at the [Institute of Computer Science](https://www.mi.fu-berlin.de/en/inf/index.html), [Department of Mathematics and Informatics](https://www.mi.fu-berlin.de/en/index.html) of [Freie Universität Berlin](https://www.fu-berlin.de/en/). 
 Our aim is to design intelligent algorithms that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*. Ongoing directions include:
 - Continuous learning over non-stationary data and data streams, that is adapting machine learning models to changing environments.
