@@ -9,7 +9,7 @@ permalink: /projects/
 ### Ongoing research projects
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB 1463:  Integrated Design and Operation Methodology for Offshore Megastructures</a></b></li>
-Funding: <a href="https://gepris.dfg.de/gepris/projekt/457016492" target="_new">DFG</a>, Role: PI.
+Funding: <a href="https://gepris.dfg.de/gepris/projekt/457016492" target="_new">DFG</a>, Role: PI.<br>
 
 With the help of the real-time capable simulation model of a digital twin, the SFB researches the design and operating conditions of offshore megastructures, whereby all life phases of a structure can be represented. This enables a reactive and automated adaptation of the structure and its operation to current and future conditions.  
 We participate in project B01 "Integrated design process for offshore structures" with the aim to develop a prognosis model to predict the design quality over the complete life cycle of offshore structures, combining the experience and intuition of the engineer and expert through appropriate ML methods. 
@@ -17,21 +17,21 @@ We participate in project B01 "Integrated design process for offshore structures
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">Hephaestus - Machine learning methods for adaptive process planning of 5-axis milling</a></b></li>
-Funding: <a href="https://gepris.dfg.de/gepris/projekt/424298653" target="_new">DFG</a>, Role: PI.
+Funding: <a href="https://gepris.dfg.de/gepris/projekt/424298653" target="_new">DFG</a>, Role: PI.<br>
 
 Rising customer demands and a trend towards smaller batch sizes have led to an increased complexity in product design and subsequent process planning, e.g. of 5-axes milling operations. Thus, process simulations are commonly used in industry to support process planning. Especially, the dimensional accuracy is crucial for most machined parts, since it affects directly the functionality. Consequently, finishing operations have especially high requirements with respect to the surface tolerances. Despite the aforementioned simulation tools, manual adjustments, which rely on the expert knowledge of workers and process planners, are still necessary in order to cope with process- or machine-specific deviations such as tool stiffness or machine dynamics.
 </ul>
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/nobias">ITN NoBIAS - Artificial Intelligence without Bias</a></b></li>
-Funding: <a href="https://cordis.europa.eu/project/id/860630" target="_new">EU</a>, Role: PI
+Funding: <a href="https://cordis.europa.eu/project/id/860630" target="_new">EU</a>, Role: PI.<br>
 
 The core objective of NoBIAS is to research and develop novel methods for AI-based decision making without bias. NoBIAS will deliver a cohort of 15 researchers trained to identify biased and discriminating AI-decision making and able to provide solutions that reconcile and fully exploit AI while ensuring compliance with legal and social norms.
 </ul>
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/bias">BIAS – Bias and Discrimination in Big Data and Algorithmic Processing. Philosophical Assessments, Legal Dimensions, and Technical Solutions.</a></b></li>
-Funding: <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=95037" target="_new">Volkswagen Stiftung</a>, Role: PI.
+Funding: <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=95037" target="_new">Volkswagen Stiftung</a>, Role: PI.<br>
 
 AI techniques based on big data and algorithmic processing are increasingly used to guide decisions in important societal spheres, including hiring decisions, university admissions, loan granting, and crime prediction. However, there are growing concerns with regard to the epistemic and normative quality of AI evaluations and predictions. Our shared research question is: How can standards of unbiased attitudes and non-discriminatory practices be met in big data analysis and algorithm-based decision-making?
 In approaching this question, we will provide philosophical analyses of the relevant concepts and principles in the context of AI (bias, discrimination, fairness), investigate their adequate reception in pertinent legal frameworks (data protection, consumer, competition, anti-discrimination law), and develop concrete technical solutions (debiasing strategies, discrimination detection procedures etc.).
@@ -46,14 +46,14 @@ The overall objective of the research project is the development of methods for 
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/lernmint/">LernMINT - Dealing with bias and discrimination in learning analytics models</a></b></li>
-Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>, Role: PI.
+Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>, Role: PI.<br>
 
 The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods.
 </ul>
 
 <ul>
   <li><b><a href = "https://aiml-research.github.io/projects/enkis">ENKIS - Etablierung nachhaltiger KI-bezogener Studienangebote für eine Verantwortungsvolle Künstliche Intelligenz an der FUB</a>.</b></li>
-Funding: <a href="https://www.bmbf.de/bmbf/de/home/_documents/digitale-hochschulbildung.html#:~:text=Mit%20der%20Bund%2DL%C3%A4nder%2DVereinbarung,der%20Breite%20des%20Hochschulsystems%20entfalten.">BMBF</a>, Role: PI.
+Funding: <a href="https://www.bmbf.de/bmbf/de/home/_documents/digitale-hochschulbildung.html#:~:text=Mit%20der%20Bund%2DL%C3%A4nder%2DVereinbarung,der%20Breite%20des%20Hochschulsystems%20entfalten.">BMBF</a>, Role: PI.<br>
 
 Promoting AI in higher education (FUB, particularly).
 
@@ -62,7 +62,7 @@ Updated status: not further involved.
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/responsibleai/">Responsible AI </a></b></li>
-Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>, Role: PI.
+Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>, Role: PI.<br>
 
 Artificial intelligence (AI) technologies are the driving force behind digitization. Due to their enormous social relevance, a responsible use of AI is of particular importance. The research and application of responsible AI is a very young discipline and requires the bundling of research activities from different disciplines in order to design and apply AI systems in a reliable, transparent, secure and legally acceptable way.
 
@@ -74,28 +74,28 @@ Updated status: not further involved.
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/oscar">OSCAR - Opinion Stream Classification with Ensembles and Active leaRners</a>.</b></li>
 
-Funding: <a href="https://gepris.dfg.de/gepris/projekt/317686254?language=en" target="_new">DFG</a>, Role: PI.
+Funding: <a href="https://gepris.dfg.de/gepris/projekt/317686254?language=en" target="_new">DFG</a>, Role: PI.<br>
 
 Many data accumulating in the Web reflect opinions on diverse subjects - products, institutions, events (e.g., elections) or topics (e.g., earth warming). Opinionated documents constitute a continuous stream; polarity learning on them delivers insights on the attitude of people towards each subject. Polarity learning algorithms must cope with classic Big Data characteristics: high volume and velocity of the arriving data, and volatility of the learned concepts, since subjects and attitudes of people toward certain subjects change over time. In OSCAR, we will develop classifiers that operate on an evolving feature space, adapt to changes in both vocabulary and data and operate with limited class labels.
 </ul>
     
 <ul>
   <li><b><a href ="http://www.en.for1670-transalpine.uni-muenchen.de/index.html">Transalpine mobility and knowledge transfer </a></b></li>
-Funding: <a href="https://gepris.dfg.de/gepris/projekt/191679530" target="_new">DFG FOR 1670</a>, Role: Postdoctoral researcher (Eirini Ntoutsi).
+Funding: <a href="https://gepris.dfg.de/gepris/projekt/191679530" target="_new">DFG FOR 1670</a>, Role: Postdoctoral researcher (Eirini Ntoutsi).<br>
 
 The project aims at the establishment of an isotopic fingerprint for bioarchaeological finds, especially cremations, and its application to archaeological and cultural-historical problems of the Late Bronze Age until Roman Times. From a computer science persective, our focus is on the development of innovative methods that allow complete scientific analysis of project related data despite their complexity. We focus on data management and automated data analysis (similarity search, cluster analysis, outlier recognition) for the establishment of small-scaled isotopic fingerprints.
 </ul>
     
 <ul>
   <li><b><a href ="http://infolab.cs.unipi.gr/projects/GeoPKDD/"> GeoPKDD (Geographic Privacy-aware Knowledge Discovery and Delivery) </a></b></li>
-FP6/IST project, 2005-2009, Role: PhD researcher (Eirini Ntoutsi).
+FP6/IST project, 2005-2009, Role: PhD researcher (Eirini Ntoutsi).<br>
 
 GeoPKDD aims at developing theory, techniques and systems for knowledge discovery and delivery, based on new automated privacy-preserving methods for extracting user-consumable forms of knowledge from large amounts of raw data referenced in both space and time dimensions.
 </ul>
     
 <ul>
   <li><b><a href ="http://infolab.cs.unipi.gr/projects/heracletos/"> Knowledge Discovery and Pattern Management - the PBMS approach </a></b></li>
-Funding: EPEAEK II / Heracletos Programme, 2003-2005, Role: PhD researcher (Eirini Ntoutsi).
+Funding: EPEAEK II / Heracletos Programme, 2003-2005, Role: PhD researcher (Eirini Ntoutsi).<br>
 
 The goal of this project is the efficient management of data mining patterns extracted from large databases, with emphasis on the pattern similarity assesment problem.
 </ul>
