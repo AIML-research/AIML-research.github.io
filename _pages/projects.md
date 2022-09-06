@@ -6,7 +6,17 @@ sitemap: false
 permalink: /projects/
 ---
 
+
 ### Ongoing research projects
+<ul>
+  <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/stelar">STELAR (Spatio-TEmporal Linked data tools for the AgRi-food data space)</a></b></li>
+Funding: EU under HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (AI, Data and Robotics Partnership) (IA).<br> 
+Role: PI.<br>
+
+  STELAR will design, develop, evaluate, and showcase an innovative Knowledge Lake Management System (KLMS) to support and facilitate a holistic approach for FAIR (Findable, Accessible, Interoperable, Reusable) and AI-ready (high-quality, reliably labeled) data that will be pilot tested in diverse, real-world use cases in the agrifood data space, one of the nine data spaces of strategic societal and economic importance identified in the European Strategy for Data.
+ </ul>
+
+
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB 1463:  Integrated Design and Operation Methodology for Offshore Megastructures</a></b></li>
 Funding: <a href="https://gepris.dfg.de/gepris/projekt/457016492" target="_new">DFG</a>, Role: PI.<br>
