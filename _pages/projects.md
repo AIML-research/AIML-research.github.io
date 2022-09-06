@@ -9,6 +9,18 @@ permalink: /projects/
 
 ### Ongoing research projects
 <ul>
+  <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/mammoth">MAMMOTH (Multi-Attribute, Multimodal Bias Mitigation in AI Systems)</a></b></li>
+Funding: EU under the call HORIZON-CL4-2021-HUMAN-01 (A HUMAN-CENTRED AND ETHICAL DEVELOPMENT OF DIGITAL AND INDUSTRIAL TECHNOLOGIES 2021).<br> 
+Role: PI.<br>
+
+The MAMMOth project focuses on multi-discrimination mitigation for tabular, network and multimodal data. Through its 
+computer science and AI experts, MAMMOth aims at addressing the associated scientific challenges by developing an innovative 
+fairness-aware AI-data driven foundation that provides the necessary tools and techniques for the discovery and mitigation of 
+(multi-)discrimination and ensures the accountability of AI-systems with respect to multiple protected attributes and for traditional 
+tabular data and more complex network and visual data. The project aims to demonstrate through pilots the developed solutions into three relevant sectors of interest: a) finance/loan applications, b) identity verification systems, and c) academic evaluation.
+</ul>
+
+<ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/stelar">STELAR (Spatio-TEmporal Linked data tools for the AgRi-food data space)</a></b></li>
 Funding: EU under HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (AI, Data and Robotics Partnership) (IA).<br> 
 Role: PI.<br>
