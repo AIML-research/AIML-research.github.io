@@ -13,7 +13,7 @@ permalink: /projects/bias/
 </figure>
 </div>
 
-- <b>Funding: </b> The Project is funded by the Volkswagen foundation under the call "Artificial Intelligence and the society of the future".
+- <b>Funding: </b> <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=95037" target="_new">Volkswagen foundation</a> under the call "Artificial Intelligence and the society of the future".
 - <b>Project duration: </b> 01.12.2018 — 30.11.2022
 - <b>Homepage: </b> <a href="https://www.bias-project.org/">BIAS </a>
 
