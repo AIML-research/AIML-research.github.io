@@ -10,7 +10,7 @@ permalink: /projects/
 ### Ongoing research projects
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/mammoth">MAMMOTH (Multi-Attribute, Multimodal Bias Mitigation in AI Systems)</a></b></li>
-Funding: EU under the call <a href="https://www.welcomeurope.com/en/the-list-of-our-calls-projects/horizon-europe-a-human-centred-and-ethical-development-of-digital-and-industrial-technologies-2021/" target="_new">HORIZON-CL4-2021-HUMAN-01 (A HUMAN-CENTRED AND ETHICAL DEVELOPMENT OF DIGITAL AND INDUSTRIAL TECHNOLOGIES 2021)</a>.<br> 
+Funding: EU under the call HORIZON-CL4-2021-HUMAN-01 (A HUMAN-CENTRED AND ETHICAL DEVELOPMENT OF DIGITAL AND INDUSTRIAL TECHNOLOGIES 2021).<br> 
 Role: PI.<br>
 
 The MAMMOth project focuses on multi-discrimination mitigation for tabular, network and multimodal data. Through its 
@@ -22,7 +22,7 @@ tabular data and more complex network and visual data. The project aims to demon
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/stelar">STELAR (Spatio-TEmporal Linked data tools for the AgRi-food data space)</a></b></li>
-Funding: EU under the call <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2021-data-01-03" target="_new">HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (IA)</a>.<br> 
+Funding: EU under the call HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (IA).<br> 
 Role: PI.<br>
 
   STELAR will design, develop, evaluate, and showcase an innovative Knowledge Lake Management System (KLMS) to support and facilitate a holistic approach for FAIR (Findable, Accessible, Interoperable, Reusable) and AI-ready (high-quality, reliably labeled) data that will be pilot tested in diverse, real-world use cases in the agrifood data space, one of the nine data spaces of strategic societal and economic importance identified in the European Strategy for Data.
