@@ -7,6 +7,28 @@
 #    display: Science 374, 608 (2021)
 #  highlight: 1  or 0
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/),[SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered)
+
+- title: "A survey on bias in visual datasets"
+  image: 
+  description:  Bias in CV is a hard problem. In this survey we focus on i) selection, 2)framing and 3)label bias and overview existing research for bias detection and mitigation. Main conclusions: i) Most approaches reduce the problem to tabular data and do not necessarily capture the complexity of visual data. ii) There exist no bias free dataset but only attempts for bias-aware dataset collection w.r.t. specific protected attributes. iii) Those working with visual data should be aware of the biases in their data – we provide a checklist that might help to spot biases during the data collection process. iv) the problem of bias discovery and quantification is open in terms of both methods and the range of biases that can be detected.
+  authors:   Simone Fabrizzi,  Roy, Vasileios Iosifidis Eirini Ntoutsi 
+  link:
+    url: https://arxiv.org/abs/2107.07919
+    display: Computer Vision and Image Understanding (CVIU) journal
+  highlight: 0
+  news2:  
+  year:  2022
+  haslocal: 0
+  local: 22.CVIU.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "Multi-fairness under class-imbalance"
   image: 
   description:  Recent studies showed that datasets used in fairness-aware machine learning for multiple protected attributes (referred to as multidiscrimination hereafter) are often imbalanced. The class-imbalance problem is more severe for the protected group in the critical minority class (e.g., female +, non-white +, etc.). Still, existing methods focus only on the overall error-discrimination trade-off, ignoring the imbalance problem, and thus they amplify the prevalent bias in the minority classes. To solve the combined problem of multi-discrimination and class-imbalance we introduce a new fairness measure, Multi-Max Mistreatment (MMM ),which considers both (multi-attribute) protected group and class membership of instances to measure discrimination. To solve the combined problem, we propose Multi-Fair Boosting Post Pareto (MFBPP) a boosting approach that incorporates MMM -costs in the distribution update and post-training, selects the optimal trade-off among accurate, classbalanced, and fair solutions. The experimental results show the superiority of our approach against state-of-the-art methods in producing the best balanced performance across groups and classes and the best accuracy for the protected groups in the minority class..
