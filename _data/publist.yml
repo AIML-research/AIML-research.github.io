@@ -57,7 +57,7 @@
   link:
     url: https://arxiv.org/pdf/2201.01148v1.pdf
     display: Knowledge and Information Systems (KAIS)
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2022
   haslocal: 0
@@ -376,7 +376,7 @@
   link:
     url: https://doi.org/10.1109/BigData47090.2019.9006487
     display:   IEEE International Conference on Big Data (Big Data), 2019
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2019
   haslocal: 1
