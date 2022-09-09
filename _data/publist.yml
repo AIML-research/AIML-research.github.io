@@ -11,7 +11,7 @@
 - title: "A survey on bias in visual datasets"
   image: 
   description:  Bias in CV is a hard problem. In this survey we focus on i) selection, 2)framing and 3)label bias and overview existing research for bias detection and mitigation. Main conclusions i) Most approaches reduce the problem to tabular data and do not necessarily capture the complexity of visual data. ii) There exist no bias free dataset but only attempts for bias-aware dataset collection w.r.t. specific protected attributes. iii) Those working with visual data should be aware of the biases in their data – we provide a checklist that might help to spot biases during the data collection process. iv) the problem of bias discovery and quantification is open in terms of both methods and the range of biases that can be detected.
-  authors:   Simone Fabrizzi,  Roy, Vasileios Iosifidis Eirini Ntoutsi 
+  authors:   Simone Fabrizzi, Symeon Papadopoulos, Eirini Ntoutsi, Yannis Kompatsiaris 
   link:
     url: https://arxiv.org/abs/2107.07919
     display: Computer Vision and Image Understanding (CVIU) journal
