@@ -20,8 +20,8 @@ Since August 2022, Prof. Ntoutsi has joined the <a href="https://www.unibw.de/" 
     " target="_new">online fairness-aware machine learning</a>.</li>
  <li>PhD position on <a href="https://www.unibw.de/code/karriere/220805-prof-ntoutsi-stellenausschreibung_xai_en_final.pdf" target="_new">Explainable AI (XAI)</a>.</li>
  <li>PhD position on <a href="https://www.unibw.de/code/karriere/220805-prof-ntoutsi-stellenausschreibung_adaptivelearning_en_final.pdf" target="_new">adaptive learning</a>.</li>
-  <li>PhD position on generative AI (To be announced)</li>
-  <li>PhD position on shape error prediction under limited feedback (To be announced)</li>
+  <li>PostDoc/PhD position on generative AI (to be announced)</li>
+  <li>PhD position on shape error prediction under limited feedback (to be announced)</li>
 </ul>
 
 
