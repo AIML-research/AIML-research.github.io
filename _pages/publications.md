@@ -50,7 +50,6 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-#### Full list of publications
 #### 2022
 
 {% for publi in site.data.publist %}
