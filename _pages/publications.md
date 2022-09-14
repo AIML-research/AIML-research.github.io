@@ -9,9 +9,7 @@ permalink: /publications/
 
 ### Publications
 
-#### Group highlights
-
-(For a full list of publications see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=RdA9uxYAAAAJ))
+(See also [Google Scholar](https://scholar.google.com/citations?user=RdA9uxYAAAAJ))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
