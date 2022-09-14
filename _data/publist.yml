@@ -79,7 +79,7 @@
   link:
     url: https://arxiv.org/abs/2206.08403
     display: Proceedings of the "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases", 2022
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2022
   haslocal: 0
@@ -100,7 +100,7 @@
   link:
     url: https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1452
     display:  Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery, 2022
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2022
   haslocal: 1
@@ -143,7 +143,7 @@
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9564153
     display:  Proceedings of the 8th IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2021
-  highlight: 1
+  highlight: 0
   news2:
   year: 2021
   haslocal: 1
@@ -164,7 +164,7 @@
   link:
     url: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_184.pdf
     display:  Proceedings of The 14th International Conference on Educational Data Mining (EDM), 2021
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2021
   haslocal: 1
@@ -185,7 +185,7 @@
   link:
     url: https://link.springer.com/chapter/10.1007%2F978-3-030-86520-7_42
     display:  Proceedings of the "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD)", pp 682-698,2021
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2021
   haslocal: 1
@@ -270,7 +270,7 @@
   link:
     url: https://ieeexplore.ieee.org/document/9378101    
     display:  IEEE International Conference on Big Data (Big Data), 2020
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2020
   haslocal: 1
@@ -355,7 +355,7 @@
   link:
     url: https://doi.org/10.1002/widm.1356
     display:  WIREs Data Mining Knowl Discov.;10,e1356, 2020
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2020
   haslocal: 1
@@ -397,7 +397,7 @@
   link:
     url: https://doi.org/10.1145/3357384.3357974
     display:  The 28th ACM International Conference on Information and Knowledge Management (CIKM), 2019
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2019
   haslocal: 1
