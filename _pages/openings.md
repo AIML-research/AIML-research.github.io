@@ -55,8 +55,7 @@ If you want to join our group as a student assistant (HiWi) supporting us in var
 ### B.Sc./MSc. theses
 We offer bachelor and master theses in the areas of Artificial Intelligence and Machine learning.
 
-If you are interested in writing a thesis at our group, please contact Prof. Dr. Eirini Ntoutsi via email (eirini.ntoutsi@fu-berlin.de) with subject "Bachelor thesis" or "Master thesis" including a brief CV and transcripts of your records. We will then contact you with potential topics.
-
+If you are interested in writing a thesis at our group, please contact Prof. Dr. Eirini Ntoutsi via email (eirini.ntoutsi@unibw.de) with subject "Bachelor thesis" or "Master thesis" including a brief CV and transcripts of your records. We will then contact you with potential topics.
 
 
 
