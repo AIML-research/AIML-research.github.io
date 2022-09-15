@@ -204,8 +204,8 @@ permalink: /team/
 
 ### Master and Bachelor students
 
-- <b> Viktoria Andres </b>, BSc , <a href ="https://git.imp.fu-berlin.de/viktoa98/bachelor-thesis-about-counterfactuals-in-time-series-classification/-/tree/master"> "Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide" </a>, WiSe21/22 
-- <b> Florian Mies </b>, MSc, "Analysis of the Generative Replay Algorithm and Comparison with other Continual Learning Approaches on Newly Defined Non-stationary Data Stream Scenarios", SoSe22
+- <b> Viktoria Andres </b>, B.Sc., <a href =""> "Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide"</a>, <a href="https://git.imp.fu-berlin.de/viktoa98/bachelor-thesis-about-counterfactuals-in-time-series-classification/-/tree/master">[code]</a>, WiSe21/22. 
+- <b> Florian Mies </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/36131">"Analysis of the Generative Replay Algorithm and Comparison with other Continual Learning Approaches on Newly Defined Non-stationary Data Stream Scenarios"</a>, <a href="https://avalanche-api.continualai.org/en/v0.2.0/_modules/avalanche/training/plugins/generative_replay.html">[code]</a>, SoSe22.
 
 
 ### HiWi students
