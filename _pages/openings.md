@@ -49,7 +49,15 @@ Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi 
 
 
 ### Student assistant positions (HiWi)
+If you want to join our group as a student assistant (HiWi) supporting us in various research projects e.g., in the field of adaptive learning, responsible AI or generative AI, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject ``HiWi Application". 
 
-- If you want to join our group as a student assistant (HiWi) supporting us in various research projects e.g., in the field of adaptive learning, responsible AI or generative AI, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject ``HiWi Application". 
+
+### B.Sc./MSc. theses
+We offer bachelor and master theses in the areas of Artificial Intelligence and Machine learning.
+
+If you are interested in writing a thesis at our group, please contact Prof. Dr. Eirini Ntoutsi via email (eirini.ntoutsi@fu-berlin.de) with subject "Bachelor thesis" or "Master thesis" including a brief CV and transcripts of your records. We will then contact you with potential topics.
+
+
+
 
 
