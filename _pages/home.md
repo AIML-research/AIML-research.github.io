@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence and Machine Learning Group - Home"
+title: "Artificial Intelligence and Machine Learning - Home"
 layout: homelay
 excerpt: "AIML Group"
 sitemap: false
