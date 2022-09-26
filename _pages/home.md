@@ -47,7 +47,7 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
             </a>
         </div>
         
-        <div class="item active">
+        <div class="item">
             <a href="https://www.sfb1463.uni-hannover.de/" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LangeNachtKallikrates@FUB.July22.jpeg" alt="Long Night of the Sciences @ FUB, July 2022 - Presentation of Kallikrates, the AI architect for wind-turbines design" width="1253" height="533"/>
             </a>
