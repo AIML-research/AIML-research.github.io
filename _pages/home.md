@@ -17,11 +17,11 @@ The group is established in August 2022 and is part of the [Department of Comput
 Our aim is to design intelligent algorithms that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*. Ongoing directions include:
 - Continuous learning over non-stationary data and data streams, that is adapting machine learning models to changing environments.
 - Responsible AI, in particular fairness-aware machine learning and explainable AI.
-- Generative AI, that is using machines to generate new data and solutions.-->
+- Generative AI, that is using machines to generate new data and solutions.
 
 <p style="background-color:orange;padding:5px;border-radius: 10px;">
 From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" target="_new">Bundeswehr University Munich (UniBw-M)</a> as Full Professor in its Department of Computer Science and <a href="https://www.unibw.de/code" target="_new">Research Insitute CODE</a>, where she will establish a new research group for AI and ML. We have several oppenings on adaptive learning, responsible AI and generative AI. See details under vacancies.
-</p>
+</p>-->
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
