@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence and Machine Learning Group - Home"
 layout: homelay
-excerpt: "AIML Group at Freie Universität Berlin"
+excerpt: "AIML Group"
 sitemap: false
 permalink: /
 ---
