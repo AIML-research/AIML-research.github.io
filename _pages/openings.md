@@ -37,12 +37,12 @@ Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi 
 ## Current opennings incl. information on how to apply
 <ul>
   <li>PostDoc/PhD position on <a href="https://www.unibw.de/stellenausschreibungen/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/fi-code-wm-e13-fairness-aware.pdf
-    " target="_new">multi-fairness-aware machine learning</a>.</li>
+    " target="_new">multi-fairness-aware machine learning</a> related to EU project [MAMMoth](https://aiml-research.github.io/projects/mammoth/).</li>
   <li>PhD position on <a href="https://www.unibw.de/code/karriere/220805-prof-ntoutsi-stellenausschreibung_fairness_en_final.pdf
     " target="_new">online fairness-aware machine learning</a>.</li>
  <li>PhD position on <a href="https://www.unibw.de/code/karriere/220805-prof-ntoutsi-stellenausschreibung_xai_en_final.pdf" target="_new">Explainable AI (XAI)</a>.</li>
  <li>PhD position on <a href="https://www.unibw.de/code/karriere/220805-prof-ntoutsi-stellenausschreibung_adaptivelearning_en_final.pdf" target="_new">adaptive learning</a>.</li>
-  <li>PostDoc/PhD position on generative AI (to be announced)</li>
+  <li>PostDoc/PhD position on generative AI (to be announced)  related to EU project [STELAR](https://aiml-research.github.io/projects/stelar/)</li>
   <li>PhD position on shape error prediction under limited feedback (to be announced)</li>
 </ul>
 
