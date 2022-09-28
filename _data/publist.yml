@@ -8,6 +8,27 @@
 #  highlight: 1  or 0
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/),[SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered)
 
+- title: "Evaluation of group fairness measures in student performance prediction problems"
+  image: 
+  description:  We evaluate seven popular group fairness measures for student performance prediction problems. We conduct experiments using four traditional ML models and two fairness-aware ML methods on five educational datasets. Besides, we investigate the effect of varying grade thresholds on the accuracy and fairness of ML models. The preliminary results suggest that choosing the threshold is an important factor contributing to ensuring fairness in the output of the ML models.
+  authors:   Tai Le Quy, Thi Huyen Nguyen, Gunnar Friege, Eirini Ntoutsi
+  link:
+    url: https://arxiv.org/abs/2208.10625
+    display: SoGood 2022 – 7th Workshop on Data Science for Social Good@ECML/PKDD 2022
+  highlight: 0
+  news2:  
+  year:  2022
+  haslocal: 1
+  local: 22.SoGood.pdf
+  hascode: 1
+  code: https://github.com/tailequy/tailequy.github.io/tree/main/fairness-measures/code
+  hasposter: 0
+  poster:
+  hasppt: 1
+  ppt: https://github.com/tailequy/tailequy.github.io/blob/main/fairness-measures/slides/SoGood2022-presentation.pdf
+  hasvideo: 0
+  video: 
+  
 - title: "A survey on bias in visual datasets"
   image: 
   description:  Bias in CV is a hard problem. In this survey we focus on i) selection, 2)framing and 3)label bias and overview existing research for bias detection and mitigation. Main conclusions i) Most approaches reduce the problem to tabular data and do not necessarily capture the complexity of visual data. ii) There exist no bias free dataset but only attempts for bias-aware dataset collection w.r.t. specific protected attributes. iii) Those working with visual data should be aware of the biases in their data – we provide a checklist that might help to spot biases during the data collection process. iv) the problem of bias discovery and quantification is open in terms of both methods and the range of biases that can be detected.
@@ -18,7 +39,7 @@
   highlight: 0
   news2:  
   year:  2022
-  haslocal: 0
+  haslocal: 1
   local: 22.CVIU.pdf
   hascode: 0
   code: 
