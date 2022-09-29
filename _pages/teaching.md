@@ -33,8 +33,8 @@ Current and previous courses taught by Prof. Ntoutsi at FUB, LUH, LMU.
 - Data Mining Lab (SoSe16, WS2019/2020, SoSe2020).
 
 - Seminar: Topics in Data Mining (SoSe2016, SoSe2019).
-- Seminar: Advanced Topics in Data Mining, WiSe2016/17, WiSe2017/2018 (Topic: "Discrimination Discovery and Fairness-aware Data Mining").
-- Proseminar: SS2019 (Topic "Data Mining"), SoSe2018 (Topic "AI", with <a href ="https://www.l3s.de/user/niederee"> Claudia Niederee </a>).
+- Seminar: Advanced Topics in Data Mining, WiSe2016/17, WiSe2017/2018.
+- Proseminar: SS2019, SoSe2018 (with <a href ="https://www.l3s.de/user/niederee"> Claudia Niederee </a>).
 - Oberseminar: Data Mining (SoSe2019, WS2019/2020).
 
 #### <a href = "https://www.lmu.de/en/index.html"> <b>Ludwig Maximilians University Munich (LMU)</b> </a>, Germany
