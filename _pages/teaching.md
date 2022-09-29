@@ -6,6 +6,8 @@ sitemap: false
 permalink: /teaching/
 ---
 
+Current and previous courses taught by Prof. Ntoutsi at FUB, LUH, LMU.
+
 ### Teaching
 #### <a href ="https://www.fu-berlin.de/"> <b>Freie Universität Berlin (FUB)</b> </a>, Germany
 <b> Summer semester SoSe 2022 </b>
