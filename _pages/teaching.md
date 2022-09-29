@@ -27,42 +27,15 @@ Current and previous courses taught by Prof. Ntoutsi at FUB, LUH, LMU.
 - <a href = "https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/Forschungsseminar/index.html"> Research seminar: Artificial Intelligence and Machine Learning </a>, SoSe21.
 
 #### <a href ="https://www.uni-hannover.de/"> <b>Leibniz University Hannover (LUH)</b> </a>, Germany
-<b> Summer semester SoSe 2020 </b> 
-- Lecture: Artificial Intelligence I, SoSe2020.
-- Data Mining Lab, SoSe2020.
+- Lecture: Artificial Intelligence I (SoSe2017, SoSe2018, SoSe2020).
+- Lecture: Data Mining I (SoSe2016, SoSe2017, SoSe2018, SoSe2019).
+- Lecture: Data Mining II (WiSe2016/17, WiSe2017/2018, WS2019/2020).
+- Data Mining Lab (SoSe16, WS2019/2020, SoSe2020).
 
-<b> Winter semester WiSe 2019/2020 </b> 
-- Lecture: Data Mining II, WS2019/2020.
-- Oberseminar: Data Mining, WS2019/2020.
-- Data Mining Lab, WS2019/2020.
-
-<b> Summer semester SoSe 2019 </b> 
-- Lecture: Data Mining I, SoSe2019.
-- Seminar: Data Mining, SoSe2019.
-- Proseminar: Data Mining, SS2019.
-- Oberseminar: Data Mining, SoSe2019.
-
-<b> Summer semester SoSe 2018 </b> 
-- Lecture: Data Mining I, SoSe2018.
-- Lecture: Artificial Intelligence, SoSe2018.
-- ProSeminar in AI, SoSe2018 (with <a href ="https://www.l3s.de/user/niederee"> Claudia Niederee </a>).
-
-<b> Winter semester WiSe2017/2018 </b>
-- Lecture: Data Mining II, WiSe2017/2018.
-- Seminar: Advanced Topics in Data Mining, WiSe2017/2018 (Topic: Discrimination Discovery and Fairness-aware Data Mining).
-
-<b> Summer semester SoSe 2017 </b> 
-- Lecture: Data Mining I, SoSe2017.
-- Lecture: Artificial Intelligence, SoSe2017.
-
-<b> Winter semester WiSe 2016/2017 </b>
-- Lecture: Data Mining II, WiSe2016/17.
-- Seminar: Advanced Topics in Data Mining: Top 10 algorithms in Data Mining, WiSe2016/17.
-
-<b> Summer semester SoSe 2016 </b> 
-- Lecture: Data Mining I, SoSe2016.
-- Seminar: Topics in Data Mining, SoSe2016.
-- Data Mining Lab, SoSe2016.
+- Seminar: Topics in Data Mining (SoSe2016, SoSe2019).
+- Seminar: Advanced Topics in Data Mining, WiSe2016/17, WiSe2017/2018 (Topic: "Discrimination Discovery and Fairness-aware Data Mining").
+- Proseminar: SS2019 (Topic "Data Mining"), SoSe2018 (Topic "AI", with <a href ="https://www.l3s.de/user/niederee"> Claudia Niederee </a>).
+- Oberseminar: Data Mining (SoSe2019, WS2019/2020).
 
 #### <a href = "https://www.lmu.de/en/index.html"> <b>Ludwig Maximilians University Munich (LMU)</b> </a>, Germany
 - Lecture: Knowledge Discovery in Databases I (KDD I), SoSe2012.
