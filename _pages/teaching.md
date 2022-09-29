@@ -6,10 +6,10 @@ sitemap: false
 permalink: /teaching/
 ---
 
-Current and previous courses taught by Prof. Ntoutsi at FUB, LUH, LMU.
+Current and previous courses at FUB, LUH, LMU.
 
 ### Teaching
-#### <a href ="https://www.fu-berlin.de/"> <b>Freie Universität Berlin (FUB)</b> </a>, Germany
+#### At the <a href ="https://www.fu-berlin.de/"> <b>Freie Universität Berlin (FUB)</b> </a>, Germany
 <b> Summer semester SoSe 2022 </b>
 - <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS22/Kuenstliche-Intelligenz/index.html" target="new">Lecture: Artificial Intelligence</a>, SoSe22.
 - <a href ="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS22/Selected-topics-on-AI-and-ML/index.html"> Seminar: Selected topics on AI/ML</a>, SoSe22.
@@ -26,7 +26,7 @@ Current and previous courses taught by Prof. Ntoutsi at FUB, LUH, LMU.
 - <a href ="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/Data-Science/index.html"> Seminar lecture: Data Science in the Life Sciences (Seminar) </a>, SoSe21.
 - <a href = "https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS21/Forschungsseminar/index.html"> Research seminar: Artificial Intelligence and Machine Learning </a>, SoSe21.
 
-#### <a href ="https://www.uni-hannover.de/"> <b>Leibniz University Hannover (LUH)</b> </a>, Germany
+#### At the <a href ="https://www.uni-hannover.de/"> <b>Leibniz University Hannover (LUH)</b> </a>, Germany
 - Lecture: Artificial Intelligence I (SoSe2017, SoSe2018, SoSe2020).
 - Lecture: Data Mining I (SoSe2016, SoSe2017, SoSe2018, SoSe2019).
 - Lecture: Data Mining II (WiSe2016/17, WiSe2017/2018, WS2019/2020).
@@ -37,7 +37,7 @@ Current and previous courses taught by Prof. Ntoutsi at FUB, LUH, LMU.
 - Proseminar on AI/ML/DM topics: SS2019, SoSe2018 (with <a href ="https://www.l3s.de/user/niederee"> Claudia Niederee </a>).
 - Oberseminar: Data Mining (SoSe2019, WS2019/2020).
 
-#### <a href = "https://www.lmu.de/en/index.html"> <b>Ludwig Maximilians University Munich (LMU)</b> </a>, Germany
+#### At the <a href = "https://www.lmu.de/en/index.html"> <b>Ludwig Maximilians University Munich (LMU)</b> </a>, Germany
 - Lecture: Knowledge Discovery in Databases I (KDD I), SoSe2012.
 - Lecture: Knowledge Discovery in Databases II (KDD II), WiSe2015/2016.
 - Seminar: Mining Volatile Data, WiSe2012/2013. 
