@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Artificial Intelligence (AIML) group, headed by Prof. Dr. Eirini Ntoutsi, focuses on developing intelligent algorithms that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*. Ongoing directions include:
+The Artificial Intelligence (AIML) group, lead by Prof. Dr. Eirini Ntoutsi, focuses on developing intelligent algorithms that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*. Ongoing directions include:
 - Continuous learning over non-stationary data and data streams, that is adapting machine learning models to changing environments.
 - Responsible AI, in particular fairness-aware machine learning and explainable AI.
 - Generative AI, that is using machines to generate new data and solutions.
