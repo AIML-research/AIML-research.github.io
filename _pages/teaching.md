@@ -69,7 +69,7 @@ Current and previous courses taught by Prof. Ntoutsi at FUB, LUH, LMU.
 - Lecture: <a href = "https://www2.dbs.ifi.lmu.de/cms/Knowledge_Discovery_in_Databases_I_(KDD_I)_12.html">Knowledge Discovery in Databases I (KDD I) </a>, SoSe2012.
 - Lecture: <a href ="https://www2.dbs.ifi.lmu.de/cms/Knowledge_Discovery_in_Databases_II_(KDD_II)_WS1516.html">Knowledge Discovery in Databases II (KDD II) </a>, WiSe2015/2016.
 - Seminar: Mining Volatile Data, WiSe2012/2013. 
-
+<!--
 #### <a href = "https://www.unipi.gr/unipi/en/"> <b>University of Piraeus</b> </a>, Greece, Department of Informatics
 - Data Warehousing and Data Mining, 2002-2003 || 2004-2005 || 2005-2006.
 - Data Mining (post graduate), 2004-2005 || 2005-2006.
@@ -77,3 +77,4 @@ Current and previous courses taught by Prof. Ntoutsi at FUB, LUH, LMU.
 - Data Structures, 2003-2004.
 - Database II, 2002-2003 || 2003-2004.
 - Database I, 2002-2003.
+-->
