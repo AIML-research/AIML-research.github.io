@@ -41,7 +41,8 @@ Current and previous courses taught by Prof. Ntoutsi at FUB, LUH, LMU.
 - Lecture: Knowledge Discovery in Databases I (KDD I), SoSe2012.
 - Lecture: Knowledge Discovery in Databases II (KDD II), WiSe2015/2016.
 - Seminar: Mining Volatile Data, WiSe2012/2013. 
-<!--
+
+<!---
 #### <a href = "https://www.unipi.gr/unipi/en/"> <b>University of Piraeus</b> </a>, Greece, Department of Informatics
 - Data Warehousing and Data Mining, 2002-2003 || 2004-2005 || 2005-2006.
 - Data Mining (post graduate), 2004-2005 || 2005-2006.
