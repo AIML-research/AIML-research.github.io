@@ -102,8 +102,8 @@
   highlight: 0
   news2: 
   year: 2022
-  haslocal: 0
-  local: 
+  haslocal: 1
+  local: 22.KAIS.pdf
   hascode: 1
   code: https://iosifidisvasileios.github.io/AdaFair/
   hasposter: 0
@@ -124,10 +124,10 @@
   highlight: 0
   news2: 
   year: 2022
-  haslocal: 0
-  local: 
-  hascode: 0
-  code: 
+  haslocal: 1
+  local: 22.ECMLPKDD.pdf
+  hascode: 1
+  code: https://github.com/arjunroyihrpa/L2TFMT
   hasposter: 0
   poster:
   hasppt: 0
