@@ -12,7 +12,7 @@ permalink: /projects/bias/
 <tbody>
 <tr>
 <td style="width: 50%; text-align: left;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bias.jpg" alt="" width="150" /></td>
-<td style="width: 50%; text-align: right;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt=""/></td>
+<td style="width: 50%; text-align: right;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "250"/></td>
 </tr>
 </tbody>
 </table>
@@ -30,21 +30,21 @@ permalink: /projects/bias/
 <tr style="height: 19px;">
 <td style="width: 50%; height: 19px;">
 <p><a href="https://www.philos.uni-hannover.de/de/">Institute of Philosophy</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Philosophy.png" alt="" /></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Philosophy.png" alt="" width = "200" /></p>
 </td>
 <td style="width: 50%; height: 19px;">
 <p><a href="https://www.iri.uni-hannover.de/de/">Institute for Legal Informatics (IRI)</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-iri.png" alt="" /></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-iri.png" alt=""  width = "200"/></p>
 </td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 50%; height: 18px;">
 <p><a href="https://www.l3s.de">L3S Research Center</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-l3s.png" alt="" /></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-l3s.png" alt="" width = "200" /></p>
 </td>
 <td style="width: 50%; height: 18px;">
 <p><a href="https://www.tnt.uni-hannover.de">Institute for Information Processing (TNT)</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tnt.png" alt="" /></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tnt.png" alt="" width = "200" /></p>
 </td>
 </tr>
 </tbody>
