@@ -81,4 +81,4 @@ Our research focuses on the following points:
 -	Arjun Roy presented our paper “Multi-fairness under class-imbalance” at the Discovery Science conference on 11th Oct, 2022 in Montpellier, France (<a href = "https://youtu.be/FwMnrKzRbBE">YouTube Link</a>).
 - Arjun Roy presented our paper “Learning to Teach Fairness-Aware Deep Multi-Task Learning” at the ECMLPKDD 22 on 22nd Sept, 2022 in Grenoble, France (<a href ="https://youtu.be/v-xHHLAPUQg">YouTube Link</a>).
 
-<b><i>For further information please visit the <a href ="https://www.bias-project.org/">BIAS website<a> </b></i>
+<b><i>For further information please visit the <a href ="https://www.bias-project.org/">BIAS website</a> </b></i>
