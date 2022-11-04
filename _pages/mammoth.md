@@ -16,19 +16,19 @@ permalink: /projects/mammoth/
 - <b>Homepage: </b> MAMMOth
 
 #### 2. Involved partners
-1. Centre for Research and Technology (CERTH), Greece
-2. Universität der Bundeswehr München (UniBw), Germany
-3. Complexity Science Hub Vienna (CSH), Austria
-4. Alma Mater Studiorum - Universita Di Bologna UNIBO, Italy
-5. Rijksuniversiteit Groningen (RUG), Netherlands
-6. EXUS Software EXUS, Greece
-7. Trilateral Research Limited Ireland (TRI-IE), Ireland
-8. Trilateral Research Ltd UK (affiliated) (TRI-UK), UK
-9. ARIADNEXT (AXT), France
-10. CSI Centre for Social Innovation Ltd (CSI), Cyprus
-11. Associacio Forum Dona Activa 2010 (DAF), Spain
-12. VSI Diversity Development Group (DDG), Lithuania
-13. IASIS NGO (IASIS), Greece
+- Centre for Research and Technology (CERTH), Greece
+- Universität der Bundeswehr München (UniBw), Germany
+- Complexity Science Hub Vienna (CSH), Austria
+- Alma Mater Studiorum - Universita Di Bologna UNIBO, Italy
+- Rijksuniversiteit Groningen (RUG), Netherlands
+- EXUS Software EXUS, Greece
+- Trilateral Research Limited Ireland (TRI-IE), Ireland
+- Trilateral Research Ltd UK (affiliated) (TRI-UK), UK
+- ARIADNEXT (AXT), France
+- CSI Centre for Social Innovation Ltd (CSI), Cyprus
+- Associacio Forum Dona Activa 2010 (DAF), Spain
+- VSI Diversity Development Group (DDG), Lithuania
+- IASIS NGO (IASIS), Greece
 
 #### 3. Team
 - Prof. Dr. Eirini Ntoutsi
