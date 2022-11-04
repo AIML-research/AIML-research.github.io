@@ -30,40 +30,32 @@ permalink: /projects/bias/
 <tr style="height: 19px;">
 <td style="width: 50%; height: 19px;">
 <p><a href="https://www.philos.uni-hannover.de/de/">Institute of Philosophy</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Philosophy.png" alt="" width = "200" /></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Philosophy.png" alt="" height = "100" /></p>
 </td>
 <td style="width: 50%; height: 19px;">
 <p><a href="https://www.iri.uni-hannover.de/de/">Institute for Legal Informatics (IRI)</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-iri.png" alt=""  width = "200"/></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-iri.png" alt=""  height = "100"/></p>
 </td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 50%; height: 18px;">
 <p><a href="https://www.l3s.de">L3S Research Center</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-l3s.png" alt="" width = "200" /></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-l3s.png" alt="" height = "100" /></p>
 </td>
 <td style="width: 50%; height: 18px;">
 <p><a href="https://www.tnt.uni-hannover.de">Institute for Information Processing (TNT)</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tnt.png" alt="" width = "200" /></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tnt.png" alt="" height = "100" /></p>
 </td>
 </tr>
 </tbody>
 </table>
 
-#### Challenges & Highlights
-AI techniques based on big data and algorithmic processing are increasingly used to guide decisions in important societal spheres, including hiring decisions, university admissions, loan granting, and crime prediction. However, there are strong evidence that algorithms may sometimes amplify rather than eliminate existing bias and discrimination, and thereby have negative effects on social cohesion and on democratic institutions. Scholarly reflection of these issues has begun but is still in its early stages, and we still lack a comprehensive understanding of how pertinent concepts of bias or discrimination should be interpreted in the context of AI and which technical options to combat bias and discrimination are both realistically possible and normatively justified. The research group “BIAS” examines these issues in an integrated, interdisciplinary project bringing together experts from philosophy, law, and computer science. Our shared research question is: <i>“How can standards of unbiased attitudes and non-discriminatory practices be met in big data analysis and algorithm-based decision-making?”</i>
+#### 3. Project overview
+ABIAS is an interfaculty research initiative composed of experts from philosophy, law, and computer science, bringing together epistemological and ethical, legal and technical perspectives.
+Our shared research question is: How can we ensure that big data analysis and algorithm-based decision-making are unbiased and nondiscriminatory? To this end, we provide philosophical analyses of relevant concepts and principles, investigate their utilisation in pertinent legal frameworks, and develop technical solutions such as debiasing strategies and discrimination detection procedures.
 
-The goal of our group is to develop concrete technical (algorithmic and statistical) solutions (debiasing strategies, discrimination detection procedures etc.).
-In particular, we investigate two directions: multi-fairness-aware learning and fairness-aware multi-task learning.<br>
 
-<i>Multi-fairness-aware learning</i>:<br>
-Traditional fairness-aware machine learning mainly focuses on single protected attributes. In reality, though, bias cannot be always attributed to a single attribute, rather multiple protected attributes (referred to as multi-fairness hereafter) can be the root causes of discrimination. This hardens the existing question further as often protected attributes showcase adversarial properties, and tuning for one attribute may intensify discrimination for the other. 
-
-<i>Fairness-aware multi-task learning</i>:<br>
-Multi-Task Learning (MTL) aims to leverage useful information contained in multiple tasks to help improve the generalization performance over all tasks. 
-Despite the popularity and many applications of MTL, the fairness implications of MTL have only recently come into focus as traditional fairness-aware learning mainly focuses on single task learning (STL). The goal is to develop methods that are able to solve multiple learning tasks simultaneously by considering not only the predictive performance but also the fairness performance on the individual tasks.
-
-#### Related publications
+#### 5. Publications
 - Le Quy, T., Roy, A., Iosifidis, V., Zhang, W., & Ntoutsi, E. (2022). A survey on datasetsfor fairness-aware machine learning.Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,e1452.<a href = "https://doi.org/10.1002/widm.1452">https://doi.org/10.1002/widm.1452 </a>
 - Le Quy, T., Roy, A., Friege, G., & Ntoutsi, E. (2021). <a href ="https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_184.pdf">Fair-capacitated clustering. </a> In Proceedings of The 14th International Conference on Educational Data Mining (EDM21) (pp. 407-414).
 - Cai, Y., Zimek, A., & Ntoutsi, E. (2021, October). <a href = "https://doi.org/10.1109/DSAA53316.2021.9564153"> XPROAX-Local explanations for text classification with progressive neighborhood approximation. </a> In 2021 IEEE 8th International Conference on Data Science and Advanced Analytics (DSAA) (pp. 1-10). IEEE.
