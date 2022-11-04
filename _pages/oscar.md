@@ -13,11 +13,13 @@ permalink: /projects/oscar/
 </figure>
 </div>
 
-- <b>Funding: </b> German Research Foundation (Deutsche Forschungsgemeinschaft - DFG)
-- <b>Project duration: </b> 2017 - 2019
-- <b>Homepage: </b> 
+#### 1. Project details
+- <b>Project full name: </b> Opinion Stream Classification with Ensembles and Active leaRners
+- <b>Project acronym:</b> OSCAR
+- <b>Funding period:</b> 2017 - 2019
+- <b>Funding body: </b> German Research Foundation (Deutsche Forschungsgemeinschaft - DFG)
 
-#### Team
+#### 2. Team
 <b> Leibniz University Hannover & L3S Research Center </b>
 
 - Prof. Dr. Eirini Ntoutsi
@@ -30,17 +32,18 @@ permalink: /projects/oscar/
 - Prof. Dr. Myra Spiliopoulou
 - M.Sc. Vishnu Unnikrishnan
 
-#### Motivation
+#### 3. Project overview
+##### Motivation
 “What other people think” has always been an important piece of information for our decision-making process. But the Internet and the Web allow us now to find answers to this question beyond the circle of our personal acquaintances. Traditional sentiment mining techniques focus on static data. However, as opinions accumulate from the social streams, changes might occur like changes in the general sentiment towards a subject or towards specific facets of this subject, as well as changes in the words used to express sentiment. Subjects also change over time. In OSCAR, we develop opinion stream mining methods that deal with change and adapt the learned models continuously.
 
-#### Challenges & Highlights
+##### Challenges & Highlights
 The first part of OSCAR is on leveraging stream mining methods to deal with vocabulary/ feature changes. A change in the feature space means that the model built upon the old words must be updated. We will accumulate information on the usage and sentiment of each word to highlight the long-term interplay between word polarity and document polarity. Second, we will work on reducing the need for labeled documents. To this end we will develop active learning methods that learn and adapt polarity models on an evolving feature space. Third, we will work on dealing with different types of change simultaneously. To this purpose, we will use ensembles. We will dedicate some ensemble members to the identification of topic trends, others to changes in the vocabulary and others to temporal changes, including periodical ones.
 
-#### Potential applications & future issues
+##### Potential applications & future issues
 The output of OSCAR will be a complete framework, encompassing active ensemble learning methods that deal with different forms of change and learn with limited expert involvement. Such a framework can be used in other stream classification tasks, beyond sentiment analysis.
 
 
-#### Related publications
+#### 4. Publications
 - Iosifidis, V., & Ntoutsi, E. (2019, November). <a href = "https://dl.acm.org/doi/abs/10.1145/3357384.3357974"> Adafair: Cumulative fairness adaptive boosting. </a> In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (pp. 781-790).
 - Iosifidis, V., & Ntoutsi, E. (2020).<a href = "https://link.springer.com/article/10.1007/s10115-019-01392-9"> Sentiment analysis on big sparse data streams with limited labels. </a> Knowledge and Information Systems, 62(4), 1393-1432.
 - Le Quy, T., Nejdl, W., Spiliopoulou, M., & Ntoutsi, E. (2019, September). <a href = "https://link.springer.com/chapter/10.1007/978-3-030-38081-6_8"> A neighborhood-augmented LSTM model for taxi-passenger demand prediction. </a> In International Workshop on Multiple-Aspect Analysis of Semantic Trajectories (pp. 100-116). Springer, Cham.
