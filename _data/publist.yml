@@ -1,4 +1,4 @@
-- title: "Power of Exaplanations - Towards automatic debiasing in hate speech detection"
+- title: "Power of Explanations - Towards automatic debiasing in hate speech detection"
   image: 
   description:  We evaluate seven popular group fairness measures for student performance prediction problems. We conduct experiments using four traditional ML models and two fairness-aware ML methods on five educational datasets. Besides, we investigate the effect of varying grade thresholds on the accuracy and fairness of ML models. The preliminary results suggest that choosing the threshold is an important factor contributing to ensuring fairness in the output of the ML models.
   authors:   Yi Cai, Arthur Zimek, Gerhard Wunder, Eirini Ntoutsi
@@ -37,15 +37,15 @@
   poster:
   hasppt: 1
   ppt: https://github.com/tailequy/tailequy.github.io/blob/main/fairness-measures/slides/SoGood2022-presentation.pdf
-  hasvideo: 0
-  video: 
+  hasvideo: 1
+  video: https://www.youtube.com/watch?v=J_jiPEV6WGc
   
 - title: "A survey on bias in visual datasets"
   image: 
   description:  Bias in CV is a hard problem. In this survey we focus on i) selection, 2)framing and 3)label bias and overview existing research for bias detection and mitigation. Main conclusions i) Most approaches reduce the problem to tabular data and do not necessarily capture the complexity of visual data. ii) There exist no bias free dataset but only attempts for bias-aware dataset collection w.r.t. specific protected attributes. iii) Those working with visual data should be aware of the biases in their data – we provide a checklist that might help to spot biases during the data collection process. iv) the problem of bias discovery and quantification is open in terms of both methods and the range of biases that can be detected.
   authors:   Simone Fabrizzi, Symeon Papadopoulos, Eirini Ntoutsi, Yannis Kompatsiaris 
   link:
-    url: https://arxiv.org/abs/2107.07919
+    url: https://doi.org/10.1016/j.cviu.2022.103552
     display: Computer Vision and Image Understanding (CVIU) journal
   highlight: 0
   news2:  
@@ -79,15 +79,15 @@
   poster:
   hasppt: 0
   ppt: 
-  hasvideo: 0
-  video: 
+  hasvideo: 1
+  video: https://www.youtube.com/watch?v=FwMnrKzRbBE
   
 - title: "Parity-based Cumulative Fairness-aware Boosting"
   image: Vasilis-KAIS-2022.png
   description: This is an extension of our <a href = "https://aiml-research.github.io/files/19.CIKM.pdf"> AdaFair </a> algorithm (CIKM 2019) to other parity-based fairness notions (<a href = "https://arxiv.org/pdf/2201.01148v1.pdf">arXiv version</a>). We propose an ensemble approach to fairness that alters the data distribution over the boosting rounds "forcing" the model to pay more attention to misclassified instances of the minority. This is done using the so-called fairness cost which assesses performance differences between the protected and non-protected groups. It is evaluated based on the partial ensemble rather than on the weak model of each boosting round. 
   authors: Vasileios Iosifidis, Arjun Roy, Eirini Ntoutsi
   link:
-    url: https://arxiv.org/pdf/2201.01148v1.pdf
+    url: https://doi.org/10.1007/s10115-022-01723-3
     display: Knowledge and Information Systems (KAIS)
   highlight: 0
   news2: 
@@ -109,7 +109,7 @@
   description: We introduce the L2T-FMT algorithm that is a teacher-student network trained collaboratively; the student learns to solve the fair MTL problem while the teacher instructs the student to learn from either accuracy or fairness, depending on what is harder to learn for each task. Moreover, this dynamic selection of which objective to use at each step for each task reduces the number of trade-off weights from 2T to T, where T is the number of tasks.
   authors: Arjun Roy, Eirini Ntoutsi
   link:
-    url: https://arxiv.org/abs/2206.08403
+    url: https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1255.pdf
     display: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD), 2022
   highlight: 0
   news2: 
