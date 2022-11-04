@@ -11,8 +11,8 @@ permalink: /projects/offshore/
 <table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
 <tr>
-<td style="width: 40%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SFB1463_Logo.jpg" alt="" width="200" /></td>
-<td style="width: 40%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-dfg" alt="" width = "200"/></td>
+<td style="width: 40%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SFB1463_Logo.png" alt="" width="200" /></td>
+<td style="width: 40%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-dfg.jpg" alt="" width = "200"/></td>
 </tr>
 </tbody>
 </table>
