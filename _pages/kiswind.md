@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/kiswind/
 ---
 
-### KISWIND
+### KISWind
 <!--
 <div>
 <figure class="fourth">
@@ -16,7 +16,7 @@ permalink: /projects/kiswind/
 -->
 
 #### 1. Project details
-- <b>Project full name: </b> AI-supported acoustic emission monitoring for automatic damage detection in supporting structures of wind turbines
+- <b>Project full name: </b> KI-unterstütztes Schallemissionsmonitoring zur automatischen Schadenserkennung in Tragstrukturen von Windenergieanlagen (AI-supported acoustic emission monitoring for automatic damage detection in supporting structures of wind turbines)
 - <b>Project acronym: </b> KISWind 
 - <b>Funding period: </b> 01.01.2022 — 31.12.2024
 - <b>Funding body: </b>
