@@ -19,7 +19,7 @@ permalink: /projects/kiswind/
 - <b>Project full name: </b> KI-unterstütztes Schallemissionsmonitoring zur automatischen Schadenserkennung in Tragstrukturen von Windenergieanlagen (AI-supported acoustic emission monitoring for automatic damage detection in supporting structures of wind turbines)
 - <b>Project acronym: </b> KISWind 
 - <b>Funding period: </b> 01.01.2022 — 31.12.2024
-- <b>Funding body: </b>
+- <b>Funding body: </b> Bundesministerium für Wirtschaft und Energie (BMWi)
 - <b>Homepage: </b> <a href="https://www.mi.fu-berlin.de/inf/groups/ag-KIML/Projects/KISWIND/index.html">KISWind </a>
 
 #### 2. Team
