@@ -44,7 +44,7 @@ permalink: /projects/bias/
 </td>
 <td style="width: 50%; height: 18px;">
 <p><a href="https://www.tnt.uni-hannover.de">Institute for Information Processing (TNT)</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tnt.png" alt="" height = "100" /></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tnt.png" alt="" height = "70" /></p>
 </td>
 </tr>
 </tbody>
