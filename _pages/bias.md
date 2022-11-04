@@ -25,26 +25,26 @@ permalink: /projects/bias/
 - <b>Homepage: </b> <a href="https://www.bias-project.org/">BIAS </a>
 
 #### 2. Involved partners
-<table style="border-collapse: collapse; width: 100%; " border="0">
+<table style="border-collapse: collapse; width: 80%; " border="0">
 <tbody>
 <tr style="height: 19px;">
-<td style="width: 50%; height: 19px;">
+<td style="width: 35%; height: 19px;">
 <p><a href="https://www.philos.uni-hannover.de/de/">Institute of Philosophy</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Philosophy.png" alt="" height = "70" /></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Philosophy.png" alt="" height = "90" /></p>
 </td>
-<td style="width: 50%; height: 19px;">
+<td style="width: 35%; height: 19px;">
 <p><a href="https://www.iri.uni-hannover.de/de/">Institute for Legal Informatics (IRI)</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-iri.png" alt=""  height = "70"/></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-iri.png" alt=""  height = "90"/></p>
 </td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 50%; height: 18px;">
+<td style="width: 45%; height: 18px;">
 <p><a href="https://www.l3s.de">L3S Research Center</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-l3s.png" alt="" height = "70" /></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-l3s.png" alt="" height = "90" /></p>
 </td>
-<td style="width: 50%; height: 18px;">
+<td style="width: 45%; height: 18px;">
 <p><a href="https://www.tnt.uni-hannover.de">Institute for Information Processing (TNT)</a></p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tnt.png" alt="" height = "50" /></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tnt.png" alt="" height = "70" /></p>
 </td>
 </tr>
 </tbody>
