@@ -7,19 +7,48 @@ permalink: /projects/bias/
 ---
 
 ### BIAS: Bias and Discrimination in Big Data and Algorithmic Processing. Philosophical Assessments, Legal Dimensions, and Technical Solutions
-<div>
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bias.jpg" style="width: 250px">  
-</figure>
-</div>
 
-- <b>Funding: </b> <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=95037" target="_new">Volkswagen foundation</a> under the call "Artificial Intelligence and the society of the future".
-- <b>Project duration: </b> 01.12.2018 — 30.11.2022
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: left;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bias.jpg" alt="" width="150" /></td>
+<td style="width: 50%; text-align: right;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt=""/></td>
+</tr>
+</tbody>
+</table>
+
+#### 1. Project details
+- <b>Project full name: </b> Bias and Discrimination in Big Data and Algorithmic Processing. Philosophical Assessments, Legal Dimensions, and Technical Solutions
+- <b>Project acronym: </b> BIAS 
+- <b>Funding period: </b> 19.12.2018 — 18.12.2022
+- <b>Funding body: </b> <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=95037" target="_new">Volkswagen foundation</a>
 - <b>Homepage: </b> <a href="https://www.bias-project.org/">BIAS </a>
 
-#### Team
-- Prof. Dr. Eirini Ntoutsi
-- MSc. Arjun Roy
+#### 2. Involved partners
+<table style="border-collapse: collapse; width: 100%; height: 37px;" border="1">
+<tbody>
+<tr style="height: 19px;">
+<td style="width: 50%; height: 19px;">
+<p><a href="https://www.philos.uni-hannover.de/de/">Institute of Philosophy</a></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Philosophy.png" alt="" /></p>
+</td>
+<td style="width: 50%; height: 19px;">
+<p><a href="https://www.iri.uni-hannover.de/de/">Institute for Legal Informatics (IRI)</a></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-iri.png" alt="" /></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; height: 18px;">
+<p><a href="https://www.l3s.de">L3S Research Center</a></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-l3s.png" alt="" /></p>
+</td>
+<td style="width: 50%; height: 18px;">
+<p><a href="https://www.tnt.uni-hannover.de">Institute for Information Processing (TNT)</a></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tnt.png" alt="" /></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 #### Challenges & Highlights
 AI techniques based on big data and algorithmic processing are increasingly used to guide decisions in important societal spheres, including hiring decisions, university admissions, loan granting, and crime prediction. However, there are strong evidence that algorithms may sometimes amplify rather than eliminate existing bias and discrimination, and thereby have negative effects on social cohesion and on democratic institutions. Scholarly reflection of these issues has begun but is still in its early stages, and we still lack a comprehensive understanding of how pertinent concepts of bias or discrimination should be interpreted in the context of AI and which technical options to combat bias and discrimination are both realistically possible and normatively justified. The research group “BIAS” examines these issues in an integrated, interdisciplinary project bringing together experts from philosophy, law, and computer science. Our shared research question is: <i>“How can standards of unbiased attitudes and non-discriminatory practices be met in big data analysis and algorithm-based decision-making?”</i>
