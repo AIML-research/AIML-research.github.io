@@ -50,17 +50,21 @@ permalink: /projects/bias/
 </tbody>
 </table>
 
-#### 3. Project overview
+#### 3. Team
+- Prof. Dr. Eirini Ntoutsi
+- MSc. Arjun Roy
+
+#### 4. Project overview
 ABIAS is an interfaculty research initiative composed of experts from philosophy, law, and computer science, bringing together epistemological and ethical, legal and technical perspectives.
 Our shared research question is: How can we ensure that big data analysis and algorithm-based decision-making are unbiased and nondiscriminatory? To this end, we provide philosophical analyses of relevant concepts and principles, investigate their utilisation in pertinent legal frameworks, and develop technical solutions such as debiasing strategies and discrimination detection procedures.
 
-#### 4. Overview of our contributions
+#### 5. Overview of our contributions
 Our research focuses on the following points:
 - Computer bias, esp. caused by imbalanced data or rare classes
 - Statistical fairness, esp. for non-stationary data
 -	Debiasing strategies, esp. focusing on explainability
 
-#### 5. Publications
+#### 6. Publications
 - Roy, A., & Ntoutsi, E. (2022). <a href ="https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1255.pdf">Learning to Teach Fairness-aware Deep Multi-task Learning </a>. Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD).
 - Roy, A., Iosifidis, V., & Ntoutsi, E. (2022). <a href = "https://arxiv.org/abs/2104.13312">Multi-fairness under class-imbalance </a>. Proceedings of the 25th International Conference on Discovery Science (DS 2022).
 - Le Quy, T., Roy, A., Iosifidis, V., Zhang, W., & Ntoutsi, E. (2022). A survey on datasetsfor fairness-aware machine learning.Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,e1452.<a href = "https://doi.org/10.1002/widm.1452">https://doi.org/10.1002/widm.1452 </a>
@@ -76,7 +80,7 @@ Our research focuses on the following points:
 - Iosifidis, V., Tran, T. N. H., & Ntoutsi, E. (2019, August). <a href ="https://link.springer.com/chapter/10.1007/978-3-030-27615-7_20"> Fairness-enhancing interventions in stream classification.</a> In International Conference on Database and Expert Systems Applications (pp. 261-276). Springer, Cham.
 - Iosifidis, V., & Ntoutsi, E. (2018). <a href ="http://l3s.de/~iosifidis/Publications/bias_augmentation.pdf">Dealing with bias via data augmentation in supervised learning scenarios. </a> BIAS workshop in conjunction with iConference.
 
-#### 6. Highlights
+#### 7. Highlights
 - Arjun Roy gave a talk on the topic “Multi-dimensional Discrimination: An essential but overlooked Legal and Algorithmic Challenge” at the Herrenhausen Conference - AI and the future of societies organised by Volkswagen foundation on 12th Oct, 2022 in Hannover, Germany (YouTube video to be uploaded soon).
 -	Arjun Roy presented our paper “Multi-fairness under class-imbalance” at the Discovery Science conference on 11th Oct, 2022 in Montpellier, France (<a href = "https://youtu.be/FwMnrKzRbBE">YouTube Link</a>).
 - Arjun Roy presented our paper “Learning to Teach Fairness-Aware Deep Multi-Task Learning” at the ECMLPKDD 22 on 22nd Sept, 2022 in Grenoble, France (<a href ="https://youtu.be/v-xHHLAPUQg">YouTube Link</a>).
