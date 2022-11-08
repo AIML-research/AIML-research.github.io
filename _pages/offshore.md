@@ -62,8 +62,6 @@ permalink: /projects/offshore/
 #### 3. Team
 - Prof. Dr. Eirini Ntoutsi
 - MSc.Emmanouil Panagiotou
-- MSc. Philip Naumann
-- Anton Kriese
 
 #### 4. Project overview
 
