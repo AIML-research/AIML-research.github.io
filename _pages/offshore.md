@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/offshore/
 ---
 
-### Collaborative Research Centre 1463. Design and operate future offshore wind turbines using digital twins"
+### Collaborative Research Centre 1463. Design and operate future offshore wind turbines using digital twins
 
 <table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
