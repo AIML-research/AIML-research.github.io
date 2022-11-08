@@ -31,7 +31,7 @@ permalink: /projects/offshore/
 <tr style="height: 19px;">
 <td style="width: 35%; height: 19px;">
 <p style="text-align: center;"><a href="https://uol.de/">Carl von Ossietzky Universität Oldenburg</a></p>
-<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-oldenburg.png" alt="" width="200" /></p>
+<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-oldenburg.png" alt="" height="80" /></p>
 </td>
 <td style="width: 35%; height: 19px;">
 <p style="text-align: center;"><a href="https://www.dlr.de/DE/Home/home_node.html">Deutsches Zentrum für Luft- und Raumfahrt</a></p>
@@ -51,7 +51,7 @@ permalink: /projects/offshore/
 <tr style="height: 18px;">
 <td style="width: 45%; height: 18px;">
 <p style="text-align: center;"><a href="https://tu-dresden.de/">Technische Universität Dresden</a></p>
-<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-TUD.jpg" alt="" width="200" /></p>
+<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-TUD.jpg" alt="" height="80" /></p>
 </td>
 <td style="width: 45%; height: 18px;">
 </td>
