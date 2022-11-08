@@ -31,27 +31,27 @@ permalink: /projects/offshore/
 <tr style="height: 19px;">
 <td style="width: 35%; height: 19px;">
 <p style="text-align: center;"><a href="https://uol.de/">Carl von Ossietzky Universität Oldenburg</a></p>
-<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-oldenburg.png" alt="" height = "90" /></p>
+<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-oldenburg.png" alt="" width="200" /></p>
 </td>
 <td style="width: 35%; height: 19px;">
 <p style="text-align: center;"><a href="https://www.dlr.de/DE/Home/home_node.html">Deutsches Zentrum für Luft- und Raumfahrt</a></p>
-<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-luft.png" alt=""  height = "90"/></p>
+<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-luft.png" alt=""  width="200"/></p>
 </td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 45%; height: 18px;">
 <p style="text-align: center;"><a href="https://www.fu-berlin.de/en/index.html">Freie Unversität Berlin</a></p>
-<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-FUB.png" alt="" height = "90" /></p>
+<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fu-logo.png" alt="" width="200" /></p>
 </td>
 <td style="width: 45%; height: 18px;">
 <p style="text-align: center;"><a href="https://www.uni-hannover.de/en/">Leibniz Universität Hannover</a></p>
-<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-LUH.png" alt="" height = "90" /></p>
+<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-LUH.png" alt="" width="200" /></p>
 </td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 45%; height: 18px;">
 <p style="text-align: center;"><a href="https://tu-dresden.de/">Technische Universität Dresden</a></p>
-<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-TUD.jpg" alt="" height = "90" /></p>
+<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-TUD.jpg" alt="" width="200" /></p>
 </td>
 <td style="width: 45%; height: 18px;">
 </td>
