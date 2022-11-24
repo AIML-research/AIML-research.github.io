@@ -1,3 +1,23 @@
+- title: "A review of clustering models in educational data science towards fairness-aware learning"
+  image: 
+  description: 
+  authors:   Tai Le Quy, Gunnar Friege, Eirini Ntoutsi
+  link:
+    url: 
+    display: "Educational Data Science: Essentials, Approaches, and Tendencies – Proactive Education based on Empirical Big Data Evidence", a new volume of the Springer Book series “Big Data Management”
+  highlight: 0
+  news2:  
+  year:  2022
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
 - title: "AdaCC cumulative cost-sensitive boosting for imbalanced classification"
   image: 
   description: Class imbalance poses a major challenge for machine learning as most supervised learning models might exhibit bias towards the majority class and under-perform in the minority class. Cost-sensitive learning tackles this problem by treating the classes differently, formulated typically via a user-defined fixed misclassification cost matrix provided as input to the learner. Such parameter tuning is a challenging task that requires domain knowledge and moreover, wrong adjustments might lead to overall predictive performance deterioration. In this work, we propose a novel cost-sensitive boosting approach for imbalanced data that dynamically adjusts the misclassification costs over the boosting rounds in response to model’s performance instead of using a fixed misclassification cost matrix. Our method, called AdaCC, is parameter-free as it relies on the cumulative behavior of the boosting model in order to adjust the misclassification costs for the next boosting round and comes with theoretical guarantees regarding the training error. Experiments on 27 real-world datasets from different domains with high class imbalance demonstrate the superiority of our method over 12 state-of-the-art cost-sensitive boosting approaches exhibiting consistent improvements in different measures, for instance, AUC, balanced accuracy, gmean and recall.
