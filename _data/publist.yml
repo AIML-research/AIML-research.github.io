@@ -105,7 +105,7 @@
 - title: "Multi-fairness under class-imbalance"
   image: 
   description:  Recent studies showed that datasets used in fairness-aware machine learning for multiple protected attributes (referred to as multidiscrimination hereafter) are often imbalanced. The class-imbalance problem is more severe for the protected group in the critical minority class (e.g., female +, non-white +, etc.). Still, existing methods focus only on the overall error-discrimination trade-off, ignoring the imbalance problem, and thus they amplify the prevalent bias in the minority classes. To solve the combined problem of multi-discrimination and class-imbalance we introduce a new fairness measure, Multi-Max Mistreatment (MMM ),which considers both (multi-attribute) protected group and class membership of instances to measure discrimination. To solve the combined problem, we propose Multi-Fair Boosting Post Pareto (MFBPP) a boosting approach that incorporates MMM -costs in the distribution update and post-training, selects the optimal trade-off among accurate, classbalanced, and fair solutions. The experimental results show the superiority of our approach against state-of-the-art methods in producing the best balanced performance across groups and classes and the best accuracy for the protected groups in the minority class..
-  authors:   Arjun Roy, Vasileios Iosifidis Eirini Ntoutsi 
+  authors:   Arjun Roy, Vasileios Iosifidis, Eirini Ntoutsi 
   link:
     url: https://doi.org/10.1007/978-3-031-18840-4_21
     display: Discovery Science (DS)2022
