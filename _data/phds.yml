@@ -28,16 +28,7 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/offshore/
   
-- name: Manuel Heurich
-  photo: Manuel.jpg
-  info: Research Assistant / Doctoral Student
-  email: manuel.heurich@fu-berlin.de
-  number_educ: 0
-  website:
-  has_project_web: 0
-  project_web: 
-  
-  
+ 
 - name: Seyed Siamak Ghodsi
   photo: Siamak.jpg
   info: External doctoral student (L3S, DE)
