@@ -7,7 +7,7 @@
     display: "Educational Data Science: Essentials, Approaches, and Tendencies – Proactive Education based on Empirical Big Data Evidence, a new volume of the Springer Book series “Big Data Management” (Accepted)"
   highlight: 0
   news2:  
-  year:  2022
+  year:  2023
   haslocal: 0
   local: 
   hascode: 0
@@ -65,7 +65,7 @@
   description:  We evaluate seven popular group fairness measures for student performance prediction problems. We conduct experiments using four traditional ML models and two fairness-aware ML methods on five educational datasets. Besides, we investigate the effect of varying grade thresholds on the accuracy and fairness of ML models. The preliminary results suggest that choosing the threshold is an important factor contributing to ensuring fairness in the output of the ML models.
   authors:   Tai Le Quy, Thi Huyen Nguyen, Gunnar Friege, Eirini Ntoutsi
   link:
-    url: https://arxiv.org/abs/2208.10625
+    url: https://doi.org/10.1007/978-3-031-23618-1_8
     display: SoGood 2022 – 7th Workshop on Data Science for Social Good@ECML/PKDD 2022
   highlight: 0
   news2:  
