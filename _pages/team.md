@@ -216,6 +216,7 @@ permalink: /team/
 
 ### Former members
 
+- <b> Manuel Heurich </b>, <i> Research Assistant / PhD Student </i>, August 2021 - May 2022
 - <b> Yi Cai </b>, <i> PhD student </i>, November 2020 - May 2022, Topic: Explanations for text classification
 - <b> Philipp Naumann </b>, <i> PhD student </i>, March 2021 - May 2022, Topic: Counterfactual fairness 
 - <b> Nabil Alsabah </b>, <i> Lecturer </i>
