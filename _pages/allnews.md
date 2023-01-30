@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Artificial Intelligence and Machine Learning Group at Freie Universität Berlin."
+excerpt: "Artificial Intelligence and Machine Learning Group at  Bundeswehr University Munich."
 sitemap: false
 permalink: /allnews.html
 ---
