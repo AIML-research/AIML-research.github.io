@@ -216,13 +216,13 @@ permalink: /team/
 
 ### Former members
 
-- <b> Manuel Heurich </b>, <i> Research Assistant / PhD Student </i>, August 2021 - May 2022
-- <b> Yi Cai </b>, <i> PhD student </i>, November 2020 - May 2022, Topic: Explanations for text classification
-- <b> Philipp Naumann </b>, <i> PhD student </i>, March 2021 - May 2022, Topic: Counterfactual fairness 
-- <b> Nabil Alsabah </b>, <i> Lecturer </i>
-- <b> Vasileios Iosifidis </b>, <i> PhD student </i>, June 2016 - July 2020, Topic: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" </a>
-- <b> Amir Abolfazli </b>, <i> PhD student </i>, April 2019 - July 2020, Topic: Adaptive machine learning
-- <b> Damianos Melidis </b>, <i> PhD student </i>, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams
+- <b> Manuel Heurich </b>, PhD Student, August 2021 - May 2022 (currently PhD student @FUB)
+- <b> Yi Cai </b>, PhD student, November 2020 - May 2022, Topic: Explanations for text classification (currently PhD student @FUB)
+- <b> Philipp Naumann </b>, PhD student, March 2021 - May 2022, Topic: Counterfactual fairness  (currently PhD student @TUB)
+- <b> Nabil Alsabah </b>, Lecturer
+- <b> Vasileios Iosifidis </b>, PhD student, June 2016 - July 2020, Topic: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" </a>
+- <b> Amir Abolfazli </b>, PhD student, April 2019 - July 2020, Topic: Adaptive machine learning  (currently PhD student @LUH)
+- <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams  (currently PhD student @LUH)
 
 ### Former visitors
 
