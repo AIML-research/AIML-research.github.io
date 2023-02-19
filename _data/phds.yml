@@ -1,6 +1,6 @@
 - name: Arjun Roy
   photo: Arjun.jpg
-  info: Research Assistant / Doctoral Student
+  info: Ph.D. Student
   email: arjun.roy@fu-berlin.de
   number_educ: 0
   project: BIAS
@@ -10,7 +10,7 @@
   
 - name: Alaa Elobaid
   photo: Alaa.jpg
-  info: External doctoral student (CERTH, GR)
+  info: External Ph.D. Student (CERTH, GR)
   email: elobaida@zedat.fu-berlin.de
   number_educ: 0
   project: NoBIAS
@@ -20,7 +20,7 @@
   
 - name: Emmanouil Panagiotou
   photo: Emmanouil.jpg
-  info: Research Assistant / Doctoral Student
+  info: Ph.D. Student
   email: emmanouil.panagiotou@fu-berlin.de
   number_educ: 0
   project: SFB 1463 Offshore Megastrukturen
@@ -31,7 +31,7 @@
  
 - name: Seyed Siamak Ghodsi
   photo: Siamak.jpg
-  info: External doctoral student (L3S, DE)
+  info: External Ph.D. Student (L3S, DE)
   email: siamak.ghodsi@fu-berlin.de
   number_educ: 0
   project: NoBIAS
@@ -41,7 +41,7 @@
   
 - name: Simone Fabbrizzi
   photo: Simone.jpg
-  info: External doctoral student (CERTH, GR)
+  info: External Ph.D. Student (CERTH, GR)
   email: simone.fabbrizzi@iti.gr
   number_educ: 0
   project: NoBIAS
@@ -51,7 +51,7 @@
    
 - name: Tai Le Quy
   photo: Tai.jpg
-  info: External doctoral student (L3S, DE)
+  info: External Ph.D. Student (L3S, DE)
   email: tai.lequy@.fu-berlin.de
   number_educ: 0
   project: LernMINT
