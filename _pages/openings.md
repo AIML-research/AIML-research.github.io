@@ -32,7 +32,8 @@ Our current research directions are:
 For further information, contact Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de), with subject ``PhD/Postdoc Application". 
 
 **How to apply?**
-Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject “PhD application” or “PostDoc application”. The application should include a brief motivation letter, a CV, copies of certificates including transcripts of your grades, a summary of your bachelor and master thesis, list of publications (if available) and list of referees (name and contact details). Applications will be considered as they are received and until the positions are filled.
+Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject “PhD application” or “PostDoc application”. The application should include a brief motivation letter, a CV, copies of certificates including transcripts of your grades, a summary of your bachelor and master thesis, list of publications (if available) and list of referees (name and contact details). 
+<!-- Applications will be considered as they are received and until the positions are filled.-->
 
 ## Current opennings incl. information on how to apply
 <!--<ul>
@@ -49,7 +50,7 @@ Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi 
 
 
 ### Student assistant positions (HiWi)
-If you want to join our group as a student assistant (HiWi) supporting us in various research projects e.g., in the field of adaptive learning, responsible AI or generative AI, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject ``HiWi Application". 
+If you want to join our group as a student assistant (HiWi) supporting us in various research projects, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject ``HiWi Application". 
 
 
 ### B.Sc./MSc. theses
