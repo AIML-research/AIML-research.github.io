@@ -10,8 +10,8 @@ permalink: /vacancies
 ## Want to work with us?
 
 ### PhD/PostDoc positions
-We are looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods. The goal of our group can be summarized as designing intelligent algorithms that learn from data continuously following the cumulative nature of human learning, while ensuring that what has been learned helps driving positive societal impact. 
-Our current offerings focus on the following topics:
+We are always looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods. The goal of our group can be summarized as designing intelligent algorithms that learn from data continuously following the cumulative nature of human learning, while ensuring that what has been learned helps driving positive societal impact. 
+Our current research directions are:
 <ul>
   <li>Adaptive learning/ continual learning</li>
   <li>Responsible AI (esp. fairness-aware learning, xAI, resilient-ML)</li>
@@ -29,13 +29,13 @@ Our current offerings focus on the following topics:
 <li>Willingness to learn, creative and cooperative.</li>
 </ul>
   
-For further information, contact Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@fu-berlin.de), with subject ``PhD/Postdoc Application". 
+For further information, contact Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de), with subject ``PhD/Postdoc Application". 
 
 **How to apply?**
 Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject “PhD application” or “PostDoc application”. The application should include a brief motivation letter, a CV, copies of certificates including transcripts of your grades, a summary of your bachelor and master thesis, list of publications (if available) and list of referees (name and contact details). Applications will be considered as they are received and until the positions are filled.
 
 ## Current opennings incl. information on how to apply
-<ul>
+<!--<ul>
   <li>PostDoc/PhD position on <a href="https://www.unibw.de/stellenausschreibungen/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/fi-code-wm-e13-fairness-aware.pdf
     " target="_new">multi-fairness-aware machine learning</a> related to the EU project <a href = "{{ site.url }}{{ site.baseurl }}/projects/mammoth">MAMMoth</a></li>
   <li>PhD position on <a href="https://www.unibw.de/code/karriere/220805-prof-ntoutsi-stellenausschreibung_fairness_en_final.pdf
@@ -45,7 +45,7 @@ Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi 
   <li>PostDoc/PhD position on generative AI (to be announced)  related to the EU project <a href = "{{ site.url }}{{ site.baseurl }}/projects/stelar">STELAR</a></li>
   <li>PhD position on shape error prediction under limited feedback (to be announced)</li>
 </ul>
-
+-->
 
 
 ### Student assistant positions (HiWi)
