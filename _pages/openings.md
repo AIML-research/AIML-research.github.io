@@ -10,7 +10,7 @@ permalink: /vacancies
 ## Want to work with us?
 
 ### PhD/PostDoc positions
-We are always looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods in the areas of i) Adaptive learning/ continual learning, ii) Responsible AI (esp. fairness-aware learning, xAI, resilient-ML) and iii) Generative AI (esp. for temporal data, image data, graphs).
+We are always looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods in the areas of: i) Adaptive learning/ continual learning, ii) Responsible AI (esp. fairness-aware learning, xAI, resilient-ML) and iii) Generative AI (esp. for temporal data, image data, graphs).
 
 **Candidate profile**
 <ul>
@@ -29,8 +29,8 @@ For further information, contact Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.
 Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject “PhD application” or “PostDoc application”. The application should include a brief motivation letter, a CV, copies of certificates including transcripts of your grades, a summary of your bachelor and master thesis, list of publications (if available) and list of referees (name and contact details). 
 <!-- Applications will be considered as they are received and until the positions are filled.-->
 
-## Current opennings incl. information on how to apply
-<!--<ul>
+<!--## Current opennings incl. information on how to apply
+<ul>
   <li>PostDoc/PhD position on <a href="https://www.unibw.de/stellenausschreibungen/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/fi-code-wm-e13-fairness-aware.pdf
     " target="_new">multi-fairness-aware machine learning</a> related to the EU project <a href = "{{ site.url }}{{ site.baseurl }}/projects/mammoth">MAMMoth</a></li>
   <li>PhD position on <a href="https://www.unibw.de/code/karriere/220805-prof-ntoutsi-stellenausschreibung_fairness_en_final.pdf
@@ -47,12 +47,11 @@ Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi 
 If you want to join our group as a student assistant (HiWi) supporting us in various research projects, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject ``HiWi Application". 
 <ul>
   <li>HiWi position on AIML development for wind turbine design, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB1463</a></li>
-  </ul>
+  <li>HiWi position on AIML development for manufactoring, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">HEPHAESTUS</a></li>
+</ul>
 
 ### B.Sc./MSc. theses
-We offer bachelor and master theses in the areas of Artificial Intelligence and Machine learning.
-
-If you are interested in writing a thesis at our group, please contact Prof. Dr. Eirini Ntoutsi via email (eirini.ntoutsi@unibw.de) with subject "Bachelor thesis" or "Master thesis" including a brief CV and transcripts of your records. We will then contact you with potential topics.
+If you are interested in writing your bachelor or master thesis in our group, please contact Prof. Dr. Eirini Ntoutsi via email (eirini.ntoutsi@unibw.de) with subject "Bachelor thesis" or "Master thesis" including a brief CV and transcripts of your records. We will then contact you with potential topics.
 
 
 
