@@ -26,7 +26,7 @@ We are always looking for talented and highly motivated students from Computer S
 For further information, contact Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de), with subject ``PhD/Postdoc Application". 
 
 **How to apply?**
-Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject “PhD application” or “PostDoc application”. The application should include a brief motivation letter, a CV, copies of certificates including transcripts of your grades, a summary of your bachelor and master thesis, list of publications (if available) and list of referees (name and contact details). 
+Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi with subject “PhD application” or “PostDoc application”. The application should include a brief motivation letter, a CV, copies of certificates including transcripts of your grades, a summary of your bachelor and master thesis, list of publications (if available) and list of referees (name and contact details). 
 <!-- Applications will be considered as they are received and until the positions are filled.-->
 
 <!--## Current opennings incl. information on how to apply
@@ -44,14 +44,14 @@ Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi 
 
 
 ### Student assistant positions (HiWi)
-He have various student assistant (HiWi) oppenings related to our <a href = "{{ site.url }}{{ site.baseurl }}/projects/"> research projects</a>. If you are interested, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject ``HiWi Application". 
+He have various student assistant (HiWi) oppenings related to our <a href = "{{ site.url }}{{ site.baseurl }}/projects/"> research projects</a>. If you are interested, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi with subject ``HiWi Application". 
 <ul>
   <li>HiWi position on AIML development for wind turbine design, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB1463</a>. For further information, contact <a href = "{{ site.url }}{{ site.baseurl }}/team">Emmanouil Panagiotou</a>.</li>
   <li>HiWi position on AIML development for manufactoring, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">HEPHAESTUS</a>. For further information, contact <a href = "{{ site.url }}{{ site.baseurl }}/team">Emmanouil Panagiotou</a>.</li>
 </ul>
 
 ### B.Sc./MSc. theses
-We offer multiple bachelor/master theses in the area of AI/ML. If you are interested in writing your thesis in our group, please send a brief CV and transcripts of your grades to Prof. Dr. Eirini Ntoutsi via email (eirini.ntoutsi@unibw.de) with subject "Bachelor/Master thesis". We will then contact you to discuss potential topics and next steps.
+We offer multiple bachelor/master theses in the area of AI/ML. If you are interested in writing your thesis in our group, please send a brief CV and transcripts of your grades to Prof. Dr. Eirini Ntoutsi via email with subject "Bachelor/Master thesis". We will then contact you to discuss potential topics and next steps.
 
 
 
