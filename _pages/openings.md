@@ -44,7 +44,7 @@ Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi 
 
 
 ### Student assistant positions (HiWi)
-He have various student assistant (HiWi) oppenings related to our <a href = "{{ site.url }}{{ site.baseurl }}/projects/"> research projects</a>. If you are interested, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi with subject ``HiWi Application". 
+He have various student assistant (HiWi) oppenings related to our <a href = "{{ site.url }}{{ site.baseurl }}/projects/"> research projects</a>. If you are interested, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi with subject "HiWi Application". 
 <ul>
   <li>HiWi position on AIML development for wind turbine design, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB1463</a>. For further information, contact <a href = "{{ site.url }}{{ site.baseurl }}/team">Emmanouil Panagiotou</a>.</li>
   <li>HiWi position on AIML development for manufactoring, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">HEPHAESTUS</a>. For further information, contact <a href = "{{ site.url }}{{ site.baseurl }}/team">Emmanouil Panagiotou</a>.</li>
