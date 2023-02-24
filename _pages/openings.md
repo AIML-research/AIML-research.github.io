@@ -10,12 +10,7 @@ permalink: /vacancies
 ## Want to work with us?
 
 ### PhD/PostDoc positions
-We are always looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods. Our current research directions are:
-<ul>
-  <li>Adaptive learning/ continual learning</li>
-  <li>Responsible AI (esp. fairness-aware learning, xAI, resilient-ML)</li>
-  <li>Generative AI (esp. for temporal data, image data, graphs)</li>
-</ul>
+We are always looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods in the areas of i) Adaptive learning/ continual learning, ii) Responsible AI (esp. fairness-aware learning, xAI, resilient-ML) and iii) Generative AI (esp. for temporal data, image data, graphs).
 
 **Candidate profile**
 <ul>
