@@ -46,8 +46,8 @@ Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi 
 ### Student assistant positions (HiWi)
 If you want to join our group as a student assistant (HiWi) supporting us in various research projects, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject ``HiWi Application". 
 <ul>
-  <li>HiWi position on AIML development for wind turbine design, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB1463</a>.</li>
-  <li>HiWi position on AIML development for manufactoring, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">HEPHAESTUS</a>.</li>
+  <li>HiWi position on AIML development for wind turbine design, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB1463</a>. For further information, contact <a href = "{{ site.url }}{{ site.baseurl }}/team">Emmanouil Panagiotou</a>.</li>
+  <li>HiWi position on AIML development for manufactoring, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">HEPHAESTUS</a>. For further information, contact <a href = "{{ site.url }}{{ site.baseurl }}/team">Emmanouil Panagiotou</a>.</li>
 </ul>
 
 ### B.Sc./MSc. theses
