@@ -44,14 +44,14 @@ Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi 
 
 
 ### Student assistant positions (HiWi)
-If you want to join our group as a student assistant (HiWi) supporting us in various research projects, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject ``HiWi Application". 
+He have various student assistant (HiWi) oppenings related to our <a href = "{{ site.url }}{{ site.baseurl }}/projects/"> research projects</a>. If you are interested, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject ``HiWi Application". 
 <ul>
   <li>HiWi position on AIML development for wind turbine design, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB1463</a>. For further information, contact <a href = "{{ site.url }}{{ site.baseurl }}/team">Emmanouil Panagiotou</a>.</li>
   <li>HiWi position on AIML development for manufactoring, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">HEPHAESTUS</a>. For further information, contact <a href = "{{ site.url }}{{ site.baseurl }}/team">Emmanouil Panagiotou</a>.</li>
 </ul>
 
 ### B.Sc./MSc. theses
-If you are interested in writing your bachelor or master thesis in our group, please contact Prof. Dr. Eirini Ntoutsi via email (eirini.ntoutsi@unibw.de) with subject "Bachelor thesis" or "Master thesis" including a brief CV and transcripts of your records. We will then contact you with potential topics.
+We offer multiple bachelor/master theses in the area of AI/ML. If you are interested in writing your thesis in our group, please send a brief CV and transcripts of your grades to Prof. Dr. Eirini Ntoutsi via email (eirini.ntoutsi@unibw.de) with subject "Bachelor/Master thesis". We will then contact you to discuss potential topics and next steps.
 
 
 
