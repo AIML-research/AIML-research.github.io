@@ -10,8 +10,7 @@ permalink: /vacancies
 ## Want to work with us?
 
 ### PhD/PostDoc positions
-We are always looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods. The goal of our group can be summarized as designing intelligent algorithms that learn from data continuously following the cumulative nature of human learning, while ensuring that what has been learned helps driving positive societal impact. 
-Our current research directions are:
+We are always looking for talented and highly motivated students from Computer Science or a closely related discipline interested in the research and development of AI/ML methods. Our current research directions are:
 <ul>
   <li>Adaptive learning/ continual learning</li>
   <li>Responsible AI (esp. fairness-aware learning, xAI, resilient-ML)</li>
@@ -51,7 +50,9 @@ Please send your application (as a single pdf file) to Prof. Dr. Eirini Ntoutsi 
 
 ### Student assistant positions (HiWi)
 If you want to join our group as a student assistant (HiWi) supporting us in various research projects, send your application (as a single pdf including a short CV, transcripts of your studies and a short motivation letter) per email to Prof. Dr. Eirini Ntoutsi (eirini.ntoutsi@unibw.de) with subject ``HiWi Application". 
-
+<ul>
+  <li>HiWi position on AIML development for wind turbine design, for the project <a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB1463</a></li>
+  </ul>
 
 ### B.Sc./MSc. theses
 We offer bachelor and master theses in the areas of Artificial Intelligence and Machine learning.
