@@ -9,11 +9,11 @@ permalink: /projects/stelar/
 ### STELAR (Spatio-TEmporal Linked data tools for the AgRi-food data space)
 
 #### 1. Project details
-- <b>Project full name: </b> Spatio-TEmporal Linked data tools for the AgRi-food data space
 - <b>Project acronym: </b> STELAR 
-- <b>Funding period: </b> 36 months, starting end 2022
+- <b>Project full name: </b> Spatio-TEmporal Linked data tools for the AgRi-food data space
+- <b>Funding period: </b> Sep 1, 2022 - Aug 31, 2025 (36 months)
 - <b>Funding body: </b> EU under the call HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (IA)
-- <b>Homepage: </b> STELAR </a>
+- <b>Homepage: </b> <a href="https://stelar-project.eu/" target="_new"> STELAR </a>
 
 #### 2. Involved partners
 - ATHENA RESEARCH AND INNOVATION CENTER (ARC), Greece
