@@ -25,24 +25,24 @@ permalink: /projects/bias/
 - <b>Homepage: </b> <a href="https://www.bias-project.org/">BIAS </a>
 
 #### 2. Involved partners
-- <a href="https://www.philos.uni-hannover.de/de/">Institute of Philosophy</a>
-- <a href="https://www.iri.uni-hannover.de/de/">Institute for Legal Informatics (IRI)</a>
-- <a href="https://www.l3s.de">L3S Research Center</a>
-- <a href="https://www.tnt.uni-hannover.de">Institute for Information Processing (TNT)</a>
+- <a href="https://www.philos.uni-hannover.de/de/">Institute of Philosophy, LUH Hannover.</a>
+- <a href="https://www.iri.uni-hannover.de/de/">Institute for Legal Informatics (IRI), LUH Hannover.</a>
+- <a href="https://www.l3s.de">L3S Research Center, Hannover.</a>
+- <a href="https://www.tnt.uni-hannover.de">Institute for Information Processing (TNT), LUH Hannover.</a>
 
 #### 3. Team
-- Prof. Dr. Eirini Ntoutsi
-- MSc. Arjun Roy
+- Prof. Dr. Eirini Ntoutsi (PI)
+- MSc. Arjun Roy (Ph.D. student)
 
 #### 4. Project overview
-BIAS is an interfaculty research initiative composed of experts from philosophy, law, and computer science, bringing together epistemological and ethical, legal and technical perspectives.
-Our shared research question is: How can we ensure that big data analysis and algorithm-based decision-making are unbiased and nondiscriminatory? To this end, we provide philosophical analyses of relevant concepts and principles, investigate their utilisation in pertinent legal frameworks, and develop technical solutions such as debiasing strategies and discrimination detection procedures.
+BIAS is an interfaculty research initiative composed of experts from philosophy, law, and computer science, bringing together epistemological, ethical, legal and technical perspectives.
+Our shared research question is: <i>How can we ensure that big data analysis and algorithm-based decision-making are unbiased and nondiscriminatory?</i> To this end, we provide philosophical analyses of relevant concepts and principles, we investigate their utilisation in pertinent legal frameworks, and we develop technical solutions such as debiasing strategies and discrimination detection procedures.
 
 #### 5. Overview of our contributions
-Our research focuses on the following points:
-- Computer bias, esp. caused by imbalanced data or rare classes
-- Statistical fairness, esp. for non-stationary data
--	Debiasing strategies, esp. focusing on explainability
+Within BIAS, our group focuses on the following topics:
+- Computer bias, esp. caused by imbalanced data or rare classes.
+- Statistical fairness, esp. for non-stationary data.
+-	Debiasing strategies, esp. focusing on explainability.
 
 #### 6. Publications
 - Roy, A., & Ntoutsi, E. (2022). <a href ="https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1255.pdf">Learning to Teach Fairness-aware Deep Multi-task Learning </a>. Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD).
@@ -64,5 +64,3 @@ Our research focuses on the following points:
 - Arjun Roy gave a talk on the topic “Multi-dimensional Discrimination: An essential but overlooked Legal and Algorithmic Challenge” at the Herrenhausen Conference - AI and the future of societies organised by Volkswagen foundation on 12th Oct, 2022 in Hannover, Germany (YouTube video to be uploaded soon).
 -	Arjun Roy presented our paper “Multi-fairness under class-imbalance” at the Discovery Science conference on 11th Oct, 2022 in Montpellier, France (<a href = "https://youtu.be/FwMnrKzRbBE">YouTube Link</a>).
 - Arjun Roy presented our paper “Learning to Teach Fairness-Aware Deep Multi-Task Learning” at the ECMLPKDD 22 on 22nd Sept, 2022 in Grenoble, France (<a href ="https://youtu.be/v-xHHLAPUQg">YouTube Link</a>).
-
-<b><i>For further information please visit the <a href ="https://www.bias-project.org/">BIAS website</a></i></b>
