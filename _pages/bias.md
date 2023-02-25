@@ -18,8 +18,8 @@ permalink: /projects/bias/
 </table>
 
 #### 1. Project details
-- <b>Project full name: </b> Bias and Discrimination in Big Data and Algorithmic Processing. Philosophical Assessments, Legal Dimensions, and Technical Solutions
 - <b>Project acronym: </b> BIAS 
+- <b>Project full name: </b> Bias and Discrimination in Big Data and Algorithmic Processing. Philosophical Assessments, Legal Dimensions, and Technical Solutions
 - <b>Funding period: </b> 19.12.2018 — 18.12.2022
 - <b>Funding body: </b> <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=95037" target="_new">Volkswagen foundation</a>
 - <b>Homepage: </b> <a href="https://www.bias-project.org/">BIAS </a>
@@ -30,21 +30,17 @@ permalink: /projects/bias/
 <tr style="height: 19px;">
 <td style="width: 35%; height: 19px;">
 <p style="text-align: center;"><a href="https://www.philos.uni-hannover.de/de/">Institute of Philosophy</a></p>
-<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Philosophy.png" alt="" height = "90" /></p>
 </td>
 <td style="width: 35%; height: 19px;">
 <p style="text-align: center;"><a href="https://www.iri.uni-hannover.de/de/">Institute for Legal Informatics (IRI)</a></p>
-<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-iri.png" alt=""  height = "90"/></p>
 </td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 45%; height: 18px;">
 <p style="text-align: center;"><a href="https://www.l3s.de">L3S Research Center</a></p>
-<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-l3s.png" alt="" height = "90" /></p>
 </td>
 <td style="width: 45%; height: 18px;">
 <p style="text-align: center;"><a href="https://www.tnt.uni-hannover.de">Institute for Information Processing (TNT)</a></p>
-<p style="text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tnt.png" alt="" height = "70" /></p>
 </td>
 </tr>
 </tbody>
@@ -55,7 +51,7 @@ permalink: /projects/bias/
 - MSc. Arjun Roy
 
 #### 4. Project overview
-ABIAS is an interfaculty research initiative composed of experts from philosophy, law, and computer science, bringing together epistemological and ethical, legal and technical perspectives.
+BIAS is an interfaculty research initiative composed of experts from philosophy, law, and computer science, bringing together epistemological and ethical, legal and technical perspectives.
 Our shared research question is: How can we ensure that big data analysis and algorithm-based decision-making are unbiased and nondiscriminatory? To this end, we provide philosophical analyses of relevant concepts and principles, investigate their utilisation in pertinent legal frameworks, and develop technical solutions such as debiasing strategies and discrimination detection procedures.
 
 #### 5. Overview of our contributions
