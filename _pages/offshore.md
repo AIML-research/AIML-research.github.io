@@ -19,7 +19,7 @@ permalink: /projects/offshore/
 
 #### 1. Project details
 - <b>Project acronym: </b> CRC 1463 
-- <b>Project full name: </b> Collaborative Research Centre 1463. Design and operate future offshore wind turbines using digital twins
+- <b>Project full name: </b> Collaborative Research Centre 1463 - Design and operate future offshore wind turbines using digital twins
 - <b>Funding period: </b> 01.01.2021 – 31.12.2024
 - <b>Funding body: </b> <a href="https://www.dfg.de/gefoerderte_projekte/programme_und_projekte/listen/projektdetails/index.jsp?id=434502799" target="_new">German Research Foundation (Deutsche Forschungsgemeinschaft - DFG)</a>
 - <b>Homepage: </b> <a href="https://www.sfb1463.uni-hannover.de/">Offshore Megastrukturen</a>
