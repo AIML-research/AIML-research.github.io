@@ -25,26 +25,10 @@ permalink: /projects/bias/
 - <b>Homepage: </b> <a href="https://www.bias-project.org/">BIAS </a>
 
 #### 2. Involved partners
-<table style="border-collapse: collapse; width: 80%; " border="0">
-<tbody>
-<tr style="height: 19px;">
-<td style="width: 35%; height: 19px;">
-<p style="text-align: center;"><a href="https://www.philos.uni-hannover.de/de/">Institute of Philosophy</a></p>
-</td>
-<td style="width: 35%; height: 19px;">
-<p style="text-align: center;"><a href="https://www.iri.uni-hannover.de/de/">Institute for Legal Informatics (IRI)</a></p>
-</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 45%; height: 18px;">
-<p style="text-align: center;"><a href="https://www.l3s.de">L3S Research Center</a></p>
-</td>
-<td style="width: 45%; height: 18px;">
-<p style="text-align: center;"><a href="https://www.tnt.uni-hannover.de">Institute for Information Processing (TNT)</a></p>
-</td>
-</tr>
-</tbody>
-</table>
+- <a href="https://www.philos.uni-hannover.de/de/">Institute of Philosophy</a>
+- <a href="https://www.iri.uni-hannover.de/de/">Institute for Legal Informatics (IRI)</a>
+- <a href="https://www.l3s.de">L3S Research Center</a>
+- <a href="https://www.tnt.uni-hannover.de">Institute for Information Processing (TNT)</a>
 
 #### 3. Team
 - Prof. Dr. Eirini Ntoutsi
