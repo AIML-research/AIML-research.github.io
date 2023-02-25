@@ -11,8 +11,8 @@ permalink: /projects/bias/
 <table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
 <tr>
-<td style="width: 40%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bias.jpg" alt="" width="100" /></td>
-<td style="width: 40%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
+<td style="width: 50%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bias.jpg" alt="" width="100" /></td>
+<td style="width: 50%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
 </tr>
 </tbody>
 </table>
