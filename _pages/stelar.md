@@ -14,6 +14,20 @@ permalink: /projects/stelar/
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-stelar.png" alt="" width="100" /></td>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-euro.jpg" alt="" width = "230"/></td>
 </tr>
+
+</tbody>
+</table>
+
+#### 1. Project details
+- <b>Project acronym: </b> STELAR 
+- <b>Project full name: </b> Spatio-TEmporal Linked data tools for the AgRi-food data space
+- <b>Funding period: </b> Sep 1, 2022 - Aug 31, 2025 (36 months)
+- <b>Funding body: </b> EU under the call HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (IA)
+- <b>Homepage: </b> <a href="https://stelar-project.eu/" target="_new"> STELAR </a>
+
+#### 2. Involved partners
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
  
 <tr>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-athena.jpg" alt="" width="100" /></td>
@@ -33,14 +47,6 @@ permalink: /projects/stelar/
 </tbody>
 </table>
 
-#### 1. Project details
-- <b>Project acronym: </b> STELAR 
-- <b>Project full name: </b> Spatio-TEmporal Linked data tools for the AgRi-food data space
-- <b>Funding period: </b> Sep 1, 2022 - Aug 31, 2025 (36 months)
-- <b>Funding body: </b> EU under the call HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (IA)
-- <b>Homepage: </b> <a href="https://stelar-project.eu/" target="_new"> STELAR </a>
-
-#### 2. Involved partners
 - ATHENA RESEARCH AND INNOVATION CENTER (ARC), Greece
 - University of Athens (UoA), Greece
 - Technische Universiteit Eindhoven (TUE), Netherlands
