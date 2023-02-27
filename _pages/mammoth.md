@@ -13,9 +13,10 @@ permalink: /projects/mammoth/
 - <b>Project acronym: </b>  MAMMOth
 - <b>Funding period: </b> starting end 2022 (36 months)
 - <b>Funding body: </b> EU under the call HORIZON-CL4-2021-HUMAN-01  (A HUMAN-CENTRED AND ETHICAL DEVELOPMENT OF DIGITAL AND INDUSTRIAL TECHNOLOGIES 2021)
-- <b>Homepage: </b> MAMMOth
+- <b>Homepage: </b> [MAMMOth](https://mammoth-ai.eu/)
 
 #### 2. Involved partners
+
 - Centre for Research and Technology (CERTH), Greece
 - Universität der Bundeswehr München (UniBw), Germany
 - Complexity Science Hub Vienna (CSH), Austria
