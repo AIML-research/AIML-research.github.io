@@ -31,9 +31,9 @@ permalink: /projects/stelar/
  
 <tr>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-athena.jpg" alt="" width="150" /></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-UoA.jpg" alt="" width = "150"/></td>
+<td style="width: 25%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-UoA.jpg" alt="" width = "250"/></td>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tue.jpg" alt="" width = "200"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-unibw.png" alt="" width = "200"/></td>
+<td style="width: 25%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-unibw.png" alt="" width = "200"/></td>
 
 </tr>
 
