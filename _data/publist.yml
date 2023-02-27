@@ -1,3 +1,24 @@
+- title: "Multi-fair capacitated students-topics grouping problem"
+  image: 
+  description: 
+  authors:   Tai Le Quy, Gunnar Friege, Eirini Ntoutsi
+  link:
+    url: https://arxiv.org/abs/2206.09895
+    display: The 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2023) (accepted)
+  highlight: 0
+  news2:  
+  year:  2023
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
 - title: "A review of clustering models in educational data science towards fairness-aware learning"
   image: 
   description: 
@@ -44,7 +65,7 @@
   description:  We evaluate seven popular group fairness measures for student performance prediction problems. We conduct experiments using four traditional ML models and two fairness-aware ML methods on five educational datasets. Besides, we investigate the effect of varying grade thresholds on the accuracy and fairness of ML models. The preliminary results suggest that choosing the threshold is an important factor contributing to ensuring fairness in the output of the ML models.
   authors:   Yi Cai, Arthur Zimek, Gerhard Wunder, Eirini Ntoutsi
   link:
-    url: https://arxiv.org/abs/2208.10625
+    url: https://doi.org/10.1109/DSAA54385.2022.10032325
     display: 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA)
   highlight: 0
   news2:  
