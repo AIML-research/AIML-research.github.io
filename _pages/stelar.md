@@ -8,7 +8,7 @@ permalink: /projects/stelar/
 
 ### STELAR (Spatio-TEmporal Linked data tools for the AgRi-food data space)
 
-<table style="border-collapse: collapse; width: 90%;" border="0">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-stelar.png" alt="" width="200" /></td>
