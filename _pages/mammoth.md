@@ -8,6 +8,16 @@ permalink: /projects/mammoth/
 
 ### MAMMOth (Multi-Attribute, Multimodal Bias Mitigation in AI Systems)
 
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-mammoth.png" alt="" width="150" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-euro-co.jpg" alt="" width = "230"/></td>
+</tr>
+
+</tbody>
+</table>
+
 #### 1. Project details
 - <b>Project full name: </b> Multi-Attribute, Multimodal Bias Mitigation in AI Systems
 - <b>Project acronym: </b>  MAMMOth
@@ -16,6 +26,32 @@ permalink: /projects/mammoth/
 - <b>Homepage: </b> [MAMMOth](https://mammoth-ai.eu/)
 
 #### 2. Involved partners
+
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+ 
+<tr>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-certh.png" alt="" width="100" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-UoA.jpg" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tue.jpg" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-ubm.jpg" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-rapidminer.jpg" alt="" width = "100"/></td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-athena.jpg" alt="" width="100" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-UoA.jpg" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tue.jpg" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-ubm.jpg" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-rapidminer.jpg" alt="" width = "100"/></td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Agroknow.jpg" alt="" width="100" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-vista.jpg" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-abaco.jpg" alt="" width = "100"/></td>
+</tr>
+ 
+</tbody>
+</table>
 
 - Centre for Research and Technology (CERTH), Greece
 - Universität der Bundeswehr München (UniBw), Germany
