@@ -7,11 +7,16 @@ permalink: /projects/lernmint/
 ---
 
 ### LernMINT: Dealing with bias and discrimination in learning analytics models
-<div>
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-lernmint.png" style="width: 200px">  
-</figure>
-</div>
+
+<table style="border-collapse: collapse; width: 80%;" border="0">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-lernmint.png" alt="" width="100" /></td>
+<td style="width: 50%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-mwk.png" alt="" width = "200"/></td>
+</tr>
+</tbody>
+</table>
+
 
 #### 1. Project details
 - <b>Project full name: </b> LernMINT-Datengestützter Unterricht in MINT-Fächern. Sub-project: Dealing with bias and discrimination in learning analytics models
