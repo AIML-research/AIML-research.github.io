@@ -8,6 +8,7 @@ permalink: /projects/stelar/
 
 ### STELAR (Spatio-TEmporal Linked data tools for the AgRi-food data space)
 
+
 #### 1. Project details
 - <b>Project acronym: </b> STELAR 
 - <b>Project full name: </b> Spatio-TEmporal Linked data tools for the AgRi-food data space
