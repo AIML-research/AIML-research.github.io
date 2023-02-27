@@ -10,7 +10,7 @@ permalink: /research-seminar.html
 This is the research seminar by AIML group
 
 ### When and where
-Each Wednesday 11:00 - 12:30, hybrid setting
+Each Wednesday 11:00 - 12:30, hybrid setting <br>
 Webex link: https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=m56a4b934ee76f14fe789ef3396855947
 
 ### What
