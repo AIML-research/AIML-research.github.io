@@ -11,7 +11,7 @@ permalink: /projects/stelar/
 <table style="border-collapse: collapse; width: 90%;" border="0">
 <tbody>
 <tr>
-<td style="width: 50%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-stelar.jpg" alt="" width="200" /></td>
+<td style="width: 50%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-stelar.png" alt="" width="200" /></td>
 <td style="width: 50%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-euro.png" alt="" width = "250"/></td>
 </tr>
  
