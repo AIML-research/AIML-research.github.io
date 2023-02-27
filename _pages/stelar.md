@@ -11,8 +11,8 @@ permalink: /projects/stelar/
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-stelar.png" alt="" width="100" /></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-euro.jpg" alt="" width = "230"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-stelar.png" alt="" width="130" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-euro.jpg" alt="" width = "250"/></td>
 </tr>
 
 </tbody>
@@ -30,18 +30,18 @@ permalink: /projects/stelar/
 <tbody>
  
 <tr>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-athena.jpg" alt="" width="100" /></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-UoA.jpg" alt="" width = "100"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tue.jpg" alt="" width = "100"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-ubm.jpg" alt="" width = "100"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-rapidminer.jpg" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-athena.jpg" alt="" width="150" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-UoA.jpg" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tue.jpg" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-ubm.jpg" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-rapidminer.jpg" alt="" width = "150"/></td>
 </tr>
 
 <tr>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Agroknow.jpg" alt="" width="100" /></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-vista.jpg" alt="" width = "100"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-abaco.jpg" alt="" width = "100"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-fsh.jpg" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Agroknow.jpg" alt="" width="150" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-vista.jpg" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-abaco.jpg" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-fsh.jpg" alt="" width = "150"/></td>
 </tr>
  
 </tbody>
