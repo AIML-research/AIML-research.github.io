@@ -52,19 +52,19 @@ permalink: /projects/mammoth/
 </tbody>
 </table>
 
-- Centre for Research and Technology (CERTH), Greece
-- Universität der Bundeswehr München (UniBw), Germany
-- Complexity Science Hub Vienna (CSH), Austria
-- Alma Mater Studiorum - Universita Di Bologna UNIBO, Italy
-- Rijksuniversiteit Groningen (RUG), Netherlands
-- EXUS Software EXUS, Greece
-- Trilateral Research Limited Ireland (TRI-IE), Ireland
-- Trilateral Research Ltd UK (affiliated) (TRI-UK), UK
-- ARIADNEXT (AXT), France
-- CSI Centre for Social Innovation Ltd (CSI), Cyprus
-- Associacio Forum Dona Activa 2010 (DAF), Spain
-- VSI Diversity Development Group (DDG), Lithuania
-- IASIS NGO (IASIS), Greece
+- [Centre for Research and Technology (CERTH)](https://www.certh.gr/root.en.aspx), Greece
+- [Universität der Bundeswehr München (UniBw)](https://www.unibw.de/home), Germany
+- [Complexity Science Hub Vienna (CSH)](https://www.csh.ac.at/), Austria
+- [Alma Mater Studiorum - Universita Di Bologna UNIBO](https://www.unibo.it/it), Italy
+- [Rijksuniversiteit Groningen (RUG)](https://www.rug.nl/), Netherlands
+- [EXUS Software EXUS](https://www.exusailabs.eu/), Greece
+- [Trilateral Research Limited Ireland (TRI-IE)](https://trilateralresearch.com/), Ireland
+- [Trilateral Research Ltd UK (affiliated) (TRI-UK)](https://trilateralresearch.com/), UK
+- [ARIADNEXT (AXT)](https://www.idnow.io/), France
+- [CSI Centre for Social Innovation Ltd (CSI)](https://csicy.com/), Cyprus
+- [Associacio Forum Dona Activa 2010 (DAF)](https://donaactiva.org/), Spain
+- [VSI Diversity Development Group (DDG)](https://www.diversitygroup.lt/en/), Lithuania
+- [IASIS NGO (IASIS)](https://www.iasismed.eu/), Greece
 
 #### 3. Team
 - Prof. Dr. Eirini Ntoutsi
