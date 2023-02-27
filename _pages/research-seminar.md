@@ -11,7 +11,8 @@ This is the research seminar by AIML group
 
 ### When and where
 Each Wednesday 11:00 - 12:30, hybrid setting <br>
-Webex link: https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=m56a4b934ee76f14fe789ef3396855947
+Offline:  Research Institute CODE, Bundeswehr University Munich <br>
+Online: https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=m56a4b934ee76f14fe789ef3396855947
 
 ### What
 Most sessions take place in form of a reading group: everybody reads the assigned paper before the meeting. Then we jointly discuss the paper (the main idea, experiments, pros and cons etc.) in the meeting. Sometimes we also have talks by guests or members of the group.
