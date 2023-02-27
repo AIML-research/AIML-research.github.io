@@ -11,7 +11,7 @@ permalink: /projects/mammoth/
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-mammoth.png" alt="" width="150" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-mammoth.svg" alt="" width="150" /></td>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-euro-co.jpg" alt="" width = "230"/></td>
 </tr>
 
@@ -31,22 +31,22 @@ permalink: /projects/mammoth/
 <tbody>
  
 <tr>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-certh.png" alt="" width="100" /></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-unibw.png" alt="" width = "100"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-vienna-csh.png" alt="" width = "100"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-unibo.png" alt="" width = "100"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-ised.png" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-certh.png" alt="" width="150" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-unibw.png" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-vienna-csh.png" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-unibo.png" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-ised.png" alt="" width = "150"/></td>
 </tr>
 <tr>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-exus.png" alt="" width="100" /></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tri.png" alt="" width = "100"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-IDnow.pngg" alt="" width = "100"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-CSI.png" alt="" width = "100"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-daf.png" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-exus.png" alt="" width="150" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tri.png" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-IDnow.pngg" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-CSI.png" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-daf.png" alt="" width = "150"/></td>
 </tr>
 <tr>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-DDG.png" alt="" width="100" /></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Iasis.jpg" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-DDG.png" alt="" width="150" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Iasis.jpg" alt="" width = "150"/></td>
 </tr>
  
 </tbody>
