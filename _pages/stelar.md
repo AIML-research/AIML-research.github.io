@@ -48,15 +48,15 @@ permalink: /projects/stelar/
 </tbody>
 </table>
 
-- ATHENA RESEARCH AND INNOVATION CENTER (ARC), Greece
-- University of Athens (UoA), Greece
-- Technische Universiteit Eindhoven (TUE), Netherlands
-- Universität der Bundeswehr München (UniBw), Germany
-- Rapidminer GmBH, Germany
-- AGROKNOW IKE, Greece
-- VISTA GEOWISSENSCHAFTLICHE FERNERKUNDUNG GMBH, Germany
-- ABACO SPA, Italy
-- FOODSCALE HUB ENTREPRENEURSHIP ANDINNOVATION ASSOCIATION, Serbia.
+- [ATHENA RESEARCH AND INNOVATION CENTER (ARC)](https://www.athenarc.gr/en/home), Greece
+- [University of Athens (UoA)](https://en.uoa.gr/), Greece
+- [Technische Universiteit Eindhoven (TUE)](https://www.tue.nl/en/), Netherlands
+- [Universität der Bundeswehr München (UniBw)](https://www.unibw.de/home), Germany
+- [Rapidminer GmBH](https://rapidminer.com/), Germany
+- [AGROKNOW IKE](https://agroknow.com/), Greece
+- [VISTA GEOWISSENSCHAFTLICHE FERNERKUNDUNG GMBH](https://www.vista-geo.de/), Germany
+- [ABACO SPA](https://www.abacospa.it/), Italy
+- [FOODSCALE HUB ENTREPRENEURSHIP ANDINNOVATION ASSOCIATION](https://foodscalehub.com/), Serbia.
 
 #### 3. Team
 - Prof. Dr. Eirini Ntoutsi (PI)
