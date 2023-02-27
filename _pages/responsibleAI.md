@@ -8,6 +8,12 @@ permalink: /projects/responsibleai/
 
 ### Responsible Artificial Intelligence: Bias & Opinion (Change) in Social Media Streams
 
+<div>
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-mwk.png" style="width: 250px">  
+</figure>
+</div>
+
 #### 1. Project details
 - <b>Project full name: </b> Responsible Artificial Intelligence: Bias & Opinion (Change) in Social Media Streams
 - <b>Funding period: </b> 
