@@ -50,7 +50,7 @@ In this project, we will investigate the sources of bias as well as methods for 
 - LernMINT retreats 1 (8th February 2022)
 <div>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/events/lernmit-retreat1.jpg" style="width: 500px">  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/events/lernmint-retreat1.jpg" style="width: 500px">  
 </figure>
 </div>
 
