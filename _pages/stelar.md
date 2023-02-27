@@ -32,12 +32,13 @@ permalink: /projects/stelar/
 <tr>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-athena.jpg" alt="" width="150" /></td>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-UoA.jpg" alt="" width = "150"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tue.jpg" alt="" width = "150"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-ubm.jpg" alt="" width = "150"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-rapidminer.jpg" alt="" width = "150"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tue.jpg" alt="" width = "200"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-unibw.jpg" alt="" width = "250"/></td>
+
 </tr>
 
 <tr>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-rapidminer.jpg" alt="" width = "150"/></td>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-Agroknow.jpg" alt="" width="150" /></td>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-vista.jpg" alt="" width = "150"/></td>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-abaco.jpg" alt="" width = "100"/></td>
