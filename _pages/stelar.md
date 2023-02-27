@@ -41,5 +41,5 @@ Existence of vast amounts of data is required as a supplement of the real data f
 
 #### 6.Publications
 
+<b><i>For further information please visit the [STELAR website](https://stelar-project.eu/)</i></b>
 
-https://stelar-project.eu/
