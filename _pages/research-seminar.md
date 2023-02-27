@@ -21,15 +21,15 @@ AIML group's member and everybody who is interested in machine learning.
 
 ### Upcoming meetings
 01.03.2023 Chethan Krishnamurthy Ramanaik present the second part of his master thesis and discuss the paper "The Forward-Forward Algorithm: Some Preliminary
-Investigations" https://www.cs.toronto.edu/~hinton/FFA13.pdf
-08.03.2023 TBAdisc
-15.03.2023 TBA
-22.03.2023 TBA
-29.03.2023 TBA
-05.04.2023 TBA
+Investigations" https://www.cs.toronto.edu/~hinton/FFA13.pdf <br>
+08.03.2023 TBA <br>
+15.03.2023 TBA <br>
+22.03.2023 TBA <br>
+29.03.2023 TBA <br>
+05.04.2023 TBA <br>
 
 ### Past meetings
-21.02.2023 Chethan Krishnamurthy Ramanaik present his master thesis
+21.02.2023 Chethan Krishnamurthy Ramanaik present his master thesis <br>
 
 ### Suggested papers for future meetings
 Feel free to make suggestions!
