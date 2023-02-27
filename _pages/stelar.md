@@ -12,17 +12,17 @@ permalink: /projects/stelar/
 <tbody>
 <tr>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bias.jpg" alt="" width="100" /></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "100"/></td>
 </tr>
 <tr>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bias.jpg" alt="" width="100" /></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "100"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "100"/></td>
 </tr>
  
 </tbody>
