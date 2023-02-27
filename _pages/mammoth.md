@@ -12,7 +12,7 @@ permalink: /projects/mammoth/
 <tbody>
 <tr>
 <td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-mammoth.svg" alt="" width="150" /></td>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-euro-co.jpg" alt="" width = "230"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-euro-co.jpg" alt="" width = "250"/></td>
 </tr>
 
 </tbody>
