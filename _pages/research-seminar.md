@@ -12,7 +12,7 @@ This is the research seminar by AIML group
 ### When and where
 Each Wednesday 11:00 - 12:30, hybrid setting <br>
 Offline:  Research Institute CODE, Bundeswehr University Munich <br>
-Online: https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=m56a4b934ee76f14fe789ef3396855947
+Online: [Webex link](https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=m56a4b934ee76f14fe789ef3396855947)
 
 ### What
 Most sessions take place in form of a reading group: everybody reads the assigned paper before the meeting. Then we jointly discuss the paper (the main idea, experiments, pros and cons etc.) in the meeting. Sometimes we also have talks by guests or members of the group.
@@ -21,8 +21,8 @@ Most sessions take place in form of a reading group: everybody reads the assigne
 AIML group's member and everybody who is interested in machine learning.
 
 ### Upcoming meetings
-01.03.2023 Chethan Krishnamurthy Ramanaik present the second part of his master thesis and discuss the paper "The Forward-Forward Algorithm: Some Preliminary
-Investigations" https://www.cs.toronto.edu/~hinton/FFA13.pdf <br>
+01.03.2023 Chethan Krishnamurthy Ramanaik present the second part of his master thesis and discuss the paper ["The Forward-Forward Algorithm: Some Preliminary
+Investigations"](https://www.cs.toronto.edu/~hinton/FFA13.pdf) <br>
 08.03.2023 TBA <br>
 15.03.2023 TBA <br>
 22.03.2023 TBA <br>
