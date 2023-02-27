@@ -46,4 +46,7 @@ In this project, we will investigate the sources of bias as well as methods for 
 - Le Quy, T., Roy, A., Friege, G., & Ntoutsi, E. (2021). <a href ="https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_184.pdf">Fair-capacitated clustering. </a> In Proceedings of The 14th International Conference on Educational Data Mining (EDM21) (pp. 407-414).
 - Le Quy, T., & Ntoutsi, E. (2021). <a href ="https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_270.pdf">Towards fair, explainable and actionable clustering for learning analytics </a>. In Proceedings of The 14th International Conference on Educational Data Mining (EDM21) (pp.847-851).
 
+#### 6. Events
+LernMINT retreats
+
 <b><i>For further information please visit the <a href ="https://lernmint.org/">LernMINT website</a></i></b>
