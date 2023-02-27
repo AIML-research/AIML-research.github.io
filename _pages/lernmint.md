@@ -11,7 +11,7 @@ permalink: /projects/lernmint/
 <table style="border-collapse: collapse; width: 90%;" border="0">
 <tbody>
 <tr>
-<td style="width: 50%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-lernmint.png" alt="" width="100" /></td>
+<td style="width: 50%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-lernmint.png" alt="" width="140" /></td>
 <td style="width: 50%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-mwk.png" alt="" width = "200"/></td>
 </tr>
 </tbody>
