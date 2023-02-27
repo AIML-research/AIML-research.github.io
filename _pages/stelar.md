@@ -8,6 +8,25 @@ permalink: /projects/stelar/
 
 ### STELAR (Spatio-TEmporal Linked data tools for the AgRi-food data space)
 
+<table style="border-collapse: collapse; width: 90%;" border="0">
+<tbody>
+<tr>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bias.jpg" alt="" width="100" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bias.jpg" alt="" width="100" /></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
+<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-VolkswagenStiftung.png" alt="" width = "200"/></td>
+</tr>
+ 
+</tbody>
+</table>
 
 #### 1. Project details
 - <b>Project acronym: </b> STELAR 
