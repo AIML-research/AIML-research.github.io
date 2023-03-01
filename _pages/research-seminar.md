@@ -29,8 +29,3 @@ AIML group's members and everybody who is interested in AI/ML.
 
 ### Past meetings
 21.02.2023 Chethan Krishnamurthy Ramanaik presented his master thesis "Topological Analysis of Curved Spaces and Hybridization of Autoencoders"<br>.
-
-### Suggested papers for future meetings
-Feel free to make suggestions!
-If you do, please (i) try to select short conference papers rather than long journal articles; (ii) please put your name when entering suggestions; it does not mean that you need to present it, but then we can judge where it comes from; (iii) Please provide a link, not just a title.
-
