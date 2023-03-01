@@ -7,22 +7,21 @@ permalink: /research-seminar.html
 ---
 
 ## Reseach seminar
-This is the research seminar by AIML group
+This is the research seminar by the AIML group. Most sessions take place in forms of a reading group or a research presentation by some member of the group or external guest. For the reading sessions: everybody reads the assigned paper before the meeting. Then we jointly discuss the paper (the main idea, experiments, pros and cons etc.). 
+
 
 ### When and where
 Each Wednesday 11:00 - 12:30, hybrid setting <br>
-Offline:  Research Institute CODE, Bundeswehr University Munich <br>
-Online: [Webex link](https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=m56a4b934ee76f14fe789ef3396855947)
+Offline:  Research Institute CODE, Bundeswehr University Munich. <br>
+Online: via WebEx. If you are interested, contact <a href="mailto:tai@l3s.de">Tai Le Quy</a> for the link.
 
-### What
-Most sessions take place in form of a reading group: everybody reads the assigned paper before the meeting. Then we jointly discuss the paper (the main idea, experiments, pros and cons etc.) in the meeting. Sometimes we also have talks by guests or members of the group.
 
 ### Who
-AIML group's member and everybody who is interested in machine learning.
+AIML group's members and everybody who is interested in AI/ML.
 
 ### Upcoming meetings
-01.03.2023 Chethan Krishnamurthy Ramanaik present the second part of his master thesis and discuss the paper ["The Forward-Forward Algorithm: Some Preliminary
-Investigations"](https://www.cs.toronto.edu/~hinton/FFA13.pdf) <br>
+01.03.2023 Paper discussion: <a href="https://www.cs.toronto.edu/~hinton/FFA13.pdf"><i>"The Forward-Forward Algorithm: Some Preliminary
+Investigations</i>"</a> <br>
 08.03.2023 TBA <br>
 15.03.2023 TBA <br>
 22.03.2023 TBA <br>
@@ -30,7 +29,7 @@ Investigations"](https://www.cs.toronto.edu/~hinton/FFA13.pdf) <br>
 05.04.2023 TBA <br>
 
 ### Past meetings
-21.02.2023 Chethan Krishnamurthy Ramanaik present his master thesis <br>
+21.02.2023 Chethan Krishnamurthy Ramanaik presented his master thesis "Topological Analysis of Curved Spaces and Hybridization of Autoencoders"<br>.
 
 ### Suggested papers for future meetings
 Feel free to make suggestions!
