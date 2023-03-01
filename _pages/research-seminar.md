@@ -20,8 +20,7 @@ Online: via WebEx. If you are interested, contact <a href="mailto:tai@l3s.de">Ta
 AIML group's members and everybody who is interested in AI/ML.
 
 ### Upcoming meetings
-01.03.2023 Paper discussion: <a href="https://www.cs.toronto.edu/~hinton/FFA13.pdf"><i>"The Forward-Forward Algorithm: Some Preliminary
-Investigations</i>"</a> <br>
+01.03.2023 Paper discussion: Hinton, G. (2022). <a href="https://www.cs.toronto.edu/~hinton/FFA13.pdf">The forward-forward algorithm: Some preliminary investigations</a> <br>
 08.03.2023 TBA <br>
 15.03.2023 TBA <br>
 22.03.2023 TBA <br>
