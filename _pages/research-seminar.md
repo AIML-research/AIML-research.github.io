@@ -19,13 +19,11 @@ Online: via WebEx. If you are interested, contact <a href="mailto:tai@l3s.de">Ta
 ### Who
 AIML group's members and everybody who is interested in AI/ML.
 
-### Upcoming meetings
+### Meetings
+21.02.2023 Chethan Krishnamurthy Ramanaik presented his master thesis "Topological Analysis of Curved Spaces and Hybridization of Autoencoders".<br>
 01.03.2023 Paper discussion: Hinton, G. (2022). <a href="https://www.cs.toronto.edu/~hinton/FFA13.pdf">The forward-forward algorithm: Some preliminary investigations</a> <br>
 08.03.2023 TBA <br>
 15.03.2023 TBA <br>
 22.03.2023 TBA <br>
 29.03.2023 TBA <br>
 05.04.2023 TBA <br>
-
-### Past meetings
-21.02.2023 Chethan Krishnamurthy Ramanaik presented his master thesis "Topological Analysis of Curved Spaces and Hybridization of Autoencoders"<br>.
