@@ -6,9 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-The Artificial Intelligence (AIML) group, lead by Prof. Dr. Eirini Ntoutsi, focuses on developing intelligent algorithms that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*. Ongoing directions include:
-- Continuous learning over non-stationary data and data streams, that is adapting machine learning models to changing environments.
-- Responsible AI, in particular fairness-aware machine learning and explainable AI.
+The Artificial Intelligence (AIML) group, lead by Prof. Dr. Eirini Ntoutsi, focuses on developing intelligent algorithms that address *real-world challenges*, such as non-stationarity and scarcity, and propotes *trustworthy decision-making*.
+<!--that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*-->. Ongoing directions include:
+- Continuous learning over evolving data, that is updating and improving ML models as new data become available and old data become obsolete or less relevant.
+- Trustworthy AI, in particular fairness-aware machine learning and explainable AI.
 - Generative AI, that is using machines to generate new data and solutions.
 
 The group is established in August 2022 and is part of the [Research Institute CODE for cybersecurity and smart data](https://www.unibw.de/code) and the [Department of Computer Science](https://www.unibw.de/inf) at the [Bundeswehr University Munich (UniBw-M)](https://www.unibw.de/). Members of the group will be still located at the [Freie Universität Berlin](https://www.fu-berlin.de/en/) and [Leibniz Universität Hannover](https://www.uni-hannover.de/en/)/[L3S Research Center](https://www.l3s.de/en).
