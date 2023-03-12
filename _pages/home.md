@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Artificial Intelligence (AIML) group, lead by Prof. Dr. Eirini Ntoutsi, focuses on developing intelligent algorithms that address *real-world challenges*, such as non-stationarity and scarcity, and propotes *trustworthy decision-making*.
+The Artificial Intelligence (AIML) group, lead by Prof. Dr. Eirini Ntoutsi, focuses on developing intelligent algorithms that address *real-world challenges*, such as non-stationarity and scarcity, and enable *trustworthy decision-making*.
 <!--that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*-->. Ongoing directions include:
 - Continuous learning over evolving data, that is updating and improving ML models as new data become available and old data become obsolete or less relevant.
 - Trustworthy AI, in particular fairness-aware machine learning and explainable AI.
