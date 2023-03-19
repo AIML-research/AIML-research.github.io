@@ -10,7 +10,7 @@ Current and previous courses at FUB, LUH, LMU.
 
 ### Teaching
 
-#### At the <a href ="[https://www.fu-berlin.de/](https://www.unibw.de/home)"> <b>Bundeswehr University Munich (UniBw-M)</b> </a>, Germany
+#### At the <a href ="https://www.unibw.de/home"> <b>Bundeswehr University Munich (UniBw-M)</b> </a>, Germany
 <b> Winter trimester WT2023 </b>
 - <a href="ht" target="new">Lecture: Artificial Intelligence</a>, WT23.
 - <a href =""> Seminar: Selected topics on AI/ML</a>, WT23.
