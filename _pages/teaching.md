@@ -9,6 +9,13 @@ permalink: /teaching/
 Current and previous courses at FUB, LUH, LMU.
 
 ### Teaching
+
+#### At the <a href ="[https://www.fu-berlin.de/](https://www.unibw.de/home)"> <b>Bundeswehr University Munich (UniBw-M)</b> </a>, Germany
+<b> Winter trimester WT2023 </b>
+- <a href="ht" target="new">Lecture: Artificial Intelligence</a>, WT23.
+- <a href =""> Seminar: Selected topics on AI/ML</a>, WT23.
+- <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>, WT23.
+
 #### At the <a href ="https://www.fu-berlin.de/"> <b>Freie Universität Berlin (FUB)</b> </a>, Germany
 <b> Summer semester SoSe 2022 </b>
 - <a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Teaching/SS22/Kuenstliche-Intelligenz/index.html" target="new">Lecture: Artificial Intelligence</a>, SoSe22.
