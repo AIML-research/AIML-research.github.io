@@ -53,35 +53,35 @@ In approaching this question, we will provide philosophical analyses of the rele
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/kiswind">KISWIND </a></b></li>
-Funding: <a href="https://www.cleanenergywire.org/experts/bmwi-federal-ministry-economic-affairs-and-energy">Bundesministerium für Wirtschaft und Energie (BMWi)</a>.<br> 
+Funding: <a href="https://www.cleanenergywire.org/experts/bmwi-federal-ministry-economic-affairs-and-energy">Bundesministerium für Wirtschaft und Energie (BMWi)</a>, Role: PI (Eirini Ntoutsi).<br> 
 The overall objective of the research project is the development of methods for efficient and automated continuous monitoring of the support structure of wind turbines for the detection of damage events and anomalies using acoustic emission analysis and innovative evaluation methods from the field of artificial intelligence (AI).
 </ul>
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/lernmint/">LernMINT - Dealing with bias and discrimination in learning analytics models</a></b></li>
-Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>.<br>
+Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>, Role: PI (Eirini Ntoutsi)<br>
 The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods.
 </ul>
 
 <ul>
-  <li><b><a href = "https://aiml-research.github.io/projects/enkis">ENKIS - Etablierung nachhaltiger KI-bezogener Studienangebote für eine Verantwortungsvolle Künstliche Intelligenz an der FUB</a>.</b></li>
+  <li><b><a href = "https://aiml-research.github.io/projects/enkis">ENKIS - Etablierung nachhaltiger KI-bezogener Studienangebote für eine Verantwortungsvolle Künstliche Intelligenz an der FUB</a>, Role: PI (Eirini Ntoutsi).</b></li>
 Funding: <a href="https://www.bmbf.de/bmbf/de/home/_documents/digitale-hochschulbildung.html#:~:text=Mit%20der%20Bund%2DL%C3%A4nder%2DVereinbarung,der%20Breite%20des%20Hochschulsystems%20entfalten.">BMBF</a>.<br>
-Promoting AI in higher education (FUB, particularly).
-Updated status: not further involved.
+Promoting AI in higher education (FUB, particularly).<\br>
+Updated status: No further involvement.
   </ul>
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/responsibleai/">Responsible AI </a></b></li>
-Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>.<br>
+Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>, Role: PI (Eirini Ntoutsi).<br>
 Artificial intelligence (AI) technologies are the driving force behind digitization. Due to their enormous social relevance, a responsible use of AI is of particular importance. The research and application of responsible AI is a very young discipline and requires the bundling of research activities from different disciplines in order to design and apply AI systems in a reliable, transparent, secure and legally acceptable way.
-Updated status: not further involved.
+Updated status: No further involvement.
 </ul>
   
 ### Finished research projects
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/oscar">OSCAR - Opinion Stream Classification with Ensembles and Active leaRners</a>.</b></li>
-Funding: <a href="https://gepris.dfg.de/gepris/projekt/317686254?language=en" target="_new">DFG</a>, Role: PI (Eirini Ntoutsi)<br>
+Funding: <a href="https://gepris.dfg.de/gepris/projekt/317686254?language=en" target="_new">DFG</a>, Role: PI (Eirini Ntoutsi).<br>
 Many data accumulating in the Web reflect opinions on diverse subjects - products, institutions, events (e.g., elections) or topics (e.g., earth warming). Opinionated documents constitute a continuous stream; polarity learning on them delivers insights on the attitude of people towards each subject. Polarity learning algorithms must cope with classic Big Data characteristics: high volume and velocity of the arriving data, and volatility of the learned concepts, since subjects and attitudes of people toward certain subjects change over time. In OSCAR, we will develop classifiers that operate on an evolving feature space, adapt to changes in both vocabulary and data and operate with limited class labels.
 </ul>
     
