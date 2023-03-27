@@ -21,6 +21,7 @@ AIML group's members and everybody who is interested in AI/ML.
 
 ### Meetings
 <ul>
+<li>29.03.2023 Vivek Kumar will talk about "Knowledge Augmenting Practices for domain adaptation in language models".</li>
 <li>22.03.2023 Paper discussion: Friedrich, F. et al (2023). <a href="https://arxiv.org/pdf/2302.10893.pdf">Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness</a>.</li>
 <li>15.03.2023 <a href="https://givasile.github.io/" target="_new">Vasilis Gkolemis</a> will present his paper "<a href="https://givasile.github.io/assets/pdf/gkolemis22_dale.pdf">DALE: Differential Accumulated Local Effects for efficient and accurate global explanations</a>", accepted at ACML22.</li>
 <li>08.03.2023  Chethan Krishnamurthy Ramanaik will continue the discussion on the topological structures of the input space in latent representations of autoencoders.</li>
