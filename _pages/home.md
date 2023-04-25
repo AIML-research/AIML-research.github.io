@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Artificial Intelligence and Machine Learning (AIML) group, lead by Prof. Dr. Eirini Ntoutsi, focuses on developing intelligent algorithms that address *real-world challenges*, such as non-stationarity and scarcity, and take into account responsible AI aspects, in particular, fairness and transparency in decision making.
-<!--that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*--> Ongoing directions include:
+The Artificial Intelligence and Machine Learning (AIML) group, lead by Prof. Dr. Eirini Ntoutsi, focuses on developing intelligent algorithms that address *real-world data challenges*, such as non-stationarity and scarcity, while also taking into account fairness and transparency in decision making.<!--that learn from data *continuously* following the cumulative nature of human learning, while ensuring that what has been learned helps driving *positive societal impact*--> Ongoing directions include:
 - Continuous learning over evolving data and data streams.
 - Responsible AI, in particular fairness-aware machine learning and explainable AI.
 - Generative AI, that is using machines to generate new data and solutions.
