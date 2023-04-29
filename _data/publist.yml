@@ -1,3 +1,24 @@
+ - title: "Multi-fair capacitated students-topics grouping problem"
+  image: 
+  description: 
+  authors:   Tai Le Quy, Gunnar Friege, Eirini Ntoutsi
+  link:
+    url: https://arxiv.org/abs/2206.09895
+    display: The 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2023) (accepted)
+  highlight: 0
+  news2:  
+  year:  2023
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video:
+
 - title: "A review of clustering models in educational data science towards fairness-aware learning"
   image: 
   description: 
