@@ -18,7 +18,6 @@
   ppt: 
   hasvideo: 0
   video: 
-  
   - title: "Multi-fair capacitated students-topics grouping problem"
   image: 
   description: 
@@ -39,7 +38,6 @@
   ppt: 
   hasvideo: 0
   video: 
-  
 - title: "A review of clustering models in educational data science towards fairness-aware learning"
   image: 
   description: 
