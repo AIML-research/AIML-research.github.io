@@ -1,3 +1,24 @@
+- title: "AI-based offshore wind turbine design"
+  image: 
+  description: 
+  authors:   Emmanouil Panagiotou, Eirini Ntoutsi
+  link:
+    url: https://phd2020.eawe.eu/site-phd2020/assets/files/Book_of_Proceedings_EAWE21.pdf
+    display:  The 17th EAWE PhD Seminar
+  highlight: 0
+  news2:  
+  year:  2021
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
 - title: "Multi-dimensional discrimination in Law and Machine Learning - A comparative overview"
   image: 
   description: 
@@ -46,7 +67,7 @@
   authors:   Tai Le Quy, Gunnar Friege, Eirini Ntoutsi
   link:
     url: https://link.springer.com/chapter/10.1007/978-981-99-0026-8_2
-    display: Peña-Ayala, A. (eds) Educational Data Science: Essentials, Approaches, and Tendencies. Big Data Management. Springer, Singapore.
+    display: "Peña-Ayala, A. (eds) Educational Data Science: Essentials, Approaches, and Tendencies. Big Data Management. Springer, Singapore."
   highlight: 0
   news2:  
   year:  2023
