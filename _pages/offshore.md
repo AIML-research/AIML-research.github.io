@@ -34,7 +34,7 @@ permalink: /projects/offshore/
 
 #### 3. Team
 - Prof. Dr. Eirini Ntoutsi (PI)
-- MSc.Emmanouil Panagiotou (Ph.D. student)
+- MSc. Emmanouil Panagiotou (Ph.D. student)
 
 #### 4. Project overview
 The CRC conducts research on offshore megastructures, studying their design and operating conditions. We use a real-time capable simulation model of a digital twin and  model all life phases of a structure, from the design and manufacturing to installation, operation and demolition.
@@ -47,6 +47,6 @@ We are mainly involved in subproject B01: <i><a href ="https://www.sfb1463.uni-h
 - Using XAI to understand decision making, corner cases and failures, but also to propose actionable recommendations (counterfactuals) to the end users. 
 
 #### 6. Publications
--	Multi-objective substructure generation, 18th EAWE PhD Seminar on Wind Energy, 2-4 November 2022, Bruges, Belgium. 
--	AI-based offshore wind turbine design, 17th EAWE PhD Seminar on Wind Energy, 3-5 Nov 2021, Porto (Portugal)
-
+- Explainable AI-based Generation of Offshore Substructure Designs, ISOPE-2023, June 19-23, 2023, Ottawa, Canada 
+-	<a href ="https://dl.dropboxusercontent.com/s/449qvfxq82xmrz1/book-eawephd2022-en.pdf">Multi-objective substructure generation</a>, 18th EAWE PhD Seminar on Wind Energy, 2-4 November 2022, Bruges, Belgium. 
+-	<a href ="https://phd2020.eawe.eu/site-phd2020/assets/files/Book_of_Proceedings_EAWE21.pdf">AI-based offshore wind turbine design</a>, 17th EAWE PhD Seminar on Wind Energy, 3-5 Nov 2021, Porto (Portugal)
