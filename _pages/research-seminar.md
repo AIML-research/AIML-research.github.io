@@ -27,7 +27,7 @@ AIML group's members and everybody who is interested in AI/ML.
   </li>
 <li>22.03.2023 Paper discussion: Friedrich, F. et al (2023). <a href="https://arxiv.org/pdf/2302.10893.pdf">Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness</a>.</li>
 <li>15.03.2023 <a href="https://givasile.github.io/" target="_new">Vasilis Gkolemis</a> will present his paper "<a href="https://givasile.github.io/assets/pdf/gkolemis22_dale.pdf">DALE: Differential Accumulated Local Effects for efficient and accurate global explanations</a>", accepted at ACML22.</li>
-<li>08.03.2023  Chethan Krishnamurthy Ramanaik will continue the discussion on the topological structures of the input space in latent representations of autoencoders.</li>
+<!--<li>08.03.2023  Chethan Krishnamurthy Ramanaik will continue the discussion on the topological structures of the input space in latent representations of autoencoders.</li>-->
 <li>01.03.2023 Paper discussion: Hinton, G. (2022). <a href="https://www.cs.toronto.edu/~hinton/FFA13.pdf">The forward-forward algorithm: Some preliminary investigations</a>.</li>
 <li>21.02.2023 Chethan Krishnamurthy Ramanaik will present his master thesis "Topological Analysis of Curved Spaces and Hybridization of Autoencoders".</li>
 </ul>
