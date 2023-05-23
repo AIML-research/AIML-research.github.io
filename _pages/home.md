@@ -72,12 +72,6 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         </div>
         
         <div class="item">
-            <a href = "https://www.lorentzcenter.nl/fairness-in-algorithmic-decision-makinga-domain-specific-approach.html" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairnessIAlgo@LorentzCenter.Poster.2022.jpg" alt="Fairness in Algorithmic Decision Making:A Domain-Specific Approach @ Lorentz Center, NL, 2022"  width="1253" height="533"/>
-            </a>
-        </div>
-        
-        <div class="item">
             <a href="https://doi.org/10.1002/widm.1356" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoBIAS.Survey@WIREs2020.png" alt="Introductory survey to fairness in AI @WIREs DMKD 2020"/>
             </a>  
@@ -88,7 +82,11 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairdatasets-survey.WIDM22.png" alt="Datasets for fairness-aware learning-survey paper @WIREs DMKD 2022"  width="1253" height="533"/>
             </a>
         </div>
-        
+            <div class="item">
+            <a href = "https://www.lorentzcenter.nl/fairness-in-algorithmic-decision-makinga-domain-specific-approach.html" target="_blank">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairnessIAlgo@LorentzCenter.Poster.2022.jpg" alt="Fairness in Algorithmic Decision Making:A Domain-Specific Approach @ Lorentz Center, NL, 2022"  width="1253" height="533"/>
+            </a>
+        </div>
         
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
