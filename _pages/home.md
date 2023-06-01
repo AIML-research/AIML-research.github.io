@@ -6,16 +6,14 @@ sitemap: false
 permalink: /
 ---
 
-The Artificial Intelligence and Machine Learning (AIML) group, lead by Prof. Dr. Eirini Ntoutsi, focuses on researching and developing intelligent algorithms that address *real-world data challenges* and contribute to the overall improvement of the society. Our methods cover a diverse array of application fields, including education, social networks, banks, agriculture, manufacturing, and engineering.
-
-At the heart of our mission, we are motivated by two fundamental questions: *How can we build intelligent algorithms for the real world?* Equally important, *what kind of intelligence do we aspire to build?*
+The Artificial Intelligence and Machine Learning (AIML) group, lead by Prof. Dr. Eirini Ntoutsi, focuses on researching and developing intelligent algorithms that address *real-world data challenges* and contribute to the overall improvement of the society. At the heart of our mission, we are motivated by two fundamental questions: *How can we build intelligent algorithms for the real world?* Equally important, *what kind of intelligence do we aspire to build?*
 
 Ongoing directions include:
 - Continuous learning over evolving data and data streams.
 - Responsible AI with a focus on fairness-aware machine learning and explainable AI.
 - Generative AI for generating new data and solutions.
 
-
+Our methods cover a diverse array of application fields, including education, social networks, banks, agriculture, manufacturing, and engineering.
 
 The group is established in August 2022 and is part of the [Research Institute CODE for cybersecurity and smart data](https://www.unibw.de/code) and the [Department of Computer Science](https://www.unibw.de/inf) at the [Bundeswehr University Munich (UniBw-M)](https://www.unibw.de/). Members of the group will be still located at the [Freie Universität Berlin](https://www.fu-berlin.de/en/) and [Leibniz Universität Hannover](https://www.uni-hannover.de/en/)/[L3S Research Center](https://www.l3s.de/en).
 
