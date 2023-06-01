@@ -10,6 +10,7 @@ The Artificial Intelligence and Machine Learning (AIML) group, lead by Prof. Dr.
 - Continuous learning over evolving data and data streams.
 - Responsible AI with a focus on fairness-aware machine learning and explainable AI.
 - Generative AI for generating new data and solutions.
+
 Our methods cover a diverse array of application fields, including education, social networks, banks, agriculture, manufacturing, and engineering.
 
 At the heart of our mission, we are motivated by two fundamental questions: *How can we build intelligent algorithms?* Equally important, *what kind of intelligence do we aspire to build?*
