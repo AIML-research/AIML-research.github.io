@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Artificial Intelligence and Machine Learning (AIML) group, lead by Prof. Dr. Eirini Ntoutsi, focuses on researching and developing intelligent algorithms that address *real-world data challenges* and contribute to the overall improvement of the society. At the heart of our mission, we are motivated by two fundamental questions: *How can we build intelligent algorithms for the real world?* Equally important, *what kind of intelligence do we aspire to build?*
+The Artificial Intelligence and Machine Learning (AIML) group, lead by Prof. Dr. Eirini Ntoutsi, focuses on researching and developing intelligent algorithms that address *real-world data challenges* and contribute to the overall improvement of the society. Two fundamental questions drive our work: *How can we build intelligent machines for the real world?* Equally important, *what kind of intelligence do we aspire to build?*
 
 Ongoing directions include:
 - Continuous learning over evolving data and data streams.
