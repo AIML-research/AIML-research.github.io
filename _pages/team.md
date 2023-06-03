@@ -203,9 +203,10 @@ permalink: /team/
 
 
 ### Master and Bachelor students
-
-- <b> Viktoria Andres </b>, B.Sc., <a href =""> "Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide"</a>, <a href="https://git.imp.fu-berlin.de/viktoa98/bachelor-thesis-about-counterfactuals-in-time-series-classification/-/tree/master">[code]</a>, WiSe21/22. 
+- <b> Esra Gücükbel </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/38114">"Evaluating The Explanation of Black Box
+Decision for Text Classification"</a>, WiSe22/23.
 - <b> Florian Mies </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/36131">"Analysis of the Generative Replay Algorithm and Comparison with other Continual Learning Approaches on Newly Defined Non-stationary Data Stream Scenarios"</a>, <a href="https://avalanche-api.continualai.org/en/v0.2.0/_modules/avalanche/training/plugins/generative_replay.html">[code]</a>, SoSe22.
+- <b> Viktoria Andres </b>, B.Sc., <a href =""> "Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide"</a>, <a href="https://git.imp.fu-berlin.de/viktoa98/bachelor-thesis-about-counterfactuals-in-time-series-classification/-/tree/master">[code]</a>, WiSe21/22. 
 
 
 ### HiWi students
@@ -215,7 +216,6 @@ permalink: /team/
 
 
 ### Former members
-
 - <b> Manuel Heurich </b>, PhD Student, August 2021 - May 2022 (currently PhD student @FUB)
 - <b> Yi Cai </b>, PhD student, November 2020 - May 2022, Topic: Explanations for text classification (currently PhD student @FUB)
 - <b> Philipp Naumann </b>, PhD student, March 2021 - May 2022, Topic: Counterfactual fairness  (currently PhD student @TUB)
@@ -225,7 +225,6 @@ permalink: /team/
 - <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams  (currently PhD student @LUH)
 
 ### Former visitors
-
   - <b> Srijanani Saiegiridar </b> (Visiting BSc student), 01/01/2020-31/7/2020, Sastra Deemed University, India. Research topic: Fair clustering.  
   - <b> Bahman Askari </b> (Erasmus MSc student), WiSe18/19-SS19, University of Camerino, Italy. Research topic: demand prediction. Related publication <a href = "https://doi.org/10.1109/COMPSAC48688.2020.000-7"> SSMLS@COMPSAC 2020 </a>.  
   - <b> Wenbin Zhang </b> (Visiting PhD student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 </a>.
