@@ -38,6 +38,7 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items --> 
@@ -53,6 +54,12 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         <div class="item">
             <a href="https://2022.ecmlpkdd.org/" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECML2022.jpg" alt="ECML/PKDD 2022 conference" width="1253" height="533"/>
+            </a>
+        </div>
+       
+         <div class="item">
+            <a href="https://www.sfb1463.uni-hannover.de/" target="_blank">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Mammoth.1stMeetingThes.png" alt="Kick-Off Meeting of Mammoth in Thessaloniki, November 2022" width="1253" height="533"/>
             </a>
         </div>
         
