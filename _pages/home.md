@@ -58,7 +58,7 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         </div>
        
          <div class="item">
-            <a href="https://www.sfb1463.uni-hannover.de/" target="_blank">
+            <a href="https://mammoth-ai.eu/newsletterv1/" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Mammoth.1stMeetingThes.png" alt="Kick-Off Meeting of Mammoth in Thessaloniki, November 2022" width="1253" height="533"/>
             </a>
         </div>
