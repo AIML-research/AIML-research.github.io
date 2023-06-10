@@ -3,10 +3,10 @@
   info: Ph.D. Student
   email: arjun.roy@fu-berlin.de
   number_educ: 0
-  project: BIAS
+  project: BIAS, MAMMOTH
   website:
   has_project_web: 1
-  project_web: https://aiml-research.github.io/projects/bias/
+  project_web: https://aiml-research.github.io/projects/mammoth/
     
 - name: Emmanouil Panagiotou
   photo: Emmanouil.jpg
