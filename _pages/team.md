@@ -207,7 +207,7 @@ permalink: /team/
 - <b> Esra Gücükbel </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/38114">"Evaluating The Explanation of Black Box
 Decision for Text Classification"</a>, WiSe22/23.
 - <b> Florian Mies </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/36131">"Analysis of the Generative Replay Algorithm and Comparison with other Continual Learning Approaches on Newly Defined Non-stationary Data Stream Scenarios"</a>, <a href="https://avalanche-api.continualai.org/en/v0.2.0/_modules/avalanche/training/plugins/generative_replay.html">[code]</a>, SoSe22.
-- <b> Viktoria Andres </b>, B.Sc., <a href =""> "Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide"</a>, <a href="https://git.imp.fu-berlin.de/viktoa98/bachelor-thesis-about-counterfactuals-in-time-series-classification/-/tree/master">[code]</a>, WiSe21/22. 
+- <b> Viktoria Andres </b>, B.Sc., <a href ="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Ressourcen/BA-Viktoria-Andres.pdf"> "Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide"</a>, <a href="https://git.imp.fu-berlin.de/viktoa98/bachelor-thesis-about-counterfactuals-in-time-series-classification/-/tree/master">[code]</a>, WiSe21/22. 
 
 
 ### HiWi students
