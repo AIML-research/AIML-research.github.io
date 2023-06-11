@@ -39,6 +39,7 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li> 
     </ol>
 
     <!-- Items --> 
@@ -50,10 +51,15 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BIASECMLPKDD2023.jpg" alt="BIAS workshop @ECML PKDD 2023" width="1253" height="533"/>
         </a>
      </div>
-        
       <div class="item">
             <a href="https://2022.ecmlpkdd.org/" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECML2022.jpg" alt="ECML/PKDD 2022 conference" width="1253" height="533"/>
+            </a>
+        </div>
+        
+      <div class="item">
+            <a href="https://phd2023.eawe.eu/" target="_blank">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/EAWEPhDSeminar23.png" alt="19th EAWE PhD seminar" width="1253" height="533"/>
             </a>
         </div>
        
