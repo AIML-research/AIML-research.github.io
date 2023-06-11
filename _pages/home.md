@@ -39,6 +39,7 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
 
     <!-- Items --> 
@@ -51,8 +52,7 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         </a>
      </div>
         
-         <div class="carousel-inner" markdown="0">
-        <div class="item active">
+      <div class="item">
         <a href="https://phd2023.eawe.eu/" target="_blank">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/EAWEPhDSeminar23.png" alt="B19th EAWE PhD seminar" width="1253" height="533"/>
         </a>
