@@ -53,11 +53,6 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
      </div>
         
       <div class="item">
-        <a href="https://phd2023.eawe.eu/" target="_blank">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/EAWEPhDSeminar23.png" alt="B19th EAWE PhD seminar" width="1253" height="533"/>
-        </a>
-     </div>  
-        <div class="item">
             <a href="https://2022.ecmlpkdd.org/" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECML2022.jpg" alt="ECML/PKDD 2022 conference" width="1253" height="533"/>
             </a>
@@ -98,7 +93,8 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairdatasets-survey.WIDM22.png" alt="Datasets for fairness-aware learning-survey paper @WIREs DMKD 2022"  width="1253" height="533"/>
             </a>
         </div>
-            <div class="item">
+         
+        <div class="item">
             <a href = "https://www.lorentzcenter.nl/fairness-in-algorithmic-decision-makinga-domain-specific-approach.html" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairnessIAlgo@LorentzCenter.Poster.2022.jpg" alt="Fairness in Algorithmic Decision Making:A Domain-Specific Approach @ Lorentz Center, NL, 2022"  width="1253" height="533"/>
             </a>
