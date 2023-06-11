@@ -39,7 +39,6 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
-        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
 
     <!-- Items --> 
