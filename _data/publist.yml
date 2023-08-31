@@ -1,4 +1,25 @@
-- title: "Learning impartial policies for sequential counterfactual explanations using Deep Reinforcement Learning"
+- title: "RHALE Robust and Heterogeneity-aware Accumulated Local Effects"
+  image: 
+  description: 
+  authors: Vasilis Gkolemis, Theodore Dalamagas, Eirini Ntoutsi, Christos Diou
+  link:
+    url: 
+    display: 26th European Conference on Artificial Intelligence (ECAI 2023) (accepted)
+  highlight: 0
+  news2:  
+  year:  2023
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
+  - title: "Learning impartial policies for sequential counterfactual explanations using Deep Reinforcement Learning"
   image: 
   description: 
   authors:   Emmanouil Panagiotou, Eirini Ntoutsi
