@@ -1,4 +1,4 @@
- - title: "Learning impartial policies for sequential counterfactual explanations using Deep Reinforcement Learning"
+- title: "Learning impartial policies for sequential counterfactual explanations using Deep Reinforcement Learning"
   image: 
   description: 
   authors:   Emmanouil Panagiotou, Eirini Ntoutsi
@@ -19,7 +19,7 @@
   hasvideo: 0
   video: 
   
-  - title: "Affinity Clustering Framework for Data Debiasing using Pairwise Distribution Discrepancy"
+- title: "Affinity Clustering Framework for Data Debiasing using Pairwise Distribution Discrepancy"
   image: 
   description: 
   authors:  Siamak Ghodsi, Eirini Ntoutsi
