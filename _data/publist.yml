@@ -1,4 +1,25 @@
-- title: "Affinity Clustering Framework for Data Debiasing using Pairwise Distribution Discrepancy"
+ - title: "Learning impartial policies for sequential counterfactual explanations using Deep Reinforcement Learning"
+  image: 
+  description: 
+  authors:   Emmanouil Panagiotou, Eirini Ntoutsi
+  link:
+    url: 
+    display: DynXAI workshop, co-located with ECML PKDD 2023 (accepted)
+  highlight: 0
+  news2:  
+  year:  2023
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
+  - title: "Affinity Clustering Framework for Data Debiasing using Pairwise Distribution Discrepancy"
   image: 
   description: 
   authors:  Siamak Ghodsi, Eirini Ntoutsi
