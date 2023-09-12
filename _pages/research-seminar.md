@@ -26,7 +26,6 @@ AIML group's members and everybody who is interested in AI/ML.
     <li>Learning impartial policies for sequential  counterfactual explanations using Deep Reinforcement Learning</li>
     <li>Generating synthetic design alternatives in mixed feature spaces - Application on offshore substructure data</li>
   </ul>
-  Research overview Manolis Invited speaker Tobias will talk about "Compressive Sensing and Geometry of Inverse Problems for Sparse Signals" and Siamak will present his recent accepted paper (EWAF 2023) "Affinity Clustering Framework for Data Debiasing using Pairwise Distribution Discrepancy" </li>
 </ul>
 
 <ul>
