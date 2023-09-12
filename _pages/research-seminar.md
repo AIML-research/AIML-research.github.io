@@ -23,8 +23,8 @@ AIML group's members and everybody who is interested in AI/ML.
 <ul>
 <li>13.09.2023 Manolis will give a summary of his current research, which includes two parts:
   <ul>
-    <li>Learning impartial policies for sequential  counterfactual explanations using Deep Reinforcement Learning (to be presented at the <a href="https://sites.google.com/view/dynxai-ecmlpkdd-2023/home?authuser=0" target="_new">DynXAI Workshop</a>, co-located with ECML PKDD 2023) </li>
-    <li>Generating synthetic design alternatives in mixed feature spaces - Application on offshore substructure data</li>
+    <li>Learning impartial policies for sequential  counterfactual explanations using Deep Reinforcement Learning (to be presented at the <a href="https://sites.google.com/view/dynxai-ecmlpkdd-2023/home?authuser=0" target="_new">DynXAI Workshop</a>, co-located with ECML PKDD 2023).</li>
+    <li>Generating synthetic design alternatives in mixed feature spaces - Application on offshore substructure data (related to the <a href="https://www.sfb1463.uni-hannover.de/" target="_new">SFB 1463</a> project)</li>
   </ul>
 </li>
 <li>27.09.2023 Valerie Krug from Otto-von-Guericke-University Magdeburg will give a talk on ``Neuroscience-Inspired Analysis and Visualization of Deep Neural Networks":
