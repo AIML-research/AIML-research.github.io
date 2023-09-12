@@ -24,6 +24,7 @@ permalink: /projects/hephaestus/
 #### 2. Team
 - Prof. Dr. Eirini Ntoutsi
 - MSc. Philip Naumann
+- MSc. Abheek Dhingra
 
 #### 3. Project overview
 <i>Rising customer demands and a trend towards smaller batch sizes have led to an increased complexity in product design and subsequent process planning, e.g. of 5-axes milling operations. Thus, process simulations are commonly used in industry to support process planning. Especially, the dimensional accuracy is crucial for most machined parts, since it affects directly the functionality. Consequently, finishing operations have especially high requirements with respect to the surface tolerances. Despite the aforementioned simulation tools, manual adjustments, which rely on the expert knowledge of workers and process planners, are still necessary in order to cope with process- or machine-specific deviations such as tool stiffness or machine dynamics. </i>
