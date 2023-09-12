@@ -60,7 +60,9 @@ permalink: /projects/stelar/
 
 #### 3. Team
 - Prof. Dr. Eirini Ntoutsi (PI)
-- TBA 
+- Dr. Vivek Kumar Singh
+- MSc. Konstantinos Zacharis
+- MSc. Chethan Krishnamurthy Ramanaik
 
 #### 4. Project overview
 STELAR will design, develop, evaluate, and showcase an innovative Knowledge Lake Management System (KLMS) to support and facilitate a holistic approach for FAIR (Findable, Accessible, Interoperable, Reusable) and AI-ready (high-quality, reliably labeled) data that will be pilot tested in diverse, real-world use cases in the agrifood data space.
