@@ -28,6 +28,7 @@ AIML group's members and everybody who is interested in AI/ML.
   </ul>
 </ul>
 
+<h2>Previous sessions</h2>
 <ul>
 <li>31.05.2023 Invited speaker Tobias will talk about "Compressive Sensing and Geometry of Inverse Problems for Sparse Signals" and Siamak will present his recent accepted paper (EWAF 2023) "Affinity Clustering Framework for Data Debiasing using Pairwise Distribution Discrepancy" </li>
 <li>24.05.2023 Manolis will present his work on working with mixed data </li>
