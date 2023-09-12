@@ -40,6 +40,7 @@ AIML group's members and everybody who is interested in AI/ML.
 
 <h2>Previous sessions</h2>
 <ul>
+<li>04.07.2023 <a href="https://katesmithmiles.wixsite.com/home" target="_new">Prof. Kate Smiles</a> will give an invited talk on "Stress-testing Algorithms via Instance Space Analysis".</li>
 <li>31.05.2023 Invited speaker Tobias will talk about "Compressive Sensing and Geometry of Inverse Problems for Sparse Signals" and Siamak will present his recent accepted paper (EWAF 2023) "Affinity Clustering Framework for Data Debiasing using Pairwise Distribution Discrepancy" </li>
 <li>24.05.2023 Manolis will present his work on working with mixed data </li>
 <li>17.05.2023 Swati will present her work "Lifelong News Bias Prediction in low-resource multilingual headlines"</li>
