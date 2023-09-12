@@ -23,7 +23,7 @@ AIML group's members and everybody who is interested in AI/ML.
 <ul>
 <li>13.09.2023 Manolis will give a summary of his current research, which includes two parts:
   <ul>
-    <li>Learning impartial policies for sequential  counterfactual explanations using Deep Reinforcement Learning</li>
+    <li>Learning impartial policies for sequential  counterfactual explanations using Deep Reinforcement Learning (to be presented at the <a href="https://sites.google.com/view/dynxai-ecmlpkdd-2023/home?authuser=0" target="_new">DynXAI Workshop</a>, co-located with ECML PKDD 2023) </li>
     <li>Generating synthetic design alternatives in mixed feature spaces - Application on offshore substructure data</li>
   </ul>
 </li>
