@@ -19,6 +19,16 @@ Online: via WebEx. If you are interested, contact <a href="mailto:tai@l3s.de">Ta
 AIML group's members and everybody who is interested in AI/ML.
 
 ### Meetings
+<h2>Autumn trimester</h2>
+<ul>
+<li>13.09.2023 Manolis will give a summary of his current research, which includes two parts:
+  <ul>
+    <li>Learning impartial policies for sequential  counterfactual explanations using Deep Reinforcement Learning</li>
+    <li>Generating synthetic design alternatives in mixed feature spaces - Application on offshore substructure data</li>
+  </ul>
+  Research overview Manolis Invited speaker Tobias will talk about "Compressive Sensing and Geometry of Inverse Problems for Sparse Signals" and Siamak will present his recent accepted paper (EWAF 2023) "Affinity Clustering Framework for Data Debiasing using Pairwise Distribution Discrepancy" </li>
+</ul>
+
 <ul>
 <li>31.05.2023 Invited speaker Tobias will talk about "Compressive Sensing and Geometry of Inverse Problems for Sparse Signals" and Siamak will present his recent accepted paper (EWAF 2023) "Affinity Clustering Framework for Data Debiasing using Pairwise Distribution Discrepancy" </li>
 <li>24.05.2023 Manolis will present his work on working with mixed data </li>
