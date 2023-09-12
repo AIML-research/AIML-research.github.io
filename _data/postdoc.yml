@@ -1,6 +1,8 @@
-- name: 
-  photo: 
-  info: 
-  email: 
-  number_educ: 1
-  education1: 
+- name: Vivek Kumar Singh
+  photo: Vivek.png 
+  email: vivek.kumar@unibw.de
+  number_educ: 0
+  project: STELAR
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/stelar/
