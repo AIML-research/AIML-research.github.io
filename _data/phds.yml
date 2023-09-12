@@ -59,3 +59,45 @@
   website:
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/nobias/
+  
+- name: Konstantinos Zacharis
+  photo: Kostas.png
+  info: Ph.D. Student
+  email: konstantinos.zacharis@unibw.de
+  number_educ: 0
+  project: STELAR
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/stelar/
+
+- name: Swati Swati
+  photo: Swati.jpg
+  info: Ph.D. Student
+  email: swati.swati@unibw.de
+  number_educ: 0
+  project: MAMMOTH
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/mammoth/
+
+- name: Chethan Krishnamurthy Ramanaik
+  photo: Chethan.png
+  info: Ph.D. Student
+  email: chethan.krishnamurthy@unibw.de
+  number_educ: 0
+  project: STELAR
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/stelar/
+
+- name: Abheek Dhingra
+  photo: 
+  info: Ph.D. Student
+  email: abheek.dhingra@unibw.de
+  number_educ: 0
+  project: Hephaestus
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/hephaestus/
+  
+  
