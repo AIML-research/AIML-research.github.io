@@ -35,7 +35,7 @@ AIML group's members and everybody who is interested in AI/ML.
 </li>
   </ul>
 </li>
-  
+<li>....</li>
 </ul>
 
 <h2>Previous sessions</h2>
