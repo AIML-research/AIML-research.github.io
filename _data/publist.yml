@@ -61,6 +61,27 @@
   hasvideo: 0
   video: 
   
+- title: "Regionally Additive Models Explainable-by-design models minimizing feature interactions"
+  image: 
+  description: 
+  authors: Vasilis Gkolemis, Theodore Dalamagas, Eirini Ntoutsi, Christos Diou
+  link:
+    url: 
+    display: XAI-uncertainty workshop, co-located with ECML PKDD 2023 (accepted)
+  highlight: 0
+  news2:  
+  year:  2023
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "Affinity Clustering Framework for Data Debiasing using Pairwise Distribution Discrepancy"
   image: 
   description: 
