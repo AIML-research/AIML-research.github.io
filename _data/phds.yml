@@ -7,14 +7,3 @@
   website:
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/mammoth/ 
-
-- name: Emmanouil Panagiotou
-  photo: Emmanouil.jpg
-  info: Ph.D. Student
-  email: emmanouil.panagiotou@fu-berlin.de
-  number_educ: 0
-  project: SFB 1463 Offshore Megastrukturen
-  website:
-  has_project_web: 1
-  project_web: https://aiml-research.github.io/projects/offshore/  
- 
