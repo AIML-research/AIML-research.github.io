@@ -7,3 +7,93 @@
   website:
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/mammoth/
+
+- name: Emmanouil Panagiotou
+  photo: Emmanouil.jpg
+  info: Ph.D. Student
+  email: emmanouil.panagiotou@fu-berlin.de
+  number_educ: 0
+  project: SFB 1463 Offshore Megastrukturen
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/offshore/
+  
+- name: Konstantinos Zacharis
+  photo: Kostas.png
+  info: Ph.D. Student
+  email: konstantinos.zacharis@unibw.de
+  number_educ: 0
+  project: STELAR
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/stelar/
+  
+- name: Swati Swati
+  photo: Swati.jpg
+  info: Ph.D. Student
+  email: swati.swati@unibw.de
+  number_educ: 0
+  project: MAMMOTH
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/mammoth/
+  
+- name: Chethan Krishnamurthy Ramanaik
+  photo: Chethan.png
+  info: Ph.D. Student
+  email: chethan.krishnamurthy@unibw.de
+  number_educ: 0
+  project: STELAR
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/stelar/
+  
+- name: Abheek Dhingra
+  photo: Abheek.jpg
+  info: Ph.D. Student
+  email: abheek.dhingra@unibw.de
+  number_educ: 0
+  project: Hephaestus
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/hephaestus/
+  
+- name: Seyed Siamak Ghodsi
+  photo: Siamak.jpg
+  info: External Ph.D. Student (L3S, DE)
+  email: siamak.ghodsi@fu-berlin.de
+  number_educ: 0
+  project: NoBIAS
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/nobias/
+  
+- name: Tai Le Quy
+  photo: Tai.jpg
+  info: External Ph.D. Student (L3S, DE)
+  email: tai.lequy@.fu-berlin.de
+  number_educ: 0
+  project: LernMINT
+  website: "https://tailequy.github.io/"
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/lernmint/
+  
+- name: Alaa Elobaid
+  photo: Alaa.jpg
+  info: External Ph.D. Student (CERTH, GR)
+  email: elobaida@zedat.fu-berlin.de
+  number_educ: 0
+  project: NoBIAS
+  website: 
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/nobias/
+  
+- name: Simone Fabbrizzi
+  photo: Simone.jpg
+  info: External Ph.D. Student (CERTH, GR)
+  email: simone.fabbrizzi@iti.gr
+  number_educ: 0
+  project: NoBIAS
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/nobias/
