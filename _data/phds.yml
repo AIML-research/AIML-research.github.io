@@ -16,50 +16,8 @@
   project: SFB 1463 Offshore Megastrukturen
   website:https://scholar.google.com/citations?hl=en&user=s14wTAsAAAAJ
   has_project_web: 1
-  project_web: https://aiml-research.github.io/projects/offshore/
-  
+  project_web: https://aiml-research.github.io/projects/offshore/  
  
-- name: Seyed Siamak Ghodsi
-  photo: Siamak.jpg
-  info: External Ph.D. Student (L3S, DE)
-  email: siamak.ghodsi@fu-berlin.de
-  number_educ: 0
-  project: NoBIAS
-  website:https://scholar.google.com/citations?hl=en&user=y01_N30AAAAJ
-  has_project_web: 1
-  project_web: https://aiml-research.github.io/projects/nobias/
-  
-   
-- name: Tai Le Quy
-  photo: Tai.jpg
-  info: External Ph.D. Student (L3S, DE)
-  email: tai.lequy@.fu-berlin.de
-  number_educ: 0
-  project: LernMINT
-  website: "https://tailequy.github.io/"
-  has_project_web: 1
-  project_web: https://aiml-research.github.io/projects/lernmint/
-
-- name: Alaa Elobaid
-  photo: Alaa.jpg
-  info: External Ph.D. Student (CERTH, GR)
-  email: elobaida@zedat.fu-berlin.de
-  number_educ: 0
-  project: NoBIAS
-  website: 
-  has_project_web: 1
-  project_web: https://aiml-research.github.io/projects/nobias/
-
-- name: Simone Fabbrizzi
-  photo: Simone.jpg
-  info: External Ph.D. Student (CERTH, GR)
-  email: simone.fabbrizzi@iti.gr
-  number_educ: 0
-  project: NoBIAS
-  website:
-  has_project_web: 1
-  project_web: https://aiml-research.github.io/projects/nobias/
-  
 - name: Konstantinos Zacharis
   photo: Kostas.png
   info: Ph.D. Student
@@ -100,4 +58,43 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/hephaestus/
   
+- name: Seyed Siamak Ghodsi
+  photo: Siamak.jpg
+  info: External Ph.D. Student (L3S, DE)
+  email: siamak.ghodsi@fu-berlin.de
+  number_educ: 0
+  project: NoBIAS
+  website:https://scholar.google.com/citations?hl=en&user=y01_N30AAAAJ
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/nobias/
   
+   
+- name: Tai Le Quy
+  photo: Tai.jpg
+  info: External Ph.D. Student (L3S, DE)
+  email: tai.lequy@.fu-berlin.de
+  number_educ: 0
+  project: LernMINT
+  website: "https://tailequy.github.io/"
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/lernmint/
+
+- name: Alaa Elobaid
+  photo: Alaa.jpg
+  info: External Ph.D. Student (CERTH, GR)
+  email: elobaida@zedat.fu-berlin.de
+  number_educ: 0
+  project: NoBIAS
+  website: 
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/nobias/
+
+- name: Simone Fabbrizzi
+  photo: Simone.jpg
+  info: External Ph.D. Student (CERTH, GR)
+  email: simone.fabbrizzi@iti.gr
+  number_educ: 0
+  project: NoBIAS
+  website:
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/nobias/
