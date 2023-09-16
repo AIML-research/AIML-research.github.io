@@ -4,7 +4,7 @@
   email: arjun.roy@fu-berlin.de
   number_educ: 0
   project: BIAS, MAMMOTH
-  website: "https://scholar.google.com/citations?hl=en&user=HJ0FBh4AAAAJ"
+  website:
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/mammoth/ 
 
@@ -14,7 +14,7 @@
   email: emmanouil.panagiotou@fu-berlin.de
   number_educ: 0
   project: SFB 1463 Offshore Megastrukturen
-  website: "https://scholar.google.com/citations?hl=en&user=s14wTAsAAAAJ"
+  website:
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/offshore/  
  
