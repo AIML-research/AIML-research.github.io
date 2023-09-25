@@ -3,7 +3,7 @@
   description: 
   authors: Simone Fabbrizzi, Xuan Zhao, Emmanouil Krasanakis, Symeon Papadopoulos, Eirini Ntoutsi
   link:
-    url: 
+    url: https://link.springer.com/article/10.1007/s10618-023-00972-2
     display: ECML-PKDD 2023 DAMI journal track (accepted)
   highlight: 0
   news2:  
@@ -177,7 +177,7 @@
   news2:  
   year:  2023
   haslocal: 1
-  local: https://github.com/AIML-research/AIML-research.github.io/blob/main/files/23.FAccT.pdf
+  local: files/23.FAccT.pdf
   hascode: 0
   code: 
   hasposter: 0
