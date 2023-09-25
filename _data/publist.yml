@@ -8,8 +8,8 @@
   highlight: 0
   news2:  
   year:  2023
-  haslocal: 0
-  local: 
+  haslocal: 1
+  local: files/2023.DMKD_ECMLPKDD.pdf
   hascode: 0
   code: 
   hasposter: 0
@@ -29,8 +29,8 @@
   highlight: 0
   news2:  
   year:  2023
-  haslocal: 0
-  local: 
+  haslocal: 1
+  local: files/2023.ECMLPKDD.XAI-Uncertainty.RHALE.pdf
   hascode: 0
   code: 
   hasposter: 0
