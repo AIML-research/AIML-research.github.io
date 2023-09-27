@@ -9,7 +9,7 @@
   news2:  
   year:  2023
   haslocal: 1
-  local: files/2023.DMKD_ECMLPKDD.pdf
+  local: 23.DMKD_ECMLPKDD.pdf
   hascode: 0
   code: 
   hasposter: 0
@@ -30,7 +30,7 @@
   news2:  
   year:  2023
   haslocal: 1
-  local: files/2023.ECAI.RHALE.pdf
+  local: 23.ECAI.RHALE.pdf
   hascode: 0
   code: 
   hasposter: 0
@@ -72,7 +72,7 @@
   news2:  
   year:  2023
   haslocal: 1
-  local: files/2023.ECMLPKDD.XAI-Uncertainty.RAM.pdf
+  local: 23.ECMLPKDD.XAI-Uncertainty.RAM.pdf
   hascode: 0
   code: 
   hasposter: 0
@@ -177,7 +177,7 @@
   news2:  
   year:  2023
   haslocal: 1
-  local: files/23.FAccT.pdf
+  local: 23.FAccT.pdf
   hascode: 0
   code: 
   hasposter: 0
