@@ -40,6 +40,7 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
         <li data-target="#carousel" data-slide-to="8"></li> 
+        <li data-target="#carousel" data-slide-to="9"></li> 
     </ol>
 
     <!-- Items --> 
@@ -102,6 +103,12 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         <div class="item">
             <a href = "https://www.lorentzcenter.nl/fairness-in-algorithmic-decision-makinga-domain-specific-approach.html" target="_blank">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairnessIAlgo@LorentzCenter.Poster.2022.jpg" alt="Fairness in Algorithmic Decision Making:A Domain-Specific Approach @ Lorentz Center, NL, 2022"  width="1253" height="533"/>
+            </a>
+        </div>
+
+        <div class="item">
+            <a href = "" target="_blank">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TaiPhD2023.jpg" alt="PhD defense"  width="1253" height="533"/>
             </a>
         </div>
         
