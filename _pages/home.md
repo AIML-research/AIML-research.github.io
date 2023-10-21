@@ -49,12 +49,12 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
     
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-        <a href="https://sites.google.com/view/bias2023/" target="_blank">
+        <a href="https://tailequy.github.io/" target="_blank">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TaiDefense2023.jpg" alt="Tai's PhD defence October 2023" width="1253" height="533"/>
         </a>
      </div>
      <div class="item ">
-         <a href="https://sites.google.com/view/bias2023/" target="_blank">
+         <a href="https://stelar-project.eu/" target="_blank">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STELAREindhoven2023.jpg" alt="STELAR GA meeting in Eindhoven October 2023" width="1253" height="533"/>
         </a>
      </div>
