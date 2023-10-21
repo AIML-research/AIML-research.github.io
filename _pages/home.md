@@ -15,7 +15,7 @@ Ongoing directions include:
 
 Our methods cover a diverse array of application fields, including education, social networks, banks, agriculture, manufacturing, and engineering.
 
-The group is established in August 2022 and is part of the [Research Institute CODE for cybersecurity and smart data](https://www.unibw.de/code) and the [Department of Computer Science](https://www.unibw.de/inf) at the [Bundeswehr University Munich (UniBwM)](https://www.unibw.de/). Members of the group will be still located at the [Freie Universität Berlin](https://www.fu-berlin.de/en/) and [Leibniz Universität Hannover](https://www.uni-hannover.de/en/)/[L3S Research Center](https://www.l3s.de/en).
+The group is established in August 2022 and is part of the [Research Institute CODE for cybersecurity and smart data](https://www.unibw.de/code) and the [Department of Computer Science](https://www.unibw.de/inf) at the [Bundeswehr University Munich (UniBwM)](https://www.unibw.de/). Members of the group are still located at the [Freie Universität Berlin](https://www.fu-berlin.de/en/) and [Leibniz Universität Hannover](https://www.uni-hannover.de/en/)/[L3S Research Center](https://www.l3s.de/en).
 
 
 <!-- [Institute of Computer Science](https://www.mi.fu-berlin.de/en/inf/index.html), [Department of Mathematics and Informatics](https://www.mi.fu-berlin.de/en/index.html) of [Freie Universität Berlin](https://www.fu-berlin.de/en/). 
