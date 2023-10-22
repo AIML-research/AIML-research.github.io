@@ -50,80 +50,73 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
     <div class="carousel-inner" markdown="0">
         <div class="item active">
         <a href="https://tailequy.github.io/" target="_blank">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TaiDefense2023.jpg" alt="Tai's PhD defence October 2023" width="1253" height="533"/>
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TaiDefense2023.jpg" title="Tai's PhD defence October 2023" width="1253" height="533"/>
         </a>
      </div>
      <div class="item ">
          <a href="https://stelar-project.eu/" target="_blank">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STELAREindhoven2023.jpg" alt="STELAR GA meeting in Eindhoven October 2023" width="1253" height="533"/>
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STELAREindhoven2023.jpg" title="STELAR GA meeting in Eindhoven October 2023" width="1253" height="533"/>
         </a>
      </div>
  
      <div class="item">
       <a href="https://sites.google.com/view/bias2023/" target="_blank">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BIASECMLPKDD2023.jpg" alt="BIAS workshop @ECML PKDD 2023" width="1253" height="533"/>
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BIASECMLPKDD2023.jpg" title="BIAS workshop @ECML PKDD 2023" width="1253" height="533"/>
         </a>
      </div>
         
       <div class="item">
             <a href="https://phd2023.eawe.eu/" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/EAWEPhDSeminar23.png" alt="19th EAWE PhD seminar" width="1253" height="533"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/EAWEPhDSeminar23.png" title="19th EAWE PhD seminar" width="1253" height="533"/>
             </a>
         </div>
       <div class="item">
             <a href="https://2022.ecmlpkdd.org/" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECML2022.jpg" alt="ECML/PKDD 2022 conference" width="1253" height="533"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECML2022.jpg" title="ECML/PKDD 2022 conference" width="1253" height="533"/>
             </a>
         </div>
        
          <div class="item">
             <a href="https://mammoth-ai.eu/newsletterv1/" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Mammoth.1stMeetingThes.png" alt="Kick-Off Meeting of Mammoth in Thessaloniki, November 2022" width="1253" height="533"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Mammoth.1stMeetingThes.png" title="Kick-Off Meeting of Mammoth in Thessaloniki, November 2022" width="1253" height="533"/>
             </a>
         </div>
         
         <div class="item">
             <a href="https://www.sfb1463.uni-hannover.de/" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LangeNachtKallikrates@FUB.July22.jpeg" alt="Long Night of the Sciences @ FUB, July 2022 - Presentation of Kallikrates, the AI architect for wind-turbines design" width="1253" height="533"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LangeNachtKallikrates@FUB.July22.jpeg" title="Long Night of the Sciences @ FUB, July 2022 - Presentation of Kallikrates, the AI architect for wind-turbines design" width="1253" height="533"/>
             </a>
         </div>
         
    <div class="item">
             <a href="https://pages.cms.hu-berlin.de/ipa/lwda2019/" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.jpg" alt="KDML (German Machine Learning and Data Mining community) workshop @LWDA 2019 in Berlin" width="1253" height="533"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KDML@LWDA_19_Berlin.jpg" title="KDML (German Machine Learning and Data Mining community) workshop @LWDA 2019 in Berlin" width="1253" height="533"/>
             </a>                                               
         </div> 
         
         <div class="item">
             <a href="https://gec-ws.athenarc.gr/" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACM-W.FairnessInAI.2022.png" alt="ACM-W Greece Winter School on Fairness in AI @online 2022"  width="1253" height="533"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACM-W.FairnessInAI.2022.png" title="ACM-W Greece Winter School on Fairness in AI @online 2022"  width="1253" height="533"/>
             </a>
         </div>
         
         <div class="item">
             <a href="https://doi.org/10.1002/widm.1356" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoBIAS.Survey@WIREs2020.png" alt="Introductory survey to fairness in AI @WIREs DMKD 2020"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoBIAS.Survey@WIREs2020.png" title="Introductory survey to fairness in AI @WIREs DMKD 2020"/>
             </a>  
         </div> 
         
         <div class="item">
             <a href="https://doi.org/10.1002/widm.1452" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairdatasets-survey.WIDM22.png" alt="Datasets for fairness-aware learning-survey paper @WIREs DMKD 2022"  width="1253" height="533"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairdatasets-survey.WIDM22.png" title="Datasets for fairness-aware learning-survey paper @WIREs DMKD 2022"  width="1253" height="533"/>
             </a>
         </div>
          
         <div class="item">
             <a href = "https://www.lorentzcenter.nl/fairness-in-algorithmic-decision-makinga-domain-specific-approach.html" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairnessIAlgo@LorentzCenter.Poster.2022.jpg" alt="Fairness in Algorithmic Decision Making:A Domain-Specific Approach @ Lorentz Center, NL, 2022"  width="1253" height="533"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fairnessIAlgo@LorentzCenter.Poster.2022.jpg" title="Fairness in Algorithmic Decision Making:A Domain-Specific Approach @ Lorentz Center, NL, 2022"  width="1253" height="533"/>
             </a>
         </div>
-
-        <div class="item">
-            <a href = "" target="_blank">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TaiPhD2023.jpg" alt="PhD defense"  width="1253" height="533"/>
-            </a>
-        </div>
-        
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
