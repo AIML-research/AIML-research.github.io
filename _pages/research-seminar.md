@@ -21,17 +21,19 @@ AIML group's members and everybody who is interested in AI/ML.
 ### Meetings
 <h2>Autumn trimester</h2>
 <ul>
+<li>31.10.2023 <b>Arjun</b> will give a summary of his current research on the landscape of discrimination in parameters space.
+</li>
+  <li>27.09.2023 <b>Valerie Krug</b> from Otto-von-Guericke-University Magdeburg will give a talk on <i>Neuroscience-Inspired Analysis and Visualization of Deep Neural Networks</i>:
+  <ul>
+    <li>Abstract: Deep Neural Networks (DNNs) are very successful in various fields of application. Their success, however, is mostly achieved by increasing the model complexity in terms of types of architectures or the number of neurons. At the same time, it becomes harder to interpret how DNNs solve their learned task, which can be risky in critical applications. Real brains are even more complex systems which have been studied in neuroscience for decades. This wealth of experience can help to better understand inner workings of DNNs. Therefore, we research how well-established methods from neuroscience can be adapted to analyze and visualize artificial neural networks. In this talk, I present how to analyze DNNs with an Event-Related Potentials-inspired technique and how to visualize their activations as topographic maps.
+</li>
+    <li>Speaker: Valerie Krug is PhD student on Explainable Artificial Intelligence (XAI). She has a background in natural sciences and holds a Master's degree in Bioinformatics. After her studies, she specialized in Deep Learning during 3 years as a researcher and lecturer at the Machine Learning in Cognitive Science Lab at University of Potsdam. Since 2019 she researches and teaches at the Artificial Intelligence Lab at Otto-von-Guericke-University Magdeburg. Valerie develops techniques to analyze and visualize, how deep neural networks perform their tasks, including novel methods that are inspired by cognitive neuroscience. Her work is driven by the aim to enable non-experts to get insights into inner workings of AI systems. To this end, she is also engaged in educating the public about AI, for instance through exhibits, science quizzes and public talks or discussions.
+</li>
 <li>13.09.2023 <b>Manolis</b> will give a summary of his current research, which includes two parts:
   <ul>
     <li><i>Learning impartial policies for sequential  counterfactual explanations using Deep Reinforcement Learning</i> (to be presented at the <a href="https://sites.google.com/view/dynxai-ecmlpkdd-2023/home?authuser=0" target="_new">DynXAI Workshop</a>, co-located with ECML PKDD 2023).</li>
     <li><i>Generating synthetic design alternatives in mixed feature spaces - Application on offshore substructure data</i> (related to the <a href="https://www.sfb1463.uni-hannover.de/" target="_new">SFB 1463</a> project)</li>
   </ul>
-</li>
-<li>27.09.2023 <b>Valerie Krug</b> from Otto-von-Guericke-University Magdeburg will give a talk on <i>Neuroscience-Inspired Analysis and Visualization of Deep Neural Networks</i>:
-  <ul>
-    <li>Abstract: Deep Neural Networks (DNNs) are very successful in various fields of application. Their success, however, is mostly achieved by increasing the model complexity in terms of types of architectures or the number of neurons. At the same time, it becomes harder to interpret how DNNs solve their learned task, which can be risky in critical applications. Real brains are even more complex systems which have been studied in neuroscience for decades. This wealth of experience can help to better understand inner workings of DNNs. Therefore, we research how well-established methods from neuroscience can be adapted to analyze and visualize artificial neural networks. In this talk, I present how to analyze DNNs with an Event-Related Potentials-inspired technique and how to visualize their activations as topographic maps.
-</li>
-    <li>Speaker: Valerie Krug is PhD student on Explainable Artificial Intelligence (XAI). She has a background in natural sciences and holds a Master's degree in Bioinformatics. After her studies, she specialized in Deep Learning during 3 years as a researcher and lecturer at the Machine Learning in Cognitive Science Lab at University of Potsdam. Since 2019 she researches and teaches at the Artificial Intelligence Lab at Otto-von-Guericke-University Magdeburg. Valerie develops techniques to analyze and visualize, how deep neural networks perform their tasks, including novel methods that are inspired by cognitive neuroscience. Her work is driven by the aim to enable non-experts to get insights into inner workings of AI systems. To this end, she is also engaged in educating the public about AI, for instance through exhibits, science quizzes and public talks or discussions.
 </li>
   </ul>
 </li>
