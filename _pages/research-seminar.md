@@ -36,8 +36,6 @@ AIML group's members and everybody who is interested in AI/ML.
     <li><i>Generating synthetic design alternatives in mixed feature spaces - Application on offshore substructure data</i> (related to the <a href="https://www.sfb1463.uni-hannover.de/" target="_new">SFB 1463</a> project)</li>
   </ul>
 </li>
-  </ul>
-</li>
 </ul>
 
 <h2>Previous sessions</h2>
