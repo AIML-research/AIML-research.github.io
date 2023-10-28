@@ -13,7 +13,7 @@ Current and previous courses at FUB, LUH, LMU.
 #### At the <a href ="https://www.unibw.de/home"> <b>Bundeswehr University Munich (UniBw-M)</b> </a>, Germany
 <b> Autumn trimester </b>
 - Lecture: Responsible Artificial Intelligence.
-- Seminar: Selected topics on Responsible Artificial Intelligence.
+- Seminar: Selected topics on Responsible Artificial Intelligence (HT23: Responsible Generative AI).
 - <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.
 
 <b> Spring trimester </b>
@@ -23,7 +23,7 @@ Current and previous courses at FUB, LUH, LMU.
 
 <b> Winter trimester</b>
 - Lecture: Artificial Intelligence (WT23).
-- Seminar: Selected topics on AI/ML (WT23: Multi-objective optimization in AI/ML;).
+- Seminar: Selected topics on AI/ML (WT23: Multi-objective optimization in AI/ML).
 - <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.
 
 #### At the <a href ="https://www.fu-berlin.de/"> <b>Freie Universität Berlin (FUB)</b> </a>, Germany
