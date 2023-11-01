@@ -43,17 +43,22 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
         <li data-target="#carousel" data-slide-to="9"></li> 
         <li data-target="#carousel" data-slide-to="10"></li> 
        <li data-target="#carousel" data-slide-to="11"></li> 
+       <li data-target="#carousel" data-slide-to="12"></li>   
     </ol>
 
     <!-- Items --> 
     
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+        <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23431" target="_blank">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Dagstuhl.Oct23" title="Dagstuhl seminar on AI and security October 2023" width="1253" height="533"/>
+        </a>
+     </div> <div class="item">
         <a href="https://tailequy.github.io/" target="_blank">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TaiDefense2023.jpg" title="Tai's PhD defence October 2023" width="1253" height="533"/>
         </a>
      </div>
-     <div class="item ">
+     <div class="item">
          <a href="https://stelar-project.eu/" target="_blank">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STELAREindhoven2023.jpg" title="STELAR GA meeting in Eindhoven October 2023" width="1253" height="533"/>
         </a>
