@@ -51,7 +51,7 @@ From August 2022, Prof. Ntoutsi will join the <a href="https://www.unibw.de/" ta
     <div class="carousel-inner" markdown="0">
         <div class="item active">
         <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23431" target="_blank">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Dagstuhl.Oct23" title="Dagstuhl seminar on AI and security October 2023" width="1253" height="533"/>
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Dagstuhl.Oct23.jpg" title="Dagstuhl seminar on AI and security October 2023" width="1253" height="533"/>
         </a>
      </div> <div class="item">
         <a href="https://tailequy.github.io/" target="_blank">
