@@ -22,6 +22,7 @@ AIML group's members and everybody who is interested in AI/ML.
 <h2>Autumn trimester</h2>
 <ul>
 <li>....</li>
+<li>08.11.2023 <b>Vivek</b> will give a summary of his current research on augmenting knowledge.</li>  
 <li>31.10.2023 <b>Arjun</b> will give a summary of his current research on the landscape of discrimination in the model parameter space.</li>
   <li>27.09.2023 <b>Valerie Krug</b> from Otto-von-Guericke-University Magdeburg will give a talk on <i>Neuroscience-Inspired Analysis and Visualization of Deep Neural Networks</i>:
   <ul>
