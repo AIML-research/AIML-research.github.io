@@ -61,6 +61,7 @@ permalink: /team/Eirini/
 
 - See [Google Scholar](https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/n/IreneNtoutsi.html) | [AIML](https://aiml-research.github.io/publications/)
 
-#### 4. Other activities
-#### 5. Overview of our contributions
-#### 6.Publications
+#### 4. Other scientific activities
+
+#### 5. Other activities
+
