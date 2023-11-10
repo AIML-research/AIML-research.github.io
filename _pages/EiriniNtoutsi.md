@@ -96,12 +96,16 @@ permalink: /team/Eirini/
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
+<td style="width: 30%; text-align: left;">2002-2005</td>
+<td style="width: 70%; text-align: left;"> Software Engineer at the <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute & Press "Diophantus</a>, Patras & Athens, Greece.</td>
+</tr>
+<tr>
 <td style="width: 30%; text-align: left;">2001</td>
 <td style="width: 70%; text-align: left;"> Software Engineer at the AHEAD RM, Software House for E-commerce Applications, Patras, Greece.</td>
 </tr>
 <tr>
-<td style="width: 30%; text-align: left;">1999-2000</td>
-<td style="width: 70%; text-align: left;"> Student assistant at the <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute</a>, Patras, Greece.</td>
+<td style="width: 30%; text-align: left;">2000</td>
+<td style="width: 70%; text-align: left;"> Student assistant at the <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute & Press "Diophantus</a>, Patras, Greece.</td>
 </tr>
 </tbody>
 </table>
