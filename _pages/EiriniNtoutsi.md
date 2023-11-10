@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/Eirini/
 ---
 
-### STELAR (Spatio-TEmporal Linked data tools for the AgRi-food data space)
+### Prof. Dr. Eirini Ntoutsi - Curriculum Vitae
 
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
