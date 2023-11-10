@@ -97,7 +97,7 @@ permalink: /team/Eirini/
 <tbody>
 <tr>
 <td style="width: 30%; text-align: left;">1999-2000</td>
-<td style="width: 70%; text-align: left;"> Student assistant, Representative of the <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute</a>, Patras, Greece.</td>
+<td style="width: 70%; text-align: left;"> Student assistant at the <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute</a>, Patras, Greece.</td>
 </tr>
 </tbody>
 </table>
