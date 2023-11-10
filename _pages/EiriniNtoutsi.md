@@ -23,13 +23,25 @@ permalink: /team/Eirini/
 <tbody>
 <tr>
 <td style="width: 20%; text-align: center;">Since August 2022</td>
-<td style="width: 80%; text-align: center;">Full Professor (W3) for Open Source Intelligence, UniBw Munich</td>
+<td style="width: 80%; text-align: center;">Full Professor (W3) for Open Source Intelligence, at Dept. of Computer Science, Universität der Bundeswehr München (UniBw)</td>
 </tr>
 <tr>
 <td style="width: 20%; text-align: center;">March 2021 - July 2022</td>
-<td style="width: 80%; text-align: center;">Full Professor (W3) for Artificial Intelligence, Freie University Berlin</td>
+<td style="width: 80%; text-align: center;">Full Professor (W3) for Artificial Intelligence, at Dept. of Computer Science, Freie University Berlin</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">March 2016 - February 2021</td>
+<td style="width: 80%; text-align: center;">Associate Professor (W2 auf Zeit) for Intelligent Systems, at Dept. of Computer Science, Leibniz University Hannover (LUH)</td>
+</tr>
+ 
+<tr>
+<td style="width: 20%; text-align: center;">February 2012 - February 2016</td>
+<td style="width: 80%; text-align: center;">Postdoctoral researcher and lecturer at the Ludwig-Maximilians-Universität München (LMU), Institute for Computer Science: Database and Information Systems.</td>
 </tr>
 </table>
+
+
+
 
 - <b>Project acronym: </b> STELAR 
 - <b>Project full name: </b> Spatio-TEmporal Linked data tools for the AgRi-food data space
