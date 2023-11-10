@@ -1,9 +1,9 @@
 ---
-title: "Artificial Intelligence and Machine Learning Group - STELAR project"
+title: "Artificial Intelligence and Machine Learning Group - Prof. Dr. Eirini Ntoutsi"
 layout: textlay
-excerpt: "AIML Group -- Projects"
+excerpt: "AIML Group -- Prof. Dr. Eirini Ntoutsi"
 sitemap: false
-permalink: /projects/stelar/
+permalink: /team/Eirini/
 ---
 
 ### STELAR (Spatio-TEmporal Linked data tools for the AgRi-food data space)
