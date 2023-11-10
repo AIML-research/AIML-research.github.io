@@ -16,6 +16,10 @@ permalink: /team/Eirini/
 <td style="width: 70%; text-align: left;">Full Professor (W3) for Open Source Intelligence, at the <a href="https://www.unibw.de/home-en/" target="_new">Bundeswehr University Munich (UniBwM)</a>, <a href="https://www.unibw.de/home-en/departments/department-of-computer-science" target="_new">Department of Computer Science</a>.</td>
 </tr>
 <tr>
+<td style="width: 30%; text-align: left;">Since August 2022</td>
+<td style="width: 70%; text-align: left;">Member of the <a href="https://www.unibw.de/home-en/" target="_new">Research Institute CODE for Cyber-defence and Smart Data</a>.</td>
+</tr>
+<tr>
 <td style="width: 30%; text-align: left;">March 2021 - July 2022</td>
 <td style="width: 70%; text-align: left;">Full Professor (W3) for Artificial Intelligence, at <a href="https://www.mi.fu-berlin.de/en/inf/index.html" target="_new">Dept. of Computer Science</a>, <a href="https://www.fu-berlin.de/" target="_new">Freie University Berlin</a></td>
 </tr>
