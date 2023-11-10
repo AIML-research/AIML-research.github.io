@@ -58,7 +58,7 @@ permalink: /team/Eirini/
 </table>
 
 #### 3. Publications
-<table style="border-collapse: collapse; width: 50%;" border="0">
+<table style="border-collapse: collapse; width: 45%;" border="0">
 <tbody>
 <tr>
 <td style="width: 15%; text-align: left;"><a href="https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en">Google Scholar</a></td>
