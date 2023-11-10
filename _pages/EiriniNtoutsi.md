@@ -83,7 +83,7 @@ permalink: /team/Eirini/
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 30%; text-align: left;">Since </td>
+<td style="width: 30%; text-align: left;">Since April 2023</td>
 <td style="width: 70%; text-align: left;"> Representative of the <a href="https://www.unibw.de/home-en/departments/department-of-computer-science" target="_new">Department of Computer Science</a> at <a href="https://www.unibw.de/home-en/" target="_new">UniBwM</a> at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI), the association of computer science departments and faculties at German universities</a>.</td>
 </tr>
 </tbody>
