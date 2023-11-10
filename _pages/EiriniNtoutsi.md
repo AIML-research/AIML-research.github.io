@@ -27,11 +27,11 @@ permalink: /team/Eirini/
 </tr>
 <tr>
 <td style="width: 20%; text-align: center;">March 2021 - July 2022</td>
-<td style="width: 80%; text-align: center;">Full Professor (W3) for Artificial Intelligence, at Dept. of Computer Science, Freie University Berlin</td>
+<td style="width: 80%; text-align: center;">Full Professor (W3) for Artificial Intelligence, at <a href="" target="_new">Dept. of Computer Science</a>, <a href="" target="_new">Freie University Berlin</a></td>
 </tr>
 <tr>
 <td style="width: 20%; text-align: center;">March 2016 - February 2021</td>
-<td style="width: 80%; text-align: center;">Associate Professor (W2 auf Zeit) for Intelligent Systems, at Dept. of Computer Science, Leibniz University Hannover (LUH)</td>
+<td style="width: 80%; text-align: center;">Associate Professor (W2 auf Zeit) for Intelligent Systems, at the <a href="" target="_new">Leibniz University Hannover (LUH)</a>, at <a href="" target="_new">Dept. of Computer Science</a>.</td>
 </tr>
 <tr>
 <td style="width: 20%; text-align: center;">February 2012 - February 2016</td>
