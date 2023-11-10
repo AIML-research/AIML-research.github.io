@@ -38,6 +38,16 @@ permalink: /team/Eirini/
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
+<td style="width: 30%; text-align: left;">2003-2008</td>
+<td style="width: 70%; text-align: left;">Ph.D., at the <a href="https://www.unipi.gr/unipi/en/" target="_new">University of Piraeus, Greece</a>, <a https://www.cs.unipi.gr/index.php?lang=en" target="_new">Department of Computer Science</a>.</td>
+</tr>
+
+  <tr>
+<td style="width: 30%; text-align: left;">2001-2003</td>
+<td style="width: 70%; text-align: left;">Master in Computer Engineering and Informatics, at the <a href="https://www.upatras.gr/en/" target="_new">University of Patras, Greece</a>, <a href="https://www.ceid.upatras.gr/en" target="_new">Department of Computer Engineering and Informatics (CEID)</a>.</td>
+</tr>
+
+<tr>
 <td style="width: 30%; text-align: left;">1996-2001</td>
 <td style="width: 70%; text-align: left;">Diploma in Computer Engineering and Informatics, at the <a href="https://www.upatras.gr/en/" target="_new">University of Patras, Greece</a>, <a href="https://www.ceid.upatras.gr/en" target="_new">Department of Computer Engineering and Informatics (CEID)</a>.</td>
 </tr>
