@@ -16,6 +16,10 @@ permalink: /team/Eirini/
 <td style="width: 70%; text-align: left;">Full Professor (W3) for Open Source Intelligence, at the <a href="https://www.unibw.de/home-en/" target="_new">Bundeswehr University Munich (UniBwM)</a>, <a href="https://www.unibw.de/home-en/departments/department-of-computer-science" target="_new">Department of Computer Science</a>.</td>
 </tr>
 <tr>
+<td style="width: 30%; text-align: left;">Since August 2022</td>
+<td style="width: 70%; text-align: left;">Member of the <a href="https://www.unibw.de/code-en" target="_new">Research Institure CODE</a>.</td>
+</tr>
+ <tr>
 <td style="width: 30%; text-align: left;">Since May 2016</td>
 <td style="width: 70%; text-align: left;">Member of the <a href="https://www.l3s.de/" target="_new">L3S Research Center</a>.</td>
 </tr>
