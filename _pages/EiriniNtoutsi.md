@@ -56,11 +56,14 @@ permalink: /team/Eirini/
 <td style="width: 30%; text-align: left;">1996-2001</td>
 <td style="width: 70%; text-align: left;">Diploma in Computer Engineering and Informatics, at the <a href="https://www.upatras.gr/en/" target="_new">University of Patras, Greece</a>, <a href="https://www.ceid.upatras.gr/en" target="_new">Department of Computer Engineering and Informatics (CEID)</a>.</td>
 </tr>
-</tbody>
+</tbody>p
 </table>
 
 #### 3. Publications
-- see +++
+- See [My Google Scholar](https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en)
+- See [DBLP](https://dblp.org/pid/n/IreneNtoutsi.html)
+- See [AIML](https://aiml-research.github.io/publications/)
+- 
 #### 4. Other activities
 #### 5. Overview of our contributions
 #### 6.Publications
