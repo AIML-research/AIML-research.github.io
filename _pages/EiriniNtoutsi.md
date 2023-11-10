@@ -7,7 +7,7 @@ permalink: /team/Eirini/
 ---
 
 ### Prof. Dr. Eirini Ntoutsi - Curriculum Vitae
-#### 1. Curriculum Vitae
+#### Curriculum Vitae
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -34,6 +34,16 @@ permalink: /team/Eirini/
 </table>
 
 #### 2. Education
+#### Curriculum Vitae
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 30%; text-align: left;">1996-2001</td>
+<td style="width: 70%; text-align: left;">Diploma in Computer Engineering and Informatics, at the <a href="https://www.unibw.de/home-en/" target="_new">University of Patras, Greece</a>, <a href="https://www.ceid.upatras.gr/en" target="_new">Department of Computer Engineering and Informatics (CEID)</a>.</td>
+</tr>
+</tbody>
+</table>
+
 #### 3. Publications
 - see +++
 #### 4. Other activities
