@@ -33,11 +33,15 @@ permalink: /team/Eirini/
 <td style="width: 20%; text-align: center;">March 2016 - February 2021</td>
 <td style="width: 80%; text-align: center;">Associate Professor (W2 auf Zeit) for Intelligent Systems, at Dept. of Computer Science, Leibniz University Hannover (LUH)</td>
 </tr>
- 
 <tr>
 <td style="width: 20%; text-align: center;">February 2012 - February 2016</td>
 <td style="width: 80%; text-align: center;">Postdoctoral researcher and lecturer at the Ludwig-Maximilians-Universität München (LMU), Institute for Computer Science: Database and Information Systems.</td>
 </tr>
+ <tr>
+<td style="width: 20%; text-align: center;">February 2010 - January 2012</td>
+<td style="width: 80%; text-align: center;">Postdoctoral fellow of the Alexander von Humboldt Foundation, Ludwig-Maximilians-Universität München (LMU), Institute for Computer Science: Database and Information Systems.</td>
+</tr>
+
 </table>
 
 
