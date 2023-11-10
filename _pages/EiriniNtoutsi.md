@@ -25,7 +25,7 @@ permalink: /team/Eirini/
 </tr>
   <tr>
 <td style="width: 30%; text-align: left;">Since May 2016</td>
-<td style="width: 70%; text-align: left;">Member of the <a href="https://www.l3s.de/" target="_new">L3S Research Center</a>.</td>
+<td style="width: 70%; text-align: left;">Member of the <a href="htt://www.l3s.de/" target="_new">L3S Research Center</a>.</td>
 </tr>
 
 <tr>
@@ -77,9 +77,15 @@ permalink: /team/Eirini/
 </tbody>
 </table>
 
- | 
-
 #### 4. Other scientific activities
 
 #### 5. Other activities
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 30%; text-align: left;">Since </td>
+<td style="width: 70%; text-align: left;"> Representative of the <a href="https://www.unibw.de/home-en/departments/department-of-computer-science" target="_new">Department of Computer Science</a> at <a href="https://www.unibw.de/home-en/" target="_new">UniBwM</a> at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI), the association of computer science departments and faculties at German universities</a>.</td>
+</tr>
+</tbody>
+</table>
 
