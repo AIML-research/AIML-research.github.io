@@ -97,6 +97,10 @@ permalink: /team/Eirini/
 <tbody>
 <tr>
 <td style="width: 30%; text-align: left;">2002-2005</td>
+<td style="width: 70%; text-align: left;"> Co-founder and AI expert at the NeeMo (AI-based news monitoring) startup company, Athens, Greece.</td>
+</tr>  
+<tr>
+<td style="width: 30%; text-align: left;">2002-2005</td>
 <td style="width: 70%; text-align: left;"> Software Engineer at the <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute & Press "Diophantus</a>, Patras & Athens, Greece.</td>
 </tr>
 <tr>
