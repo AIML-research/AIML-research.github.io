@@ -61,9 +61,9 @@ permalink: /team/Eirini/
 <table style="border-collapse: collapse; width: 50%;" border="0">
 <tbody>
 <tr>
-<td style="width: 15%; text-align: left;">[Google Scholar](https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en)</td>
-<td style="width: 15%; text-align: left;">[DBLP](https://dblp.org/pid/n/IreneNtoutsi.html)</td>
-<td style="width: 15%; text-align: left;">[AIML](https://aiml-research.github.io/publications/)</td>
+<td style="width: 15%; text-align: left;"><a href="https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en">Google Scholar</a></td>
+<td style="width: 15%; text-align: left;"><a href="https://dblp.org/pid/n/IreneNtoutsi.html">DBLP</a></td>
+<td style="width: 15%; text-align: left;"><a href="https://aiml-research.github.io/publications/>AIML</a></td>
 </tr>
 </tbody>
 </table>
