@@ -96,8 +96,8 @@ permalink: /team/Eirini/
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 30%; text-align: left;">Since 2023</td>
-<td style="width: 70%; text-align: left;"> Representative of the <a href="https://www.unibw.de/home-en/departments/department-of-computer-science" target="_new">Department of Computer Science</a> at <a href="https://www.unibw.de/home-en/" target="_new">UniBwM</a> at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI), the association of computer science departments and faculties at German universities</a>.</td>
+<td style="width: 30%; text-align: left;">1999-2000</td>
+<td style="width: 70%; text-align: left;"> Student assistant, Representative of the <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute</a>, Patras, Greece.</td>
 </tr>
 </tbody>
 </table>
