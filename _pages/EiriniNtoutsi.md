@@ -39,19 +39,10 @@ permalink: /team/Eirini/
 </tr>
  <tr>
 <td style="width: 20%; text-align: center;">February 2010 - January 2012</td>
-<td style="width: 80%; text-align: center;">Postdoctoral fellow of the Alexander von Humboldt Foundation, Ludwig-Maximilians-Universität München (LMU), Institute for Computer Science: Database and Information Systems.</td>
+<td style="width: 80%; text-align: center;">Postdoctoral fellow of the <a href="https://www.humboldt-foundation.de/" target="_new"> Alexander von Humboldt Foundation</a>, <a href="" target="_new">Ludwig-Maximilians-Universität München (LMU)</a>, Institute for Computer Science: Database and Information Systems.</td>
 </tr>
 
 </table>
-
-
-
-
-- <b>Project acronym: </b> STELAR 
-- <b>Project full name: </b> Spatio-TEmporal Linked data tools for the AgRi-food data space
-- <b>Funding period: </b> Sep 1, 2022 - Aug 31, 2025 (36 months)
-- <b>Funding body: </b> EU under the call HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (IA)
-- <b>Homepage: </b> <a href="https://stelar-project.eu/" target="_new"> STELAR </a>
 
 #### 2. Education
 <table style="border-collapse: collapse; width: 100%;" border="">
