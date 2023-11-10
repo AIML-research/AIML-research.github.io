@@ -96,7 +96,7 @@ permalink: /team/Eirini/
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 30%; text-align: left;">2002-2005</td>
+<td style="width: 30%; text-align: left;">2007-2009</td>
 <td style="width: 70%; text-align: left;"> Co-founder and AI expert at the NeeMo (AI-based news monitoring) startup company, Athens, Greece.</td>
 </tr>  
 <tr>
