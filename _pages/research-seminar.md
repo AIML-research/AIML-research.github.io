@@ -30,7 +30,7 @@ AIML group's members and everybody who is interested in AI/ML.
 </li>
     <li>Speaker: Valerie Krug is PhD student on Explainable Artificial Intelligence (XAI). She has a background in natural sciences and holds a Master's degree in Bioinformatics. After her studies, she specialized in Deep Learning during 3 years as a researcher and lecturer at the Machine Learning in Cognitive Science Lab at University of Potsdam. Since 2019 she researches and teaches at the Artificial Intelligence Lab at Otto-von-Guericke-University Magdeburg. Valerie develops techniques to analyze and visualize, how deep neural networks perform their tasks, including novel methods that are inspired by cognitive neuroscience. Her work is driven by the aim to enable non-experts to get insights into inner workings of AI systems. To this end, she is also engaged in educating the public about AI, for instance through exhibits, science quizzes and public talks or discussions.
 </li>
-  </ul>
+  </ul></li>
     <li>13.09.2023 <b>Manolis</b> will give a summary of his current research, which includes two parts:
   <ul>
     <li><i>Learning impartial policies for sequential  counterfactual explanations using Deep Reinforcement Learning</i> (to be presented at the <a href="https://sites.google.com/view/dynxai-ecmlpkdd-2023/home?authuser=0" target="_new">DynXAI Workshop</a>, co-located with ECML PKDD 2023).</li>
