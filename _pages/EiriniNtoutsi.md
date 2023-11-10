@@ -40,6 +40,10 @@ permalink: /team/Eirini/
 <td style="width: 30%; text-align: left;">February 2010 - January 2012</td>
 <td style="width: 70%; text-align: left;">Postdoctoral fellow of the <a href="https://www.humboldt-foundation.de/" target="_new"> Alexander von Humboldt Foundation</a>, <a href="https://www.lmu.de/en/" target="_new">Ludwig-Maximilians-Universität München (LMU)</a>, <a href="https://www.ifi.uni-muenchen.de/index.html" target="_new">Institute for Computer Science</a>: <a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite" target="_new">Database and Information Systems</a>.</td>
 </tr>  
+<tr>
+<td style="width: 30%; text-align: left;">July 2005 - September 2008</td>
+<td style="width: 70%; text-align: left;">Ph.D. student and research & teaching assistant the at the <a href="https://www.unipi.gr/unipi/en/" target="_new">University of Piraeus, Greece</a>, <a href="https://www.cs.unipi.gr/index.php?lang=en" target="_new">Department of Computer Science</a>: <a href="https://www.datastories.org/" target="_new">Data Science Lab</a>.</td>
+</tr>  
 </tbody>
 </table>
 
