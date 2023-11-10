@@ -7,16 +7,6 @@ permalink: /team/Eirini/
 ---
 
 ### Prof. Dr. Eirini Ntoutsi - Curriculum Vitae
-<!--
-<table style="border-collapse: collapse; width: 100%;" border="0">
-<tbody>
-<tr>
-<td style="width: 20%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/logo-stelar.png" alt="" width="130" /></td>
-</tr>
--->
-
-</tbody>
-</table>
 
 #### 1. Curriculum Vitae
 <table style="border-collapse: collapse; width: 100%;" border="1">
