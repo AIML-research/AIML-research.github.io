@@ -44,7 +44,7 @@ permalink: /team/Eirini/
 
 <tr>
 <td style="width: 30%; text-align: left;">2003-2008</td>
-<td style="width: 70%; text-align: left;">Ph.D. in Data Mining/ Machine Learning, at the <a href="https://www.unipi.gr/unipi/en/" target="_new">University of Piraeus, Greece</a>, <a https://www.cs.unipi.gr/index.php?lang=en" target="_new">Department of Computer Science</a>: <a href="https://www.datastories.org/" target="_new">Data Science Lab</a>.</td>
+<td style="width: 70%; text-align: left;">Ph.D. in Data Mining/ Machine Learning, at the <a href="https://www.unipi.gr/unipi/en/" target="_new">University of Piraeus, Greece</a>, <a href="https://www.cs.unipi.gr/index.php?lang=en" target="_new">Department of Computer Science</a>: <a href="https://www.datastories.org/" target="_new">Data Science Lab</a>.</td>
 </tr>
 
   <tr>
