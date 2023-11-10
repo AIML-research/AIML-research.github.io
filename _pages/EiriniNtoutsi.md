@@ -19,14 +19,15 @@ permalink: /team/Eirini/
 <td style="width: 30%; text-align: left;">Since August 2022</td>
 <td style="width: 70%; text-align: left;">Member of the <a href="https://www.unibw.de/code-en" target="_new">Research Institure CODE</a>.</td>
 </tr>
- <tr>
-<td style="width: 30%; text-align: left;">Since May 2016</td>
-<td style="width: 70%; text-align: left;">Member of the <a href="https://www.l3s.de/" target="_new">L3S Research Center</a>.</td>
-</tr>
 <tr>
 <td style="width: 30%; text-align: left;">March 2021 - July 2022</td>
 <td style="width: 70%; text-align: left;">Full Professor (W3) for Artificial Intelligence, at <a href="https://www.mi.fu-berlin.de/en/inf/index.html" target="_new">Dept. of Computer Science</a>, <a href="https://www.fu-berlin.de/" target="_new">Freie University Berlin</a></td>
 </tr>
+  <tr>
+<td style="width: 30%; text-align: left;">Since May 2016</td>
+<td style="width: 70%; text-align: left;">Member of the <a href="https://www.l3s.de/" target="_new">L3S Research Center</a>.</td>
+</tr>
+
 <tr>
 <td style="width: 30%; text-align: left;">March 2016 - February 2021</td>
 <td style="width: 70%; text-align: left;">Associate Professor (W2 auf Zeit) for Intelligent Systems, at the <a href="" target="_new">Leibniz University Hannover (LUH)</a>, at <a href="" target="_new">Dept. of Computer Science</a>.</td>
