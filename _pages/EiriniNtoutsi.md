@@ -35,11 +35,11 @@ permalink: /team/Eirini/
 </tr>
 <tr>
 <td style="width: 20%; text-align: center;">February 2012 - February 2016</td>
-<td style="width: 80%; text-align: center;">Postdoctoral researcher and lecturer at the Ludwig-Maximilians-Universität München (LMU), Institute for Computer Science: Database and Information Systems.</td>
+<td style="width: 80%; text-align: center;">Postdoctoral researcher and lecturer at the <a href="https://www.lmu.de/en/" target="_new">Ludwig-Maximilians-Universität München (LMU)</a>, <a href="https://www.ifi.uni-muenchen.de/index.html" target="_new">Institute for Computer Science</a>: <a href="" target="_new">Database and Information Systems</a>.</td>
 </tr>
  <tr>
 <td style="width: 20%; text-align: center;">February 2010 - January 2012</td>
-<td style="width: 80%; text-align: center;">Postdoctoral fellow of the <a href="https://www.humboldt-foundation.de/" target="_new"> Alexander von Humboldt Foundation</a>, <a href="" target="_new">Ludwig-Maximilians-Universität München (LMU)</a>, Institute for Computer Science: Database and Information Systems.</td>
+<td style="width: 80%; text-align: center;">Postdoctoral fellow of the <a href="https://www.humboldt-foundation.de/" target="_new"> Alexander von Humboldt Foundation</a>, <a href="https://www.lmu.de/en/" target="_new">Ludwig-Maximilians-Universität München (LMU)</a>, <a href="https://www.ifi.uni-muenchen.de/index.html" target="_new">Institute for Computer Science</a>: Database and Information Systems.</td>
 </tr>
 
 </table>
