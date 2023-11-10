@@ -7,8 +7,9 @@ permalink: /team/Eirini/
 ---
 
 ### Prof. Dr. Eirini Ntoutsi - Curriculum Vitae
+
 #### 1. Curriculum Vitae
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 30%; text-align: left;">Since August 2022</td>
@@ -34,9 +35,9 @@ permalink: /team/Eirini/
 </table>
 
 #### 2. Education
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
 
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
 <tr>
 <td style="width: 30%; text-align: left;">2010-2016</td>
 <td style="width: 70%; text-align: left;">PostDoc in Data Mining/ Machine Learning, <a href="https://www.lmu.de/en/" target="_new">Ludwig-Maximilians-Universität München (LMU)</a>, <a href="https://www.ifi.uni-muenchen.de/index.html" target="_new">Institute for Computer Science</a>: <a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite" target="_new">Database and Information Systems</a>.</td>
