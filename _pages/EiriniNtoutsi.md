@@ -9,7 +9,7 @@ permalink: /team/Eirini/
 ### Prof. Dr. Eirini Ntoutsi - Curriculum Vitae
 
 #### 1. Curriculum Vitae
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
 <tr>
 <td style="width: 30%; text-align: left;">Since 2022</td>
@@ -54,7 +54,7 @@ permalink: /team/Eirini/
 
 #### 2. Education
 
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
 <tr>
 <td style="width: 30%; text-align: left;">2010-2016</td>
@@ -81,7 +81,7 @@ permalink: /team/Eirini/
 #### 4. Other scientific activities
 
 #### 5. Other academic activities
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
 <tr>
 <td style="width: 30%; text-align: left;">Since 2023</td>
