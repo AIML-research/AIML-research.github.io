@@ -76,19 +76,14 @@ permalink: /team/Eirini/
 </table>
 
 #### 3. Publications
+
 - See <a href="https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en">Google Scholar</a> || <a href="https://dblp.org/pid/n/IreneNtoutsi.html">DBLP</a> || <a href="https://aiml-research.github.io/publications/">AIML</a>
 
 #### 4. Other scientific activities
-<table style="border-collapse: collapse; width: 80%;" border="0">
-<tbody>
-<tr>
-<td style="width: 30%; text-align: left;">Since 2023</td>
-<td style="width: 70%; text-align: left;"> Representative of the <a href="https://www.unibw.de/home-en/departments/department-of-computer-science" target="_new">Department of Computer Science</a> at <a href="https://www.unibw.de/home-en/" target="_new">UniBwM</a> at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI), the association of computer science departments and faculties at German universities</a>.</td>
-</tr>
-</tbody>
-</table>
+- TBA
 
 #### 5. Other academic activities
+
 - Representative of the Department of Computer Science at UniBwM at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI), the association of computer science departments and faculties at German universities</a>.</td>
 - Member of the AG-Lehre, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).
 - Member of the AG-AG-Chancenvielfalt, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).
