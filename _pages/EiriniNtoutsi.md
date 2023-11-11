@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/Eirini/
 ---
 
-### Prof. Dr. Eirini Ntoutsi - Curriculum Vitae
+### Prof. Dr. Eirini Ntoutsi
 
 #### 1. Curriculum Vitae
 <table style="border-collapse: collapse; width: 80%;" border="0">
