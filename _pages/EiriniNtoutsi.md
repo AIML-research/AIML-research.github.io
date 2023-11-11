@@ -89,22 +89,9 @@ permalink: /team/Eirini/
 </table>
 
 #### 5. Other academic activities
-<table style="border-collapse: collapse; width: 80%;" border="0">
-<tbody>
-<tr>
-<td style="width: 30%; text-align: left;">At UniBw</td>
-<td style="width: 70%; text-align: left;"> Representative of the <a href="https://www.unibw.de/home-en/departments/department-of-computer-science" target="_new">Department of Computer Science</a> at <a href="https://www.unibw.de/home-en/" target="_new">UniBwM</a> at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI), the association of computer science departments and faculties at German universities</a>.</td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: left;">At LUH</td>
-<td style="width: 70%; text-align: left;"> Member of the AG-Lehre, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).</td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: left;">At LUH</td>
-<td style="width: 70%; text-align: left;"> Member of the AG-AG-Chancenvielfalt, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).</td>
-</tr>  
-</tbody>
-</table>
+- Representative of the <a href="https://www.unibw.de/home-en/departments/department-of-computer-science" target="_new">Department of Computer Science</a> at <a href="https://www.unibw.de/home-en/" target="_new">UniBwM</a> at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI), the association of computer science departments and faculties at German universities</a>.</td>
+- Member of the AG-Lehre, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).
+- Member of the AG-AG-Chancenvielfalt, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).
 
 #### 6. Other professional activities
 <table style="border-collapse: collapse; width: 100%;" border="0">
