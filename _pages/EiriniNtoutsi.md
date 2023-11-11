@@ -80,6 +80,7 @@ permalink: /team/Eirini/
 - See <a href="https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en">Google Scholar</a> || <a href="https://dblp.org/pid/n/IreneNtoutsi.html">DBLP</a> || <a href="https://aiml-research.github.io/publications/">AIML</a>
 
 #### 4. Other scientific activities
+
 - TBA
 
 #### 5. Other academic activities
@@ -90,12 +91,14 @@ permalink: /team/Eirini/
 - Member of the AG-AG-Chancenvielfalt, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).
 
 #### 6. Professional Memberships
+
 - Member of ACM
 - Member of IEEE
 - Member of the <a href="https://acmw-gr.acm.org/index.php/en/" target="_new">Greek ACM Council on Women in Computing Chapter </a>
 - Member of <a href="https://gi.de/" target = "_new">Gesellschaft für Informatik</a>
 
 #### 7. Scolarships, Awards, Funding
+
 - 2020-2024: Network Coordinator & Co-PI for the European Training Network "NoBIAS: Artificial Intelligence without Bias" funded by the EU.
 - 2019-2023: Co-PI for the project "BIAS in big data decision making" funded by the Volkswagen Foundation.
 - 2018: Best Student Paper award at IEEE Int’l Conference on Big Knowledge (ICBK'18).
@@ -110,23 +113,24 @@ December 2017: NVIDIA Research Grant.
 - 2002: Performance scholarship from the Greek State Scholarships Foundation during my MSc studies.
 
 #### 8. Other professional activities
+
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 30%; text-align: left;">2007-2009</td>
-<td style="width: 70%; text-align: left;"> Co-founder and AI expert at the NeeMo (AI-based news monitoring) startup company, Athens, Greece.</td>
+<td style="width: 25%; text-align: left;">2007-2009</td>
+<td style="width: 75%; text-align: left;"> Co-founder and AI expert at the NeeMo (AI-based news monitoring) startup company, Athens, Greece.</td>
 </tr>  
 <tr>
-<td style="width: 30%; text-align: left;">2002-2005</td>
-<td style="width: 70%; text-align: left;"> Software Engineer at <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute & Press "Diophantus</a>, Patras/Athens, Greece.</td>
+<td style="width: 25%; text-align: left;">2002-2005</td>
+<td style="width: 75%; text-align: left;"> Software Engineer at <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute & Press "Diophantus</a>, Patras/Athens, Greece.</td>
 </tr>
 <tr>
-<td style="width: 30%; text-align: left;">2001</td>
-<td style="width: 70%; text-align: left;"> Software Engineer at the AHEAD RM, Software House for E-commerce Applications, Patras, Greece.</td>
+<td style="width: 25%; text-align: left;">2001</td>
+<td style="width: 75%; text-align: left;"> Software Engineer at the AHEAD RM, Software House for E-commerce Applications, Patras, Greece.</td>
 </tr>
 <tr>
-<td style="width: 30%; text-align: left;">2000</td>
-<td style="width: 70%; text-align: left;"> Student assistant at <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute & Press "Diophantus</a>, Patras, Greece.</td>
+<td style="width: 25%; text-align: left;">2000</td>
+<td style="width: 75%; text-align: left;"> Student assistant at <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute & Press "Diophantus</a>, Patras, Greece.</td>
 </tr>
 </tbody>
 </table>
