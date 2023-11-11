@@ -89,7 +89,7 @@ permalink: /team/Eirini/
 </table>
 
 #### 5. Other academic activities
-- Representative of the <a href="https://www.unibw.de/home-en/departments/department-of-computer-science" target="_new">Department of Computer Science</a> at <a href="https://www.unibw.de/home-en/" target="_new">UniBwM</a> at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI), the association of computer science departments and faculties at German universities</a>.</td>
+- Representative of the Department of Computer Science at UniBwM at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI), the association of computer science departments and faculties at German universities</a>.</td>
 - Member of the AG-Lehre, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).
 - Member of the AG-AG-Chancenvielfalt, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).
 
