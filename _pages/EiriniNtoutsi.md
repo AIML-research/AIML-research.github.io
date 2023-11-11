@@ -12,20 +12,20 @@ permalink: /team/Eirini/
 <table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
 <tr>
-<td style="width: 30%; text-align: left;">Since 2022</td>
-<td style="width: 70%; text-align: left;">Full Professor (W3) for Open Source Intelligence, at the <a href="https://www.unibw.de/home-en/" target="_new">Bundeswehr University Munich (UniBwM)</a>, <a href="https://www.unibw.de/home-en/departments/department-of-computer-science" target="_new">Department of Computer Science</a>.</td>
+<td style="width: 10%; text-align: left;">Since 2022</td>
+<td style="width: 90%; text-align: left;">Full Professor (W3) for Open Source Intelligence, at the <a href="https://www.unibw.de/home-en/" target="_new">Bundeswehr University Munich (UniBwM)</a>, <a href="https://www.unibw.de/home-en/departments/department-of-computer-science" target="_new">Department of Computer Science</a>.</td>
 </tr>
 <tr>
-<td style="width: 30%; text-align: left;">Since 2022</td>
-<td style="width: 70%; text-align: left;">Member of the <a href="https://www.unibw.de/code-en" target="_new">Research Institure CODE</a>.</td>
+<td style="width: 10%; text-align: left;">Since 2022</td>
+<td style="width: 90%; text-align: left;">Member of the <a href="https://www.unibw.de/code-en" target="_new">Research Institure CODE</a>.</td>
 </tr>
 <tr>
-<td style="width: 30%; text-align: left;">2021 - 2022</td>
-<td style="width: 70%; text-align: left;">Full Professor (W3) for Artificial Intelligence, at <a href="https://www.mi.fu-berlin.de/en/inf/index.html" target="_new">Dept. of Computer Science</a>, <a href="https://www.fu-berlin.de/" target="_new">Freie University Berlin</a></td>
+<td style="width: 10%; text-align: left;">2021 - 2022</td>
+<td style="width: 90%; text-align: left;">Full Professor (W3) for Artificial Intelligence, at <a href="https://www.mi.fu-berlin.de/en/inf/index.html" target="_new">Dept. of Computer Science</a>, <a href="https://www.fu-berlin.de/" target="_new">Freie University Berlin</a></td>
 </tr>
   <tr>
-<td style="width: 30%; text-align: left;">Since 2016</td>
-<td style="width: 70%; text-align: left;">Member of the <a href="htt://www.l3s.de/" target="_new">L3S Research Center</a>.</td>
+<td style="width: 10%; text-align: left;">Since 2016</td>
+<td style="width: 90%; text-align: left;">Member of the <a href="htt://www.l3s.de/" target="_new">L3S Research Center</a>.</td>
 </tr>
 
 <tr>
