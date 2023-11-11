@@ -57,20 +57,20 @@ permalink: /team/Eirini/
 <table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
 <tr>
-<td style="width: 30%; text-align: left;">2010-2016</td>
-<td style="width: 70%; text-align: left;">PostDoc in Data Mining/ Machine Learning, <a href="https://www.lmu.de/en/" target="_new">Ludwig-Maximilians-Universität München (LMU)</a>, <a href="https://www.ifi.uni-muenchen.de/index.html" target="_new">Institute for Computer Science</a>: <a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite" target="_new">Database and Information Systems</a>.</td>
+<td style="width: 25%; text-align: left;">2010-2016</td>
+<td style="width: 75%; text-align: left;">PostDoc in Data Mining/ Machine Learning, <a href="https://www.lmu.de/en/" target="_new">Ludwig-Maximilians-Universität München (LMU)</a>, <a href="https://www.ifi.uni-muenchen.de/index.html" target="_new">Institute for Computer Science</a>: <a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite" target="_new">Database and Information Systems</a>.</td>
 </tr>
 <tr>
-<td style="width: 30%; text-align: left;">2003-2008</td>
-<td style="width: 70%; text-align: left;">Ph.D. in Data Mining/ Machine Learning, at the <a href="https://www.unipi.gr/unipi/en/" target="_new">University of Piraeus, Greece</a>, <a href="https://www.cs.unipi.gr/index.php?lang=en" target="_new">Department of Computer Science</a>: <a href="https://www.datastories.org/" target="_new">Data Science Lab</a>.</td>
+<td style="width: 25%; text-align: left;">2003-2008</td>
+<td style="width: 75%; text-align: left;">Ph.D. in Data Mining/ Machine Learning, at the <a href="https://www.unipi.gr/unipi/en/" target="_new">University of Piraeus, Greece</a>, <a href="https://www.cs.unipi.gr/index.php?lang=en" target="_new">Department of Computer Science</a>: <a href="https://www.datastories.org/" target="_new">Data Science Lab</a>.</td>
 </tr>
 <tr>
-<td style="width: 30%; text-align: left;">2001-2003</td>
-<td style="width: 70%; text-align: left;">Master in Computer Engineering and Informatics, at the <a href="https://www.upatras.gr/en/" target="_new">University of Patras, Greece</a>, <a href="https://www.ceid.upatras.gr/en" target="_new">Department of Computer Engineering and Informatics (CEID)</a>.</td>
+<td style="width: 25%; text-align: left;">2001-2003</td>
+<td style="width: 75%; text-align: left;">Master in Computer Engineering and Informatics, at the <a href="https://www.upatras.gr/en/" target="_new">University of Patras, Greece</a>, <a href="https://www.ceid.upatras.gr/en" target="_new">Department of Computer Engineering and Informatics (CEID)</a>.</td>
 </tr>
 <tr>
-<td style="width: 30%; text-align: left;">1996-2001</td>
-<td style="width: 70%; text-align: left;">Diploma in Computer Engineering and Informatics, at the <a href="https://www.upatras.gr/en/" target="_new">University of Patras, Greece</a>, <a href="https://www.ceid.upatras.gr/en" target="_new">Department of Computer Engineering and Informatics (CEID)</a>.</td>
+<td style="width: 25%; text-align: left;">1996-2001</td>
+<td style="width: 75%; text-align: left;">Diploma in Computer Engineering and Informatics, at the <a href="https://www.upatras.gr/en/" target="_new">University of Patras, Greece</a>, <a href="https://www.ceid.upatras.gr/en" target="_new">Department of Computer Engineering and Informatics (CEID)</a>.</td>
 </tr>
 </tbody>
 </table>
