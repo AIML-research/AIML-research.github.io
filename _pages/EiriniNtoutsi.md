@@ -105,9 +105,9 @@ permalink: /team/Eirini/
 - 2017-2019: Co-PI for the project "Opinion Stream Classification with Ensembles and Active leaRners - OSCAR" funded by the German Research Foundation (DFG).
 - 2018: Distinguished Senior Program Committee member for International Joint Conference on Artificial Intelligence (IJCAI'18).
 December 2017: NVIDIA Research Grant.
-- March 2017: Joined AcademiaNet-Expert Database for Outstanding Female Academics nominated by the Alexander von Humboldt Foundation. Check my AcademiaNet profile.
+- March 2017: Joined AcademiaNet-Expert Database for Outstanding Female Academics nominated by the Alexander von Humboldt Foundation.
 - 2010-2011: Postdoct scholarship by the Alexander von Humboldt Foundation. Host: Prof. Hans-Peter Kriegel at LMU, Munich.
-- 2007: 1st price in the National Innovation 2006 Competition organized by Otenet, the major telecommunication provider of Greece. The winning team consisted of me and Nikolaos Mitsou.
+- 2007: 1st price in the National Innovation 2006 Competition organized by Otenet, the major telecommunication provider of Greece with team "Neemo - News Monitoring".
 - February-March 2007: research scholarship from the KO-RFID project to work with Prof. Myra Spiliopoulou at University of Magdeburg, Germany.
 - 2003 - 2005: PhD scholarship from HERACLETOS EPEAEK II Programme (2003-2005) supported by the Greek Ministry of Education and the EU.
 - 2002: Performance scholarship from the Greek State Scholarships Foundation during my MSc studies.
