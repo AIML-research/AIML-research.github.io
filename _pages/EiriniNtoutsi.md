@@ -97,7 +97,7 @@ permalink: /team/Eirini/
 - Member of the <a href="https://acmw-gr.acm.org/index.php/en/" target="_new">Greek ACM Council on Women in Computing Chapter </a>
 - Member of <a href="https://gi.de/" target = "_new">Gesellschaft für Informatik</a>
 
-#### 7. Scolarships, Awards, Funding
+#### 7. Scholarships, Awards, Funding
 
 - 2020-2024: Network Coordinator & Co-PI for the European Training Network "NoBIAS: Artificial Intelligence without Bias" funded by the EU.
 - 2019-2023: Co-PI for the project "BIAS in big data decision making" funded by the Volkswagen Foundation.
