@@ -11,7 +11,7 @@ permalink: /team/Eirini/
 
 #### About
 
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 90%;" border="0">
 <tbody>
 <tr>
 <td style="width: 70%; text-align: justify;">
@@ -23,7 +23,7 @@ Prof. Eirini Ntoutsi holds a diploma (2001) and a master degree (2003) in Comput
 
 #### 1. Curriculum Vitae
 
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%; text-align: left;">Since 2022</td>
@@ -67,7 +67,7 @@ Prof. Eirini Ntoutsi holds a diploma (2001) and a master degree (2003) in Comput
 
 #### 2. Education
 
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%; text-align: left;">2010-2016</td>
@@ -127,7 +127,7 @@ December 2017: NVIDIA Research Grant.
 
 #### 8. Other professional activities
 
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%; text-align: left;">2007-2009</td>
