@@ -7,6 +7,7 @@ permalink: /team/Eirini/
 ---
 
 ### Prof. Dr. Eirini Ntoutsi
+<br>
 #### About
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
