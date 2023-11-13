@@ -20,7 +20,7 @@ Prof. Eirini Ntoutsi holds a diploma (2001) and a master degree (2003) in Comput
 
 #### 1. Curriculum Vitae
 
-<table style="border-collapse: collapse; width: 80%;" border="0">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%; text-align: left;">Since 2022</td>
@@ -64,7 +64,7 @@ Prof. Eirini Ntoutsi holds a diploma (2001) and a master degree (2003) in Comput
 
 #### 2. Education
 
-<table style="border-collapse: collapse; width: 80%;" border="0">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%; text-align: left;">2010-2016</td>
@@ -113,12 +113,12 @@ Prof. Eirini Ntoutsi holds a diploma (2001) and a master degree (2003) in Comput
 - 2019-2023: Co-PI for the project "BIAS in big data decision making" funded by the Volkswagen Foundation.
 - 2018: Best Student Paper award at IEEE Int’l Conference on Big Knowledge (ICBK'18).
 - 2017-2019: Co-PI for the project "Opinion Stream Classification with Ensembles and Active leaRners - OSCAR" funded by the German Research Foundation (DFG).
-- 2018: Distinguished Senior Program Committee member for International Joint Conference on Artificial Intelligence (IJCAI'18).
+- 2018: Distinguished Senior Program Committee member for the International Joint Conference on Artificial Intelligence (IJCAI'18).
 December 2017: NVIDIA Research Grant.
 - March 2017: Joined AcademiaNet-Expert Database for Outstanding Female Academics nominated by the Alexander von Humboldt Foundation.
-- 2010-2011: Postdoct scholarship by the Alexander von Humboldt Foundation. Host: Prof. Hans-Peter Kriegel at LMU, Munich.
+- 2010-2011: Postdoctoral scholarship by the Alexander von Humboldt Foundation. Host: Prof. Hans-Peter Kriegel at LMU, Munich.
 - 2007: 1st price in the National Innovation 2006 Competition organized by Otenet, the major telecommunication provider of Greece with team "Neemo - News Monitoring".
-- February-March 2007: research scholarship from the KO-RFID project to work with Prof. Myra Spiliopoulou at University of Magdeburg, Germany.
+- February-March 2007: research scholarship from the KO-RFID project to work with Prof. Myra Spiliopoulou at the University of Magdeburg, Germany.
 - 2003 - 2005: PhD scholarship from HERACLETOS EPEAEK II Programme (2003-2005) supported by the Greek Ministry of Education and the EU.
 - 2002: Performance scholarship from the Greek State Scholarships Foundation during my MSc studies.
 
