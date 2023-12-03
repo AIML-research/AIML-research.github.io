@@ -1,14 +1,14 @@
 ---
-title: "Artificial Intelligence and Machine Learning Group - Research"
+title: "Artificial Intelligence and Machine Learning Group - Blog"
 layout: textlay
-excerpt: "AIML Group -- Teaching"
+excerpt: "AIML Group -- Blog"
 sitemap: false
-permalink: /teaching/
+permalink: /blog/
 ---
 
-Current and previous courses at FUB, LUH, LMU.
+#Current and previous courses at FUB, LUH, LMU.
 
-### Teaching
+### AIML@ECML PKDD 2023, September 2023, Torino, Italy
 
 #### At the <a href ="https://www.unibw.de/home"> <b>Bundeswehr University Munich (UniBw-M)</b> </a>, Germany
 <b> Autumn trimester </b>
