@@ -16,5 +16,3 @@ Ongoing directions include:
 Our methods cover a diverse array of application fields, including education, social networks, banks, agriculture, manufacturing, and engineering.
 
 We are part of [Research Institute CODE for cybersecurity and smart data](https://www.unibw.de/code) and the [Department of Computer Science](https://www.unibw.de/inf) at the [Bundeswehr University Munich (UniBwM)](https://www.unibw.de/). Previously, we have been working at the [Freie Universität Berlin](https://www.fu-berlin.de/en/) and [Leibniz Universität Hannover](https://www.uni-hannover.de/en/)/[L3S Research Center](https://www.l3s.de/en).
-
-
