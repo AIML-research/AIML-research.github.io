@@ -6,8 +6,6 @@ sitemap: false
 permalink: /blog/
 ---
 
-#Current and previous courses at FUB, LUH, LMU.
-
 ### AIML@ MAMMOth GA meeting, November 2023, Bologna, Italy
 
 ### AIML@ECML PKDD 2023, September 2023, Torino, Italy
