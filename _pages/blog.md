@@ -6,9 +6,9 @@ sitemap: false
 permalink: /blog/
 ---
 
-### AIML@ MAMMOth GA meeting, November 2023, Bologna, Italy
+# AIML@ MAMMOth GA meeting, November 2023, Bologna, Italy
 
-### AIML@ECML PKDD 2023, September 2023, Torino, Italy
+## AIML@ECML PKDD 2023, September 2023, Torino, Italy
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
