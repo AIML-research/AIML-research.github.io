@@ -21,7 +21,7 @@ AIML group's members and everybody who is interested in AI/ML.
 ### Meetings
 <h2>Autumn trimester</h2>
 <ul>
-<li>22.11.2023</li><a href="https://imada.sdu.dk/u/zimek/index.html" target="_new">Prof. Arthur Zimek</a> from SDU Denmark gave a talk on "Fairness in Imbalanced Classification: An Adjustment to the k Nearest Neighbor Classifier" at the <a href="https://www.unibw.de/code/events/kolloquium" target="_new">CODE colloqium</a> Eirini is co-organizing. We had the opportunity to discuss our research and explore potential collaborations.
+<li>22.11.2023<a href="https://imada.sdu.dk/u/zimek/index.html" target="_new">Prof. Arthur Zimek</a> from SDU Denmark gave a talk on "Fairness in Imbalanced Classification: An Adjustment to the k Nearest Neighbor Classifier" at the <a href="https://www.unibw.de/code/events/kolloquium" target="_new">CODE colloqium</a> Eirini is co-organizing. We had the opportunity to discuss our research and explore potential collaborations.</li>
 <li>08.11.2023 <b>Vivek</b> will give a summary of his current research on augmenting knowledge.</li>  
 <li>31.10.2023 <b>Arjun</b> will give a summary of his current research on the landscape of discrimination in the model parameter space.</li>
   <li>27.09.2023 <b>Valerie Krug</b> from Otto-von-Guericke-University Magdeburg will give a talk on <i>Neuroscience-Inspired Analysis and Visualization of Deep Neural Networks</i>:
