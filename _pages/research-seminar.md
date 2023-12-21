@@ -21,6 +21,7 @@ AIML group's members and everybody who is interested in AI/ML.
 ### Meetings
 <h2>Autumn trimester</h2>
 <ul>
+<li>13.12.2023<a href="https://www.mi.fu-berlin.de/en/inf/groups/ag-comm/team-members/wunder.html" target="_new">Prof. Gerhard Wunder</a> from FU Berlin gave a talk on "On Gradient-like Explanation under a Black-box Setting: When Black-box Explanations Become as Good as White-box" at the <a href="https://www.unibw.de/code/events/kolloquium" target="_new">CODE colloqium</a> Eirini is co-organizing. We had the opportunity to discuss our research and explore potential collaborations.</li>
 <li>22.11.2023<a href="https://imada.sdu.dk/u/zimek/index.html" target="_new">Prof. Arthur Zimek</a> from SDU Denmark gave a talk on "Fairness in Imbalanced Classification: An Adjustment to the k Nearest Neighbor Classifier" at the <a href="https://www.unibw.de/code/events/kolloquium" target="_new">CODE colloqium</a> Eirini is co-organizing. We had the opportunity to discuss our research and explore potential collaborations.</li>
 <li>08.11.2023 <b>Vivek</b> will give a summary of his current research on augmenting knowledge.</li>  
 <li>31.10.2023 <b>Arjun</b> will give a summary of his current research on the landscape of discrimination in the model parameter space.</li>
