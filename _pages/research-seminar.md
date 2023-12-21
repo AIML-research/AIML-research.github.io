@@ -12,7 +12,7 @@ Most sessions take place in forms of a reading group or a research presentation 
 ### When and where
 Each Wednesday 11:00 - 12:30, hybrid setting <br>
 Offline:  Research Institute CODE, Bundeswehr University Munich. <br>
-Online: via WebEx. If you are interested, contact <a href="mailto:tai@l3s.de">Tai Le Quy</a> for the link.
+Online: via WebEx. If you are interested, contact <a href="mailto:emmanouil.panagiotou@unibw.de">Emmanouil Panagiotou</a> for the link.
 
 
 ### Who
