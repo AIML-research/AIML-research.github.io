@@ -19,13 +19,14 @@ Current and previous courses at FUB, LUH, LMU.
 - <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.
 
 <b> Spring trimester </b>
-- Lecture: Machine Learning (FT23).
+- Lecture: Machine Learning, FT23.
 - Lab: Machine Learning.
 - <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.
 
 <b> Autumn trimester </b>
-- Lecture: Responsible Artificial Intelligence (HT23).
-- Seminar: Selected topics on Responsible Artificial Intelligence (HT23: Responsible Generative AI).
+- Lecture: Responsible Artificial Intelligence, HT23.
+- Seminar: Selected topics on Responsible Artificial Intelligence
+  - HT23 Focus: Responsible Generative AI
 - <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.
 
 #### At the <a href ="https://www.fu-berlin.de/"> <b>Freie Universität Berlin (FUB)</b> </a>, Germany
