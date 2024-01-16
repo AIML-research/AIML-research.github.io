@@ -6,3 +6,14 @@
   website: https://scholar.google.com/citations?user=A6A4OKoAAAAJ&hl=en
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/stelar/
+
+- name: Tai Le Quy
+  photo: Tai.jpg
+  info: External Postdoc (L3S, DE)
+  email: tai.lequy@.fu-berlin.de
+  number_educ: 0
+  project: LernMINT, L3S
+  website: "https://tailequy.github.io/"
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/lernmint/
+  
