@@ -68,16 +68,6 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/nobias/
   
-- name: Tai Le Quy
-  photo: Tai.jpg
-  info: External Ph.D. Student (L3S, DE)
-  email: tai.lequy@.fu-berlin.de
-  number_educ: 0
-  project: LernMINT
-  website: "https://tailequy.github.io/"
-  has_project_web: 1
-  project_web: https://aiml-research.github.io/projects/lernmint/
-  
 - name: Alaa Elobaid
   photo: Alaa.jpg
   info: External Ph.D. Student (CERTH, GR)
