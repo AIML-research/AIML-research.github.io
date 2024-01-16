@@ -26,12 +26,7 @@ AIML group's members and everybody who is interested in AI/ML.
 <li>08.11.2023 <b>Vivek</b> will give a summary of his current research on augmenting knowledge.</li>  
 <li>31.10.2023 <b>Arjun</b> will give a summary of his current research on the landscape of discrimination in the model parameter space.</li>
   <li>27.09.2023 <b>Valerie Krug</b>, Ph.D. student at the Otto-von-Guericke-University Magdeburg will give a talk on <i>Neuroscience-Inspired Analysis and Visualization of Deep Neural Networks</i>, and in particular, on how to analyze DNNs with an Event-Related Potentials-inspired technique and how to visualize their activations as topographic maps.</li>
-  </ul></li>
-    <li>13.09.2023 <b>Manolis</b> will give a summary of his current research, which includes two parts:
-  <ul>
-    <li><i>Learning impartial policies for sequential  counterfactual explanations using Deep Reinforcement Learning</i> (to be presented at the <a href="https://sites.google.com/view/dynxai-ecmlpkdd-2023/home?authuser=0" target="_new">DynXAI Workshop</a>, co-located with ECML PKDD 2023).</li>
-    <li><i>Generating synthetic design alternatives in mixed feature spaces - Application on offshore substructure data</i> (related to the <a href="https://www.sfb1463.uni-hannover.de/" target="_new">SFB 1463</a> project)</li>
-  </ul>
+<li>13.09.2023 <b>Manolis</b> will give a summary of his current research, which includes two parts: i) Learning impartial policies for sequential  counterfactual explanations using Deep Reinforcement Learning</i> (to be presented at the <a href="https://sites.google.com/view/dynxai-ecmlpkdd-2023/home?authuser=0" target="_new">DynXAI Workshop</a>, co-located with ECML PKDD 2023) and ii)Generating synthetic design alternatives in mixed feature spaces - Application on offshore substructure data</i> (related to the <a href="https://www.sfb1463.uni-hannover.de/" target="_new">SFB 1463</a> project)
 </li>
 </ul>
 
