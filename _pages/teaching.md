@@ -12,8 +12,10 @@ Current and previous courses at FUB, LUH, LMU.
 
 #### At the <a href ="https://www.unibw.de/home"> <b>Bundeswehr University Munich (UniBw-M)</b> </a>, Germany
 <b> Winter trimester</b>
-- Lecture: Artificial Intelligence (WT23, WT24).
-- Seminar: Selected topics on AI/ML (WT23: Multi-objective optimization in AI/ML; WT24: AI and games).
+- Lecture: Artificial Intelligence, WT23, WT24.
+- Seminar: Selected topics on AI/ML
+-- WT23 focus: Multi-objective optimization in AI/ML
+-- WT24 focus: AI and games.
 - <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.
 
 <b> Spring trimester </b>
