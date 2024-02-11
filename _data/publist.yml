@@ -1,24 +1,3 @@
-- title: "Studying Bias in Visual Features through the Lens of Optimal Transport"
-  image: 
-  description: 
-  authors: Simone Fabbrizzi, Xuan Zhao, Emmanouil Krasanakis, Symeon Papadopoulos, Eirini Ntoutsi
-  link:
-    url: https://link.springer.com/article/10.1007/s10618-023-00972-2
-    display: ECML-PKDD 2023 DAMI journal track (accepted)
-  highlight: 0
-  news2:  
-  year:  2023
-  haslocal: 1
-  local: 23.DMKD_ECMLPKDD.pdf
-  hascode: 0
-  code: 
-  hasposter: 0
-  poster:
-  hasppt: 0
-  ppt: 
-  hasvideo: 0
-  video:
-  
 - title: "RHALE, Robust and Heterogeneity-aware Accumulated Local Effects"
   image: 
   description: 
