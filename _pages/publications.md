@@ -49,6 +49,17 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
+#### 2024
+
+{% for publi in site.data.publist %}
+{% if {{publi.year}} == 2024 %}
+  - {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
+  {% if {{publi.haslocal}} == 1 %}[<a href ="{{ site.url }}{{ site.baseurl }}/files/{{publi.local}}">local copy</a>]{% endif %} {% if {{publi.hascode}} == 1 %}[<a href="{{publi.code}}">code</a>]{% endif %} {% if {{publi.hasppt}} == 1 %}[<a href="{{publi.ppt}}">ppt</a>]{% endif %} {% if {{publi.poster}} == 1 %}[<a href="{{publi.poster}}">poster</a>]{% endif %} {% if {{publi.hasvideo}} == 1 %}[<a href="{{publi.video}}">video</a>]
+  {% endif %} 
+  
+{% endif %}
+{% endfor %}
 
 #### 2023
 
