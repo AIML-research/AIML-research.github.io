@@ -3,8 +3,8 @@
   description: 
   authors: Siamak Ghodsi, Seyed Amjad Seyedi, Eirini Ntoutsi
   link:
-    url: https://
-    display: PAKDD (accepted)
+    url: https://pakdd2024.org/
+    display: PAKDD 2024 (accepted)
   highlight: 0
   news2:  
   year:  2024
@@ -25,7 +25,7 @@
   authors: Simone Fabbrizzi, Xuan Zhao, Emmanouil Krasanakis, Symeon Papadopoulos, Eirini Ntoutsi
   link:
     url: https://link.springer.com/article/10.1007/s10618-023-00972-2
-    display: ECML-PKDD 2023 DAMI journal track (accepted)
+    display: ECML-PKDD 2023 DAMI journal track
   highlight: 0
   news2:  
   year:  2023
@@ -45,8 +45,8 @@
   description: 
   authors: Vasilis Gkolemis, Theodore Dalamagas, Eirini Ntoutsi, Christos Diou
   link:
-    url: https://arxiv.org/abs/2309.11193
-    display: 26th European Conference on Artificial Intelligence (ECAI 2023) (accepted)
+    url: https://ebooks.iospress.nl/doi/10.3233/FAIA230354
+    display: 26th European Conference on Artificial Intelligence (ECAI 2023)
   highlight: 0
   news2:  
   year:  2023
@@ -66,7 +66,7 @@
   description: 
   authors:   Emmanouil Panagiotou, Eirini Ntoutsi
   link:
-    url: 
+    url: https://arxiv.org/abs/2311.00523
     display: DynXAI workshop, co-located with ECML PKDD 2023 (accepted)
   highlight: 0
   news2:  
@@ -87,7 +87,7 @@
   description: 
   authors: Vasilis Gkolemis, Theodore Dalamagas, Eirini Ntoutsi, Christos Diou
   link:
-    url: 
+    url: https://arxiv.org/abs/2309.12215
     display: XAI-uncertainty workshop, co-located with ECML PKDD 2023 (accepted)
   highlight: 0
   news2:  
@@ -108,13 +108,13 @@
   description: 
   authors:  Siamak Ghodsi, Eirini Ntoutsi
   link:
-    url: https://arxiv.org/abs/2306.01699
+    url: https://ceur-ws.org/Vol-3442/paper-10.pdf
     display: European Workshop on Algorithmic Fairness (EWAF'23), Winterthur, Switzerland
   highlight: 0
   news2:  
   year:  2023
-  haslocal: 0
-  local: 
+  haslocal: 1
+  local: 23.EWAF.pdf
   hascode: 0
   code: 
   hasposter: 0
@@ -129,8 +129,8 @@
   description: 
   authors:   Emmanouil Panagiotou, Han Qian, Mareile Wynants, Anton Kriese, Steffen Marx, Eirini Ntoutsi
   link:
-    url: 
-    display: The 33rd International Ocean and Polar Engineering Conference (ISOPE-2023) (accepted)
+    url: https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE23/All-ISOPE23/524270
+    display: The 33rd International Ocean and Polar Engineering Conference (ISOPE-2023)
   highlight: 0
   news2:  
   year:  2023
