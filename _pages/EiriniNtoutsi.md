@@ -26,7 +26,7 @@ My ultimate goal is building intelligent machines that augment human intelligenc
 </table>
 
 #### Academic experience
-<table style="border-collapse: collapse; width: 90%;" border="0">
+<table style="border-collapse: collapse; width: 80%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%; text-align: left;">Since 2022</td>
