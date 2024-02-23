@@ -11,7 +11,7 @@ permalink: /team/Eirini/
 
 #### About
 
-<table style="border-collapse: collapse; width: 90%;" border="0">
+<table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
 <tr>
 <td style="width: 70%; text-align: justify;">I hold a diploma (2001) and a master's degree (2003) in Computer Engineering and Informatics from the Department of Computer Engineering and Informatics (CEID) at the Polytechnic School of the University of Patras in Greece. I earned my Ph.D. in Data Mining/Machine Learning from the University of Piraeus, Athens, Greece in 2008. Following this, I was a post-doctoral researcher at Ludwig-Maximilians-Universität München (LMU) in the group of Prof. H.-P. Kriegel, joining in 2010 as a post-doctoral fellow of the Alexander von Humboldt Foundation. From 2016 to 2021, I held the position of associate professor of Intelligent Systems at the Leibniz University of Hannover (LUH) and remain a member of the L3S Research Center today. Before my current role at the University of the Bundeswehr Munich, I was a full professor of Artificial Intelligence at the Freie Universität Berlin (FUB) from 2021 to 2022.</br>
@@ -25,7 +25,7 @@ My ultimate goal is building intelligent machines that augment human intelligenc
 
 #### 1. Curriculum Vitae
 
-<table style="border-collapse: collapse; width: 80%;" border="0">
+<table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%; text-align: left;">Since 2022</td>
@@ -69,7 +69,7 @@ My ultimate goal is building intelligent machines that augment human intelligenc
 
 #### 2. Education
 
-<table style="border-collapse: collapse; width: 80%;" border="0">
+<table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%; text-align: left;">2010-2016</td>
@@ -129,7 +129,7 @@ December 2017: NVIDIA Research Grant.
 
 #### 8. Other professional activities
 
-<table style="border-collapse: collapse; width: 90%;" border="0">
+<table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%; text-align: left;">2007-2009</td>
