@@ -9,7 +9,7 @@ permalink: /team/Eirini/
 ### Prof. Dr. Eirini Ntoutsi
 <br>
 
-#### About
+#### Aboutt
 
 <table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
@@ -23,8 +23,7 @@ My ultimate goal is building intelligent machines that augment human intelligenc
 </tbody>
 </table>
 
-#### 1. Curriculum Vitae
-
+#### Academic experience
 <table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
 <tr>
@@ -67,8 +66,7 @@ My ultimate goal is building intelligent machines that augment human intelligenc
 </tbody>
 </table>
 
-#### 2. Education
-
+#### Educational Background
 <table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
 <tr>
@@ -90,29 +88,28 @@ My ultimate goal is building intelligent machines that augment human intelligenc
 </tbody>
 </table>
 
-#### 3. Publications
+#### Publications
 
 - See <a href="https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en">Google Scholar</a> || <a href="https://dblp.org/pid/n/IreneNtoutsi.html">DBLP</a> || <a href="https://aiml-research.github.io/publications/">AIML</a>
 
-#### 4. Other scientific activities
+#### Other scientific activities
 
 - Research Track co-chair for <a href="https://2024.ecmlpkdd.org/" target="_new">ECML PKDD 2024</a>, the flagship European ML and DM conference.
 - 
-#### 5. Other academic activities
-
+#### Other academic activities
 - Representative of the Department of Computer Science at UniBwM at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI)</a>, the association of computer science departments and faculties at German universities.
 - Co-Organizer of the <a href="https://www.unibw.de/code/events/kolloquium" target ="_new">CODE Colloquium</a> (HT23, WT24).
 - Member of the AG-Lehre, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).
 - Member of the AG-AG-Chancenvielfalt, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).
 
-#### 6. Professional Memberships
+#### Professional Memberships
 
 - Member of ACM
 - Member of IEEE
 - Member of the <a href="https://acmw-gr.acm.org/index.php/en/" target="_new">Greek ACM Council on Women in Computing Chapter </a>
 - Member of <a href="https://gi.de/" target = "_new">Gesellschaft für Informatik</a>
 
-#### 7. Scholarships, Awards, Funding
+#### Scholarships, Awards, Funding
 
 - 2020-2024: Network Coordinator & Co-PI for the European Training Network "NoBIAS: Artificial Intelligence without Bias" funded by the EU.
 - 2019-2023: Co-PI for the project "BIAS in big data decision making" funded by the Volkswagen Foundation.
@@ -127,7 +124,7 @@ December 2017: NVIDIA Research Grant.
 - 2003 - 2005: PhD scholarship from HERACLETOS EPEAEK II Programme (2003-2005) supported by the Greek Ministry of Education and the EU.
 - 2002: Performance scholarship from the Greek State Scholarships Foundation during my MSc studies.
 
-#### 8. Other professional activities
+#### Other professional activities
 
 <table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
