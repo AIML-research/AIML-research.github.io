@@ -16,7 +16,9 @@ permalink: /team/Eirini/
 <tr>
 <td style="width: 70%; text-align: justify;">I hold a diploma (2001) and a master's degree (2003) in Computer Engineering and Informatics from the Department of Computer Engineering and Informatics (CEID) at the Polytechnic School of the University of Patras in Greece. I earned my Ph.D. in Data Mining/Machine Learning from the University of Piraeus, Athens, Greece in 2008. Following this, I was a post-doctoral researcher at Ludwig-Maximilians-Universität München (LMU) in the group of Prof. H.-P. Kriegel, joining in 2010 as a post-doctoral fellow of the Alexander von Humboldt Foundation. From 2016 to 2021, I held the position of associate professor of Intelligent Systems at the Leibniz University of Hannover (LUH) and remain a member of the L3S Research Center today. Before my current role at the University of the Bundeswehr Munich, I was a full professor of Artificial Intelligence at the Freie Universität Berlin (FUB) from 2021 to 2022.
 
+
 My work focuses on Artificial Intelligence and Machine Learning, tackling real-world challenges like non-stationarity and imbalances. I am dedicated to responsible AI advancement, particularly in addressing bias and fairness, enhancing transparency through explainable AI (XAI), and fortifying model resilience and robustness. 
+
 
 My ultimate goal is building intelligent machines that augment human intelligence and benefit society as a whole.
 
