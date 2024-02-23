@@ -96,7 +96,7 @@ My ultimate goal is building intelligent machines that augment human intelligenc
 
 #### 4. Other scientific activities
 
-- Research Track co-chair for <a href="https://2024.ecmlpkdd.org/" target="_new">ECML PKDD 2024</a>, flagship European ML and DM conference.
+- Research Track co-chair for <a href="https://2024.ecmlpkdd.org/" target="_new">ECML PKDD 2024</a>, the flagship European ML and DM conference.
 - 
 #### 5. Other academic activities
 
