@@ -97,7 +97,7 @@ My ultimate goal is building intelligent machines that augment human intelligenc
 #### Other scientific activities
 
 - Research Track co-chair for <a href="https://2024.ecmlpkdd.org/" target="_new">ECML PKDD 2024</a>, the flagship European ML and DM conference.
-- 
+  
 #### Other academic activities
 - Representative of the Department of Computer Science at UniBwM at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI)</a>, the association of computer science departments and faculties at German universities.
 - Co-Organizer of the <a href="https://www.unibw.de/code/events/kolloquium" target ="_new">CODE Colloquium</a> (HT23, WT24).
