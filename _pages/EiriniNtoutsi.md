@@ -94,24 +94,24 @@ My ultimate goal is building intelligent machines that augment human intelligenc
 
 - See <a href="https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en">Google Scholar</a>  ||  <a href="https://dblp.org/pid/n/IreneNtoutsi.html">DBLP</a>  ||  <a href="https://aiml-research.github.io/publications/">AIML</a>
 
-#### Other scientific activities
+#### Other scientific activities (selected)
 
 - Research Track co-chair for <a href="https://2024.ecmlpkdd.org/" target="_new">ECML PKDD 2024</a>, the flagship European ML and DM conference.
   
-#### Other academic activities
+#### Other academic activities (selected)
 - Representative of the Department of Computer Science at UniBwM at the <a href="https://ft-informatik.de/" target="_new">Fakultätentag Informatik (FTI)</a>, the association of computer science departments and faculties at German universities.
 - Co-Organizer of the <a href="https://www.unibw.de/code/events/kolloquium" target ="_new">CODE Colloquium</a> (HT23, WT24).
 - Member of the AG-Lehre, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).
 - Member of the AG-AG-Chancenvielfalt, Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (LUH).
 
-#### Professional Memberships
+#### Professional Memberships (selected)
 
 - Member of ACM
 - Member of IEEE
 - Member of the <a href="https://acmw-gr.acm.org/index.php/en/" target="_new">Greek ACM Council on Women in Computing Chapter </a>
 - Member of <a href="https://gi.de/" target = "_new">Gesellschaft für Informatik</a>
 
-#### Scholarships, Awards, Funding
+#### Scholarships, Awards, Funding (selected)
 
 - 2020-2024: Network Coordinator & Co-PI for the European Training Network "NoBIAS: Artificial Intelligence without Bias" funded by the EU.
 - 2019-2023: Co-PI for the project "BIAS in big data decision making" funded by the Volkswagen Foundation.
@@ -126,7 +126,7 @@ December 2017: NVIDIA Research Grant.
 - 2003 - 2005: PhD scholarship from HERACLETOS EPEAEK II Programme (2003-2005) supported by the Greek Ministry of Education and the EU.
 - 2002: Performance scholarship from the Greek State Scholarships Foundation during my MSc studies.
 
-#### Other professional activities
+#### Other professional activities (selected)
 
 <table style="border-collapse: collapse; width: 90%;" border="0">
 <tbody>
@@ -142,10 +142,10 @@ December 2017: NVIDIA Research Grant.
 <td style="width: 25%; text-align: left;">2001</td>
 <td style="width: 75%; text-align: left;"> Software Engineer at the AHEAD RM, Software House for E-commerce Applications, Patras, Greece.</td>
 </tr>
-<tr>
+<!--<tr>
 <td style="width: 25%; text-align: left;">2000</td>
 <td style="width: 75%; text-align: left;"> Student assistant at <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute & Press "Diophantus</a>, Patras, Greece.</td>
-</tr>
+</tr>-->
 </tbody>
 </table>
 
