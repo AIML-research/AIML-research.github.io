@@ -269,7 +269,7 @@ permalink: /team/
 
 
 ### Master and Bachelor students
-- <b> Sara Bonati </b>, M.Sc., <a href="">"The impact of spatial and temporal context in fairness-aware machine learning"</a>, in progress.
+- <b> Sara Bonati </b>, M.Sc., <a href="">"The impact of spatial and temporal context in fairness-aware machine learning"</a>, SoSe23.
 - <b> Esra Gücükbel </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/38114">"Evaluating The Explanation of Black Box
 Decision for Text Classification"</a>, WiSe22/23.
 - <b> Florian Mies </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/36131">"Analysis of the Generative Replay Algorithm and Comparison with other Continual Learning Approaches on Newly Defined Non-stationary Data Stream Scenarios"</a>, <a href="https://avalanche-api.continualai.org/en/v0.2.0/_modules/avalanche/training/plugins/generative_replay.html">[code]</a>, SoSe22.
