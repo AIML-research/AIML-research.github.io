@@ -14,6 +14,10 @@ We apply our methods across various industries, including education, social netw
 
 ### Ongoing research projects
 <ul>
+  <li><b>DFG Scientific Network on Digital Bioethics</b></li>
+The scientific network Digital Bioethics <a href="https://gepris.dfg.de/gepris/projekt/525059925?context=projekt&task=showDetail&id=525059925&" target="_new">supported by DFG</a> and led by Prof. Sabine Salloch from the Hannover Medical School (MHH) aims at covering the wide domain of bioethics and the role of technology, esp AI, in the domain as the new technologies offer new methodological opportunities but there are also ethical implications arising from algorithmic decision-making in healthcare and biomedical research including technology's own risks and limitations.
+</ul>
+
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/mammoth">MAMMOTH (Multi-Attribute, Multimodal Bias Mitigation in AI Systems)</a></b></li>
 Funding: EU under the call HORIZON-CL4-2021-HUMAN-01 (A HUMAN-CENTRED AND ETHICAL DEVELOPMENT OF DIGITAL AND INDUSTRIAL TECHNOLOGIES 2021).<br> 
 The MAMMOth project focuses on multi-discrimination mitigation for tabular, network and multimodal data. Through its 
