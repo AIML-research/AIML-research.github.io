@@ -3,8 +3,8 @@
   description: 
   authors:   Arjun Roy, Christos Koutlis, Symeon Papadopoulos, Eirini Ntoutsi
   link:
-    url: https://doi.org/10.1145/3593013.3593979
-    display: International Joint Conference on Neural Networks (IJCNN).
+    url: https://2024.ieeewcci.org/
+    display: International Joint Conference on Neural Networks (IJCNN)
   highlight: 0
   news2:  
   year:  2024
@@ -25,7 +25,7 @@
   authors: Siamak Ghodsi, Seyed Amjad Seyedi, Eirini Ntoutsi
   link:
     url: https://pakdd2024.org/
-    display: PAKDD 2024 (accepted)
+    display: PAKDD 2024
   highlight: 0
   news2:  
   year:  2024
@@ -88,7 +88,7 @@
   authors:   Emmanouil Panagiotou, Eirini Ntoutsi
   link:
     url: https://arxiv.org/abs/2311.00523
-    display: DynXAI workshop, co-located with ECML PKDD 2023 (accepted)
+    display: DynXAI workshop, co-located with ECML PKDD 2023.
   highlight: 0
   news2:  
   year:  2023
@@ -109,7 +109,7 @@
   authors: Vasilis Gkolemis, Theodore Dalamagas, Eirini Ntoutsi, Christos Diou
   link:
     url: https://arxiv.org/abs/2309.12215
-    display: XAI-uncertainty workshop, co-located with ECML PKDD 2023 (accepted)
+    display: XAI-uncertainty workshop, co-located with ECML PKDD 2023.
   highlight: 0
   news2:  
   year:  2023
