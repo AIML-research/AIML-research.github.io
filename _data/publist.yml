@@ -165,7 +165,28 @@
   ppt: 
   hasvideo: 0
   video: 
-  
+
+- title: "Data-based Conceptual Design of Offshore Jackets Using a Self-developed Database"
+  image: 
+  description: 
+  authors: Han Qian, Emmanouil Panagiotou, Steffen Marx, Eirini Ntoutsi
+  link:
+    url: https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE23/All-ISOPE23/ISOPE-I-23-154/524556?redirectedFrom=PDF
+    display: The 33rd International Ocean and Polar Engineering Conference (ISOPE-2023)
+  highlight: 0
+  news2:  
+  year:  2023
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "Multi-objective substructure generation"
   image: 
   description: 
