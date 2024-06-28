@@ -64,10 +64,10 @@
 - title: "A novel dataset and feature selection for data-driven conceptual design of offshore jacket substructures"
   image: 
   description: 
-  authors:   Han Qian, Emmanouil Panagiotou, Mengyan Peng, Eirini Ntoutsi, Chongjie Kang, Steffen Marx
+  authors: Han Qian, Emmanouil Panagiotou, Mengyan Peng, Eirini Ntoutsi, Chongjie Kang, Steffen Marx
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0029801824010163
-    display: Ocean Engineering, 303, 117679.
+  url: https://www.sciencedirect.com/science/article/pii/S0029801824010163
+  display: Ocean Engineering, 303, 117679.
   highlight: 0
   news2:  
   year:  2024
