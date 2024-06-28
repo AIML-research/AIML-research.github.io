@@ -1,3 +1,24 @@
+- title: "Exploring Fusion Techniques in Multimodal AI-Based Recruitment: Insights from FairCVdb (accepted)"
+  image: 
+  description: 
+  authors:   Swati Swati, Arjun Roy, Eirini Ntoutsi
+  link:
+    url: https://2024.ewaf.org/home
+    display: 3rd European Workshop on Algorithmic Fairness
+  highlight: 0
+  news2:  
+  year:  2024
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "FairBranch: Mitigating Bias Transfer in Fair Multi-task Learning (accepted)"
   image: 
   description: 
