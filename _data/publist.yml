@@ -61,6 +61,27 @@
   hasvideo: 0
   video:
 
+- title: "A novel dataset and feature selection for data-driven conceptual design of offshore jacket substructures"
+  image: 
+  description: 
+  authors:   Han Qian, Emmanouil Panagiotou, Mengyan Peng, Eirini Ntoutsi, Chongjie Kang, Steffen Marx
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0029801824010163
+    display: Ocean Engineering, 303, 117679.
+  highlight: 0
+  news2:  
+  year:  2024
+  haslocal: 1
+  local: 24.SFBDataset.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "Studying Bias in Visual Features through the Lens of Optimal Transport"
   image: 
   description: 
