@@ -3,8 +3,8 @@
   description: 
   authors:   Swati Swati, Arjun Roy, Eirini Ntoutsi
   link:
-    url: https://2024.ewaf.org/home
-    display: 3rd European Workshop on Algorithmic Fairness
+  url: https://2024.ewaf.org/home
+  display: 3rd European Workshop on Algorithmic Fairness
   highlight: 0
   news2:  
   year:  2024
@@ -24,8 +24,8 @@
   description: 
   authors:   Arjun Roy, Christos Koutlis, Symeon Papadopoulos, Eirini Ntoutsi
   link:
-    url: https://2024.ieeewcci.org/
-    display: International Joint Conference on Neural Networks (IJCNN)
+  url: https://2024.ieeewcci.org/
+  display: International Joint Conference on Neural Networks (IJCNN)
   highlight: 0
   news2:  
   year:  2024
@@ -45,8 +45,8 @@
   description: 
   authors: Siamak Ghodsi, Seyed Amjad Seyedi, Eirini Ntoutsi
   link:
-    url: https://pakdd2024.org/
-    display: The 28th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
+  url: https://pakdd2024.org/
+  display: The 28th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
   highlight: 0
   news2:  
   year:  2024
@@ -87,8 +87,8 @@
   description: 
   authors: Simone Fabbrizzi, Xuan Zhao, Emmanouil Krasanakis, Symeon Papadopoulos, Eirini Ntoutsi
   link:
-    url: https://link.springer.com/article/10.1007/s10618-023-00972-2
-    display: ECML-PKDD 2023 DAMI journal track
+  url: https://link.springer.com/article/10.1007/s10618-023-00972-2
+  display: ECML-PKDD 2023 DAMI journal track
   highlight: 0
   news2:  
   year:  2023
@@ -108,8 +108,8 @@
   description: 
   authors: Vasilis Gkolemis, Theodore Dalamagas, Eirini Ntoutsi, Christos Diou
   link:
-    url: https://ebooks.iospress.nl/doi/10.3233/FAIA230354
-    display: 26th European Conference on Artificial Intelligence (ECAI)
+  url: https://ebooks.iospress.nl/doi/10.3233/FAIA230354
+  display: 26th European Conference on Artificial Intelligence (ECAI)
   highlight: 0
   news2:  
   year:  2023
