@@ -1,4 +1,4 @@
-uni- title: "Synthetic Tabular Data Generation for Class Imbalance and Fairness - A Comparative Study (accepted)"
+- title: "Synthetic Tabular Data Generation for Class Imbalance and Fairness - A Comparative Study (accepted)"
   image: 
   description: 
   authors:   Emmanouil Panagiotou, Arjun Roy, Eirini Ntoutsi
@@ -19,7 +19,7 @@ uni- title: "Synthetic Tabular Data Generation for Class Imbalance and Fairness 
   hasvideo: 0
   video: 
 
-uni- title: "Adversarial Robustness of VAEs across Intersectional Subgroups (accepted)"
+- title: "Adversarial Robustness of VAEs across Intersectional Subgroups (accepted)"
   image: 
   description: 
   authors:   Chethan Krishnamurthy Ramanaik, Arjun Roy, Eirini Ntoutsi
@@ -40,7 +40,7 @@ uni- title: "Adversarial Robustness of VAEs across Intersectional Subgroups (acc
   hasvideo: 0
   video: 
 
-uni- title: "Exploring Fusion Techniques in Multimodal AI-Based Recruitment: Insights from FairCVdb (accepted)"
+- title: "Exploring Fusion Techniques in Multimodal AI-Based Recruitment Insights from FairCVdb (accepted)"
   image: 
   description: 
   authors:   Swati Swati, Arjun Roy, Eirini Ntoutsi
