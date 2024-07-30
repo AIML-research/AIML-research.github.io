@@ -32,6 +32,6 @@ permalink: /projects/hephaestus/
 The  project aims to research a framework for a learning 5-axes compensation of shape errors in milling processes based on a process-parallel material removal simulation and sophisticated machine learning (ML) strategies. Moreover, we aim to investigate the ability of knowledge transfer between different workpiece geometries, milling tools and machine tools for an enhanced process planning.
 
 #### 4. Publications
-- Huuk, J., Denkena B., Dhingra A., Ntoutsi E. (2024, September). Shape error prediction in 5-axis machining using graph neural networks. In 18th CIRP ICME Conference on Intelligent Computation in Manufacturing Engineering (accepted).
+- Huuk, J., Denkena B., Dhingra A., Ntoutsi E. (2024). Shape error prediction in 5-axis machining using graph neural networks. In 18th CIRP ICME Conference on Intelligent Computation in Manufacturing Engineering (accepted).
 - Naumann, P., & Ntoutsi, E. (2021, September). <a href = "https://link.springer.com/chapter/10.1007/978-3-030-86520-7_42"> Consequence-aware Sequential Counterfactual Generation. </a> In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 682-698). Springer, Cham.
 
