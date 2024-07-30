@@ -39,6 +39,26 @@
   ppt: 
   hasvideo: 0
   video: 
+- title: "Shape error prediction in 5-axis machining using graph neural networks (accepted)"
+  image: 
+  description: 
+  authors:   Julia Huuk, Berend Denkena, Abheek Dhingra, Eirini Ntoutsi
+  link:
+    url: https://cirpicme.org/index.php/18th-cirp-icme-conference/
+    display: 18th CIRP ICME Conference on Intelligent Computation in Manufacturing Engineering.
+  highlight: 0
+  news2:  
+  year:  2024
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
 
 - title: "Exploring Fusion Techniques in Multimodal AI-Based Recruitment Insights from FairCVdb (accepted)"
   image: 
