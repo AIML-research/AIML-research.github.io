@@ -1,1 +1,10 @@
-- name: 
+- name: Tai Le Quy
+  photo: Tai.jpg
+  info: External Postdoc (L3S, DE)
+  email: tai@l3s.de
+  number_educ: 0
+  project: LernMINT, L3S
+  website: "https://tailequy.github.io/"
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/lernmint/
+  
