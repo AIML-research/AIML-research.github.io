@@ -289,6 +289,7 @@ Decision for Text Classification"</a>, WiSe22/23.
 
 ### HiWi students
 
+- <b> Michael Dickopf </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/stelar/"> STELAR </a>, 2024.
 - <b> Viktoria Andres </b>, BSc , Student assistant, project: <a href ="https://aiml-research.github.io/projects/hephaestus/">Hephaestus </a>, WiSe21/22 
 - <b> Anton Kriese </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/offshore/"> DFG SFB 1463: “Offshore Megastrukturen” </a>, WiSe21/22
 
