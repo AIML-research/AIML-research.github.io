@@ -28,16 +28,6 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/stelar/
   
-- name: Swati Swati
-  photo: Swati.jpg
-  info: Ph.D. Student
-  email: swati.swati@unibw.de
-  number_educ: 0
-  project: MAMMOTH
-  website:
-  has_project_web: 1
-  project_web: https://aiml-research.github.io/projects/mammoth/
-  
 - name: Chethan Krishnamurthy Ramanaik
   photo: Chethan.png
   info: Ph.D. Student
