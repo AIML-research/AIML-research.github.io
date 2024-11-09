@@ -267,6 +267,16 @@ permalink: /team/
 </div>
 {% endif %}
 
+### Former members
+- <b> <a href="https://tailequy.github.io/" target="_new">Tai Le Quy</a> </b>, PhD Student, 2016 - 2023 (currently Postdoctoral researcher @uni-koblenz)
+- <b> Manuel Heurich </b>, PhD Student, August 2021 - May 2022 (currently PhD student @FUB)
+- <b> Yi Cai </b>, PhD student, November 2020 - May 2022, Topic: Explanations for text classification (currently PhD student @FUB)
+- <b> Philipp Naumann </b>, PhD student, March 2021 - May 2022, Topic: Counterfactual fairness  (currently PhD student @TUB)
+- <b> Nabil Alsabah </b>, Lecturer
+- <b> Vasileios Iosifidis </b>, PhD student, June 2016 - July 2020, Topic: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" </a>
+- <b> Amir Abolfazli </b>, PhD student, April 2019 - July 2020, Topic: Adaptive machine learning  (currently PhD student @LUH)
+- <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams  (currently PhD student @LUH)
+
 
 ### Master and Bachelor students
 - <b> Sara Bonati </b>, M.Sc., <a href="">"The impact of spatial and temporal context in fairness-aware machine learning"</a>, SoSe23.
@@ -281,15 +291,6 @@ Decision for Text Classification"</a>, WiSe22/23.
 - <b> Viktoria Andres </b>, BSc , Student assistant, project: <a href ="https://aiml-research.github.io/projects/hephaestus/">Hephaestus </a>, WiSe21/22 
 - <b> Anton Kriese </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/offshore/"> DFG SFB 1463: “Offshore Megastrukturen” </a>, WiSe21/22
 
-
-### Former members
-- <b> Manuel Heurich </b>, PhD Student, August 2021 - May 2022 (currently PhD student @FUB)
-- <b> Yi Cai </b>, PhD student, November 2020 - May 2022, Topic: Explanations for text classification (currently PhD student @FUB)
-- <b> Philipp Naumann </b>, PhD student, March 2021 - May 2022, Topic: Counterfactual fairness  (currently PhD student @TUB)
-- <b> Nabil Alsabah </b>, Lecturer
-- <b> Vasileios Iosifidis </b>, PhD student, June 2016 - July 2020, Topic: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" </a>
-- <b> Amir Abolfazli </b>, PhD student, April 2019 - July 2020, Topic: Adaptive machine learning  (currently PhD student @LUH)
-- <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams  (currently PhD student @LUH)
 
 ### Former visitors
   - <b> Srijanani Saiegiridar </b> (Visiting BSc student), 01/01/2020-31/7/2020, Sastra Deemed University, India. Research topic: Fair clustering.  
