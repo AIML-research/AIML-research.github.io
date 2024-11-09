@@ -269,11 +269,11 @@ permalink: /team/
 
 ### Former members
 - <b> <a href="https://tailequy.github.io/" target="_new">Tai Le Quy</a> </b>, PhD Student, 2016 - 2023 (currently Postdoctoral researcher @uni-koblenz)
-- <b> Manuel Heurich </b>, PhD Student, August 2021 - May 2022 (currently PhD student @FUB)
-- <b> Yi Cai </b>, PhD student, November 2020 - May 2022, Topic: Explanations for text classification (currently PhD student @FUB)
-- <b> Philipp Naumann </b>, PhD student, March 2021 - May 2022, Topic: Counterfactual fairness  (currently PhD student @TUB)
-- <b> Nabil Alsabah </b>, Lecturer
-- <b> Vasileios Iosifidis </b>, PhD student, June 2016 - July 2020, Topic: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" </a>
+- <b> Manuel Heurich </b>, PhD Student, August 2021 - May 2022 (currently PhD student @FU Berlin)
+- <b> Yi Cai </b>, PhD student, November 2020 - May 2022, Topic: Explanations for text classification (currently PhD student @FU Berlin)
+- <b> Philipp Naumann </b>, PhD student, March 2021 - May 2022, Topic: Counterfactual fairness  (currently PhD student @TU Berlin)
+- <b> Nabil Alsabah </b>, Lecturer (currently @uni-wuerzburg)
+- <b> <a href="https://scholar.google.gr/citations?user=1qPMBRUAAAAJ&hl=en" target="_new">Vasileios Iosifidis </a></b>, PhD student, June 2016 - July 2020, Topic: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" </a>
 - <b> Amir Abolfazli </b>, PhD student, April 2019 - July 2020, Topic: Adaptive machine learning  (currently PhD student @LUH)
 - <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams  (currently PhD student @LUH)
 
