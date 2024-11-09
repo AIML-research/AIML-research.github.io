@@ -134,7 +134,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Postdoc
+### Postdocs
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
