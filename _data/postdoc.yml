@@ -7,3 +7,12 @@
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/stelar/
 
+- name: Swati Swati
+  photo: Swati.jpg
+  email: swati.swati@unibw.de
+  number_educ: 0
+  project: MAMMOTH
+  website: https://scholar.google.com/citations?user=Da3yANwAAAAJ&hl=en
+  has_project_web: 1
+  project_web: https://aiml-research.github.io/projects/mammoth/
+  
