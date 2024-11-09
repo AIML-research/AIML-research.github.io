@@ -279,6 +279,7 @@ permalink: /team/
 
 
 ### Master and Bachelor students
+- <b> Fin Eckhoff</b>, M.Sc., "Developing a simulator for machine-learning driven sonar data generation", FT24.
 - <b> Sara Bonati </b>, M.Sc., <a href="">"The impact of spatial and temporal context in fairness-aware machine learning"</a>, SoSe23.
 - <b> Esra Gücükbel </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/38114">"Evaluating The Explanation of Black Box
 Decision for Text Classification"</a>, WiSe22/23.
