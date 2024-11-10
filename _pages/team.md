@@ -279,7 +279,6 @@ permalink: /team/
 
 
 ### Master and Bachelor students
-- <b> Fin Eckhoff</b>, M.Sc., "Developing a simulator for machine-learning driven sonar data generation", FT24.
 
 
 ### HiWi students
@@ -294,9 +293,12 @@ permalink: /team/
   - <b> Bahman Askari </b> (Erasmus MSc student), WiSe18/19-SS19, University of Camerino, Italy. Research topic: demand prediction. Related publication <a href = "https://doi.org/10.1109/COMPSAC48688.2020.000-7"> SSMLS@COMPSAC 2020 </a>.  
   - <b> Wenbin Zhang </b> (Visiting PhD student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 </a>.
   
-### Former Master and Bachelor students
+### Master and Bachelor students
 
-#### <a href ="https://www.uni-hannover.de/"> Freie Universität Berlin (FUB) </a>, Germany
+#### <a href ="https://www.unibw.de/home-en">  Bundeswehr University Munich (UniBwM) </a>, Germany
+- <b> Fin Eckhoff</b>, M.Sc., "Developing a simulator for machine-learning driven sonar data generation", FT24.
+
+#### <a href ="https://www.fu-berlin.de/en/"> Freie Universität Berlin (FUB) </a>, Germany
 - <b> Sara Bonati </b>, M.Sc., <a href="">"The impact of spatial and temporal context in fairness-aware machine learning"</a>, SoSe23.
 - <b> Esra Gücükbel </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/38114">"Evaluating The Explanation of Black Box
 Decision for Text Classification"</a>, WiSe22/23.
