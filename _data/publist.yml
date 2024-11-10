@@ -1,3 +1,24 @@
+- title: "TABCF: Counterfactual Explanations for Tabular Data Using a Transformer-Based VAE (accepted)"
+  image: 
+  description: 
+  authors: Emmanouil Panagiotou, Manuel Heurich, Tim Landgraf, Eirini Ntoutsi
+  link:
+    url: https://ai-finance.org/
+    display: 5th ACM International Conference on AI in Finance (ICAIF 2024).
+  highlight: 0
+  news2:  
+  year:  2024
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "Transparent Neighborhood Approximation for Text Classifier Explanation by Probability-based Editing (accepted)"
   image: 
   description: 
