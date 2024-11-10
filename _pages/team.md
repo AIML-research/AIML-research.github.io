@@ -348,5 +348,5 @@ Decision for Text Classification"</a>, WiSe22/23.
   - <b> <a href="https://scholar.google.com/citations?user=U3QyC9YAAAAJ&hl=en">Tobias Hyrup </a></b> (Visiting Ph.D. student), 01/010/2024-30/11/2024, University of Southern Denmark, Denmark. Research topic: Privacy- and bias-aware synthetic data generation. 
   - <b> Srijanani Saiegiridar </b> (Visiting B.Sc. student), 01/010/2024-30/11/2024, University of Southern Denmark, Denmark. Research topic: Privacy- and bias-aware synthetic data generation.  
   - <b> Bahman Askari </b> (Erasmus MSc student), WiSe18/19-SS19, University of Camerino, Italy. Research topic: demand prediction. Related publication <a href = "https://doi.org/10.1109/COMPSAC48688.2020.000-7"> SSMLS@COMPSAC 2020 </a>.  
-  - <b> Wenbin Zhang </b> (Visiting Ph.D. student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 </a>.
+  - <b> <a href="https://scholar.google.com/citations?user=M802p54AAAAJ&hl=en" target="_new">Wenbin Zhang </a></b> (Visiting Ph.D. student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 </a>.
 
