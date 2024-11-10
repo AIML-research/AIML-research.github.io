@@ -278,7 +278,7 @@ permalink: /team/
 - <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams  (currently PhD student @LUH)
 
 ### HiWi students
-
+- <b> Chirag Pandav</b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/stelar/"> STELAR </a>, 2024.
 - <b> Michael Dickopf </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/stelar/"> STELAR </a>, 2024.
 - <b> Viktoria Andres </b>, BSc , Student assistant, project: <a href ="https://aiml-research.github.io/projects/hephaestus/">Hephaestus </a>, WiSe21/22 
 - <b> Anton Kriese </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/offshore/"> DFG SFB 1463: “Offshore Megastrukturen” </a>, WiSe21/22
