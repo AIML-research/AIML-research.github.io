@@ -277,6 +277,19 @@ permalink: /team/
 - <b> Amir Abolfazli </b>, PhD student, April 2019 - July 2020, Topic: Adaptive machine learning  (currently PhD student @LUH)
 - <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams  (currently PhD student @LUH)
 
+### HiWi students
+
+- <b> Michael Dickopf </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/stelar/"> STELAR </a>, 2024.
+- <b> Viktoria Andres </b>, BSc , Student assistant, project: <a href ="https://aiml-research.github.io/projects/hephaestus/">Hephaestus </a>, WiSe21/22 
+- <b> Anton Kriese </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/offshore/"> DFG SFB 1463: “Offshore Megastrukturen” </a>, WiSe21/22
+
+### Visitors
+  - <b> <a href="https://scholar.google.com/citations?user=U3QyC9YAAAAJ&hl=en">Tobias Hyrup </a></b> (Visiting Ph.D. student), 01/010/2024-30/11/2024, University of Southern Denmark, Denmark. Research topic: Privacy- and bias-aware synthetic data generation. 
+  - <b> Srijanani Saiegiridar </b> (Visiting B.Sc. student), 01/010/2024-30/11/2024, University of Southern Denmark, Denmark. Research topic: Privacy- and bias-aware synthetic data generation.  
+  - <b> Bahman Askari </b> (Erasmus MSc student), WiSe18/19-SS19, University of Camerino, Italy. Research topic: demand prediction. Related publication <a href = "https://doi.org/10.1109/COMPSAC48688.2020.000-7"> SSMLS@COMPSAC 2020 </a>.  
+  - <b> <a href="https://scholar.google.com/citations?user=M802p54AAAAJ&hl=en" target="_new">Wenbin Zhang </a></b> (Visiting Ph.D. student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 </a>.
+
+
   
 ### Master and Bachelor students
 
@@ -337,16 +350,4 @@ Decision for Text Classification"</a>, WiSe22/23.
 - <b> Georgios Tzoumis </b>, MSc, “Data warehousing for news portals”, University of Piraeus, 2006.
 - <b> Marios Mpartzokas </b>, BSc, "Comparing complex patterns: a study on collections of documents", University of Piraeus, 2006.
 - <b> Anastasia Tzeveleka </b>, BSc, "Duck-miner: A Tool for Discovering and Handling Knowledge from Large DBs", University of Piraeus, 2005.
-
-### HiWi students
-
-- <b> Michael Dickopf </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/stelar/"> STELAR </a>, 2024.
-- <b> Viktoria Andres </b>, BSc , Student assistant, project: <a href ="https://aiml-research.github.io/projects/hephaestus/">Hephaestus </a>, WiSe21/22 
-- <b> Anton Kriese </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/offshore/"> DFG SFB 1463: “Offshore Megastrukturen” </a>, WiSe21/22
-
-### Visitors
-  - <b> <a href="https://scholar.google.com/citations?user=U3QyC9YAAAAJ&hl=en">Tobias Hyrup </a></b> (Visiting Ph.D. student), 01/010/2024-30/11/2024, University of Southern Denmark, Denmark. Research topic: Privacy- and bias-aware synthetic data generation. 
-  - <b> Srijanani Saiegiridar </b> (Visiting B.Sc. student), 01/010/2024-30/11/2024, University of Southern Denmark, Denmark. Research topic: Privacy- and bias-aware synthetic data generation.  
-  - <b> Bahman Askari </b> (Erasmus MSc student), WiSe18/19-SS19, University of Camerino, Italy. Research topic: demand prediction. Related publication <a href = "https://doi.org/10.1109/COMPSAC48688.2020.000-7"> SSMLS@COMPSAC 2020 </a>.  
-  - <b> <a href="https://scholar.google.com/citations?user=M802p54AAAAJ&hl=en" target="_new">Wenbin Zhang </a></b> (Visiting Ph.D. student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 </a>.
 
