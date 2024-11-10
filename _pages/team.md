@@ -268,23 +268,18 @@ permalink: /team/
 {% endif %}
 
 ### Former members
-- <b>Tai Le Quy</b>, PhD Student, 2016 - 2023, Topic: <a href ="https://www.repo.uni-hannover.de/handle/123456789/15956">"Fairness-aware machine learning in educational data mining"</a> (currently Postdoctoral researcher @uni-koblenz)
-- <b> Manuel Heurich </b>, PhD Student, August 2021 - May 2022 (currently PhD student @FU Berlin)
+- <b>Tai Le Quy</b>, PhD Student, 2016 - 2023, PhD thesis: <a href ="https://www.repo.uni-hannover.de/handle/123456789/15956">"Fairness-aware machine learning in educational data mining"</a> (currently Postdoctoral researcher @uni-koblenz)
+- <b> Manuel Heurich </b>, PhD Student, August 2021 - May 2022, Topic: Adaptive learning (currently PhD student @FU Berlin)
 - <b> Yi Cai </b>, PhD student, November 2020 - May 2022, Topic: Explanations for text classification (currently PhD student @FU Berlin)
 - <b> Philipp Naumann </b>, PhD student, March 2021 - May 2022, Topic: Counterfactual fairness  (currently PhD student @TU Berlin)
 - <b> Nabil Alsabah </b>, Lecturer (currently @uni-wuerzburg)
-- <b> Vasileios Iosifidis</b>, PhD student, June 2016 - July 2020, Topic: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" </a>
+- <b> Vasileios Iosifidis</b>, PhD student, June 2016 - July 2020, PhD thesis: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" </a>
 - <b> Amir Abolfazli </b>, PhD student, April 2019 - July 2020, Topic: Adaptive machine learning  (currently PhD student @LUH)
 - <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams  (currently PhD student @LUH)
 
 
 ### Master and Bachelor students
 - <b> Fin Eckhoff</b>, M.Sc., "Developing a simulator for machine-learning driven sonar data generation", FT24.
-- <b> Sara Bonati </b>, M.Sc., <a href="">"The impact of spatial and temporal context in fairness-aware machine learning"</a>, SoSe23.
-- <b> Esra Gücükbel </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/38114">"Evaluating The Explanation of Black Box
-Decision for Text Classification"</a>, WiSe22/23.
-- <b> Florian Mies </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/36131">"Analysis of the Generative Replay Algorithm and Comparison with other Continual Learning Approaches on Newly Defined Non-stationary Data Stream Scenarios"</a>, <a href="https://avalanche-api.continualai.org/en/v0.2.0/_modules/avalanche/training/plugins/generative_replay.html">[code]</a>, SoSe22.
-- <b> Viktoria Andres </b>, B.Sc., <a href ="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Ressourcen/BA-Viktoria-Andres.pdf"> "Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide"</a>, <a href="https://git.imp.fu-berlin.de/viktoa98/bachelor-thesis-about-counterfactuals-in-time-series-classification/-/tree/master">[code]</a>, WiSe21/22. 
 
 
 ### HiWi students
@@ -300,6 +295,13 @@ Decision for Text Classification"</a>, WiSe22/23.
   - <b> Wenbin Zhang </b> (Visiting PhD student), WiSe17/18-SS18, University of Maryland, USA. Research topic: Online fairness. Related publication <a href="https://www.ijcai.org/proceedings/2019/0205.pdf"> IJCAI 2019 </a>.
   
 ### Former Master and Bachelor students
+
+#### <a href ="https://www.uni-hannover.de/"> Freie Universität Berlin (FUB) </a>, Germany
+- <b> Sara Bonati </b>, M.Sc., <a href="">"The impact of spatial and temporal context in fairness-aware machine learning"</a>, SoSe23.
+- <b> Esra Gücükbel </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/38114">"Evaluating The Explanation of Black Box
+Decision for Text Classification"</a>, WiSe22/23.
+- <b> Florian Mies </b>, M.Sc., <a href="https://refubium.fu-berlin.de/handle/fub188/36131">"Analysis of the Generative Replay Algorithm and Comparison with other Continual Learning Approaches on Newly Defined Non-stationary Data Stream Scenarios"</a>, <a href="https://avalanche-api.continualai.org/en/v0.2.0/_modules/avalanche/training/plugins/generative_replay.html">[code]</a>, SoSe22.
+- <b> Viktoria Andres </b>, B.Sc., <a href ="https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/Ressourcen/BA-Viktoria-Andres.pdf"> "Generating Counterfactual Explanations for Electrocardiography Classification with Native Guide"</a>, <a href="https://git.imp.fu-berlin.de/viktoa98/bachelor-thesis-about-counterfactuals-in-time-series-classification/-/tree/master">[code]</a>, WiSe21/22. 
 
 #### <a href ="https://www.uni-hannover.de/"> Leibniz University Hannover (LUH) </a>, Germany
 - <b> Philipp Naumann </b>, MSc, ''Evolutionary Instance Tweaking'', WiSe20/21.
