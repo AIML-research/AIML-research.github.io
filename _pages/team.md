@@ -272,8 +272,8 @@ permalink: /team/
 - <b> Manuel Heurich </b>, PhD Student, August 2021 - May 2022, Topic: Adaptive learning (currently PhD student @FU Berlin)
 - <b> Yi Cai </b>, PhD student, November 2020 - May 2022, Topic: Explanations for text classification (currently PhD student @FU Berlin)
 - <b> Philipp Naumann </b>, PhD student, March 2021 - May 2022, Topic: Counterfactual fairness  (currently PhD student @TU Berlin)
-- <b> Nabil Alsabah </b>, Lecturer (currently @uni-wuerzburg)
-- <b> Vasileios Iosifidis</b>, PhD student, June 2016 - July 2020, PhD thesis: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" </a>
+- <b> Nabil Alsabah </b>, Lecturer (currently @Uni-Wuerzburg)
+- <b> Vasileios Iosifidis</b>, PhD student, June 2016 - July 2020, PhD thesis: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance" (currently AI consultant)</a>
 - <b> Amir Abolfazli </b>, PhD student, April 2019 - July 2020, Topic: Adaptive machine learning  (currently PhD student @LUH)
 - <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams  (currently PhD student @LUH)
 
