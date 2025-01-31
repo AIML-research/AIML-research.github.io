@@ -1,4 +1,25 @@
-- title: "TABCF: Counterfactual Explanations for Tabular Data Using a Transformer-Based VAE (accepted)"
+- title: “Fairness Evaluation with Item Response Theory(accepted)"
+  image: 
+  description: 
+  authors: Emmanouil Panagiotou, Manuel Heurich, Tim Landgraf, Eirini Ntoutsi
+  link:
+    url: https://www2025.thewebconf.org/
+    display: The Web Conference (WWW 2025).
+  highlight: 0
+  news2:  
+  year:  2025
+  haslocal: 25.WWW.pdf
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
+  - title: "TABCF - Counterfactual Explanations for Tabular Data Using a Transformer-Based VAE"
   image: 
   description: 
   authors: Emmanouil Panagiotou, Manuel Heurich, Tim Landgraf, Eirini Ntoutsi
