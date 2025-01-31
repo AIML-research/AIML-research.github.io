@@ -7,9 +7,9 @@
     display: The Web Conference (WWW 2025).
   highlight: 0
   news2:  
-  year:  2025
-  haslocal: 1
-  local: "25.WWW.pdf"
+  year: 2025
+  haslocal: 0
+  local:
   hascode: 0
   code: 
   hasposter: 0
