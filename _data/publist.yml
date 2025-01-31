@@ -1,15 +1,15 @@
 - title: “Fairness Evaluation with Item Response Theory(accepted)"
   image: 
   description: 
-  authors: Emmanouil Panagiotou, Manuel Heurich, Tim Landgraf, Eirini Ntoutsi
+  authors: Ziqi Xu, Sevvandi Kandanaarachchi, Cheng Soon Ong, Eirini Ntoutsi
   link:
     url: https://www2025.thewebconf.org/
     display: The Web Conference (WWW 2025).
   highlight: 0
   news2:  
   year:  2025
-  haslocal: 25.WWW.pdf
-  local: 
+  haslocal: 1
+  local: 25.WWW.pdf
   hascode: 0
   code: 
   hasposter: 0
@@ -40,7 +40,7 @@
   hasvideo: 0
   video: 
 
-- title: "Transparent Neighborhood Approximation for Text Classifier Explanation by Probability-based Editing (accepted)"
+- title: "Transparent Neighborhood Approximation for Text Classifier Explanation by Probability-based Editing"
   image: 
   description: 
   authors: Yi Cai, Arthur Zimek, Eirini Ntoutsi, Gerhard Wunder
@@ -61,7 +61,7 @@
   hasvideo: 0
   video: 
 
-- title: "Synthetic Tabular Data Generation for Class Imbalance and Fairness - A Comparative Study (accepted)"
+- title: "Synthetic Tabular Data Generation for Class Imbalance and Fairness - A Comparative Study"
   image: 
   description: 
   authors:   Emmanouil Panagiotou, Arjun Roy, Eirini Ntoutsi
@@ -82,7 +82,7 @@
   hasvideo: 0
   video: 
 
-- title: "Adversarial Robustness of VAEs across Intersectional Subgroups (accepted)"
+- title: "Adversarial Robustness of VAEs across Intersectional Subgroups"
   image: 
   description: 
   authors:   Chethan Krishnamurthy Ramanaik, Arjun Roy, Eirini Ntoutsi
@@ -102,7 +102,7 @@
   ppt: 
   hasvideo: 0
   video: 
-- title: "Shape error prediction in 5-axis machining using graph neural networks (accepted)"
+- title: "Shape error prediction in 5-axis machining using graph neural networks"
   image: 
   description: 
   authors:   Julia Huuk, Berend Denkena, Abheek Dhingra, Eirini Ntoutsi
@@ -123,7 +123,7 @@
   hasvideo: 0
   video: 
 
-- title: "Exploring Fusion Techniques in Multimodal AI-Based Recruitment Insights from FairCVdb (accepted)"
+- title: "Exploring Fusion Techniques in Multimodal AI-Based Recruitment Insights from FairCVdb"
   image: 
   description: 
   authors:   Swati Swati, Arjun Roy, Eirini Ntoutsi
@@ -144,7 +144,7 @@
   hasvideo: 0
   video: 
 
-- title: "FairBranch - Mitigating Bias Transfer in Fair Multi-task Learning (accepted)"
+- title: "FairBranch - Mitigating Bias Transfer in Fair Multi-task Learning"
   image: 
   description: 
   authors:   Arjun Roy, Christos Koutlis, Symeon Papadopoulos, Eirini Ntoutsi
