@@ -8,9 +8,9 @@
   highlight: 0
   news2:  
   year: 2025
-  haslocal: 0
+  haslocal: 1
   local:
-  hascode: 0
+  hascode: 25.WWW.pdf
   code: 
   hasposter: 0
   poster:
