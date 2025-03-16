@@ -61,6 +61,27 @@
   hasvideo: 0
   video: 
 
+- title: "FairBranch - Mitigating Bias Transfer in Fair Multi-task Learning"
+  image: 
+  description: 
+  authors:   Arjun Roy, Christos Koutlis, Symeon Papadopoulos, Eirini Ntoutsi
+  link:
+    url: https://2024.ieeewcci.org/
+    display: International Joint Conference on Neural Networks (IJCNN)
+  highlight: 0
+  news2:  
+  year:  2024
+  haslocal: 1
+  local: 24.IJCNN.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "Synthetic Tabular Data Generation for Class Imbalance and Fairness - A Comparative Study"
   image: 
   description: 
@@ -102,6 +123,7 @@
   ppt: 
   hasvideo: 0
   video: 
+
 - title: "Shape error prediction in 5-axis machining using graph neural networks"
   image: 
   description: 
@@ -144,26 +166,6 @@
   hasvideo: 0
   video: 
 
-- title: "FairBranch - Mitigating Bias Transfer in Fair Multi-task Learning"
-  image: 
-  description: 
-  authors:   Arjun Roy, Christos Koutlis, Symeon Papadopoulos, Eirini Ntoutsi
-  link:
-    url: https://2024.ieeewcci.org/
-    display: International Joint Conference on Neural Networks (IJCNN)
-  highlight: 0
-  news2:  
-  year:  2024
-  haslocal: 1
-  local: 24.IJCNN.pdf
-  hascode: 0
-  code: 
-  hasposter: 0
-  poster:
-  hasppt: 0
-  ppt: 
-  hasvideo: 0
-  video: 
 
 - title: "Towards Cohesion Fairness Harmony - Contrastive Regularization in Individual Fair Graph Clustering"
   image: 
