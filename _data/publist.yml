@@ -155,8 +155,8 @@
   highlight: 0
   news2:  
   year:  2024
-  haslocal: 0
-  local: 
+  haslocal: 1
+  local: 24.EWAF.pdf
   hascode: 0
   code: 
   hasposter: 0
