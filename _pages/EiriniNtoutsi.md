@@ -9,19 +9,17 @@ permalink: /team/Eirini/
 ### Prof. Dr. Eirini Ntoutsi
 <br>
 
-#### Aboutt
+#### About
 
 <table style="border-collapse: collapse; width: 90%;" border="0">
 <tbody>
 <tr>
 <td style="width: 70%; text-align: justify;">
-<!---
-I hold a diploma (2001) and a master's degree (2003) in Computer Engineering and Informatics from the Department of Computer Engineering and Informatics (CEID) at the Polytechnic School of the University of Patras in Greece. I earned my Ph.D. in Data Mining/Machine Learning from the University of Piraeus, Athens, Greece in 2008. Following this, I was a post-doctoral researcher at Ludwig-Maximilians-Universität München (LMU) in the group of Prof. H.-P. Kriegel, joining in 2010 as a post-doctoral fellow of the Alexander von Humboldt Foundation. From 2016 to 2021, I held the position of associate professor of Intelligent Systems at the Leibniz University of Hannover (LUH) and remain a member of the L3S Research Center today. Before my current role at the University of the Bundeswehr Munich, I was a full professor of Artificial Intelligence at the Freie Universität Berlin (FUB) from 2021 to 2022.<br />
- -->
+Eirini Ntoutsi is a Full Professor for Open Source Intelligence at the University of the Bundeswehr Munich (UniBwM) and the Research Institute CODE. Previously, she was a Full Professor of Artificial Intelligence at the Free University of Berlin (FUB) and an Associate Professor of Intelligent Systems at Leibniz University Hannover (LUH) and remain a member of the L3S Research Center today. She also held a postdoctoral position at Ludwig-Maximilians-Universität München (LMU). She obtained her Ph.D. from the University of Piraeus, Athens and holds an M.Sc. and a Diploma in Computer Engineering and Informatics from the University of Patras, Greece.
 
-My work focuses on Artificial Intelligence and Machine Learning, tackling real-world challenges like non-stationarity and imbalances. I am dedicated to responsible AI advancement, particularly in addressing bias and fairness, enhancing transparency through explainable AI (XAI), and fortifying model resilience and robustness.<br />
+She specializes in developing intelligent algorithms to tackle real-world challenges like non-stationarity and imbalances. Committed to responsible AI progress, she focuses on understanding the capabilities and limitations of AI systems by addressing bias and discrimination, enhancing transparency through explainable AI, and strengthening the resilience and robustness of AI/ML models. 
 
-My ultimate goal is building intelligent machines that augment human intelligence and benefit society as a whole.
+Her ultimate goal? Creating intelligent systems that augment human intelligence and benefit society.
 </td>
 <td style="width: 30%; text-align: center;"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Eirini.jpg" alt="" width = "200"/></td>
 </tr>
