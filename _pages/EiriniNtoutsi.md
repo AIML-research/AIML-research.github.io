@@ -143,11 +143,12 @@ December 2017: NVIDIA Research Grant.
 <td style="width: 25%; text-align: left;">2001</td>
 <td style="width: 75%; text-align: left;"> Software Engineer at the AHEAD RM, Software House for E-commerce Applications, Patras, Greece.</td>
 </tr>
+   -->
 <!--<tr>
 <td style="width: 25%; text-align: left;">2000</td>
 <td style="width: 75%; text-align: left;"> Student assistant at <a href="https://www.cti.gr/en/" target="_new">Computer Technology Institute & Press "Diophantus</a>, Patras, Greece.</td>
 </tr>-->
-  -->
+ 
 </tbody>
 </table>
 
