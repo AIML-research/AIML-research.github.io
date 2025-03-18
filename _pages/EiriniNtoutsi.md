@@ -24,5 +24,3 @@ Her ultimate goal? Creating intelligent systems that augment human intelligence 
 </tr>
 </tbody>
 </table>
-
-
