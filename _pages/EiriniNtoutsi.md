@@ -10,7 +10,6 @@ permalink: /team/Eirini/
 <br>
 
 #### About
-
 <table style="border-collapse: collapse; width: 90%;" border="0">
 <tbody>
 <tr>
