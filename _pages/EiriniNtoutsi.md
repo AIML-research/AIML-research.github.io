@@ -7,7 +7,6 @@ permalink: /team/Eirini/
 ---
 
 ### Prof. Dr. Eirini Ntoutsi
-
 <table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
 <tr>
@@ -23,6 +22,7 @@ Her ultimate goal? Creating intelligent systems that augment human intelligence 
 </td>
 </tr>
 </tbody>
+</table>
 
 #### Research Interests
 <ul>
