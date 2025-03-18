@@ -3,7 +3,7 @@ title: "Artificial Intelligence and Machine Learning Group - Prof. Dr. Eirini Nt
 layout: textlay
 excerpt: "AIML Group -- Prof. Dr. Eirini Ntoutsi"
 sitemap: false
-permalink: /team/Eirini
+permalink: /team/Eirini/
 ---
 
 ### Prof. Dr. Eirini Ntoutsi
