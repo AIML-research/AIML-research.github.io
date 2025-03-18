@@ -36,4 +36,3 @@ Her ultimate goal? Creating intelligent systems that augment human intelligence 
 
 #### Contact
 eirini.ntoutsi@unibw.de
-</table>
