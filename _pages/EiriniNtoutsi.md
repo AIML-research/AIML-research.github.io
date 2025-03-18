@@ -20,7 +20,7 @@ She specializes in developing intelligent algorithms to tackle real-world challe
 Her ultimate goal? Creating intelligent systems that augment human intelligence and benefit society.
 </td>
 <td style="width: 30%; text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Eirini.jpg" alt="Prof. Dr. Eirini Ntoutsi" width="200"/>
+<img src="{{ site.baseurl }}/images/teampic/Eirini.jpg" alt="Prof. Dr. Eirini Ntoutsi" width="200"/>
 </td>
 </tr>
 </tbody>
