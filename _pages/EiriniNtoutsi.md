@@ -25,6 +25,7 @@ Her ultimate goal? Creating intelligent systems that augment human intelligence 
 </tr>
 </tbody>
 </table>
+
 <!--
 #### Academic experience
 <table style="border-collapse: collapse; width: 80%;" border="0">
