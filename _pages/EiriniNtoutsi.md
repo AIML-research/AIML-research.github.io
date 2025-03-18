@@ -24,6 +24,16 @@ Her ultimate goal? Creating intelligent systems that augment human intelligence 
 </tr>
 </tbody>
 
+#### Research Interests
+<ul>
+  <li>Responsible AI (Fairness, Explainability, Bias Mitigation)</li>
+  <li>Adaptive AI</li>
+  <li>Data Stream Learning</li>
+  <li>Resilient & Robust AI</li>
+  <li>Generative AI</li>
+  <li>Mixed Attributes/ Multimodal AI</li>
+</ul>
+
 #### Contact
 eirini.ntoutsi@unibw.de
 </table>
