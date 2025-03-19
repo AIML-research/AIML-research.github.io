@@ -15,7 +15,7 @@ permalink: /team/Eirini/
 
 <p>She specializes in developing intelligent algorithms to tackle <em>real-world challenges</em> like <em>non-stationarity</em>, <em>imbalances</em>, and <em>data scarcity</em>. Committed to <em>responsible AI</em> progress, she focuses on understanding the capabilities and limitations of AI systems by addressing <em>bias and discrimination</em>, enhancing transparency through <em>explainable AI</em>, and strengthening the <em>resilience</em> and <em>robustness</em> of AI/ML models.</p>
 
-Her ultimate goal? <em>Creating intelligent systems that augment human intelligence and benefit society*.
+Her ultimate goal? <strong>Creating intelligent systems that augment human intelligence and benefit society</strong>.
 </td>
 <td style="width: 30%; text-align: center;">
 <img src="{{ site.baseurl }}/images/teampic/Eirini.jpg" alt="Prof. Dr. Eirini Ntoutsi" width="200"/>
