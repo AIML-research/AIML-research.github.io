@@ -26,7 +26,8 @@ permalink: /team/
       {{ member.name }}
     {% endif %}
   </h4>
-  
+  <i>{{ member.info }} </i>
+  - E-mail: <a href="mailto: {{ member.email }} ">{{ member.email }}  </a>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
