@@ -20,6 +20,7 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
 </td>
 <td style="width: 30%; text-align: center;">
 <img src="{{ site.baseurl }}/images/teampic/Eirini.jpg" alt="Prof. Dr. Eirini Ntoutsi" width="200"/>
+<a href=""><img src="https://www.unibw.de/resolveuid/35c855b47cb249fe87832e4bae6ab97e/@@images/image/icon" alt="Google Scholar"/></a>
 </td>
 </tr>
 </tbody>
