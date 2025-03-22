@@ -8,15 +8,6 @@ permalink: /Eirini/
 
 ### Prof. Dr. Eirini Ntoutsi
 
-<table style="border-collapse: collapse; width: 90%;" border="1">
-<tbody>
-<tr>
-<td>
-<em>"Ο ιδανικός δάσκαλος είναι εκείνος που γίνεται γέφυρα για να περάσει αντίπερα ο μαθητής του. Κι όταν πια του διευκολύνει το πέρασμα, αφήνεται χαρούμενα να γκρεμιστεί, ενθαρρύνοντας τον μαθητή του να φτιάξει δικές του γέφυρες." </em>
-</td></tr>
-<tr><td align="right">Νίκος Καζαντζάκης</td></tr>
-</table>
-
 <table style="border-collapse: collapse; width: 90%;" border="0">
 <tbody>
 <tr>
