@@ -36,8 +36,7 @@ Her ultimate goal? <strong><em>Creating intelligent systems that augment human i
 </ul>
 
 #### Teaching
-<p>In teaching and supervision, she offers courses and mentors students in AI/ML, Data Mining, Adaptive AI, and Responsible AI.
-<p>Her approach to teaching aligns deeply with the words of Nikos Kazantzakis, who beautifully describes the role of a mentor and educator:</p>
+<p>In teaching and supervision, she offers courses and mentors students in AI/ML, Data Mining, Adaptive AI, and Responsible AI. Her approach to teaching aligns deeply with the words of Nikos Kazantzakis, who beautifully describes the role of a mentor and educator:</p>
 <!--<p><em>"Ο ιδανικός δάσκαλος είναι εκείνος που γίνεται γέφυρα για να περάσει αντίπερα ο μαθητής του. Κι όταν πια του διευκολύνει το πέρασμα, αφήνεται χαρούμενα να γκρεμιστεί, ενθαρρύνοντας τον μαθητή του να φτιάξει δικές του γέφυρες." </em></p>-->
 <p><em>"Ideal teachers are those who use themselves as bridges over which they invite their students to cross, then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." </em></p>
 
