@@ -44,5 +44,8 @@ Her ultimate goal? <strong><em>Creating intelligent systems that augment human i
   <li>Mixed Attributes/ Multimodal AI</li>
 </ul>
 
+### Teaching
+<p>My approach to teaching aligns deeply with the words of Nikos Kazantzakis, who beautifully describes the role of a mentor and educator:</p>
+<em>"Ο ιδανικός δάσκαλος είναι εκείνος που γίνεται γέφυρα για να περάσει αντίπερα ο μαθητής του. Κι όταν πια του διευκολύνει το πέρασμα, αφήνεται χαρούμενα να γκρεμιστεί, ενθαρρύνοντας τον μαθητή του να φτιάξει δικές του γέφυρες." </em>
 #### Contact
 eirini.ntoutsi@unibw.de
