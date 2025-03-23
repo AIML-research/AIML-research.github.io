@@ -21,8 +21,8 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
 <td style="width: 30%; text-align: center;">
 <img src="{{ site.baseurl }}/images/teampic/Eirini.jpg" alt="Prof. Dr. Eirini Ntoutsi" width="200"/><br>
 
-  <a href="https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/512px-Google_Scholar_logo.svg.png?20200110094142" alt="Google Scholar" width="20" height="20"/></a>
-<a href="https://www.linkedin.com/in/eirinintoutsi/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn"  width="20" height="20"/></a>
+  <a href="https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/512px-Google_Scholar_logo.svg.png?20200110094142" alt="Google Scholar" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/eirinintoutsi/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn"  width="30" height="30"/></a>
 </td>
 </tr>
 </tbody>
