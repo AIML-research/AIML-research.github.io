@@ -21,7 +21,7 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
 <td style="width: 30%; text-align: center;">
 <img src="{{ site.baseurl }}/images/teampic/Eirini.jpg" alt="Prof. Dr. Eirini Ntoutsi" width="200"/><br>
 
-  <a href="https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en"><img src="https://www.unibw.de/resolveuid/35c855b47cb249fe87832e4bae6ab97e/@@images/image/icon" alt="Google Scholar"/></a>
+  <a href="https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_blue_logo.png" alt="Google Scholar"/></a>
 <a href="https://www.linkedin.com/in/eirinintoutsi/"><img src="https://www.unibw.de/resolveuid/dc75c14944cc4052b900b5bc2def5e6a/@@images/image/icon" alt="LinkedIn"/></a>
 </td>
 </tr>
