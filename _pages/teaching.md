@@ -12,22 +12,16 @@ Current and previous courses at FUB, LUH, LMU.
 
 #### At the <a href ="https://www.unibw.de/home"> <b>Bundeswehr University Munich (UniBw-M)</b> </a>, Germany
 <b> Winter trimester (WT)</b>
-- Lecture: Artificial Intelligence <!--, WT25, WT24, WT23.-->
+- Lecture: Artificial Intelligence
 - Seminar: Selected topics on AI/ML
-<!-- WT23 focus: Multi-objective optimization in AI/ML.
-  - WT24 focus: AI and games.
-- <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.-->
 
 <b> Spring trimester (FT)</b>
-- Lecture: Machine Learning <!--, FT25, FT23.-->
+- Lecture: Machine Learning
 - Lab: Machine Learning
-<!--- <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.-->
 
 <b> Autumn trimester (HT)</b>
-- Lecture: Responsible Artificial Intelligence <!--, HT23.-->
+- Lecture: Responsible Artificial Intelligence
 - Seminar: Selected topics on Responsible Artificial Intelligence
-<!--  - HT23 Focus: Responsible Generative AI.-->
-<!--- <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.-->
 
 #### At the <a href ="https://www.fu-berlin.de/"> <b>Freie Universität Berlin (FUB)</b> </a>, Germany
 <b> Summer semester SoSe 2022 </b>
