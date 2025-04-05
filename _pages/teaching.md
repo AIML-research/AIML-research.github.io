@@ -19,9 +19,9 @@ Current and previous courses at FUB, LUH, LMU.
 - <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.-->
 
 <b> Spring trimester </b>
-- Lecture: Machine Learning, FT23.
-- Lab: Machine Learning.
-- <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.
+- Lecture: Machine Learning <!--, FT25, FT23.-->
+- Lab: Machine Learning
+<!--- <a href = "/research-seminar"> Research seminar: Artificial Intelligence and Machine Learning Group</a>.-->
 
 <b> Autumn trimester </b>
 - Lecture: Responsible Artificial Intelligence, HT23.
