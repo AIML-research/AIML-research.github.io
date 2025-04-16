@@ -19,6 +19,27 @@
   hasvideo: 0
   video: 
 
+- title: "Mitigating Semantic Drift: Evaluating LLMs Efficacy in Psychotherapy through In-context Conversational Dialogue Summarization Leveraging MITI Code (accepted)"
+  image: 
+  description: 
+  authors: Vivek Kumar, Pushpraj Singh, Eirini Ntoutsi
+  link:
+    url: https://2025.ijcnn.org/
+    display: International Joint Conference on Neural Networks (IJCNN)
+  highlight: 0
+  news2:  
+  year: 2025
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "Fairness Evaluation with Item Response Theory (accepted)"
   image: 
   description: 
