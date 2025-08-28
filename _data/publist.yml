@@ -1,3 +1,24 @@
+- title: "TABFAIRGDT: A Fast Fair Tabular Data Generator using Autoregressive Decision Trees"
+  image: 
+  description: 
+  authors: Emmanouil Panagiotou, Benoît Ronval, Arjun Roy, Ludwig Bothmann, Bernd Bischl, Siegfried Nijssen, Eirini Ntoutsi
+  link:
+    url: https://www3.cs.stonybrook.edu/~icdm2025/
+    display: IEEE International Conference on Data Mining (ICDM)
+  highlight: 0
+  news2:  
+  year: 2025
+  haslocal: 0
+  local: 
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "MMM-fair An Interactive Toolkit for Exploring and Operationalizing Multi-Fairness Trade-offs "
   image: 
   description: 
@@ -43,7 +64,7 @@
 - title: "Achieving Socio-Economic Parity through the Lens of EU AI Act"
   image: 
   description: 
-  authors: Arjun Roy, Stavroula Rizuo, Symeon Papadopoulos, Eirini Ntoutsi
+  authors: Arjun Roy, Stavroula RizoU, Symeon Papadopoulos, Eirini Ntoutsi
   link:
     url: https://facctconference.org/2025/
     display: ACM Conference on Fairness, Accountability, and Transparency (FAccT)
