@@ -273,6 +273,7 @@ permalink: /team/
 {% endif %}
 
 ### Former members
+- <b>Dr. Vivek Kumar Singh</b>, Postdoc, 2023 - 2025, Project: <a href ="https://aiml-research.github.io/projects/stelar/">STELAR</a>
 - <b>Tai Le Quy</b>, PhD Student, 2016 - 2023, PhD thesis: <a href ="https://www.repo.uni-hannover.de/handle/123456789/15956">"Fairness-aware machine learning in educational data mining"</a> (currently Postdoctoral researcher @Uni-Koblenz)
 - <b> Manuel Heurich </b>, PhD Student, August 2021 - May 2022, Topic: Adaptive learning (currently PhD student @FU Berlin)
 - <b> Yi Cai </b>, PhD student, November 2020 - May 2022, Topic: Explanations for text classification (currently PhD student @FU Berlin)
