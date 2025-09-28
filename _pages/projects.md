@@ -10,8 +10,8 @@ permalink: /projects/
 Our group conducts both basic and application-oriented research across the broad field of AI and machine learning. We focus on:
 <ul>
   <li><b>Adaptive learning methods</b> showcased in projects such as Hephaestus (industrial data streams from drilling machines), KISWIND (multiple sensor data streams from wind turbines) and OSCAR (textual data streams from social media like Twitter).</li>
-    <li><b>Responsible AI</b> exemplified by projects such as MAMMOTH (multi-dimensional discrimination in complex data), NoBIAS and BIAS (understanding and mitigating bias in AI systems), and LernMINT (bias and fairness in learning analytics).</li>
-    <li><b>Generative AI</b> explored through projects like STELAR (FAIR and AI-ready data in the agrifood space) and SFB1463 (innovative designs for offshore megastructures).
+    <li><b>Responsible AI</b> exemplified by projects such as <a href = "{{ site.url }}{{ site.baseurl }}/projects/mammoth">MAMMOTH</a> (multi-dimensional discrimination in complex data), NoBIAS and BIAS (understanding and mitigating bias in AI systems), and LernMINT (bias and fairness in learning analytics).</li>
+    <li><b>Generative AI</b> explored through projects like <a href = "{{ site.url }}{{ site.baseurl }}/projects/stelar">STELAR</a> (FAIR and AI-ready data in the agrifood space) and SFB1463 (innovative designs for offshore megastructures).
   </ul> 
 
 Our methods are applied in domains such as education, social networks, banking, agriculture, manufacturing, and engineering. Our research is supported by EU and national funding agencies, including the DFG, BMBF, and the Volkswagen Foundation.
