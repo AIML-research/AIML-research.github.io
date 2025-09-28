@@ -9,7 +9,7 @@ permalink: /projects/
 ### Research overview
 Our group conducts both basic and application-oriented research across the broad field of AI and machine learning. We focus on:
 <ul>
-  <li><b>Adaptive learning methods</b> showcased in projects such as <a href = "{{site.baseurl}}/projects/hephaestus">Hephaestus</a> (industrial data streams from drilling machines), KISWIND (multiple sensor data streams from wind turbines) and <a href = "{{ site.url }}{{ site.baseurl }}/projects/oscar">OSCAR</a> (textual data streams from social media like Twitter).</li>
+  <li><b>Adaptive learning methods</b> showcased in projects such as <a href = "{{ site.url }}{{site.baseurl}}/projects/hephaestus">Hephaestus</a> (industrial data streams from drilling machines), KISWIND (multiple sensor data streams from wind turbines) and <a href = "{{ site.url }}{{ site.baseurl }}/projects/oscar">OSCAR</a> (textual data streams from social media like Twitter).</li>
     <li><b>Responsible AI</b> exemplified by projects such as <a href = "{{ site.url }}{{ site.baseurl }}/projects/mammoth">MAMMOTH</a> (multi-dimensional discrimination in complex data), NoBIAS and BIAS (understanding and mitigating bias in AI systems), and LernMINT (bias and fairness in learning analytics).</li>
     <li><b>Generative AI</b> explored through projects like <a href = "{{ site.url }}{{ site.baseurl }}/projects/stelar">STELAR</a> (FAIR and AI-ready data in the agrifood space) and <a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB1463</a> (innovative designs for offshore megastructures).</li>
   </ul> 
