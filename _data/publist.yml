@@ -8,8 +8,8 @@
   highlight: 0
   news2:  
   year: 2025
-  haslocal: 0
-  local: 
+  haslocal: 1
+  local: 25.ICDM.pdf
   hascode: 0
   code: 
   hasposter: 0
@@ -29,8 +29,8 @@
   highlight: 0
   news2:  
   year: 2025
-  haslocal: 0
-  local: 
+  haslocal: 1
+  local: 25.CIKM.pdf
   hascode: 0
   code: 
   hasposter: 0
