@@ -42,6 +42,12 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
   
 <em>"Ideal teachers are those who use themselves as bridges over which they invite their students to cross, then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." </em></p>
 
+#### Events 2025
+<ul>
+  <li>2025 Oct 1, <a href="https://www.linkedin.com/company/cisuc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BFdY%2F0irzRZ6v%2B1wkT6Lf%2Bw%3D%3D">CISUC Day</a> (Convento São Francisco, Coimbra, Portugal), Invited talk on "Bias and Fairness in AI - Current and Future Trends". <a href="eirini/2025.Keynote.SISUC@Coimbra.pdf">Slides</a>.
+</li>
+</ul>
+
 
 #### Contact
 eirini.ntoutsi@unibw.de
