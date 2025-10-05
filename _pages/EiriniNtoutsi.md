@@ -35,7 +35,6 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
   <li>Adaptive AI (Data streams, online learning, ...)</li>
   <li>Robust AI</li>
   <li>Generative AI</li>
-  <li>Mixed Attributes/ Multimodal AI</li>
 </ul>
 
 #### Teaching
