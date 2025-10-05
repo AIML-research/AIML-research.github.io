@@ -31,8 +31,8 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
 
 #### Research Interests
 <ul>
-  <li>Responsible AI (Fairness, Explainability, Bias Mitigation)</li>
-  <li>Adaptive AI</li>
+  <li>Responsible AI (Fairness, Explainability, (Adversarial) Robustness, ...)</li>
+  <li>Adaptive AI (Data streams, online learning, ...)</li>
   <li>Data Stream Learning</li>
   <li>Resilient & Robust AI</li>
   <li>Generative AI</li>
