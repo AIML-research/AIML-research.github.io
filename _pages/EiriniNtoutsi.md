@@ -44,7 +44,7 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
 
 #### Events 2025
 <ul>
-  <li>2025 Oct 1, <a href="https://www.cisuc.uc.pt/en">CISUC Day</a> (Convento São Francisco, Coimbra, Portugal), Invited talk on "Bias and Fairness in AI - Current and Future Trends". <a href="files/25.Coimbra(Keynote@CISUC).pdf">Slides</a>
+  <li>2025 Oct 1, <a href="https://www.cisuc.uc.pt/en">CISUC Day</a> (Convento São Francisco, Coimbra, Portugal), Invited talk on "Bias and Fairness in AI - Current and Future Trends". <a href="{{ site.baseurl }}/files/25.Coimbra(Keynote@CISUC).pdf">Slides</a>
 </li>
 </ul>
 
