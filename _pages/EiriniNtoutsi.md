@@ -33,8 +33,7 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
 <ul>
   <li>Responsible AI (Fairness, Explainability, (Adversarial) Robustness, ...)</li>
   <li>Adaptive AI (Data streams, online learning, ...)</li>
-  <li>Data Stream Learning</li>
-  <li>Resilient & Robust AI</li>
+  <li>Robust AI</li>
   <li>Generative AI</li>
   <li>Mixed Attributes/ Multimodal AI</li>
 </ul>
