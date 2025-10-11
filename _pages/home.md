@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Artificial Intelligence and Machine Learning (AIML) group, led by Prof. Dr. Eirini Ntoutsi, researches and develops AI that is *technically robust*, resilient to biases, data imbalances, distribution shifts, adversarial attacks, and other real-world challenges, and *societally responsible*, with emphasis on fairness and explainability. 
+The Artificial Intelligence and Machine Learning (AIML) group, led by Prof. Dr. Eirini Ntoutsi, researches and develops AI systems that are *technically robust*, resilient to biases, data imbalances, distribution shifts, adversarial attacks, and other real-world challenges, and *societally responsible*, with emphasis on fairness, explainability, and accountability. 
 
 Three fundamental questions drive our work: *How can we build intelligent machines for the real world?* Equally important, *what kind of intelligence do we aspire to build?* And, *can AI exhibit creativity?*
 
