@@ -40,7 +40,7 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
 #### Teaching
 <p>In teaching and supervision, I offer courses and mentor students in Artificial Intelligence, Machine Learning, Data Mining, Adaptive AI, and Responsible AI. My approach to teaching aligns deeply with the words of Nikos Kazantzakis, who beautifully describes the role of a mentor and educator:
   
-<em>"Ideal teachers are those who use themselves as bridges over which they invite their students to cross, then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." </em></p>
+<strong><em>"Ideal teachers are those who use themselves as bridges over which they invite their students to cross, then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." </em></strong></p>
 
 #### Events 2025
 <ul>
