@@ -46,6 +46,8 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
 <ul>
   <li>2025 Oct 1, <a href="https://www.cisuc.uc.pt/en">CISUC Day</a> (Convento São Francisco, Coimbra, Portugal), Invited talk on "Bias and Fairness in AI - Current and Future Trends". <a href="{{ site.baseurl }}/files/25.Coimbra(Keynote@CISUC).pdf">Slides</a></li>
   <li>2025 Sept 15-19, <a href="https://ecmlpkdd.org/2025/">ECML PKDD 2025</a> (Porto, Portugal): Co-organized the <a href="https://sites.google.com/view/bias-2025-ecmlpkdd/">Bias workshop</a> on Sept 15 and presented our nectar track paper on socioeonomic parity during the poster session on Sept 17 <a href="{{ site.baseurl }}/files/25.FAccT.poster.pdf">Poster</a></li>
+  <li>2025 July 17, <a href="https://icarus.csd.auth.gr/aida-auth-ai-cutting-edge-trends-aicet2025-summer-symposium-and-school/">AIDA AICET2025 Summer School</a> (Thessaloniki, Greece), Tutorial on <a href="https://icarus.csd.auth.gr/ai-bias-overview-measurement-mitigation-and-application-to-computer-vision/">AI bias: overview, measurement, mitigation and application to computer vision</a>. <a href="{{ site.baseurl }}/files/25.Coimbra(Keynote@CISUC).pdf">Slides</a></li>
+  
 </ul>
 
 
