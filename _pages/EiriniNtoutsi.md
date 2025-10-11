@@ -44,12 +44,12 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
 
 #### Talks & Events 2025
 <ul>
-  <li>01/10/2025 - <a href="https://www.cisuc.uc.pt/en">CISUC Day</a> (Convento São Francisco, Coimbra, Portugal): Invited talk on "Bias and Fairness in AI - Current and Future Trends". <a href="{{ site.baseurl }}/files/25.Coimbra(Keynote@CISUC).pdf">Slides</a></li>
-  <li>2025 Sept 15-19, <a href="https://ecmlpkdd.org/2025/">ECML PKDD 2025</a> (Porto, Portugal): Co-organized the <a href="https://sites.google.com/view/bias-2025-ecmlpkdd/">Bias workshop</a> on Sept 15 and presented our nectar track paper on socioeonomic parity during the poster session on Sept 17 <a href="{{ site.baseurl }}/files/25.FAccT.poster.pdf">Poster</a></li>
-  <li>2025 July 17, <a href="https://icarus.csd.auth.gr/aida-auth-ai-cutting-edge-trends-aicet2025-summer-symposium-and-school/">AIDA AICET2025 Summer School</a> (Thessaloniki, Greece): Tutorial on <a href="https://icarus.csd.auth.gr/ai-bias-overview-measurement-mitigation-and-application-to-computer-vision/">AI bias: overview, measurement, mitigation and application to computer vision</a>. <a href="{{ site.baseurl }}/files/25.AIDASummerSchool.pdf">Slides</a></li>
-  <li>2025 April 28, <a href="https://brainforum.github.io/">Brussels Responsible AI Network (BRAIN) Forum </a> (Brussels, Belgium): Talk on Tackling Multi-dimensional Discrimination in AI 
+  <li>01/10/2025, <a href="https://www.cisuc.uc.pt/en">CISUC Day</a> (Convento São Francisco, Coimbra, Portugal): Invited talk on "Bias and Fairness in AI - Current and Future Trends". <a href="{{ site.baseurl }}/files/25.Coimbra(Keynote@CISUC).pdf">Slides</a></li>
+  <li>15-19/09/2025, <a href="https://ecmlpkdd.org/2025/">ECML PKDD 2025</a> (Porto, Portugal): Co-organized the <a href="https://sites.google.com/view/bias-2025-ecmlpkdd/">Bias workshop</a> on Sept 15 and presented our nectar track paper on socioeonomic parity during the poster session on Sept 17 <a href="{{ site.baseurl }}/files/25.FAccT.poster.pdf">Poster</a></li>
+  <li>17/07/2025, <a href="https://icarus.csd.auth.gr/aida-auth-ai-cutting-edge-trends-aicet2025-summer-symposium-and-school/">AIDA AICET2025 Summer School</a> (Thessaloniki, Greece): Tutorial on <a href="https://icarus.csd.auth.gr/ai-bias-overview-measurement-mitigation-and-application-to-computer-vision/">AI bias: overview, measurement, mitigation and application to computer vision</a>. <a href="{{ site.baseurl }}/files/25.AIDASummerSchool.pdf">Slides</a></li>
+  <li>28/04/2025, <a href="https://brainforum.github.io/">Brussels Responsible AI Network (BRAIN) Forum </a> (Brussels, Belgium): Talk on Tackling Multi-dimensional Discrimination in AI 
     <a href="https://www.youtube.com/watch?v=G8j7cjt3AhM&ab_channel=BrusselsInstituteforAdvancedStudies%28BrIAS%29">Video</a></li>
-  <li>2025 Feb 14, Munich Security Conference 2025: Panel at the side Event “Automating Human Security - Rethinking the Role of AI in Conflict for the Protection of Civilians”, organized by <a href="https://www.ieai.sot.tum.de/">Institute for Ethics in Artificial Intelligence - TUM</a> at the American Haus in Munich. See <a href="">short summary</a>.</li>
+  <li>14/02/2025, Munich Security Conference 2025: Panel at the side Event “Automating Human Security - Rethinking the Role of AI in Conflict for the Protection of Civilians”, organized by <a href="https://www.ieai.sot.tum.de/">Institute for Ethics in Artificial Intelligence - TUM</a> at the American Haus in Munich. See <a href="">short summary</a>.</li>
 
 
 
