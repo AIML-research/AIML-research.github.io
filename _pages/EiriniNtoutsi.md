@@ -49,7 +49,7 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
   <li>17/07/2025, <a href="https://icarus.csd.auth.gr/aida-auth-ai-cutting-edge-trends-aicet2025-summer-symposium-and-school/">AIDA AICET2025 Summer School</a> (Thessaloniki, Greece): Tutorial on <a href="https://icarus.csd.auth.gr/ai-bias-overview-measurement-mitigation-and-application-to-computer-vision/">AI bias: overview, measurement, mitigation and application to computer vision</a>. <a href="{{ site.baseurl }}/files/25.AIDASummerSchool.pdf">Slides</a></li>
   <li>28/04/2025, <a href="https://brainforum.github.io/">Brussels Responsible AI Network (BRAIN) Forum </a> (Brussels, Belgium): Talk on Tackling Multi-dimensional Discrimination in AI 
     <a href="https://www.youtube.com/watch?v=G8j7cjt3AhM&ab_channel=BrusselsInstituteforAdvancedStudies%28BrIAS%29">Video</a></li>
-  <li>14/02/2025, Munich Security Conference 2025: Panel at the side Event “Automating Human Security - Rethinking the Role of AI in Conflict for the Protection of Civilians”, organized by <a href="https://www.ieai.sot.tum.de/">Institute for Ethics in Artificial Intelligence - TUM</a> at the American Haus in Munich. See <a href="">short summary</a>.</li>
+  <li>14/02/2025, Munich Security Conference 2025: Panel at the side Event “Automating Human Security - Rethinking the Role of AI in Conflict for the Protection of Civilians”, organized by <a href="https://www.ieai.sot.tum.de/">Institute for Ethics in Artificial Intelligence - TUM</a> at the American Haus in Munich. See <a href="https://www.linkedin.com/pulse/panel-automating-human-security-rethinking-role-ai-conflict-ntoutsi-bdbwf/?trackingId=kQN3icbTHl703VGEGOkd7A%3D%3D">short summary</a>.</li>
 
 
 
