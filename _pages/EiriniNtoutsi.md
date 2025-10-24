@@ -44,6 +44,7 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
 
 #### Talks & Events 2025
 <ul>
+  <li>27-29/10/2025, <a href="https://www.informatics-europe.org/ecss/home.html">European Informatics Leaders Summit 2025</a> in Rennes, France. Representing <a href="https://ft-informatik.de/">FTI</a> Germany.</li>
   <li>01/10/2025, <a href="https://www.cisuc.uc.pt/en">CISUC Day</a> (Convento São Francisco, Coimbra, Portugal): Invited talk on "Bias and Fairness in AI - Current and Future Trends". <a href="{{ site.baseurl }}/files/25.Coimbra(Keynote@CISUC).pdf">Slides</a></li>
   <li>23/09/2025, Marondo Investor Day 2025: Resilient Capital in a fragile world, organized by <a href="https://www.marondo.com/en">Marondo</a> in Munich. See <a href="https://www.linkedin.com/posts/marondo-capital-gmbh_defence-smallcap-dualuse-activity-7377034100022456320-GJDE/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAABi3GkBE9b22I0M4GlnFKvb4YJBCf6EiPQ">short summary</a>.</li>
 
