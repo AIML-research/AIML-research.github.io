@@ -1,15 +1,15 @@
 - title: "A Deep Latent Factor Graph Clustering with Fairness-Utility Trade-off Perspective"
   image: 
   description: 
-  authors: Emmanouil Panagiotou, Benoît Ronval, Arjun Roy, Ludwig Bothmann, Bernd Bischl, Siegfried Nijssen, Eirini Ntoutsi
+  authors: Siamak Ghodsi, Amjad Seyedi, Tai Le Quy, Fariba Karimi, Eirini Ntoutsi
   link:
-    url: https://www3.cs.stonybrook.edu/~icdm2025/
-    display: IEEE International Conference on Data Mining (ICDM)
+    url: https://conferences.cis.um.edu.mo/ieeebigdata2025/
+    display: IEEE Big Data
   highlight: 0
   news2:  
   year: 2025
   haslocal: 1
-  local: 25.ICDM.pdf
+  local: 25.BigData.pdf
   hascode: 0
   code: 
   hasposter: 0
