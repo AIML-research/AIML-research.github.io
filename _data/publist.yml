@@ -1,4 +1,25 @@
-- title: "TABFAIRGDT: A Fast Fair Tabular Data Generator using Autoregressive Decision Trees"
+- title: "A Deep Latent Factor Graph Clustering with Fairness-Utility Trade-off Perspective"
+  image: 
+  description: 
+  authors: Emmanouil Panagiotou, Benoît Ronval, Arjun Roy, Ludwig Bothmann, Bernd Bischl, Siegfried Nijssen, Eirini Ntoutsi
+  link:
+    url: https://www3.cs.stonybrook.edu/~icdm2025/
+    display: IEEE International Conference on Data Mining (ICDM)
+  highlight: 0
+  news2:  
+  year: 2025
+  haslocal: 1
+  local: 25.ICDM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
+- title: "TABFAIRGDT - A Fast Fair Tabular Data Generator using Autoregressive Decision Trees"
   image: 
   description: 
   authors: Emmanouil Panagiotou, Benoît Ronval, Arjun Roy, Ludwig Bothmann, Bernd Bischl, Siegfried Nijssen, Eirini Ntoutsi
