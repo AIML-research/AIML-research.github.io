@@ -61,6 +61,27 @@
   hasvideo: 0
   video: 
 
+- title: "The Multifaced Nature of Bias in AI - Impact on Model Generalization, Robustness, and Fairness"
+  image: 
+  description: 
+  authors: Eirini Ntoutsi
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-658-48522-1_11
+    display: Schäffer, B., Lieder, F.R. (eds) Maschinen wie wir?. Springer Gabler, Wiesbaden
+  highlight: 0
+  news2:  
+  year: 2025
+  haslocal: 1
+  local: 25.BiasBookChapter.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "Generative AI-augmented offshore jacket design: Integrated approach for mixed tabular data generation under scarcity and imbalance"
   image: 
   description: 
