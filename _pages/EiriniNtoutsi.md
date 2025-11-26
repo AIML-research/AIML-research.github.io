@@ -32,9 +32,9 @@ My ultimate goal? <strong><em>Creating intelligent systems that augment human in
 
 #### Research Interests
 <ul>
+  <li>Robust AI (Distribution shifts, Imbalances, Biases, Adversarial robustness, ...)</li>
   <li>Responsible AI (Fairness, Explainability, Security of AI, ...)</li>
   <li>Adaptive AI (Data streams, online learning, ...)</li>
-  <li>Robust AI (Distribution shifts, Imbalances, Biases, Adversarial robustness, ...)</li>
   <li>Generative AI</li>
 </ul>
 
