@@ -290,7 +290,7 @@ permalink: /team/
 - <b> Viktoria Andres </b>, BSc , Student assistant, project: <a href ="https://aiml-research.github.io/projects/hephaestus/">Hephaestus </a>, WiSe21/22 
 - <b> Anton Kriese </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/offshore/"> DFG SFB 1463: “Offshore Megastrukturen” </a>, WiSe21/22
 
-### Visitors
+### Visiting Researchers
   - <b> <a href="https://scholar.google.com/citations?user=U3QyC9YAAAAJ&hl=en">Tobias Hyrup </a></b> (Visiting Ph.D. student), 01/010/2024-30/11/2024, University of Southern Denmark, Denmark. Research topic: Privacy- and bias-aware synthetic data generation. 
   - <b> Srijanani Saiegiridar </b> (Visiting B.Sc. student), 01/010/2024-30/11/2024, University of Southern Denmark, Denmark. Research topic: Privacy- and bias-aware synthetic data generation.  
   - <b> Bahman Askari </b> (Erasmus MSc student), WiSe18/19-SS19, University of Camerino, Italy. Research topic: demand prediction. Related publication <a href = "https://doi.org/10.1109/COMPSAC48688.2020.000-7"> SSMLS@COMPSAC 2020 </a>.  
