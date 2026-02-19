@@ -276,12 +276,12 @@ permalink: /team/
 ### Alumni
 - <b>Alaa Elobaid</b>, External PhD Student (CERTH, Greece),  Project: <a href ="https://aiml-research.github.io/projects/nobias/">NoBias</a>.
 - <b>Dr. Vivek Kumar Singh</b>, Postdoc, 2023 - 2025, Project: <a href ="https://aiml-research.github.io/projects/stelar/">STELAR</a>.
-- <b>Dr. Tai Le Quy</b>, PhD Student, 2016 - 2023, PhD thesis: <a href ="https://www.repo.uni-hannover.de/handle/123456789/15956">"Fairness-aware machine learning in educational data mining".</a>
+- <b>Dr. Tai Le Quy</b>, PhD Student, 2016 - 2023, PhD thesis: <a href ="https://www.repo.uni-hannover.de/handle/123456789/15956">"Fairness-aware machine learning in educational data mining".</a>. Last seen: Postdoctoral Researcher, Universität Koblenz.
 - <b> Manuel Heurich </b>, PhD Student, August 2021 - May 2022, Topic: Adaptive learning.
 - <b> Yi Cai </b>, PhD student, November 2020 - May 2022, Topic: Explanations for text classification.
 - <b> Philipp Naumann </b>, PhD student, March 2021 - May 2022, Topic: Counterfactual fairness.
 - <b> Dr. Nabil Alsabah </b>, Lecturer.
-- <b> Dr. Vasileios Iosifidis</b>, PhD student, June 2016 - July 2020, PhD thesis: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance".</a>
+- <b> Dr. Vasileios Iosifidis</b>, PhD student, June 2016 - July 2020, PhD thesis: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance".</a>. Last seen: Data Scientist @ Schenker AG.
 - <b> Amir Abolfazli </b>, PhD student, April 2019 - July 2020, Topic: Adaptive machine learning.
 - <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous stream.
 - <b> Chirag Pandav</b>, MSc, Research assistant, project: <a href ="https://aiml-research.github.io/projects/mammoth/"> MAMMoth </a>, 2024.
