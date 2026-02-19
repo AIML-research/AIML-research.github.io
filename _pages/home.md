@@ -20,5 +20,4 @@ Three fundamental questions guide our work:
 - What kind of intelligence should we aspire to build?
 - Can AI exhibit creativity?
 
-The group is affiliated with the research institute [Research Institute CODE for cybersecurity and smart data](https://www.unibw.de/code) and the [Department of Computer Science](https://www.unibw.de/inf) at the [Bundeswehr University Munich (UniBwM)](https://www.unibw.de/). Previously, the group was based at [Freie Universität Berlin](https://www.fu-berlin.de/en/) and [Leibniz Universität Hannover](https://www.uni-hannover.de/en/)/[L3S Research Center](https://www.l3s.de/en).
-
+The AIML group is based at the [Department of Computer Science](https://www.unibw.de/inf) at the [Bundeswehr University Munich (UniBwM)](https://www.unibw.de/) and is part of the research institute [Research Institute CODE for cybersecurity and smart data](https://www.unibw.de/code). Previously, the group was based at [Freie Universität Berlin](https://www.fu-berlin.de/en/) and [Leibniz Universität Hannover](https://www.uni-hannover.de/en/)/[L3S Research Center](https://www.l3s.de/en).
