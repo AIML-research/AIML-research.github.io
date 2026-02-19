@@ -79,8 +79,8 @@
   poster:
   hasppt: 0
   ppt: 
-  hasvideo: 0
-  video: 
+  hasvideo: 1
+  video: https://www.youtube.com/watch?v=_rcpjlXFqkw
 
 - title: "The Multifaced Nature of Bias in AI - Impact on Model Generalization, Robustness, and Fairness"
   image: 
