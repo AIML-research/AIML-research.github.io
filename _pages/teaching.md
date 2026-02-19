@@ -14,6 +14,7 @@ Current and previous courses at FUB, LUH, LMU.
 <b> Winter trimester (WT)</b>
 - Lecture: Artificial Intelligence
 - Seminar: Selected topics on AI/ML
+- Lab: Python Programming for AI
 
 <b> Spring trimester (FT)</b>
 - Lecture: Machine Learning
