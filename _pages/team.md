@@ -76,7 +76,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Secretariat
+### Administrative Support
 {% assign number_printed = 0 %}
 {% for member in site.data.secretary %}
 
@@ -139,7 +139,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Postdocs
+### Postdoctoral Researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
@@ -206,7 +206,7 @@ permalink: /team/
 {% endif %}
 
 
-### PhDs
+### Doctoral Researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.phds %}
 
@@ -272,7 +272,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Former members
+### Alumni
 - <b>Alaa Elobaid</b>, External PhD Student (CERTH, Greece),  Project: <a href ="https://aiml-research.github.io/projects/nobias/">NoBias</a>
 - <b>Dr. Vivek Kumar Singh</b>, Postdoc, 2023 - 2025, Project: <a href ="https://aiml-research.github.io/projects/stelar/">STELAR</a>
 - <b>Tai Le Quy</b>, PhD Student, 2016 - 2023, PhD thesis: <a href ="https://www.repo.uni-hannover.de/handle/123456789/15956">"Fairness-aware machine learning in educational data mining"</a> (currently Postdoctoral researcher @Uni-Koblenz)
@@ -284,7 +284,7 @@ permalink: /team/
 - <b> Amir Abolfazli </b>, PhD student, April 2019 - July 2020, Topic: Adaptive machine learning  (currently PhD student @LUH)
 - <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous streams  (currently PhD student @LUH)
 
-### HiWi students
+### Research Assistants
 - <b> Chirag Pandav</b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/mammoth/"> MAMMoth </a>, 2024.
 - <b> Michael Dickopf </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/stelar/"> STELAR </a>, 2024.
 - <b> Viktoria Andres </b>, BSc , Student assistant, project: <a href ="https://aiml-research.github.io/projects/hephaestus/">Hephaestus </a>, WiSe21/22 
