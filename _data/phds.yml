@@ -13,7 +13,7 @@
   info: Ph.D. Student
   email: emmanouil.panagiotou@fu-berlin.de
   number_educ: 0
-  project: SFB 1463 Offshore Megastrukturen
+  project: SFB 1463 Offshore Megastrukturen (DFG), HEGEMON (Cyberagentur)
   website:
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/offshore/
@@ -53,7 +53,7 @@
   info: Ph.D. Student
   email: tobias.callies@unibw.de
   number_educ: 0
-  project: 
+  project: Hegemon (Cyberagentur)
   website:
   has_project_web: 0
   project_web: 
@@ -74,7 +74,7 @@
   info: External Ph.D. Student (CERTH, GR)
   email: simone.fabbrizzi@iti.gr
   number_educ: 0
-  project: NoBIAS
+  project: NoBIAS (EU Horizon 2020 MSCA Innovative Training Network (ITN))
   website:
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/nobias/
