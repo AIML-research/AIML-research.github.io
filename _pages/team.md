@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-### Faculty
+### Head of AIML Group
 
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
