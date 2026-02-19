@@ -284,12 +284,10 @@ permalink: /team/
 - <b> Dr. Vasileios Iosifidis</b>, PhD student, June 2016 - July 2020, PhD thesis: Fairness-aware machine learning & learning under limited labels, PhD thesis: <a href ="http://l3s.de/~iosifidis/Publications/PHD_Dissertation.pdf"> "Semi-supervised learning and fairness-aware learning under class imbalance".</a>
 - <b> Amir Abolfazli </b>, PhD student, April 2019 - July 2020, Topic: Adaptive machine learning.
 - <b> Damianos Melidis </b>, PhD student, 2017 - 2018, Topic: Ensemble learning over heterogeneous stream.
-
-### Research Assistants
-- <b> Chirag Pandav</b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/mammoth/"> MAMMoth </a>, 2024.
-- <b> Michael Dickopf </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/stelar/"> STELAR </a>, 2024.
-- <b> Viktoria Andres </b>, BSc , Student assistant, project: <a href ="https://aiml-research.github.io/projects/hephaestus/">Hephaestus </a>, WiSe21/22 
-- <b> Anton Kriese </b>, MSc, Student assistant, project: <a href ="https://aiml-research.github.io/projects/offshore/"> DFG SFB 1463: “Offshore Megastrukturen” </a>, WiSe21/22
+- <b> Chirag Pandav</b>, MSc, Research assistant, project: <a href ="https://aiml-research.github.io/projects/mammoth/"> MAMMoth </a>, 2024.
+- <b> Michael Dickopf </b>, MSc, Research assistant, project: <a href ="https://aiml-research.github.io/projects/stelar/"> STELAR </a>, 2024.
+- <b> Viktoria Andres </b>, BSc , Research assistant, project: <a href ="https://aiml-research.github.io/projects/hephaestus/">Hephaestus </a>, WiSe21/22 
+- <b> Anton Kriese </b>, MSc, Research assistant, project: <a href ="https://aiml-research.github.io/projects/offshore/"> DFG SFB 1463: “Offshore Megastrukturen” </a>, WiSe21/22
 
 ### Visiting Researchers
   - <b> <a href="https://scholar.google.com/citations?user=U3QyC9YAAAAJ&hl=en">Tobias Hyrup </a></b> (Visiting Ph.D. student), 01/010/2024-30/11/2024, University of Southern Denmark, Denmark. Research topic: Privacy- and bias-aware synthetic data generation. 
