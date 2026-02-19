@@ -3,7 +3,7 @@
   info: Ph.D. Student
   email: arjun.roy@fu-berlin.de
   number_educ: 0
-  project: BIAS, MAMMOTH
+  project: BIAS (Volkswagen Foundation), MAMMOTH (EU Horizon)
   website: https://scholar.google.com/citations?user=HJ0FBh4AAAAJ&hl=en
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/mammoth/
@@ -23,7 +23,7 @@
   info: Ph.D. Student
   email: konstantinos.zacharis@unibw.de
   number_educ: 0
-  project: STELAR
+  project: STELAR  (EU Horizon)
   website:
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/stelar/
@@ -33,7 +33,7 @@
   info: Ph.D. Student
   email: chethan.krishnamurthy@unibw.de
   number_educ: 0
-  project: STELAR
+  project: STELAR  (EU Horizon)
   website:
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/stelar/
@@ -43,7 +43,7 @@
   info: Ph.D. Student
   email: abheek.dhingra@unibw.de
   number_educ: 0
-  project: Hephaestus
+  project: Hephaestus (DFG)
   website:
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/hephaestus/
@@ -63,7 +63,7 @@
   info: External Ph.D. Student (L3S, DE)
   email: siamak.ghodsi@fu-berlin.de
   number_educ: 0
-  project: NoBIAS
+  project: NoBIAS (EU Horizon 2020 MSCA Innovative Training Network (ITN))
   website:
   has_project_web: 1
   project_web: https://aiml-research.github.io/projects/nobias/
