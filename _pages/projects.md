@@ -70,6 +70,8 @@ Funding: <a href="https://www.cleanenergywire.org/experts/bmwi-federal-ministry-
 The overall objective of the research project is the development of methods for efficient and automated continuous monitoring of the support structure of wind turbines for the detection of damage events and anomalies using acoustic emission analysis and innovative evaluation methods from the field of artificial intelligence (AI).
 </ul>
 
+
+### Finished research projects
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/lernmint/">LernMINT - Dealing with bias and discrimination in learning analytics models</a></b></li>
 Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>, Role: PI (Eirini Ntoutsi)<br>
@@ -88,8 +90,6 @@ Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-m
 AI technologies are the driving force behind digitization. Due to their enormous social relevance, a responsible use of AI is of particular importance. The research and application of responsible AI is a very young discipline and requires the bundling of research activities from different disciplines in order to design and apply AI systems in a reliable, transparent, secure and legally acceptable way.<br>
 </ul>
   
-### Finished research projects
-
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/oscar">OSCAR - Opinion Stream Classification with Ensembles and Active leaRners</a>.</b></li>
 Funding: <a href="https://gepris.dfg.de/gepris/projekt/317686254?language=en" target="_new">DFG</a>, Role: PI (Eirini Ntoutsi).<br>
