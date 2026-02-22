@@ -77,8 +77,8 @@ The goal of the PhD training network LernMINT is to provide interdisciplinary tr
 </ul>
 
 <ul>
-  <li><b><a href = "https://aiml-research.github.io/projects/enkis">ENKIS - Etablierung nachhaltiger KI-bezogener Studienangebote für eine Verantwortungsvolle Künstliche Intelligenz an der FUB</a>, Role: PI (Eirini Ntoutsi).</b></li>
-Funding: <a href="https://www.bmbf.de/bmbf/de/home/_documents/digitale-hochschulbildung.html#:~:text=Mit%20der%20Bund%2DL%C3%A4nder%2DVereinbarung,der%20Breite%20des%20Hochschulsystems%20entfalten.">BMBF</a>.<br>
+  <li><b><a href = "https://aiml-research.github.io/projects/enkis">ENKIS - Etablierung nachhaltiger KI-bezogener Studienangebote für eine Verantwortungsvolle Künstliche Intelligenz an der FUB</a>.</b></li>
+Funding: <a href="https://www.bmbf.de/bmbf/de/home/_documents/digitale-hochschulbildung.html#:~:text=Mit%20der%20Bund%2DL%C3%A4nder%2DVereinbarung,der%20Breite%20des%20Hochschulsystems%20entfalten.">BMBF</a>, Role: PI (Eirini Ntoutsi).<br>
 Promoting AI in higher education (FUB, particularly).<br>
 Updated status: No further involvement.
   </ul>
