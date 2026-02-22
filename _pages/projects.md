@@ -80,14 +80,12 @@ The goal of the PhD training network LernMINT is to provide interdisciplinary tr
   <li><b><a href = "https://aiml-research.github.io/projects/enkis">ENKIS - Etablierung nachhaltiger KI-bezogener Studienangebote für eine Verantwortungsvolle Künstliche Intelligenz an der FUB</a>.</b></li>
 Funding: <a href="https://www.bmbf.de/bmbf/de/home/_documents/digitale-hochschulbildung.html#:~:text=Mit%20der%20Bund%2DL%C3%A4nder%2DVereinbarung,der%20Breite%20des%20Hochschulsystems%20entfalten.">BMBF</a>, Role: PI (Eirini Ntoutsi).<br>
 Promoting AI in higher education (FUB, particularly).<br>
-Updated status: No further involvement.
-  </ul>
+ </ul>
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/responsibleai/">Responsible AI </a></b></li>
 Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>, Role: PI (Eirini Ntoutsi).<br>
-Artificial intelligence (AI) technologies are the driving force behind digitization. Due to their enormous social relevance, a responsible use of AI is of particular importance. The research and application of responsible AI is a very young discipline and requires the bundling of research activities from different disciplines in order to design and apply AI systems in a reliable, transparent, secure and legally acceptable way.<br>
-Updated status: No further involvement.
+AI technologies are the driving force behind digitization. Due to their enormous social relevance, a responsible use of AI is of particular importance. The research and application of responsible AI is a very young discipline and requires the bundling of research activities from different disciplines in order to design and apply AI systems in a reliable, transparent, secure and legally acceptable way.<br>
 </ul>
   
 ### Finished research projects
