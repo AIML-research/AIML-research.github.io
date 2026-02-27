@@ -6,6 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
+## Team
+The AIML group brings together researchers working on robust, responsible, and generative AI across theory, methodology, and real-world applications.
+
 ### Head of AIML Group
 
 {% assign number_printed = 0 %}
