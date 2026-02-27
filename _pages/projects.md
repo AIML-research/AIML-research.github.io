@@ -21,7 +21,10 @@ Our group conducts both basic and application-oriented research across the broad
 
 
 ### Ongoing research projects
-
+<ul>
+  <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/mammoth">HEGEMON (Holistic Evaluation of Generative Foundation Models in a Security Context)</a></b></li>
+Funding: Cyberagentur under the call <ahref="https://www.cyberagentur.de/en/programs/hegemon/">HEGEMON</a>.<br> 
+The HEGEMON project focuses on the systematic and holistic evaluation as welll as on the adaptation of foundation models for security contexts. The holistic benchmark consists of use cases and tasks, evaluation dimensions covering various aspects of performance from reliability and robustness of donwstream task performance to aspects of trustworthiness and sovereignity. Our work also covers robust evaluation protocols.</li></ul>
 
 
 
