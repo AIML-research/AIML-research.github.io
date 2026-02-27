@@ -24,7 +24,7 @@ Our group conducts both basic and application-oriented research across the broad
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/hegemon">HEGEMON (Holistic Evaluation of Generative Foundation Models in a Security Context)</a></b></li>
 Funding: <a href="https://www.cyberagentur.de/en" target="_new">Cyberagentur</a> under the call <a href="https://www.cyberagentur.de/en/programs/hegemon/" target="_new">HEGEMON</a>.<br> 
-HEGEMON develops a systematic and holistic evaluation framework for foundation models in security-critical contexts. The project focuses on robust benchmarking, multi-dimensional performance assessment, and the adaptation of foundation models to domain-specific use cases, addressing reliability, robustness, trustworthiness, and sovereignty aspects.</li></ul>
+Development of holistic benchmarking and robust evaluation protocols for generative foundation models in security-critical contexts, addressing reliability, robustness, trustworthiness, and domain-specific adaptation.</li></ul>
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/dzda">DzdA (German Centre for Digital Tasks in Higher Education)</a></b></li>
 Funding: <a href="https://stiftung-hochschullehre.de/en/" target="_new">Stiftung Innovation in der Hochschullehre</a>.<br> 
