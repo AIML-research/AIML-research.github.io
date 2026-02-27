@@ -41,7 +41,7 @@ The scientific network Digital Bioethics <a href="https://gepris.dfg.de/gepris/p
 </ul>
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/mammoth">MAMMOTH (Multi-Attribute, Multimodal Bias Mitigation in AI Systems)</a></b></li>
-Funding: EU under the call HORIZON-CL4-2021-HUMAN-01 (A HUMAN-CENTRED AND ETHICAL DEVELOPMENT OF DIGITAL AND INDUSTRIAL TECHNOLOGIES 2021).<br> 
+<i>Funding: EU under the call HORIZON-CL4-2021-HUMAN-01 (A HUMAN-CENTRED AND ETHICAL DEVELOPMENT OF DIGITAL AND INDUSTRIAL TECHNOLOGIES 2021).<br> </i>
 The MAMMOth project focuses on multi-discrimination mitigation for tabular, network and multimodal data. Through its 
 computer science and AI experts, MAMMOth aims at addressing the associated scientific challenges by developing an innovative 
 fairness-aware AI-data driven foundation that provides the necessary tools and techniques for the discovery and mitigation of 
@@ -51,18 +51,18 @@ tabular data and more complex network and visual data. The project aims to demon
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/stelar">STELAR (Spatio-TEmporal Linked data tools for the AgRi-food data space)</a></b></li>
-Funding: EU under the call HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (IA).<br> 
+<i>Funding: EU under the call HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (IA).<br> </i>
   STELAR will design, develop, evaluate, and showcase an innovative Knowledge Lake Management System (KLMS) to support and facilitate a holistic approach for FAIR (Findable, Accessible, Interoperable, Reusable) and AI-ready (high-quality, reliably labeled) data that will be pilot tested in diverse, real-world use cases in the agrifood data space, one of the nine data spaces of strategic societal and economic importance identified in the European Strategy for Data.
  </ul>
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">Hephaestus - Machine learning methods for adaptive process planning of 5-axis milling</a></b></li>
-Funding: <a href="https://gepris.dfg.de/gepris/projekt/424298653" target="_new">DFG</a>.<br>
+<i>Funding: <a href="https://gepris.dfg.de/gepris/projekt/424298653" target="_new">DFG</a>.<br></i>
 Rising customer demands and a trend towards smaller batch sizes have led to an increased complexity in product design and subsequent process planning, e.g. of 5-axes milling operations. Thus, process simulations are commonly used in industry to support process planning. Especially, the dimensional accuracy is crucial for most machined parts, since it affects directly the functionality. Consequently, finishing operations have especially high requirements with respect to the surface tolerances. Despite the aforementioned simulation tools, manual adjustments, which rely on the expert knowledge of workers and process planners, are still necessary in order to cope with process- or machine-specific deviations such as tool stiffness or machine dynamics.
 </ul>
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">CRC 1463:  Integrated Design and Operation Methodology for Offshore Megastructures</a></b></li>
-Funding: <a href="https://gepris.dfg.de/gepris/projekt/457016492" target="_new">DFG</a>.<br>
+<i>Funding: <a href="https://gepris.dfg.de/gepris/projekt/457016492" target="_new">DFG</a>.<br></i>
 With the help of the real-time capable simulation model of a digital twin, the SFB researches the design and operating conditions of offshore megastructures, whereby all life phases of a structure can be represented. This enables a reactive and automated adaptation of the structure and its operation to current and future conditions.  
 We participate in project B01 "Integrated design process for offshore structures" with the aim to develop a prognosis model to predict the design quality over the complete life cycle of offshore structures, combining the experience and intuition of the engineer and expert through appropriate ML methods. 
 </ul>
@@ -71,24 +71,24 @@ We participate in project B01 "Integrated design process for offshore structures
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/nobias">ITN NoBIAS - Artificial Intelligence without Bias</a></b></li>
-Funding: <a href="https://cordis.europa.eu/project/id/860630" target="_new">EU</a>.<br>
+<i>Funding: <a href="https://cordis.europa.eu/project/id/860630" target="_new">EU</a>.<br></i>
 The core objective of NoBIAS is to research and develop novel methods for AI-based decision making without bias. NoBIAS will deliver a cohort of 15 researchers trained to identify biased and discriminating AI-decision making and able to provide solutions that reconcile and fully exploit AI while ensuring compliance with legal and social norms.
 </ul>
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/bias">BIAS – Bias and Discrimination in Big Data and Algorithmic Processing. Philosophical Assessments, Legal Dimensions, and Technical Solutions.</a></b></li>
-Funding: <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=95037" target="_new">Volkswagen Stiftung</a>.<br>
+<i>Funding: <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=95037" target="_new">Volkswagen Stiftung</a>.<br></i>
 AI techniques based on big data and algorithmic processing are increasingly used to guide decisions in important societal spheres, including hiring decisions, university admissions, loan granting, and crime prediction. However, there are growing concerns with regard to the epistemic and normative quality of AI evaluations and predictions. Our shared research question is: How can standards of unbiased attitudes and non-discriminatory practices be met in big data analysis and algorithm-based decision-making?
 In approaching this question, we will provide philosophical analyses of the relevant concepts and principles in the context of AI (bias, discrimination, fairness), investigate their adequate reception in pertinent legal frameworks (data protection, consumer, competition, anti-discrimination law), and develop concrete technical solutions (debiasing strategies, discrimination detection procedures etc.).
 </ul>
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/kiswind">KISWIND </a></b></li>
-Funding: <a href="https://www.cleanenergywire.org/experts/bmwi-federal-ministry-economic-affairs-and-energy">Bundesministerium für Wirtschaft und Energie (BMWi)</a>, Role: PI (Eirini Ntoutsi).<br> 
+<i>Funding: <a href="https://www.cleanenergywire.org/experts/bmwi-federal-ministry-economic-affairs-and-energy">Bundesministerium für Wirtschaft und Energie (BMWi)</a>, Role: PI (Eirini Ntoutsi).<br> </i>
 The overall objective of the research project is the development of methods for efficient and automated continuous monitoring of the support structure of wind turbines for the detection of damage events and anomalies using acoustic emission analysis and innovative evaluation methods from the field of artificial intelligence (AI).
 </ul>
 <ul>
-  <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/lernmint/">LernMINT - Dealing with bias and discrimination in learning analytics models</a></b></li>
+  <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/lernmint/">LernMINT - Dealing with bias and discrimination in learning analytics models</a></b></li></i>
 Funding: <a href="https://www.mwk.niedersachsen.de/china/representative-of-the-ministry-of-science-and-culture-of-the-german-state-of-lower-saxony-for-university-cooperation-between-lower-saxony-and-china-189609.html" target="_new">Ministry of Science and Culture of Lower Saxony</a>, Role: PI (Eirini Ntoutsi)<br>
 The goal of the PhD training network LernMINT is to provide interdisciplinary training for the doctoral candidates to qualify them as experts in a sub-area of digital education namely data-assisted learning and teaching in STEM (in German: MINT) subjects. In LernMINT, there are five subject areas: (1) Learning analytics methods for STEM teaching, (2) Data-based support of learning potential, (3) Informal learning in schools and universities, (4) Transition from school to university, (5) Data protection and fairness of learning analytics methods.
 </ul>
