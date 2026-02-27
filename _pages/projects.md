@@ -23,13 +23,11 @@ Our group conducts both basic and application-oriented research across the broad
 ### Ongoing research projects
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/hegemon">HEGEMON (Holistic Evaluation of Generative Foundation Models in a Security Context)</a></b></li>
-<i>Funding: <a href="https://www.cyberagentur.de/en" target="_new">Cyberagentur</a> under the call <a href="https://www.cyberagentur.de/en/programs/hegemon/" target="_new">HEGEMON</a>.<br> </i>
-<i>Role: Principal Investigator</i><br>
+<i>Funding: <a href="https://www.cyberagentur.de/en" target="_new">Cyberagentur</a> under the call <a href="https://www.cyberagentur.de/en/programs/hegemon/" target="_new">HEGEMON</a>, Role: PI (Eirini Ntoutsi).<br> </i>
 Develops holistic benchmarking and robust evaluation protocols for generative foundation models in security-critical contexts, addressing reliability, robustness, trustworthiness, and domain-specific adaptation.</li></ul>
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/dzda">DzdA (German Centre for Digital Tasks in Higher Education)</a></b></li>
-<i>Funding: <a href="https://stiftung-hochschullehre.de/en/" target="_new">Stiftung Innovation in der Hochschullehre</a>.<br> </i>
-  <i>Role: Principal Investigator</i><br>
+<i>Funding: <a href="https://stiftung-hochschullehre.de/en/" target="_new">Stiftung Innovation in der Hochschullehre</a>, Role: PI (Eirini Ntoutsi).<br> </i>
 Within DZdA, the AIML group leads the AI & Innovation Center and develops foundation model–based systems for automated task generation and assessment, adaptive AI tutoring, and reliable support systems for digital examinations, with a focus on robust evaluation, human-in-the-loop mechanisms, and trustworthy generative AI in large-scale educational settings.
 </li></ul>
 
@@ -43,7 +41,7 @@ The scientific network Digital Bioethics <a href="https://gepris.dfg.de/gepris/p
 </ul>
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/mammoth">MAMMOTH (Multi-Attribute, Multimodal Bias Mitigation in AI Systems)</a></b></li>
-<i>Funding: EU under the call HORIZON-CL4-2021-HUMAN-01 (A HUMAN-CENTRED AND ETHICAL DEVELOPMENT OF DIGITAL AND INDUSTRIAL TECHNOLOGIES 2021).<br> </i>
+<i>Funding: EU under the call HORIZON-CL4-2021-HUMAN-01 (A HUMAN-CENTRED AND ETHICAL DEVELOPMENT OF DIGITAL AND INDUSTRIAL TECHNOLOGIES 2021), Role: Scientific manager & PI (Eirini Ntoutsi).<br> </i>
 The MAMMOth project focuses on multi-discrimination mitigation for tabular, network and multimodal data. Through its 
 computer science and AI experts, MAMMOth aims at addressing the associated scientific challenges by developing an innovative 
 fairness-aware AI-data driven foundation that provides the necessary tools and techniques for the discovery and mitigation of 
@@ -53,18 +51,18 @@ tabular data and more complex network and visual data. The project aims to demon
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/stelar">STELAR (Spatio-TEmporal Linked data tools for the AgRi-food data space)</a></b></li>
-<i>Funding: EU under the call HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (IA).<br> </i>
+<i>Funding: EU under the call HORIZON-CL4-2021-DATA-01-03 - Technologies for data management (IA), Role: PI (Eirini Ntoutsi).<br> </i>
   STELAR will design, develop, evaluate, and showcase an innovative Knowledge Lake Management System (KLMS) to support and facilitate a holistic approach for FAIR (Findable, Accessible, Interoperable, Reusable) and AI-ready (high-quality, reliably labeled) data that will be pilot tested in diverse, real-world use cases in the agrifood data space, one of the nine data spaces of strategic societal and economic importance identified in the European Strategy for Data.
  </ul>
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/hephaestus">Hephaestus - Machine learning methods for adaptive process planning of 5-axis milling</a></b></li>
-<i>Funding: <a href="https://gepris.dfg.de/gepris/projekt/424298653" target="_new">DFG</a>.<br></i>
+<i>Funding: <a href="https://gepris.dfg.de/gepris/projekt/424298653" target="_new">DFG</a>, Role: PI (Eirini Ntoutsi).<br></i>
 Rising customer demands and a trend towards smaller batch sizes have led to an increased complexity in product design and subsequent process planning, e.g. of 5-axes milling operations. Thus, process simulations are commonly used in industry to support process planning. Especially, the dimensional accuracy is crucial for most machined parts, since it affects directly the functionality. Consequently, finishing operations have especially high requirements with respect to the surface tolerances. Despite the aforementioned simulation tools, manual adjustments, which rely on the expert knowledge of workers and process planners, are still necessary in order to cope with process- or machine-specific deviations such as tool stiffness or machine dynamics.
 </ul>
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">CRC 1463:  Integrated Design and Operation Methodology for Offshore Megastructures</a></b></li>
-<i>Funding: <a href="https://gepris.dfg.de/gepris/projekt/457016492" target="_new">DFG</a>.<br></i>
+<i>Funding: <a href="https://gepris.dfg.de/gepris/projekt/457016492" target="_new">DFG</a>, Role: PI (Eirini Ntoutsi).<br></i>
 With the help of the real-time capable simulation model of a digital twin, the SFB researches the design and operating conditions of offshore megastructures, whereby all life phases of a structure can be represented. This enables a reactive and automated adaptation of the structure and its operation to current and future conditions.  
 We participate in project B01 "Integrated design process for offshore structures" with the aim to develop a prognosis model to predict the design quality over the complete life cycle of offshore structures, combining the experience and intuition of the engineer and expert through appropriate ML methods. 
 </ul>
@@ -73,13 +71,13 @@ We participate in project B01 "Integrated design process for offshore structures
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/nobias">ITN NoBIAS - Artificial Intelligence without Bias</a></b></li>
-<i>Funding: <a href="https://cordis.europa.eu/project/id/860630" target="_new">EU</a>.<br></i>
+<i>Funding: <a href="https://cordis.europa.eu/project/id/860630" target="_new">EU</a>, Role: Proposal coordinator, project coordinator (1st year) & PI (Eirini Ntoutsi).<br></i>
 The core objective of NoBIAS is to research and develop novel methods for AI-based decision making without bias. NoBIAS will deliver a cohort of 15 researchers trained to identify biased and discriminating AI-decision making and able to provide solutions that reconcile and fully exploit AI while ensuring compliance with legal and social norms.
 </ul>
 
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/bias">BIAS – Bias and Discrimination in Big Data and Algorithmic Processing. Philosophical Assessments, Legal Dimensions, and Technical Solutions.</a></b></li>
-<i>Funding: <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=95037" target="_new">Volkswagen Stiftung</a>.<br></i>
+<i>Funding: <a href="http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=95037" target="_new">Volkswagen Stiftung</a>, Role: PI (Eirini Ntoutsi).<br></i>
 AI techniques based on big data and algorithmic processing are increasingly used to guide decisions in important societal spheres, including hiring decisions, university admissions, loan granting, and crime prediction. However, there are growing concerns with regard to the epistemic and normative quality of AI evaluations and predictions. Our shared research question is: How can standards of unbiased attitudes and non-discriminatory practices be met in big data analysis and algorithm-based decision-making?
 In approaching this question, we will provide philosophical analyses of the relevant concepts and principles in the context of AI (bias, discrimination, fairness), investigate their adequate reception in pertinent legal frameworks (data protection, consumer, competition, anti-discrimination law), and develop concrete technical solutions (debiasing strategies, discrimination detection procedures etc.).
 </ul>
