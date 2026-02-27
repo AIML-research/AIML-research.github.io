@@ -6,8 +6,6 @@ sitemap: false
 permalink: /teaching/
 ---
 
-Current and previous courses at FUB, LUH, LMU.
-
 ## Teaching
 
 #### At the <a href ="https://www.unibw.de/home"> <b>Bundeswehr University Munich (UniBw-M)</b> </a>, Germany
