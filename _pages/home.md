@@ -11,7 +11,7 @@ The Artificial Intelligence and Machine Learning (AIML) group, led by [Prof. Dr.
 Our research focuses are:
 - **Robust AI**, addressing reliability under data biases, distribution shifts, adversarial manipulation, and other real-world challenges.
 - **Responsible AI**, including fairness-aware learning and explainable AI (XAI), with lifecycle-wide analyses and objectives that go beyond pure task performance.
-- **Generative AI**, improving data quality, addressing data scarcity, and supporting robust learning.
+- **Generative AI**, improving data quality, addressing data scarcity, and developing robust and trustworthy generative systems.
 
 We apply our methods across domains such as education, social networks, banking, agriculture, manufacturing, and engineering.
 
