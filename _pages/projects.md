@@ -28,7 +28,10 @@ Develops holistic benchmarking and robust evaluation protocols for generative fo
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/dzda">DzdA (German Centre for Digital Tasks in Higher Education)</a></b></li>
 Funding: <a href="https://stiftung-hochschullehre.de/en/" target="_new">Stiftung Innovation in der Hochschullehre</a>.<br> 
-Within DZdA, the AIML group leads the AI & Innovation Center and develops foundation model–based systems for automated task generation and assessment, adaptive AI tutoring, and reliable support systems for digital examinations. Our work focuses on robust evaluation, human-in-the-loop mechanisms, and the reliability and trustworthiness of generative AI in large-scale educational settings.</li></ul>
+Within DZdA, the AIML group leads the AI & Innovation Center and develops foundation model–based systems for automated task generation and assessment, adaptive AI tutoring, and reliable support systems for digital examinations, with a focus on robust evaluation, human-in-the-loop mechanisms, and trustworthy generative AI in large-scale educational settings.
+</li></ul>
+
+
 
 
 ### Finished research projects
