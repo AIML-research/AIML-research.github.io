@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Artificial Intelligence and Machine Learning (AIML) group, led by [Prof. Dr. Eirini Ntoutsi](https://aiml-research.github.io/Eirini/), researches and develops robust and responsible AI systems for real-world applications.
+The Artificial Intelligence and Machine Learning (AIML) group, led by [Prof. Dr. Eirini Ntoutsi](https://aiml-research.github.io/Eirini/), advances research and development in robust and responsible AI systems for real-world challenges.
 
 Our research focuses are:
 - **Robust AI**, addressing reliability under data biases, distribution shifts, adversarial manipulation, and other real-world challenges.
