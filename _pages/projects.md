@@ -24,7 +24,7 @@ Our group conducts both basic and application-oriented research across the broad
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/hegemon">HEGEMON (Holistic Evaluation of Generative Foundation Models in a Security Context)</a></b></li>
 Funding: Cyberagentur under the call <a href="https://www.cyberagentur.de/en/programs/hegemon/" target="_new">HEGEMON</a>.<br> 
-The HEGEMON project focuses on the systematic and holistic evaluation as welll as on the adaptation of foundation models for security contexts. The holistic benchmark consists of use cases and tasks, evaluation dimensions covering various aspects of performance from reliability and robustness of donwstream task performance to aspects of trustworthiness and sovereignity. Our work also covers robust evaluation protocols.</li></ul>
+HEGEMON develops a systematic and holistic evaluation framework for foundation models in security-critical contexts. The project focuses on robust benchmarking, multi-dimensional performance assessment, and the adaptation of foundation models to domain-specific use cases, addressing reliability, robustness, trustworthiness, and sovereignty aspects.
 
 
 
