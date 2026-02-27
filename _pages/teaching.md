@@ -8,7 +8,7 @@ permalink: /teaching/
 
 Current and previous courses at FUB, LUH, LMU.
 
-### Teaching
+## Teaching
 
 #### At the <a href ="https://www.unibw.de/home"> <b>Bundeswehr University Munich (UniBw-M)</b> </a>, Germany
 <b> Winter trimester (WT)</b>
