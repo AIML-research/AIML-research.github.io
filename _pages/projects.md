@@ -23,11 +23,11 @@ Our group conducts both basic and application-oriented research across the broad
 ### Ongoing research projects
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/hegemon">HEGEMON (Holistic Evaluation of Generative Foundation Models in a Security Context)</a></b></li>
-Funding: <a href="https://www.cyberagentur.de/en" target="_new">Cyberagentur</a> under the call <a href="https://www.cyberagentur.de/en/programs/hegemon/" target="_new">HEGEMON</a>.<br> 
+<i>Funding: <a href="https://www.cyberagentur.de/en" target="_new">Cyberagentur</a> under the call <a href="https://www.cyberagentur.de/en/programs/hegemon/" target="_new">HEGEMON</a>.<br> </i>
 Develops holistic benchmarking and robust evaluation protocols for generative foundation models in security-critical contexts, addressing reliability, robustness, trustworthiness, and domain-specific adaptation.</li></ul>
 <ul>
   <li><b><a href = "{{ site.url }}{{ site.baseurl }}/projects/dzda">DzdA (German Centre for Digital Tasks in Higher Education)</a></b></li>
-Funding: <a href="https://stiftung-hochschullehre.de/en/" target="_new">Stiftung Innovation in der Hochschullehre</a>.<br> 
+<i>Funding: <a href="https://stiftung-hochschullehre.de/en/" target="_new">Stiftung Innovation in der Hochschullehre</a>.<br> </i>
 Within DZdA, the AIML group leads the AI & Innovation Center and develops foundation model–based systems for automated task generation and assessment, adaptive AI tutoring, and reliable support systems for digital examinations, with a focus on robust evaluation, human-in-the-loop mechanisms, and trustworthy generative AI in large-scale educational settings.
 </li></ul>
 
