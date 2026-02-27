@@ -5,6 +5,11 @@ excerpt: "AIML Group -- Projects"
 sitemap: false
 permalink: /projects/
 ---
+### Overview
+The AIML group advances the scientific foundations of robust and responsible AI through fundamental and application-oriented research. Our work is implemented and validated through nationally and internationally funded projects in collaboration with academic, governmental, and industrial partners. It is supported by European and national funding agencies, including the European Union, the DFG, the BMBF, and the Volkswagen Foundation.
+
+Our methods are applied across domains such as education, social networks, banking, agriculture, manufacturing, and engineering.
+
 
 ### Research overview
 Our group conducts both basic and application-oriented research across the broad field of AI and machine learning. We focus on:
@@ -14,7 +19,6 @@ Our group conducts both basic and application-oriented research across the broad
   <li><b>Generative AI</b> explored through projects like <a href = "{{ site.url }}{{ site.baseurl }}/projects/stelar">STELAR</a> (FAIR and AI-ready data in the agrifood space) and <a href = "{{ site.url }}{{ site.baseurl }}/projects/offshore">SFB1463</a> (innovative designs for offshore megastructures).</li>
 </ul> 
 
-Our methods are applied in domains such as education, social networks, banking, agriculture, manufacturing, and engineering. Our research is supported by EU and national funding agencies, including the DFG, BMBF, and the Volkswagen Foundation.
 
 ### Ongoing research projects
 
