@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-### Publications
+## Publications
 
 (See also [Google Scholar](https://scholar.google.com/citations?user=RdA9uxYAAAAJ))
 
