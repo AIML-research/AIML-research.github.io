@@ -9,9 +9,9 @@ permalink: /
 The Artificial Intelligence and Machine Learning (AIML) group, led by [Prof. Dr. Eirini Ntoutsi](https://aiml-research.github.io/Eirini/), develops robust and responsible AI systems for real-world challenges.
 
 Our research focuses on:
-- **Robust AI**: addressing reliability under biases, distribution shifts, adversarial manipulation, and other real-world challenges.
-- **Responsible AI**: including fairness-aware learning and explainable AI (XAI), considering lifecycle-wide evaluation and objectives beyond pure task performance.
-- **Generative AI**: improving data quality, addressing data scarcity, and developing robust and trustworthy generative systems.
+- **Robust AI:** addressing reliability under bias, distribution shifts, adversarial manipulation, and other real-world challenges.
+- **Responsible AI:** including fairness-aware learning and explainable AI (XAI), considering lifecycle-wide evaluation and objectives beyond pure task performance.
+- **Generative AI:** improving data quality, addressing data scarcity, and developing robust and trustworthy generative systems.
 
 We apply our methods across domains such as education, social networks, banking, agriculture, manufacturing, and engineering.
 
