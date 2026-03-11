@@ -277,6 +277,7 @@ The AIML group brings together researchers working on robust, responsible, and g
 
 
 ### Alumni
+- <b>Dr. Swati Swati</b>, Postdoc, 2023 - 2025, Project: <a href ="https://aiml-research.github.io/projects/mammoth/">MAMMOTH</a>.
 - <b>Alaa Elobaid</b>, External PhD Student (CERTH, Greece),  Project: <a href ="https://aiml-research.github.io/projects/nobias/">NoBias</a>.
 - <b>Dr. Vivek Kumar Singh</b>, Postdoc, 2023 - 2025, Project: <a href ="https://aiml-research.github.io/projects/stelar/">STELAR</a>.
 - <b>Dr. Tai Le Quy</b>, PhD Student, 2016 - 2023, PhD thesis: <a href ="https://www.repo.uni-hannover.de/handle/123456789/15956">"Fairness-aware machine learning in educational data mining".</a>. Last seen: Postdoctoral Researcher, Universität Koblenz.
