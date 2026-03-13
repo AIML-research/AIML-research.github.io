@@ -7,8 +7,7 @@ permalink: /team/
 ---
 
 ## Team
-The AIML group brings together researchers working on robust, responsible, and generative AI across theory, methodology, and real-world applications.
-
+The AIML group brings together researchers working on the theory, methods, and applications of AI, with a focus on adaptive, robust, and responsible systems for real-world impact.
 ### Head of AIML Group
 
 {% assign number_printed = 0 %}
