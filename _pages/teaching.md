@@ -20,6 +20,7 @@ permalink: /teaching/
 
 <b> Autumn trimester (HT)</b>
 - Lecture: Responsible Artificial Intelligence
+- Lecture: Tabular Foundation Models
 - Seminar: Selected topics on Responsible Artificial Intelligence
 
 #### At the <a href ="https://www.fu-berlin.de/"> <b>Freie Universität Berlin (FUB)</b> </a>, Germany
