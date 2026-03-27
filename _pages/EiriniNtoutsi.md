@@ -8,7 +8,7 @@ permalink: /Eirini/
 
 ### Prof. Dr. Eirini Ntoutsi
 
-<table style="border-collapse: collapse; width: 90%;" border="0">
+<table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
 <tr>
 <td style="width: 70%; text-align: justify;">
