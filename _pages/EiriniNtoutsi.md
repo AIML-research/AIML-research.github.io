@@ -8,7 +8,7 @@ permalink: /Eirini/
 
 ### Prof. Dr. Eirini Ntoutsi
 
-<table style="border-collapse: collapse; width: 90%;" border="1">
+<table style="border-collapse: collapse; width: 90%;" border="0">
 <tbody>
 <tr>
 <td style="width: 70%; text-align: justify;">
@@ -40,12 +40,15 @@ Prior to joining LUH, I was a post-doctoral researcher at Ludwig-Maximilians-Uni
 </tbody>
 </table>
 
-#### Research Interests
+#### Research
+My work lies at the intersection of Artificial Intelligence, data-centric AI, and responsible AI, with a focus on building systems that operate reliably under real-world constraints.
+
+Reseach areas:
 <ul>
-  <li>Robust AI (Distribution shifts, Imbalances, Biases, Adversarial robustness, ...)</li>
-  <li>Responsible AI (Fairness, Explainability, Security of AI, ...)</li>
-  <li>Adaptive AI (Data streams, online learning, ...)</li>
-  <li>Generative AI</li>
+  <li>Robust and Reliable AI (Distribution shifts, Data imbalances, Biases, Adversarial robustness, ...)</li>
+  <li>Responsible AI (Fairness, Explainability, Security of AI, Accountability...)</li>
+  <li>Adaptive AI (Data streams, Online learning, ...)</li>
+  <li>Generative \& Data-centric AI (Data agumentation, Synthetic data, ...)</li>
 </ul>
 
 #### Teaching
