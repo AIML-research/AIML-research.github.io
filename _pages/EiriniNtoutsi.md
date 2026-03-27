@@ -12,7 +12,7 @@ permalink: /Eirini/
 <tbody>
 <tr>
 <td style="width: 70%; text-align: justify;">
-</td>Professor of Open Source Intelligence | Adaptive, Robust, and Responsible AI Systems
+</td>Professor of Open Source Intelligence | Adaptive, Robust, and Responsible AI Systems<br>
 University of the Bundeswehr Munich (UniBwM) · Research Institute CODE 
   <td></td>
 </tr>
