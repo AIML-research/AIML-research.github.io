@@ -10,16 +10,16 @@ permalink: /teaching/
 
 #### At the <a href ="https://www.unibw.de/home"> <b>Bundeswehr University Munich (UniBw-M)</b> </a>, Germany
 <b> Winter trimester (WT)</b>
-- Lecture: Artificial Intelligence
+- Lecture: Artificial Intelligence <a href="https://ilias.unibw.de/ilias.php?baseClass=ilrepositorygui&cmd=infoScreen&ref_id=743505">WT26 (Ilias)</a>
 - Seminar: Selected topics on AI/ML
-- Lab: Python Programming for AI
+- Lab: Python Programming for AI <a href="https://ilias.unibw.de/ilias.php?baseClass=ilrepositorygui&cmd=infoScreen&ref_id=743543">WT26 (Ilias)</a>
 
 <b> Spring trimester (FT)</b>
-- Lecture: Machine Learning
+- Lecture: Machine Learning <a href="https://ilias.unibw.de/ilias.php?baseClass=ilrepositorygui&cmd=infoScreen&ref_id=772289">FT26 (Ilias)</a>
 - Lab: Machine Learning
 
 <b> Autumn trimester (HT)</b>
-- Lecture: Responsible Artificial Intelligence
+- Lecture: Responsible Artificial Intelligence <a href="https://ilias.unibw.de/ilias.php?baseClass=ilrepositorygui&cmd=infoScreen&ref_id=718387">HT25 (Ilias)</a>
 - Lecture: Tabular Foundation Models
 - Seminar: Selected topics on Responsible Artificial Intelligence
 
