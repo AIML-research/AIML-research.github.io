@@ -79,6 +79,7 @@ Reseach areas:
   <li>Member, IEEE</li>  
   <li>Member, AAAI</li>
   <li>Member, ELLIS Society</li>
+  <li>Member, Gesellschaft für Informatik (GI)</li>
 </ul>
 
 #### Contact
