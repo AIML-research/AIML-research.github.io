@@ -16,6 +16,11 @@ permalink: /Eirini/
 University of the Bundeswehr Munich (UniBwM) · Research Institute CODE 
   <td></td>
 </tr>
+</tbody>
+</table>
+
+<table style="border-collapse: collapse; width: 90%;" border="1">
+<tbody>
   <tr>
 <td style="width: 70%; text-align: justify;">
 <p>I am a <em>Full Professor for Open Source Intelligence</em> at the Faculty of Computer Science, University of the Bundeswehr Munich (<a href="https://www.unibw.de/" target="_new">UniBwM</a>) and the Research Institute <a href="https://www.unibw.de/code" target="_new">CODE</a>. Previously, I was a <em>Full Professor of Artificial Intelligence</em> at the Department of Mathematics and Computer Science, Free University of Berlin (<a href="https://www.fu-berlin.de/" target="_new">FUB</a>) and an <em>Associate Professor of Intelligent Systems</em> at the Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (<a href="https://www.uni-hannover.de/en/" target="_new">LUH</a>), and I remain a member of the <a href="https://www.l3s.de/" target="_new">L3S</a> Research Center today. 
