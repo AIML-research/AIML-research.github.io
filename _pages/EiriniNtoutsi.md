@@ -46,7 +46,7 @@ My work lies at the intersection of Artificial Intelligence, data-centric AI, an
 Reseach areas:
 <ul>
   <li>Robust and Reliable AI (Distribution shifts, Data imbalances, Biases, Adversarial robustness, ...)</li>
-  <li>Responsible AI (Fairness, Explainability, Security of AI, Accountability...)</li>
+  <li>Responsible AI (Fairness, Explainability, Security of AI, Accountability, ...)</li>
   <li>Adaptive AI (Data streams, Online learning, ...)</li>
   <li>Generative \& Data-centric AI (Data agumentation, Synthetic data, ...)</li>
 </ul>
@@ -56,7 +56,7 @@ Reseach areas:
   
 <strong><em>"Ideal teachers are those who use themselves as bridges over which they invite their students to cross, then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." </em></strong></p>
 
-#### Talks & Events 2025
+#### Recent Talks & Events
 <ul>
   <li>31/10-01/11/2025, Kick-off project meeting of the Deutsches Zentrum für digitale Aufgaben in der Hochschullehre (DZdA), in Amberg, Germany.</li>
   <li>27-29/10/2025, <a href="https://www.informatics-europe.org/ecss/home.html">European Informatics Leaders Summit 2025</a> in Rennes, France. Representing <a href="https://ft-informatik.de/">FTI</a> Germany.</li>
