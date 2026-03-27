@@ -68,11 +68,15 @@ Reseach areas:
   <li>28/04/2025, <a href="https://brainforum.github.io/">Brussels Responsible AI Network (BRAIN) Forum </a> (Brussels, Belgium): Talk on Tackling Multi-dimensional Discrimination in AI 
     <a href="https://www.youtube.com/watch?v=G8j7cjt3AhM&ab_channel=BrusselsInstituteforAdvancedStudies%28BrIAS%29">Video</a></li>
   <li>14/02/2025, Munich Security Conference 2025: Panel at the side Event “Automating Human Security - Rethinking the Role of AI in Conflict for the Protection of Civilians”, organized by <a href="https://www.ieai.sot.tum.de/">Institute for Ethics in Artificial Intelligence - TUM</a> at the American Haus in Munich. See <a href="https://www.linkedin.com/pulse/panel-automating-human-security-rethinking-role-ai-conflict-ntoutsi-bdbwf/?trackingId=kQN3icbTHl703VGEGOkd7A%3D%3D">short summary</a>.</li>
-
-
-
 </ul>
 
+#### Professional Affiliations
+<ul>
+  <li>Member, ACM</li>
+  <li>Member, IEEE</li>  
+  <li>Member, AAAI</li>
+  <li>Member, ELLIS Society</li>
+</ul>
 
 #### Contact
 eirini.ntoutsi@unibw.de
