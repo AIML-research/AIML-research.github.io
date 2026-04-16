@@ -34,7 +34,7 @@ permalink: /projects/lernmint/
 #### 3. Project overview
 The LernMINT sub-project focuses on fairness and bias in learning analytics systems, particularly in STEM education. As educational data-driven systems increasingly support decision-making, they also risk introducing or amplifying biases that can negatively affect learners.
 
-This project investigates:
+Specifically, the project investigates:
 - how biases emerge in educational data and machine learning models
 - how these biases impact different groups of learners
 - how fairness-aware methods can be developed and applied in practice
