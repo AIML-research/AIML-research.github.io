@@ -41,12 +41,10 @@ Specifically, the project investigates:
 
 #### 4. Key contributions and results
 The project has delivered several important contributions:
-- Fairness-aware clustering methods for grouping students under fairness constraints
-- Evaluation frameworks for assessing bias in student performance prediction
+- Development of fairness-aware clustering methods for grouping students under fairness constraints
+- Design of evaluation frameworks for assessing bias in student performance prediction
 - Comprehensive surveys on datasets and methods for fairness-aware learning
-- Applications in STEM education, demonstrating how bias can affect learning analytics systems
-- Foundations for explainable and actionable fairness methods in educational contexts
-
+- Applications in STEM education, demonstrating how bias affects learning analytics systems
 
 #### 5. Publications
 - Le Quy, T., Friege, G., & Ntoutsi, E. (2023). <a href ="https://doi.org/10.1007/978-3-031-33374-3_40">Multi-fair Capacitated Students-Topics Grouping Problem</a>. In Advances in Knowledge Discovery and Data Mining: 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD 2023, Proceedings, Part I (pp. 507-519). Cham: Springer Nature Switzerland.
@@ -65,4 +63,4 @@ The project has delivered several important contributions:
 </div>
 
 #### 7. Further information
-For more details, please visit the <a href ="https://lernmint.org/">LernMINT website</a></i></b>
+For more details, please visit the <a href ="https://lernmint.org/">LernMINT website</a>.
