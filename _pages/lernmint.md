@@ -18,7 +18,7 @@ permalink: /projects/lernmint/
 </table>
 
 
-#### 1. Project details
+#### Project details
 - <b>Project full name: </b> LernMINT-Datengestützter Unterricht in MINT-Fächern.
 - <b> Sub-project:</b> Dealing with bias and discrimination in learning analytics models
 - <b>Project acronym: </b> LernMINT 
@@ -27,11 +27,11 @@ permalink: /projects/lernmint/
 - <b>Homepage: </b> <a href="https://lernmint.org/">LernMINT </a>
 
 
-#### 2. Team
+#### Team
 - Prof. Dr. Eirini Ntoutsi
 - MSc. Tai Le Quy
 
-#### 3. Project overview
+#### Project overview
 The LernMINT sub-project focuses on fairness and bias in learning analytics systems, particularly in STEM education. As educational data-driven systems increasingly support decision-making, they also risk introducing or amplifying biases that can negatively affect learners.
 
 Specifically, the project investigates:
@@ -39,14 +39,14 @@ Specifically, the project investigates:
 - how these biases impact different groups of learners
 - how fairness-aware methods can be developed and applied in practice
 
-#### 4. Key contributions and results
+#### Key contributions and results
 The project has delivered several important contributions:
 - Development of fairness-aware clustering methods for grouping students under fairness constraints
 - Design of evaluation frameworks for assessing bias in student performance prediction
 - Comprehensive surveys on datasets and methods for fairness-aware learning
 - Applications in STEM education, demonstrating how bias affects learning analytics systems
 
-#### 5. Publications
+#### Publications
 - Le Quy, T., Friege, G., & Ntoutsi, E. (2023). <a href ="https://doi.org/10.1007/978-3-031-33374-3_40">Multi-fair Capacitated Students-Topics Grouping Problem</a>. In Advances in Knowledge Discovery and Data Mining: 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD 2023, Proceedings, Part I (pp. 507-519). Cham: Springer Nature Switzerland.
 - Le Quy, T., Friege, G., & Ntoutsi, E. (2023). <a href = "https://doi.org/10.1007/978-981-99-0026-8_2"> A review of clustering models in educational data science towards fairness-aware learning </a>. Educational Data Science: Essentials, Approaches, and Tendencies – Proactive Education based on Empirical Big Data Evidence. Springer. 
 - Le Quy, T., Nguyen, T. H., Friege, G., & Ntoutsi, E. (2023). <a href ="https://doi.org/10.1007/978-3-031-23618-1_8">Evaluation of group fairness measures in student performance prediction problems </a>. In Proceedings of The 7th Workshop on Data Science for Social Good, held in conjunction with ECML PKDD 2022.
@@ -63,5 +63,5 @@ The project has delivered several important contributions:
 </figure>
 </div>
 -->
-#### 7. Further information
+#### Further information
 For more details, please visit the <a href ="https://lernmint.org/">LernMINT website</a>.
