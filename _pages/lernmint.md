@@ -54,6 +54,7 @@ The project has delivered several important contributions:
 - Le Quy, T., Roy, A., Friege, G., & Ntoutsi, E. (2021). <a href ="https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_184.pdf">Fair-capacitated clustering. </a> In Proceedings of The 14th International Conference on Educational Data Mining (EDM21) (pp. 407-414).
 - Le Quy, T., & Ntoutsi, E. (2021). <a href ="https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_270.pdf">Towards fair, explainable and actionable clustering for learning analytics </a>. In Proceedings of The 14th International Conference on Educational Data Mining (EDM21) (pp.847-851).
 
+<!--
 #### 6. Events
 - LernMINT retreats 1 (8th February 2022)
 <div>
@@ -61,6 +62,6 @@ The project has delivered several important contributions:
   <img src="{{ site.url }}{{ site.baseurl }}/images/events/lernmint-retreat1.jpg" style="width: 500px">  
 </figure>
 </div>
-
+-->
 #### 7. Further information
 For more details, please visit the <a href ="https://lernmint.org/">LernMINT website</a>.
