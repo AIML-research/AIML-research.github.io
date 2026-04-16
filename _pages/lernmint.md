@@ -6,8 +6,8 @@ sitemap: false
 permalink: /projects/lernmint/
 ---
 
-### LernMINT: Dealing with bias and discrimination in learning analytics models
-
+# Project: LernMINT (Data-Driven Learning in STEM Education)
+## Sub-project: Fair Learning Analytics: Addressing Bias and Discrimination
 <table style="border-collapse: collapse; width: 90%;" border="0">
 <tbody>
 <tr>
@@ -19,7 +19,8 @@ permalink: /projects/lernmint/
 
 
 #### 1. Project details
-- <b>Project full name: </b> LernMINT-Datengestützter Unterricht in MINT-Fächern. Sub-project: Dealing with bias and discrimination in learning analytics models
+- <b>Project full name: </b> LernMINT-Datengestützter Unterricht in MINT-Fächern.
+- <b> Sub-project:</b> Dealing with bias and discrimination in learning analytics models
 - <b>Project acronym: </b> LernMINT 
 - <b>Funding period: </b> 01.08.2020 — 31.07.2023
 - <b>Funding body: </b> <a href="https://www.mwk.niedersachsen.de/startseite/forschung/forschungsforderung/ausschreibungen_programme_forderungen/niedersaechsisches-promotionsprogramm-118874.html" target="_new">LernMINT is funded by the Ministry of Science and Culture, Lower Saxony, within the funding line of the Lower Saxony PhD Program (“Nds. Promotionsprogramm, funding phase 2019-2024)</a>
