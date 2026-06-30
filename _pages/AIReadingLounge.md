@@ -7,6 +7,11 @@ permalink: /teaching/
 ---
 
 ## What is AI: Resources 
+#### Resources from the AI in ActionFerienworkshops an der UniBw M: Starke Mädchen machen MI(N)T! Summer 2025
+- <a href ="https://www.spotdeepfakes.org/en-US"> Intro to AI </a>. Slides by Eirini Ntoutsi
+- <a href ="https://teachablemachine.withgoogle.com/"> Build your own model to e.g., recognize cats and dogs</a>. Teachable Machines by Google.
+- <a href ="https://quickdraw.withgoogle.com/"> Solving problems collectively - Recognizing Drawings</a>. Quick, Draw by Google.
+
 
 ## Real or AI?
 #### Resources on deepfakes, how to recognize them etc
