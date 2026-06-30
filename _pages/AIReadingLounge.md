@@ -3,7 +3,7 @@ title: "AI reading lounge - An AI learning hub for secondary school students"
 layout: textlay
 excerpt: "An AI learning hub for secondary school students."
 sitemap: false
-permalink: /teaching/
+permalink: /AIReadingLounge/
 ---
 
 ## What is AI: Resources 
