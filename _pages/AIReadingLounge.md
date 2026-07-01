@@ -6,6 +6,7 @@ sitemap: false
 permalink: /AIReadingLounge/
 ---
 
+
 ## What is AI: Resources 
 #### Resources from the AI in Action Ferienworkshops an der UniBw M: Starke Mädchen machen MI(N)T! Summer 2025
 - <a href ="files/Part 1.KI in Aktion.HowDoYouRecognizeACat (final).pdf"> AI in Action: How do you recognize a cat? </a>. Slides by AIML (Eirini Ntoutsi)
@@ -18,3 +19,7 @@ permalink: /AIReadingLounge/
 #### Resources on deepfakes, how to recognize them etc
 - <a href ="https://www.spotdeepfakes.org/en-US"> Spot the Deepfake</a>, educational quiz about deepfakes and manipulated media. Center for an Informed Public, University of Washington.
 
+
+
+## Disclaimer
+This are curated resources on AI for school kids. Work in progress...
