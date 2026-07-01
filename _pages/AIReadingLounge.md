@@ -7,8 +7,8 @@ permalink: /AIReadingLounge/
 ---
 
 ## What is AI: Resources 
-#### Resources from the AI in ActionFerienworkshops an der UniBw M: Starke Mädchen machen MI(N)T! Summer 2025
-- <a href ="https://www.spotdeepfakes.org/en-US"> Intro to AI </a>. Slides by Eirini Ntoutsi
+#### Resources from the AI in Action Ferienworkshops an der UniBw M: Starke Mädchen machen MI(N)T! Summer 2025
+- <a href ="files/Part 1.KI in Aktion.HowDoYouRecognizeACat (final).pdf"> AI in Action: How do you recognize a cat? </a>. Slides by AIML (Eirini Ntoutsi)
 - <a href ="https://teachablemachine.withgoogle.com/"> Build your own model to e.g., recognize cats and dogs</a>. Teachable Machines by Google.
 - <a href ="https://quickdraw.withgoogle.com/"> Solving problems collectively - Recognizing Drawings</a>. Quick, Draw by Google.
 
