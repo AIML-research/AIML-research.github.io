@@ -1,4 +1,25 @@
-- title: "Not a Statistical Accident: Framing Bias as a Semiotic Property of Image Datasets (accepted)"
+- title: "Revealing Hidden Vulnerabilities in Autoencoders through Gradient Signal Restoration (accepted)"
+  image: 
+  description: 
+  authors: Chethan Krishnamurthy Ramanaik, Tobias Callies, Arjun Roy, Eirini Ntoutsi
+  link:
+    url: https://arxiv.org/abs/2505.03646
+    display: 35th ACM International Conference on Information and Knowledge Management (CIKM)
+  highlight: 0
+  news2:  
+  year: 2026
+  haslocal: 1
+  local: 2026.GRILL_CIKM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+  
+  - title: "Not a Statistical Accident: Framing Bias as a Semiotic Property of Image Datasets (accepted)"
   image: 
   description: 
   authors: Simone Fabbrizzi, Symeon Papadopoulos, Eirini Ntoutsi, Ioannis Kompatsiaris
