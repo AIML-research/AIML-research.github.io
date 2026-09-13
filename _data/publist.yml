@@ -18,7 +18,28 @@
   ppt: 
   hasvideo: 0
   video: 
-  
+
+- title: "Inference-Time Prior Adaptation for Imbalanced Data Streams under Concept Drift (accepted)"
+  image: 
+  description: 
+  authors: Tobias Callies, Eirini Ntoutsi, Arthur Zimek
+  link:
+    url: https://www.ecmlpkdd26.scl-ai.org/program
+    display: Streaming Continual Learning Workshop, co-located with ECML PKDD 2026
+  highlight: 0
+  news2:  
+  year: 2026
+  haslocal: 1
+  local: 2026.SCS@ECMLPKDD.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "Not a Statistical Accident: Framing Bias as a Semiotic Property of Image Datasets (accepted)"
   image: 
   description: 
