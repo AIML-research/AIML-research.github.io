@@ -37,7 +37,7 @@ Prior to joining LUH, I was a post-doctoral researcher at Ludwig-Maximilians-Uni
 <a href="https://scholar.google.com/citations?user=RdA9uxYAAAAJ&hl=en" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width:30px; height:30px; vertical-align:middle;">
 </a>
-<a href="https://www.linkedin.com/in/eirinintoutsi/"><img src="images/logopic/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:30px; height:30px; vertical-align:middle;"/></a>
+<a href="https://www.linkedin.com/in/eirinintoutsi/"><img src="{{ site.baseurl }}/images/logopic/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:30px; height:30px; vertical-align:middle;"/></a>
 </td>
 </tr>
 </tbody>
