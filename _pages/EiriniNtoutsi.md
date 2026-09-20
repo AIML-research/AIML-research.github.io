@@ -61,7 +61,7 @@ Reseach areas:
 
 #### Recent Talks & Events
 <ul>
-  <li> Keynote at <a href="https://2026.ecafconference.org/"> </a>ECAF (European Conference on Algorithmic Fairness) </a>in Ghent, Belgium on The Tensions and Trade-Offs of Algorithmic Fairness - From Metric Incompatibility to Cross-Pillar Trade-Offs (<a href="/files/26.ECAF.Keynote(final).pdf">slides</a>).
+  <li> Keynote at <a href="https://2026.ecafconference.org/">ECAF (European Conference on Algorithmic Fairness) </a>in Ghent, Belgium on The Tensions and Trade-Offs of Algorithmic Fairness - From Metric Incompatibility to Cross-Pillar Trade-Offs (<a href="/files/26.ECAF.Keynote(final).pdf">slides</a>).
   <li>31/10-01/11/2025, Kick-off project meeting of the Deutsches Zentrum für digitale Aufgaben in der Hochschullehre (DZdA), in Amberg, Germany.</li>
   <li>27-29/10/2025, <a href="https://www.informatics-europe.org/ecss/home.html">European Informatics Leaders Summit 2025</a> in Rennes, France. Representing <a href="https://ft-informatik.de/">FTI</a> Germany.</li>
   <li>01/10/2025, <a href="https://www.cisuc.uc.pt/en">CISUC Day</a> (Convento São Francisco, Coimbra, Portugal): Invited talk on "Bias and Fairness in AI - Current and Future Trends". <a href="{{ site.baseurl }}/files/25.Coimbra(Keynote@CISUC).pdf">Slides</a></li>
