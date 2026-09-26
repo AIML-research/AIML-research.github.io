@@ -1,3 +1,24 @@
+- title: "On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces (accepted)"
+  image: 
+  description: 
+  authors: Chethan Krishnamurthy Ramanaik, Tobias Callies, Michael Hecht, Eirini Ntoutsi
+  link:
+    url: https://arxiv.org/pdf/2607.07375
+    display: 18th Asian Conference on Computer Vision (ACCV)
+  highlight: 0
+  news2:  
+  year: 2026
+  haslocal: 1
+  local: 2026.GRILL_CIKM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "Revealing Hidden Vulnerabilities in Autoencoders through Gradient Signal Restoration (accepted)"
   image: 
   description: 
