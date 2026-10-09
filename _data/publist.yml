@@ -1,3 +1,24 @@
+- title: "Explaining Changes in Evolving Systems (accepted)"
+  image: 
+  description: 
+  authors: Eirini Ntoutsi, Mykola Pechenizkiy, Jerzy Stefanowsk
+  link:
+    url: https://arxiv.org/pdf/2607.07375
+    display: IEEE International Conference on Data Mining (ICDM) - Blue Sky Ideas Track
+  highlight: 0
+  news2:  
+  year: 2026
+  haslocal: 1
+  local: 2026.XAIVision.ICDM.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces (accepted)"
   image: 
   description: 
