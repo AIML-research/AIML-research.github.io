@@ -1,3 +1,24 @@
+- title: "FlowCF - Sparse Counterfactual Explanations for Mixed-Type Tabular Data using Flow Matching (accepted)"
+  image: 
+  description: 
+  authors: Emmanouil Panagiotou, Eirini Ntoutsi
+  link:
+    url: https://arxiv.org/pdf/2607.07375
+    display:  Geometric Distributional Deep Learning (GDDL) workshop, NeurIPS.
+  highlight: 0
+  news2:  
+  year: 2026
+  haslocal: 1
+  local: 26.FlowCF.GDDL-NeurIPS.pdf
+  hascode: 0
+  code: 
+  hasposter: 0
+  poster:
+  hasppt: 0
+  ppt: 
+  hasvideo: 0
+  video: 
+
 - title: "Explaining Changes in Evolving Systems (accepted)"
   image: 
   description: 
