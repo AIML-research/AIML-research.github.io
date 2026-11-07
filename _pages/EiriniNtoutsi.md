@@ -63,7 +63,7 @@ Research areas:-->
 My approach to teaching and supervision is inspired by Nikos Kazantzakis, who beautifully describes the role of a mentor and educator:</p>  
 <em>"Ideal teachers are those who use themselves as bridges over which they invite their students to cross, then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." </em>
 
-#### Recent Talks & Events
+#### Selected Recent Talks & Events
 <ul>
   <li>IEEE ICDM 2026, Blue Sky Forum, Shenyang, China, "Explaining Changes in Evolving Systems"</li>
   <li>IEEE ICDM 2026, Incremental Learning Workshop, Invited talk: "Responsible AI under Change"</li>
