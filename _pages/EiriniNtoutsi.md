@@ -84,15 +84,7 @@ Research areas:
 
 #### Professional Activities & Affiliations
 <p>My academic activities include research leadership, community service, conference and workshop organization, reviewing and editorial activities, and participation in national and international AI initiatives.</p>
-<ul>
-  <li>Member, ACM</li>
-  <li>Member, IEEE</li>  
-  <li>Member, AAAI</li>
-  <li>Member, IASEAI</li>
-  <li>Member, ELLIS Society</li>
-  <li>Member, Gesellschaft für Informatik (GI)</li>
-  <li>Member, Hellenic Artificial Intelligence Society (EETN) </li>
-</ul>
+<p>Member of ACM · IEEE · AAAI · IASEAI · ELLIS Society · Gesellschaft für Informatik (GI) · Hellenic Artificial Intelligence Society (EETN)</p>
 
 #### Contact
 eirini.ntoutsi@unibw.de
