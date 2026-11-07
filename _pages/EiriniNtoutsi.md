@@ -25,6 +25,8 @@ permalink: /Eirini/
 
 <p>My research focuses on developing <b>AI systems that remain robust, responsible, and adaptive under real-world conditions</b>. I study how learning systems are affected by distribution shifts, data imbalance, bias, adversarial manipulation, and evolving environments, and develop methods for fairness, robustness, explainability, and reliable adaptation.</p>
 
+<p>A central theme of my work is <b>understanding the capabilities, limitations, and societal implications of AI systems</b>, including modern foundation and generative models. My broader goal is to develop AI systems that remain reliable and responsible throughout their lifecycle and ultimately augment human capabilities and benefit society.</p>
+
   <p>My ultimate goal? <strong><em>Creating intelligent systems that augment human intelligence and benefit society</em></strong>.</p>
 
 
