@@ -48,12 +48,12 @@ permalink: /Eirini/
 
 #### Research
 My research lies at the intersection of robust AI, responsible AI, adaptive machine learning, and data-centric AI. A unifying question across my work is:<br>
- <strong><em>How can we build AI systems that remain reliable and responsible as their data, environments, users, and societal contexts change??</strong></em>
+ <strong><em>How can we build AI systems that remain reliable and responsible as their data, environments, users, and societal contexts change?</strong></em>
 
 Research areas:
 <ul>
   <li>Robust & Reliable AI (Distribution shifts, Data imbalance, Adversarial robustness, Reliability and evaluation, ...)</li>
-  <li>Responsible AI (Bias and Fairness, Explainability, Accountability, AI safety and security,...)</li>
+  <li>Responsible AI (Bias and Fairness, Explainability, Accountability, AI safety and security, ...)</li>
   <li>Adaptive AI (Data streams, Online learning, ...)</li>
   <li>Generative & Data-centric AI (Foundation models, Data augmentation, Synthetic data, Data quality and bias transfer, ...)</li>
 </ul>
@@ -86,7 +86,7 @@ Research areas:
 <p>My academic activities include research leadership, community service, conference and workshop organization, reviewing and editorial activities, and participation in national and international AI initiatives.</p>
 <p>Member of <b>ACM · IEEE · AAAI · IASEAI · ELLIS Society · Gesellschaft für Informatik (GI) · Hellenic Artificial Intelligence Society (EETN)</b></p>
 
-#### Contact
+<!--#### Contact
 Prof. Dr. Eirini Ntoutsi<br>
 Professor of Robust and Responsible Artificial Intelligence<br>
 Faculty of Computer Science<br>
@@ -94,7 +94,7 @@ University of the Bundeswehr Munich<br>
 
 Research Institute CODE<br>
 Carl-Wery-Str. 18–22<br>
-81739 Munich, Germany<br>
+81739 Munich, Germany<br>-->
 
-eirini.ntoutsi@unibw.de<br>
+eirini.ntoutsi@unibw.de--><br>
 
