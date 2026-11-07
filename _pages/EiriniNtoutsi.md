@@ -58,9 +58,8 @@ Research areas:-->
 
 
 #### Teaching
-<p>I teach and supervise students in Artificial Intelligence, Machine Learning, Data Mining, Adaptive AI, and Responsible AI.</p>
-<p>My approach to teaching and supervision is inspired by Nikos Kazantzakis, who beautifully describes the role of a mentor and educator:</p>
-  
+<p>I teach and supervise students in Artificial Intelligence, Machine Learning, Data Mining, Adaptive AI, and Responsible AI.
+My approach to teaching and supervision is inspired by Nikos Kazantzakis, who beautifully describes the role of a mentor and educator:</p>  
 <strong><em>"Ideal teachers are those who use themselves as bridges over which they invite their students to cross, then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." </em></strong>
 
 #### Recent Talks & Events
