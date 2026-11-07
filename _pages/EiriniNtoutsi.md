@@ -79,6 +79,7 @@ Reseach areas:
   <li>Member, ACM</li>
   <li>Member, IEEE</li>  
   <li>Member, AAAI</li>
+  <li>Member, IASEAI</li>
   <li>Member, ELLIS Society</li>
   <li>Member, Gesellschaft für Informatik (GI)</li>
   <li>Member, Hellenic Artificial Intelligence Society (EETN) </li>
