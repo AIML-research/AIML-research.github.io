@@ -12,9 +12,7 @@ permalink: /Eirini/
 <tbody>
 <tr>
 <td style="width: 70%; text-align: justify;">
-</td><b>Professor of Robust and Responsible Artificial Intelligence
-  University of the Bundeswehr Munich (UniBwM) · Research Institute CODE 
-  <td></td>
+</td><b>Professor of Robust and Responsible Artificial Intelligence</b><td></td>
 </tr>
 </tbody>
 </table>
