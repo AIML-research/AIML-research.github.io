@@ -63,23 +63,22 @@ Research areas:
 <p>I teach and supervise students in Artificial Intelligence, Machine Learning, Data Mining, Adaptive AI, and Responsible AI.</p>
 <p>My approach to teaching and supervision is inspired by Nikos Kazantzakis, who beautifully describes the role of a mentor and educator:</p>
   
-<strong><em>"Ideal teachers are those who use themselves as bridges over which they invite their students to cross, then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." </em></strong></p>
+<strong><em>"Ideal teachers are those who use themselves as bridges over which they invite their students to cross, then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." </em></strong>
 
 #### Recent Talks & Events
 <ul>
   <li>IEEE ICDM 2026, Blue Sky Forum, Shenyang, China, "Explaining Changes in Evolving Systems"</li>
   <li>IEEE ICDM 2026, Incremental Learning Workshop, Invited talk: "Responsible AI under Change"</li>
   <li> European Conference on Algorithmic Fairness <a href="https://2026.ecafconference.org/">(ECAF) </a>in Ghent, Belgium - Keynote: Tensions and Trade-Offs of Algorithmic Fairness - From Metric Incompatibility to Cross-Pillar Trade-Offs (<a href="/files/26.ECAF.Keynote(final).pdf">slides</a>).</li>
-  <li>31/10-01/11/2025, Kick-off project meeting of the Deutsches Zentrum für digitale Aufgaben in der Hochschullehre (DZdA), in Amberg, Germany.</li>
-  <li>27-29/10/2025, <a href="https://www.informatics-europe.org/ecss/home.html">European Informatics Leaders Summit 2025</a> in Rennes, France. Representing <a href="https://ft-informatik.de/">FTI</a> Germany.</li>
+  <!-- <li>31/10-01/11/2025, Kick-off project meeting of the Deutsches Zentrum für digitale Aufgaben in der Hochschullehre (DZdA), in Amberg, Germany.</li>-->
+  <!--<li>27-29/10/2025, <a href="https://www.informatics-europe.org/ecss/home.html">European Informatics Leaders Summit 2025</a> in Rennes, France. Representing <a href="https://ft-informatik.de/">FTI</a> Germany.</li>-->
   <li>01/10/2025, <a href="https://www.cisuc.uc.pt/en">CISUC Day</a> (Convento São Francisco, Coimbra, Portugal): Invited talk on "Bias and Fairness in AI - Current and Future Trends". <a href="{{ site.baseurl }}/files/25.Coimbra(Keynote@CISUC).pdf">Slides</a></li>
-  <li>23/09/2025, Marondo Investor Day 2025: Resilient Capital in a fragile world, organized by <a href="https://www.marondo.com/en">Marondo</a> in Munich. See <a href="https://www.linkedin.com/posts/marondo-capital-gmbh_defence-smallcap-dualuse-activity-7377034100022456320-GJDE/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAABi3GkBE9b22I0M4GlnFKvb4YJBCf6EiPQ">short summary</a>.</li>
-
-  <li>15-19/09/2025, <a href="https://ecmlpkdd.org/2025/">ECML PKDD 2025</a> (Porto, Portugal): Co-organized the <a href="https://sites.google.com/view/bias-2025-ecmlpkdd/">Bias workshop</a> on Sept 15 and presented our nectar track paper on socioeconomic parity during the poster session on Sept 17 <a href="{{ site.baseurl }}/files/25.FAccT.poster.pdf">Poster</a></li>
+  <!--<li>23/09/2025, Marondo Investor Day 2025: Resilient Capital in a fragile world, organized by <a href="https://www.marondo.com/en">Marondo</a> in Munich. See <a href="https://www.linkedin.com/posts/marondo-capital-gmbh_defence-smallcap-dualuse-activity-7377034100022456320-GJDE/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAABi3GkBE9b22I0M4GlnFKvb4YJBCf6EiPQ">short summary</a>.</li>-->
+<!--  <li>15-19/09/2025, <a href="https://ecmlpkdd.org/2025/">ECML PKDD 2025</a> (Porto, Portugal): Co-organized the <a href="https://sites.google.com/view/bias-2025-ecmlpkdd/">Bias workshop</a> on Sept 15 and presented our nectar track paper on socioeconomic parity during the poster session on Sept 17 <a href="{{ site.baseurl }}/files/25.FAccT.poster.pdf">Poster</a></li>
   <li>17/07/2025, <a href="https://icarus.csd.auth.gr/aida-auth-ai-cutting-edge-trends-aicet2025-summer-symposium-and-school/">AIDA AICET2025 Summer School</a> (Thessaloniki, Greece): Tutorial on <a href="https://icarus.csd.auth.gr/ai-bias-overview-measurement-mitigation-and-application-to-computer-vision/">AI bias: overview, measurement, mitigation and application to computer vision</a>. <a href="{{ site.baseurl }}/files/25.AIDASummerSchool.pdf">Slides</a></li>
   <li>28/04/2025, <a href="https://brainforum.github.io/">Brussels Responsible AI Network (BRAIN) Forum </a> (Brussels, Belgium): Talk on Tackling Multi-dimensional Discrimination in AI 
     <a href="https://www.youtube.com/watch?v=G8j7cjt3AhM&ab_channel=BrusselsInstituteforAdvancedStudies%28BrIAS%29">Video</a></li>
-  <li>14/02/2025, Munich Security Conference 2025: Panel at the side Event “Automating Human Security - Rethinking the Role of AI in Conflict for the Protection of Civilians”, organized by <a href="https://www.ieai.sot.tum.de/">Institute for Ethics in Artificial Intelligence - TUM</a> at the American Haus in Munich. See <a href="https://www.linkedin.com/pulse/panel-automating-human-security-rethinking-role-ai-conflict-ntoutsi-bdbwf/?trackingId=kQN3icbTHl703VGEGOkd7A%3D%3D">short summary</a>.</li>
+  <li>14/02/2025, Munich Security Conference 2025: Panel at the side Event “Automating Human Security - Rethinking the Role of AI in Conflict for the Protection of Civilians”, organized by <a href="https://www.ieai.sot.tum.de/">Institute for Ethics in Artificial Intelligence - TUM</a> at the American Haus in Munich. See <a href="https://www.linkedin.com/pulse/panel-automating-human-security-rethinking-role-ai-conflict-ntoutsi-bdbwf/?trackingId=kQN3icbTHl703VGEGOkd7A%3D%3D">short summary</a>.</li>-->
 </ul>
 
 #### Professional Activities & Affiliations
