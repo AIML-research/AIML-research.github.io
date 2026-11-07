@@ -27,10 +27,9 @@ permalink: /Eirini/
 
 <p>A central theme of my work is <b>understanding the capabilities, limitations, and societal implications of AI systems</b>, including modern foundation and generative models. My broader goal is to develop AI systems that remain reliable and responsible throughout their lifecycle and ultimately augment human capabilities and benefit society.</p>
 
-  <p>My ultimate goal? <strong><em>Creating intelligent systems that augment human intelligence and benefit society</em></strong>.</p>
+ <!-- <p>My ultimate goal? <strong><em>Creating intelligent systems that augment human intelligence and benefit society</em></strong>.</p>-->
 
-
-Previously, I was a <em>Full Professor of Artificial Intelligence</em> at the Department of Mathematics and Computer Science, Free University of Berlin (<a href="https://www.fu-berlin.de/" target="_new">FUB</a>) and an <em>Associate Professor of Intelligent Systems</em> at the Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (<a href="https://www.uni-hannover.de/en/" target="_new">LUH</a>), and I remain a member of the <a href="https://www.l3s.de/" target="_new">L3S</a> Research Center today. 
+Previously, I was a <em>Full Professor of Artificial Intelligence</em> at the Department of Mathematics and Computer Science, Freie Universität Berlin (<a href="https://www.fu-berlin.de/" target="_new">FUB</a>) and an <em>Associate Professor of Intelligent Systems</em> at the Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (<a href="https://www.uni-hannover.de/en/" target="_new">LUH</a>). I remain a member of the <a href="https://www.l3s.de/" target="_new">L3S</a> Research Center. 
 Prior to joining LUH, I was a post-doctoral researcher at Ludwig-Maximilians-Universität München (<a href="" target="_new">LMU</a>), in the group of H.-P. Kriegel, which I joined in 2010 with an <a href="https://www.humboldt-foundation.de/en/" target="_new">Alexander von Humboldt Foundation </a>fellowship. I obtained my Ph.D. from the University of Piraeus (<a href="http://unipi.gr/" target="_new">UniPi</a>), Athens under the supervision of Y. Theodoridis and I hold an M.Sc. and a Diploma in Computer Engineering and Informatics from the University of Patras (<a href="https://www.upatras.gr/" target="_new">UPatras</a>), Greece.</p>
 </td>
 <td style="width: 30%; text-align: center;">
