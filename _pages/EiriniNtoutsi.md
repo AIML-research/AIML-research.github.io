@@ -12,7 +12,7 @@ permalink: /Eirini/
 <tbody>
 <tr>
 <td style="width: 70%; text-align: justify;">
-</td><b>Professor of Open Source Intelligence | Adaptive, Robust, and Responsible AI Systems</b><br>
+</td><b>Professor of Robust and Responsible Artificial Intelligence | Adaptive, Robust, and Responsible AI Systems</b><br>
 University of the Bundeswehr Munich (UniBwM) · Research Institute CODE 
   <td></td>
 </tr>
@@ -23,7 +23,7 @@ University of the Bundeswehr Munich (UniBwM) · Research Institute CODE
 <tbody>
   <tr>
 <td style="width: 70%; text-align: justify;">
-<p>I am a <em>Full Professor of Open Source Intelligence</em> at the Faculty of Computer Science, University of the Bundeswehr Munich (<a href="https://www.unibw.de/" target="_new">UniBwM</a>) and the Research Institute <a href="https://www.unibw.de/code" target="_new">CODE</a> for cybersecurity and smart data. My research focuses on designing <b>intelligent systems that are both technically robust and socially responsible</b>, addressing real-world challenges such as data imbalance, distribution shifts, bias, and adversarial attacks, while promoting fairness, explainability, and accountability in AI/ML Systems. I am particularly interested in understanding the capabilities and limitations of AI systems.
+<p>I am a <em>Full Professor of Robust and Responsible Artificial Intelligence</em> at the Faculty of Computer Science, University of the Bundeswehr Munich (<a href="https://www.unibw.de/" target="_new">UniBwM</a>) and the Research Institute <a href="https://www.unibw.de/code" target="_new">CODE</a> for cybersecurity and smart data. My research focuses on designing <b>intelligent systems that are both technically robust and socially responsible</b>, addressing real-world challenges such as data imbalance, distribution shifts, bias, and adversarial attacks, while promoting fairness, explainability, and accountability in AI/ML Systems. I am particularly interested in understanding the capabilities and limitations of AI systems.
 
 <p>My ultimate goal? <strong><em>Creating intelligent systems that augment human intelligence and benefit society</em></strong>.</p>
 
