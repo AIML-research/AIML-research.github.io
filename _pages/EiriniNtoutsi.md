@@ -49,12 +49,13 @@ permalink: /Eirini/
 #### Research
 My research lies at the intersection of robust AI, responsible AI, adaptive machine learning, and data-centric AI. A unifying question across my work is:<br>
  <strong><em>How can we build AI systems that remain reliable and responsible as their data, environments, users, and societal contexts change?</strong></em>
+
 Research areas:
 <ul>
-  <li>Robust and Reliable AI (Distribution shifts, Data imbalances, Biases, Adversarial robustness, ...)</li>
-  <li>Responsible AI (Fairness, Explainability, Security of AI, Accountability, ...)</li>
+  <li>Robust \& Reliable AI (Distribution shifts, Data imbalance, Adversarial robustness, Reliability and evaluation, ...)</li>
+  <li>Responsible AI (Bias and Fairness, Explainability, Accountability, AI safety and security,...)</li>
   <li>Adaptive AI (Data streams, Online learning, ...)</li>
-  <li>Generative \& Data-centric AI (Data augmentation, Synthetic data, ...)</li>
+  <li>Generative \& Data-centric AI (Foundation models, Data augmentation, Synthetic data, Data quality and bias transfer, ...)</li>
 </ul>
 
 #### Teaching
