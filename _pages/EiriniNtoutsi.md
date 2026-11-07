@@ -21,9 +21,11 @@ permalink: /Eirini/
 <tbody>
   <tr>
 <td style="width: 70%; text-align: justify;">
-<p>I am a <em>Full Professor of Robust and Responsible Artificial Intelligence</em> at the Faculty of Computer Science, University of the Bundeswehr Munich (<a href="https://www.unibw.de/" target="_new">UniBwM</a>) and the Research Institute <a href="https://www.unibw.de/code" target="_new">CODE</a> for cybersecurity and smart data. My research focuses on designing <b>intelligent systems that are both technically robust and socially responsible</b>, addressing real-world challenges such as data imbalance, distribution shifts, bias, and adversarial attacks, while promoting fairness, explainability, and accountability in AI/ML Systems. I am particularly interested in understanding the capabilities and limitations of AI systems.
+<p>I am a <em>Full Professor of Robust and Responsible Artificial Intelligence</em> at the Faculty of Computer Science, University of the Bundeswehr Munich (<a href="https://www.unibw.de/" target="_new">UniBwM</a>), and a member of the Research Institute <a href="https://www.unibw.de/code" target="_new">CODE</a> for cyber defence and smart data.</p> 
 
-<p>My ultimate goal? <strong><em>Creating intelligent systems that augment human intelligence and benefit society</em></strong>.</p>
+<p>My research focuses on developing <b>AI systems that remain robust, responsible, and adaptive under real-world conditions. I study how learning systems are affected by distribution shifts, data imbalance, bias, adversarial manipulation, and evolving environments, and develop methods for fairness, robustness, explainability, and reliable adaptation.</p>
+
+  <p>My ultimate goal? <strong><em>Creating intelligent systems that augment human intelligence and benefit society</em></strong>.</p>
 
 
 Previously, I was a <em>Full Professor of Artificial Intelligence</em> at the Department of Mathematics and Computer Science, Free University of Berlin (<a href="https://www.fu-berlin.de/" target="_new">FUB</a>) and an <em>Associate Professor of Intelligent Systems</em> at the Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (<a href="https://www.uni-hannover.de/en/" target="_new">LUH</a>), and I remain a member of the <a href="https://www.l3s.de/" target="_new">L3S</a> Research Center today. 
@@ -44,12 +46,12 @@ Prior to joining LUH, I was a post-doctoral researcher at Ludwig-Maximilians-Uni
 #### Research
 My work lies at the intersection of Artificial Intelligence, data-centric AI, and responsible AI, with a focus on building systems that operate reliably under real-world constraints.
 
-Reseach areas:
+Research areas:
 <ul>
   <li>Robust and Reliable AI (Distribution shifts, Data imbalances, Biases, Adversarial robustness, ...)</li>
   <li>Responsible AI (Fairness, Explainability, Security of AI, Accountability, ...)</li>
   <li>Adaptive AI (Data streams, Online learning, ...)</li>
-  <li>Generative \& Data-centric AI (Data agumentation, Synthetic data, ...)</li>
+  <li>Generative \& Data-centric AI (Data augmentation, Synthetic data, ...)</li>
 </ul>
 
 #### Teaching
