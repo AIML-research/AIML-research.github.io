@@ -58,8 +58,10 @@ Research areas:
   <li>Generative & Data-centric AI (Foundation models, Data augmentation, Synthetic data, Data quality and bias transfer, ...)</li>
 </ul>
 
+
 #### Teaching
-<p>In teaching and supervision, I offer courses and mentor students in Artificial Intelligence, Machine Learning, Data Mining, Adaptive AI, and Responsible AI. My approach to teaching aligns deeply with the words of Nikos Kazantzakis, who beautifully describes the role of a mentor and educator:
+<p>I teach and supervise students in Artificial Intelligence, Machine Learning, Data Mining, Adaptive AI, and Responsible AI.</p>
+<p>My approach to teaching and supervision is inspired by Nikos Kazantzakis:, who beautifully describes the role of a mentor and educator:</p>
   
 <strong><em>"Ideal teachers are those who use themselves as bridges over which they invite their students to cross, then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." </em></strong></p>
 
