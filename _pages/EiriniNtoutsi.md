@@ -81,6 +81,7 @@ Reseach areas:
   <li>Member, AAAI</li>
   <li>Member, ELLIS Society</li>
   <li>Member, Gesellschaft für Informatik (GI)</li>
+  <li>Member, Hellenic Artificial Intelligence Society (EETN) </li>
 </ul>
 
 #### Contact
