@@ -91,7 +91,6 @@ Prof. Dr. Eirini Ntoutsi<br>
 Professor of Robust and Responsible Artificial Intelligence<br>
 Faculty of Computer Science<br>
 University of the Bundeswehr Munich<br>
-
 Research Institute CODE<br>
 Carl-Wery-Str. 18–22<br>
 81739 Munich, Germany<br> -->
