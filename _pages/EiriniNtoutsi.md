@@ -41,6 +41,17 @@ permalink: /Eirini/
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width:30px; height:30px; vertical-align:middle;">
 </a>
 <a href="https://www.linkedin.com/in/eirinintoutsi/"><img src="{{ site.baseurl }}/images/logopic/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:30px; height:30px; vertical-align:middle;"/></a>
+
+Prof. Dr. Eirini Ntoutsi
+Professor of Robust and Responsible Artificial Intelligence
+Faculty of Computer Science
+University of the Bundeswehr Munich
+
+Research Institute CODE
+Carl-Wery-Str. 18–22
+81739 Munich, Germany
+
+eirini.ntoutsi@unibw.de
 </td>
 </tr>
 </tbody>
