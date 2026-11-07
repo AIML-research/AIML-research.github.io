@@ -86,7 +86,7 @@ Research areas:
 <p>My academic activities include research leadership, community service, conference and workshop organization, reviewing and editorial activities, and participation in national and international AI initiatives.</p>
 <p>Member of <b>ACM · IEEE · AAAI · IASEAI · ELLIS Society · Gesellschaft für Informatik (GI) · Hellenic Artificial Intelligence Society (EETN)</b></p>
 
-<!--#### Contact
+<!-- #### Contact
 Prof. Dr. Eirini Ntoutsi<br>
 Professor of Robust and Responsible Artificial Intelligence<br>
 Faculty of Computer Science<br>
@@ -94,7 +94,7 @@ University of the Bundeswehr Munich<br>
 
 Research Institute CODE<br>
 Carl-Wery-Str. 18–22<br>
-81739 Munich, Germany<br>-->
+81739 Munich, Germany<br> -->
 
 eirini.ntoutsi@unibw.de--><br>
 
