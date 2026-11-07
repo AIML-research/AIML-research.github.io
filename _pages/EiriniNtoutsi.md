@@ -52,10 +52,10 @@ My research lies at the intersection of robust AI, responsible AI, adaptive mach
 
 Research areas:
 <ul>
-  <li>Robust \& Reliable AI (Distribution shifts, Data imbalance, Adversarial robustness, Reliability and evaluation, ...)</li>
+  <li>Robust & Reliable AI (Distribution shifts, Data imbalance, Adversarial robustness, Reliability and evaluation, ...)</li>
   <li>Responsible AI (Bias and Fairness, Explainability, Accountability, AI safety and security,...)</li>
   <li>Adaptive AI (Data streams, Online learning, ...)</li>
-  <li>Generative \& Data-centric AI (Foundation models, Data augmentation, Synthetic data, Data quality and bias transfer, ...)</li>
+  <li>Generative & Data-centric AI (Foundation models, Data augmentation, Synthetic data, Data quality and bias transfer, ...)</li>
 </ul>
 
 #### Teaching
